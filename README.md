@@ -8,7 +8,7 @@ Site d'informations sur le Sénégal et les Sénégalais, mis à jour automatiqu
 |---|---|---|
 | **Veille** : lecture des flux RSS des médias (`sources.yaml`) → `data/items.json` | GitHub Actions (`scripts/fetch.py`) | toutes les heures |
 | **Site** : construction et mise en ligne sur GitHub Pages | GitHub Actions (`scripts/build.py`) | toutes les heures et à chaque modification |
-| **Synthèses** : courts articles originaux qui citent leurs sources → `content/syntheses/` | Claude Code (tâche planifiée, consignes dans `CLAUDE.md`) | quelques fois par jour |
+| **Synthèses** : courts articles originaux qui citent leurs sources → `content/syntheses/` | Claude Code (tâche planifiée, consignes dans `CLAUDE.md`), sur une branche `claude/…` ; publiées par la mise à jour horaire (`scripts/integrer_syntheses.sh`) si la branche ne modifie que des synthèses | 2 fois par jour |
 | **Vos articles** → `content/articles/` | Vous | quand vous voulez |
 
 Le fil n'affiche que les **titres** des articles, avec un lien vers le média

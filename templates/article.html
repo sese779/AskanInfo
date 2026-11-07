@@ -19,4 +19,17 @@
   <p class="avertissement">Cette synthèse a été rédigée automatiquement à partir des sources citées ci-dessus. Pour le détail, consultez les articles originaux.</p>
   {% endif %}
 </article>
+<script type="application/ld+json">{{ {
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": c.titre,
+  "description": c.chapo,
+  "datePublished": c.date.isoformat(),
+  "inLanguage": "fr",
+  "articleSection": c.rubrique,
+  "author": {"@type": "Person", "name": c.auteur} if c.type == "article" and c.auteur != "Rédaction" else {"@type": "Organization", "name": nom_site},
+  "publisher": {"@type": "Organization", "name": nom_site, "url": url_site},
+  "mainEntityOfPage": url_site ~ "/article/" ~ c.slug ~ ".html",
+  "isBasedOn": c.sources | map(attribute="url") | list
+}|tojson }}</script>
 {% endblock %}
