@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block contenu %}
+<article class="article">
+  <p class="meta"><span class="etiquette {{ c.type }}">{{ "Rédaction" if c.type == "article" else "Synthèse" }}</span>
+    <a href="{{ racine }}rubrique/{{ slugify(c.rubrique) }}.html">{{ c.rubrique }}</a></p>
+  <h1>{{ c.titre }}</h1>
+  {% if c.chapo %}<p class="chapo">{{ c.chapo }}</p>{% endif %}
+  <p class="meta">Par {{ c.auteur }} · {{ c.date_fr }}</p>
+  <div class="corps">{{ c.html|safe }}</div>
+  {% if c.sources %}
+  <aside class="sources">
+    <h2>Sources</h2>
+    <ul>
+    {% for s in c.sources %}<li><a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.titre or s.url }}</a> – {{ s.nom }}</li>{% endfor %}
+    </ul>
+  </aside>
+  {% endif %}
+  {% if c.type == "synthese" %}
+  <p class="avertissement">Cette synthèse a été rédigée automatiquement à partir des sources citées ci-dessus. Pour le détail, consultez les articles originaux.</p>
+  {% endif %}
+</article>
+{% endblock %}

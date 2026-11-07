@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% block contenu %}
+{% if titre_page %}<h1 class="titre-rubrique">{{ titre_page }}</h1>{% endif %}
+
+{% if une %}
+<section>
+  <h2 class="section">À la une</h2>
+  <div class="grille">
+  {% for c in une %}
+    <article class="carte">
+      <p class="meta"><span class="etiquette {{ c.type }}">{{ "Rédaction" if c.type == "article" else "Synthèse" }}</span> {{ c.rubrique }}</p>
+      <h3><a href="{{ racine }}article/{{ c.slug }}.html">{{ c.titre }}</a></h3>
+      {% if c.chapo %}<p>{{ c.chapo }}</p>{% endif %}
+      <p class="meta">{{ c.date_fr }}{% if c.sources %} · {{ c.sources|length }} source(s){% endif %}</p>
+    </article>
+  {% endfor %}
+  </div>
+</section>
+{% endif %}
+
+<section>
+  <h2 class="section">Le fil de l'actualité</h2>
+  {% if fil %}
+  <ul class="fil">
+  {% for i in fil %}
+    <li>
+      <a href="{{ i.lien }}" target="_blank" rel="noopener">{{ i.titre }}</a>
+      <span class="meta">{{ i.source }} · {{ i.rubrique }} · {{ i.date_fr }}</span>
+    </li>
+  {% endfor %}
+  </ul>
+  {% else %}
+  <p>Aucun article pour le moment.</p>
+  {% endif %}
+</section>
+{% endblock %}

@@ -1,0 +1,96 @@
+# Sources suivies par la veille automatique.
+# - flux : adresse du flux RSS officiel publié par le média
+# - filtre : true = ne garder que les articles qui parlent du Sénégal
+#            (utile pour les médias internationaux)
+# Pour ajouter une source : copier un bloc et changer les valeurs.
+# Pour en retirer une : supprimer le bloc ou mettre « actif: false ».
+
+sources:
+  - nom: APS
+    site: https://www.aps.sn
+    flux: https://www.aps.sn/feed/
+    filtre: false
+
+  - nom: Le Soleil
+    site: https://lesoleil.sn
+    flux: https://lesoleil.sn/feed/
+    filtre: false
+
+  - nom: Seneweb
+    site: https://www.seneweb.com
+    flux: https://www.seneweb.com/feed
+    filtre: false
+
+  - nom: Dakaractu
+    site: https://www.dakaractu.com
+    flux: https://www.dakaractu.com/xml/syndication.rss
+    filtre: false
+
+  - nom: PressAfrik
+    site: https://www.pressafrik.com
+    flux: https://www.pressafrik.com/xml/syndication.rss
+    filtre: false
+
+  - nom: Le Quotidien
+    site: https://lequotidien.sn
+    flux: https://lequotidien.sn/feed/
+    filtre: false
+
+  - nom: SenePlus
+    site: https://www.seneplus.com
+    flux: https://www.seneplus.com/rss.xml
+    filtre: false
+
+  - nom: RFI Afrique
+    site: https://www.rfi.fr/fr/afrique/
+    flux: https://www.rfi.fr/fr/afrique/rss
+    filtre: true
+
+  - nom: BBC Afrique
+    site: https://www.bbc.com/afrique
+    flux: https://feeds.bbci.co.uk/afrique/rss.xml
+    filtre: true
+
+  - nom: Jeune Afrique
+    site: https://www.jeuneafrique.com
+    flux: https://www.jeuneafrique.com/feed/
+    filtre: true
+
+  - nom: France 24 Afrique
+    site: https://www.france24.com/fr/afrique/
+    flux: https://www.france24.com/fr/afrique/rss
+    filtre: true
+
+  - nom: Le Monde Afrique
+    site: https://www.lemonde.fr/afrique/
+    flux: https://www.lemonde.fr/afrique/rss_full.xml
+    filtre: true
+
+# Mots-clés utilisés quand « filtre: true »
+mots_cles_senegal:
+  - sénégal
+  - senegal
+  - sénégalais
+  - senegalais
+  - dakar
+  - thiès
+  - saint-louis
+  - ziguinchor
+  - casamance
+  - touba
+  - kaolack
+  - sonko
+  - diomaye
+  - faye
+  - lions de la teranga
+  - teranga
+
+# Rubriques, attribuées automatiquement par mots-clés (la première qui correspond gagne).
+rubriques:
+  Politique: [président, gouvernement, ministre, assemblée, député, élection, parti, pastef, opposition, sonko, diomaye, conseil des ministres, politique]
+  Économie: [économie, budget, fmi, banque, dette, pétrole, gaz, croissance, entreprise, prix, inflation, investissement, emploi, port]
+  Société: [santé, école, éducation, justice, tribunal, police, gendarmerie, accident, inondation, religion, magal, tabaski, société]
+  Sport: [football, lions, can, match, coupe, lutte, basket, sport, jo, athlétisme, mané]
+  Culture: [musique, cinéma, festival, artiste, livre, culture, théâtre]
+  Diaspora: [diaspora, émigration, migrants, pirogue, sénégalais de l'extérieur, sénégalais en]
+  International: [cedeao, union africaine, onu, france, mali, gambie, mauritanie, guinée, international]

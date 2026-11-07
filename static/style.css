@@ -1,0 +1,43 @@
+:root {
+  --vert: #00853f; --jaune: #fdef42; --rouge: #e31b23;
+  --texte: #1c1c1c; --doux: #666; --fond: #fafaf7; --carte: #fff; --bord: #e4e4dd;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --texte: #ececec; --doux: #a8a8a8; --fond: #141414; --carte: #1e1e1e; --bord: #333; }
+}
+* { box-sizing: border-box; }
+body { margin: 0; font: 17px/1.55 Georgia, "Times New Roman", serif; color: var(--texte); background: var(--fond); }
+a { color: inherit; }
+.conteneur { max-width: 1080px; margin: 0 auto; padding: 0 16px; }
+.entete { background: var(--carte); border-top: 6px solid var(--vert); border-bottom: 1px solid var(--bord); }
+.entete .conteneur:first-child { padding-top: 18px; }
+.logo { font: 700 2.1rem/1 system-ui, sans-serif; text-decoration: none; color: var(--vert); }
+.logo span { color: var(--rouge); }
+.devise { margin: 4px 0 12px; color: var(--doux); font-style: italic; }
+.rubriques { display: flex; gap: 18px; overflow-x: auto; padding-bottom: 10px; font: 600 .9rem system-ui, sans-serif; }
+.rubriques a { text-decoration: none; white-space: nowrap; }
+.rubriques a:hover { color: var(--vert); }
+main { padding: 24px 16px 48px; }
+.section, .titre-rubrique { font-family: system-ui, sans-serif; border-bottom: 3px solid var(--jaune); padding-bottom: 4px; }
+.section { font-size: 1.1rem; text-transform: uppercase; letter-spacing: .04em; }
+.grille { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 16px; }
+.carte { background: var(--carte); border: 1px solid var(--bord); border-radius: 6px; padding: 16px; }
+.carte h3 { margin: 6px 0; font-size: 1.15rem; line-height: 1.3; }
+.carte h3 a { text-decoration: none; }
+.carte h3 a:hover { text-decoration: underline; }
+.meta { font: .8rem system-ui, sans-serif; color: var(--doux); margin: 0; }
+.etiquette { display: inline-block; padding: 1px 6px; border-radius: 3px; font-weight: 700; color: #fff; margin-right: 6px; }
+.etiquette.article { background: var(--rouge); }
+.etiquette.synthese { background: var(--vert); }
+.fil { list-style: none; padding: 0; margin: 0; }
+.fil li { padding: 10px 0; border-bottom: 1px solid var(--bord); }
+.fil li a { display: block; text-decoration: none; font-size: 1.05rem; }
+.fil li a:hover { color: var(--vert); }
+.article { max-width: 720px; }
+.article h1 { line-height: 1.2; }
+.chapo { font-size: 1.15rem; font-weight: 600; }
+.corps { margin-top: 20px; }
+.sources { margin-top: 32px; padding: 12px 16px; background: var(--carte); border-left: 4px solid var(--vert); }
+.sources h2 { font: 700 1rem system-ui, sans-serif; margin: 0 0 6px; }
+.avertissement { font-size: .85rem; color: var(--doux); font-style: italic; }
+.pied { border-top: 1px solid var(--bord); padding: 16px 0; font: .85rem system-ui, sans-serif; color: var(--doux); }
