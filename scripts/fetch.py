@@ -11,6 +11,8 @@ import html
 import json
 import re
 import sys
+import urllib.parse
+import urllib.request
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -22,6 +24,8 @@ DATA = ROOT / "data" / "items.json"
 USER_AGENT = "AskanInfoBot/1.0 (agregateur RSS; +https://github.com/sese779/AskanInfo)"
 DUREE_CONSERVATION = timedelta(days=7)
 LONGUEUR_EXTRAIT = 300
+DELAI_MAX = 20                 # secondes
+TAILLE_MAX = 5 * 1024 * 1024   # 5 Mo
 
 
 def nettoyer(texte):
@@ -52,17 +56,53 @@ def rubrique(texte, rubriques):
     return "Actualité"
 
 
+def lien_valide(lien):
+    """N'accepte que des liens web classiques (bloque javascript:, data:, etc.)."""
+    try:
+        u = urllib.parse.urlsplit(lien.strip())
+    except ValueError:
+        return False
+    return u.scheme in ("http", "https") and bool(u.netloc)
+
+
+def telecharger(url):
+    """Télécharge un flux avec délai maximum et taille maximum."""
+    if not url.startswith(("http://", "https://")):          # fichier local (tests)
+        return Path(url).read_bytes()
+    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+    with urllib.request.urlopen(req, timeout=DELAI_MAX) as r:
+        donnees = r.read(TAILLE_MAX + 1)
+    if len(donnees) > TAILLE_MAX:
+        raise ValueError("flux trop volumineux")
+    return donnees
+
+
+def reparer_xml(donnees):
+    """Corrige les erreurs XML courantes : « & » non échappés, caractères de contrôle."""
+    texte = donnees.decode("utf-8", errors="replace")
+    texte = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f]", "", texte)
+    texte = re.sub(r"&(?!#\d+;|#x[0-9a-fA-F]+;|[a-zA-Z][a-zA-Z0-9]*;)", "&amp;", texte)
+    return texte.encode("utf-8")
+
+
 def lire_source(source, config):
-    flux = feedparser.parse(source["flux"], agent=USER_AGENT)
+    try:
+        donnees = telecharger(source["flux"])
+    except Exception as e:
+        print(f"  ! {source['nom']} : téléchargement impossible ({e})", file=sys.stderr)
+        return []
+    flux = feedparser.parse(donnees)
     if flux.bozo and not flux.entries:
+        flux = feedparser.parse(reparer_xml(donnees))
+    if not flux.entries:
         print(f"  ! {source['nom']} : flux illisible ({flux.get('bozo_exception')})", file=sys.stderr)
         return []
     mots = [m.lower() for m in config.get("mots_cles_senegal", [])]
     items = []
     for e in flux.entries:
         titre = nettoyer(e.get("title"))
-        lien = e.get("link")
-        if not titre or not lien:
+        lien = (e.get("link") or "").strip()
+        if not titre or not lien_valide(lien):
             continue
         extrait = couper(nettoyer(e.get("summary")), LONGUEUR_EXTRAIT)
         texte = f"{titre} {extrait}"
