@@ -1,0 +1,57 @@
+name: Mise à jour du site
+
+on:
+  schedule:
+    - cron: "17 * * * *"   # toutes les heures
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: site
+  cancel-in-progress: false
+
+jobs:
+  construire:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploiement.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Veille (lecture des flux RSS)
+        run: python scripts/fetch.py
+
+      - name: Enregistrer le fil
+        run: |
+          git config user.name "askaninfo-bot"
+          git config user.email "askaninfo-bot@users.noreply.github.com"
+          git add data/items.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Fil d'actualité : mise à jour automatique"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+
+      - name: Construction du site
+        run: python scripts/build.py
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deploiement
+        uses: actions/deploy-pages@v4

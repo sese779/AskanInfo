@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% if titre_page %}{{ titre_page }} – {% endif %}{{ nom_site }}</title>
+<meta name="description" content="{{ nom_site }} : toute l'actualité du Sénégal et des Sénégalais, en un seul endroit.">
+<link rel="stylesheet" href="{{ racine }}static/style.css">
+</head>
+<body>
+<header class="entete">
+  <div class="conteneur">
+    <a class="logo" href="{{ racine }}index.html">Askan<span>Info</span></a>
+    <p class="devise">L'actualité du Sénégal et des Sénégalais</p>
+  </div>
+  <nav class="conteneur rubriques">
+    <a href="{{ racine }}index.html">Accueil</a>
+    {% for r in rubriques %}<a href="{{ racine }}rubrique/{{ slugify(r) }}.html">{{ r }}</a>{% endfor %}
+  </nav>
+</header>
+<main class="conteneur">
+{% block contenu %}{% endblock %}
+</main>
+<footer class="pied">
+  <div class="conteneur">
+    <p>Mis à jour le {{ maj }} (heure GMT, celle de Dakar).</p>
+    <p><a href="{{ racine }}sources.html">Nos sources</a> · <a href="{{ racine }}a-propos.html">À propos et transparence</a></p>
+    <p>Les liens du fil renvoient vers les articles originaux, qui appartiennent à leurs auteurs.</p>
+  </div>
+</footer>
+</body>
+</html>
