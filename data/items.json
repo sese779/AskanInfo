@@ -1,5 +1,75 @@
 [
  {
+  "id": "2e2d2c9b47b0",
+  "titre": "Ziguinchor : l’AIBD « soigne » les riverains et renforce son ancrage local",
+  "lien": "https://lesoleil.sn/actualites/societe-fait-divers/ziguinchor-laibd-soigne-les-riverains-et-renforce-son-ancrage-local/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-07T20:49:29+00:00",
+  "rubrique": "International",
+  "extrait": "Plus de 700 personnes ont bénéficié de consultations médicales gratuites à Lyndiane, à l’initiative de la direction de l’Aéroport international Blaise Diagne (Aibd Sa). Au-delà de cette opération sanitaire, des kits scolaires et des équipements sportifs ont été offerts aux établissements scolaires…"
+ },
+ {
+  "id": "7ffb7f9275a3",
+  "titre": "PLFI 2027 : L’Assemblée nationale rejette aussi le projet de budget du ministère de l’Industrie et du Commerce",
+  "lien": "https://www.seneweb.com/fr/news/Politique/plfi-2027-lassemblee-nationale-rejette-aussi-le-projet-de-budget-du-ministere-de-lindustrie-et-du-commerce_n_999002977.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-07T20:46:02+00:00",
+  "rubrique": "Politique",
+  "extrait": "L’Assemblée nationale continue de rejeter les projets de budget du Gouvernement. Ce samedi, la Commission des Affaires économiques a rejeté celui du ministère de l’Industrie et du Commerce, défendu pa…"
+ },
+ {
+  "id": "72bedbcd5074",
+  "titre": "Un budget ne se juge pas à ses intentions, estime Cheikh Diba",
+  "lien": "https://www.seneplus.com/article/un-budget-ne-se-juge-pas-ses-intentions-estime-cheikh-diba",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-07T20:45:58+00:00",
+  "rubrique": "Économie",
+  "extrait": "Un budget ne se juge pas à ses intentions, estime Cheikh Diba Alioune Diatta Sat, 11/07/2026 - 20:45"
+ },
+ {
+  "id": "87e39aea7250",
+  "titre": "Hôpital régional de Ziguinchor : une mobilisation pour la propreté",
+  "lien": "https://lesoleil.sn/actualites/environnement/hopital-regional-de-ziguinchor-une-mobilisation-pour-la-proprete/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-07T20:44:56+00:00",
+  "rubrique": "Économie",
+  "extrait": "Au terme de la saison des pluies, de bonnes volontés ont investi ce samedi 07 novembre, le Centre hospitalier régional de Ziguinchor (Chrz) pour une journée intense d’investissement humain en vue de redonner de l’éclat à cet environnement qui accueillit au quotidien, des centaines de patients du…"
+ },
+ {
+  "id": "730e216ba712",
+  "titre": "Israël: Eisenkot sera chargé dimanche de former le gouvernement (présidence)",
+  "lien": "https://www.seneweb.com/fr/news/International/israel-eisenkot-sera-charge-dimanche-de-former-le-gouvernement-presidence_n_999002976.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-07T20:38:30+00:00",
+  "rubrique": "Politique",
+  "extrait": "Le chef du bloc de l'opposition au Premier ministre sortant Benjamin Netanyahu, Gadi Eisenkot, sera officiellement chargé dimanche de former le prochain gouvernement israélien, a indiqué samedi soir l…"
+ },
+ {
+  "id": "8266e707c1aa",
+  "titre": "Afrique : le chef d’une secte apocalyptique condamné à 200 ans de prison",
+  "lien": "https://www.seneweb.com/fr/news/Afrique/afrique-le-chef-dune-secte-apocalyptique-condamne-a-200-ans-de-prison_n_999002975.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-07T20:36:47+00:00",
+  "rubrique": "Actualité",
+  "extrait": "Un prédicateur kényan autoproclamé a été condamné vendredi à 200 ans de prison pour le meurtre de 190 enfants et d’un adulte au sein d’une secte tristement célèbre pour ses pratiques de famine.Des cen…"
+ },
+ {
+  "id": "e47fe5b5e0dd",
+  "titre": "​Crise, blocages et reconquête : le PDS tire sur Pastef et sonne la mobilisation",
+  "lien": "https://www.pressafrik.com/​Crise-blocages-et-reconquete-le-PDS-tire-sur-Pastef-et-sonne-la-mobilisation_a314246.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-07T20:33:00+00:00",
+  "rubrique": "Politique",
+  "extrait": "Le Parti démocratique sénégalais (PDS) a tiré la sonnett... www.pressafrik.com"
+ },
+ {
   "id": "f1be41156fe8",
   "titre": "Comment réconcilier science et enseignements de l’islam pour mieux prévenir les maladies: Le professeur Sylla Thiam donne les pistes",
   "lien": "https://www.seneweb.com/fr/news/Sante/comment-reconcilier-science-et-enseignements-de-lislam-pour-mieux-prevenir-les-maladies-le-professeur-sylla-thiam-donne-les-pistes_n_999002974.html",
