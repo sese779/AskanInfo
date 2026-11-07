@@ -1,5 +1,5 @@
 feedparser==6.0.11
-PyYAML==6.0.2
+PyYAML==6.0.3
 Jinja2==3.1.4
 Markdown==3.7
 nh3==0.3.7
