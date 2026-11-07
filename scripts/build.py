@@ -22,8 +22,9 @@ from check_overlap import passages_copies
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "_site"
 NOM_SITE = "AskanInfo"
+CONTACT = "contact@askaninfo.com"
 # Adresse publique du site (à changer si vous prenez un nom de domaine)
-URL_SITE = os.environ.get("URL_SITE", "https://sese779.github.io/AskanInfo").rstrip("/")
+URL_SITE = os.environ.get("URL_SITE", "https://askaninfo.com").rstrip("/")
 DESCRIPTION = "L'actualité du Sénégal et des Sénégalais, en un seul endroit."
 
 # Balises HTML autorisées dans les articles (tout le reste, dont <script>, est supprimé)
@@ -130,7 +131,7 @@ def main():
     (OUT / "rubrique").mkdir()
     shutil.copytree(ROOT / "static", OUT / "static")
 
-    commun = {"nom_site": NOM_SITE, "url_site": URL_SITE, "description": DESCRIPTION, "rubriques": rubriques, "slugify": slugify,
+    commun = {"nom_site": NOM_SITE, "url_site": URL_SITE, "contact": CONTACT, "description": DESCRIPTION, "rubriques": rubriques, "slugify": slugify,
               "maj": date_fr(datetime.now(timezone.utc))}
 
     pages = []
