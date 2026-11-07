@@ -106,7 +106,12 @@ def lire_contenus(dossier, type_):
 
 
 def ecrire_sitemap(pages):
-    urls = "".join(f"<url><loc>{URL_SITE}/{p}</loc></url>" for p in pages)
+    # même adresse que la balise canonical : « / » plutôt que « /index.html »
+    urls = "".join(
+        f"<url><loc>{URL_SITE}/{'' if p == 'index.html' else p}</loc>"
+        + (f"<lastmod>{d.strftime('%Y-%m-%dT%H:%M:%SZ')}</lastmod>" if d else "")
+        + "</url>"
+        for p, d in pages)
     (OUT / "sitemap.xml").write_text(
         '<?xml version="1.0" encoding="UTF-8"?>'
         f'<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{urls}</urlset>', encoding="utf-8")
@@ -136,10 +141,10 @@ def main():
 
     pages = []
 
-    def ecrire(chemin, template, racine, **ctx):
+    def ecrire(chemin, template, racine, date=None, **ctx):
         (OUT / chemin).write_text(env.get_template(template).render(
             racine=racine, chemin=chemin, **commun, **ctx), encoding="utf-8")
-        pages.append(chemin)
+        pages.append((chemin, date))
 
     ecrire("index.html", "index.html", "", une=a_la_une[:12], fil=items[:80], titre_page=None)
     for r in rubriques:
@@ -147,7 +152,7 @@ def main():
                une=[c for c in a_la_une if c["rubrique"] == r][:12],
                fil=[i for i in items if i["rubrique"] == r][:80], titre_page=r)
     for c in a_la_une:
-        ecrire(f"article/{c['slug']}.html", "article.html", "../", c=c, titre_page=c["titre"])
+        ecrire(f"article/{c['slug']}.html", "article.html", "../", date=c["date"], c=c, titre_page=c["titre"])
     ecrire("sources.html", "sources.html", "", sources=sources, titre_page="Nos sources")
     ecrire("a-propos.html", "a-propos.html", "", titre_page="À propos")
     (OUT / ".nojekyll").touch()

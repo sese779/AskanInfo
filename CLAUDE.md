@@ -7,7 +7,9 @@ importants du moment.
 
 ## Déroulé d'une session de rédaction
 
-1. `git pull origin main`, puis `pip install -r requirements.txt` si besoin.
+1. Récupère la dernière version publiée : `git fetch origin main` puis
+   `git merge --no-edit origin/main` dans ta branche `claude/…`.
+   Puis `pip install -r requirements.txt` si besoin.
 2. Lis `data/items.json` (titre, extrait, source, lien de chaque article récent).
 3. Regroupe les articles qui parlent **du même événement**. Ne retiens que les
    sujets couverts par **au moins 2 sources différentes** (ou 1 source officielle :
@@ -20,8 +22,11 @@ importants du moment.
 6. Lance `python scripts/check_overlap.py`. Si un fichier échoue, reformule les
    passages signalés et relance jusqu'à ce que tout passe.
 7. `python scripts/build.py` doit réussir.
-8. Commit (« Synthèses du JJ/MM HHhMM ») puis `git pull --rebase origin main` et
-   `git push origin HEAD:main`.
+8. Commit (« Synthèses du JJ/MM HHhMM ») et `git push -u origin <ta branche claude/…>`.
+   Ne pousse **jamais** sur `main` : la mise à jour horaire du site reprend
+   elle-même les **nouveaux** fichiers `content/syntheses/*.md` de ta branche,
+   à condition que ta branche ne modifie rien d'autre. Une synthèse déjà en
+   ligne n'est jamais remplacée. S'il n'y a aucun sujet nouveau, ne crée rien.
 
 ## Règles de rédaction (obligatoires)
 
