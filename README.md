@@ -21,7 +21,7 @@ mots, citent toutes leurs sources et passent un contrôle anti-copie
 1. Fusionner cette branche dans `main`.
 2. Sur GitHub : **Settings → Pages → Source : « GitHub Actions »**.
 3. Onglet **Actions** → « Mise à jour du site » → **Run workflow**.
-4. Le site est en ligne à l'adresse `https://sese779.github.io/AskanInfo/`.
+4. Le site est en ligne à l'adresse `https://askaninfo.com` (domaine acheté chez OVHcloud).
 
 GitHub Pages est gratuit si le dépôt est **public**. Pour un dépôt privé, il faut un
 abonnement GitHub payant.
