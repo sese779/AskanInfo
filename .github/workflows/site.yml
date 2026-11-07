@@ -12,6 +12,7 @@ permissions:
   pages: write
   id-token: write
 
+# Une seule mise à jour à la fois : évite les conflits sur data/items.json
 concurrency:
   group: site
   cancel-in-progress: false
@@ -19,38 +20,49 @@ concurrency:
 jobs:
   construire:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     environment:
       name: github-pages
       url: ${{ steps.deploiement.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
+        with:
+          ref: main   # toujours la dernière version, même en cas de relance
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
           cache: pip
 
       - run: pip install -r requirements.txt
 
-      - name: Veille (lecture des flux RSS)
-        run: python scripts/fetch.py
-
-      - name: Enregistrer le fil
+      - name: Veille et enregistrement du fil
         run: |
           git config user.name "askaninfo-bot"
           git config user.email "askaninfo-bot@users.noreply.github.com"
-          git add data/items.json
-          if ! git diff --cached --quiet; then
-            git commit -m "Fil d'actualité : mise à jour automatique"
-            git pull --rebase origin main
-            git push origin HEAD:main
-          fi
+          for essai in 1 2 3; do
+            git fetch -q origin main
+            git reset -q --hard origin/main
+            python scripts/fetch.py
+            git add data/items.json
+            if git diff --cached --quiet; then
+              echo "Aucune nouveauté."
+              exit 0
+            fi
+            git commit -q -m "Fil d'actualité : mise à jour automatique"
+            if git push -q origin HEAD:main; then
+              exit 0
+            fi
+            echo "Quelqu'un a modifié le dépôt en même temps, nouvel essai ($essai)…"
+            sleep 5
+          done
+          exit 1
 
       - name: Construction du site
         run: python scripts/build.py
 
       - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v4
         with:
           path: _site
       - id: deploiement
