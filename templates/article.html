@@ -1,6 +1,7 @@
 {% extends "base.html" %}
 {% block contenu %}
 <article class="article">
+  <p class="retour"><a href="{{ racine }}index.html">← Retour à l'accueil</a></p>
   <p class="meta"><span class="etiquette {{ c.type }}">{{ "Rédaction" if c.type == "article" else "Synthèse" }}</span>
     <a href="{{ racine }}rubrique/{{ slugify(c.rubrique) }}.html">{{ c.rubrique }}</a></p>
   <h1>{{ c.titre }}</h1>
@@ -11,7 +12,7 @@
   <aside class="sources">
     <h2>Sources</h2>
     <ul>
-    {% for s in c.sources %}<li><a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.titre or s.url }}</a> – {{ s.nom }}</li>{% endfor %}
+    {% for s in c.sources %}<li><a href="{{ s.url }}">{{ s.titre or s.url }}</a> – {{ s.nom }}</li>{% endfor %}
     </ul>
   </aside>
   {% endif %}

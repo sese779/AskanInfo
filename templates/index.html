@@ -1,6 +1,7 @@
 {% extends "base.html" %}
 {% block contenu %}
-{% if titre_page %}<h1 class="titre-rubrique">{{ titre_page }}</h1>{% endif %}
+{% if titre_page %}<p class="retour"><a href="{{ racine }}index.html">← Retour à l'accueil</a></p>
+<h1 class="titre-rubrique">{{ titre_page }}</h1>{% endif %}
 
 {% if une %}
 <section>
@@ -24,7 +25,7 @@
   <ul class="fil">
   {% for i in fil %}
     <li>
-      <a href="{{ i.lien }}" target="_blank" rel="noopener">{{ i.titre }}</a>
+      <a href="{{ i.lien }}">{{ i.titre }}</a>
       <span class="meta">{{ i.source }} · {{ i.rubrique }} · {{ i.date_fr }}</span>
     </li>
   {% endfor %}

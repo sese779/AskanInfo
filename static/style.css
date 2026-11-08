@@ -41,3 +41,6 @@ main { padding: 24px 16px 48px; }
 .sources h2 { font: 700 1rem system-ui, sans-serif; margin: 0 0 6px; }
 .avertissement { font-size: .85rem; color: var(--doux); font-style: italic; }
 .pied { border-top: 1px solid var(--bord); padding: 16px 0; font: .85rem system-ui, sans-serif; color: var(--doux); }
+.retour { margin: 0 0 12px; font: 600 .95rem system-ui, sans-serif; }
+.retour a { text-decoration: none; color: var(--vert); }
+.retour a:hover { text-decoration: underline; }
