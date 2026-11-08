@@ -48,11 +48,19 @@ def date_item(entry):
     return datetime.now(timezone.utc)
 
 
-def rubrique(texte, rubriques):
-    bas = texte.lower()
-    for nom, mots in rubriques.items():
-        if any(re.search(r"\b" + re.escape(m.lower()) + r"\b", bas) for m in mots):
-            return nom
+def _motif(mots):
+    # 4 lettres ou moins : mot exact (« mort » ≠ « morte ») ; au-delà : début de mot (« lioncel » → « Lioncelles »)
+    parties = [re.escape(m.lower()) + (r"\b" if len(m) <= 4 else "") for m in mots]
+    return re.compile(r"\b(?:" + "|".join(parties) + ")")
+
+
+def rubrique(titre, extrait, rubriques):
+    """Cherche d'abord dans le titre (plus fiable), puis dans l'extrait."""
+    motifs = [(nom, _motif(mots)) for nom, mots in rubriques.items()]
+    for texte in (titre.lower(), extrait.lower()):
+        for nom, motif in motifs:
+            if motif.search(texte):
+                return nom
     return "Actualité"
 
 
@@ -115,7 +123,7 @@ def lire_source(source, config):
             "source": source["nom"],
             "site_source": source.get("site", ""),
             "date": date_item(e).isoformat(),
-            "rubrique": rubrique(texte, config.get("rubriques", {})),
+            "rubrique": "",
             "extrait": extrait,
         })
     print(f"  {source['nom']} : {len(items)} article(s)")
@@ -137,6 +145,10 @@ def main():
         for items in pool.map(lambda s: lire_source(s, config), sources):
             for i in items:
                 par_id.setdefault(i["id"], i)
+
+    # (re)classement de tous les articles, pour profiter des mots-clés à jour
+    for i in par_id.values():
+        i["rubrique"] = rubrique(i["titre"], i.get("extrait", ""), config.get("rubriques", {}))
 
     limite = datetime.now(timezone.utc) - DUREE_CONSERVATION
     vus, resultat = set(), []
