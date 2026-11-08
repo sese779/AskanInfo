@@ -25,7 +25,7 @@ NOM_SITE = "AskanInfo"
 CONTACT = "contact@askaninfo.com"
 # Adresse publique du site (à changer si vous prenez un nom de domaine)
 URL_SITE = os.environ.get("URL_SITE", "https://askaninfo.com").rstrip("/")
-DESCRIPTION = "L'actualité du Sénégal et des Sénégalais, en un seul endroit."
+DESCRIPTION = "Le Sénégal, l'Afrique, le monde : l'actualité en un seul endroit. Toute l'actualité du Sénégal et des Sénégalais, avec les sources."
 
 # Balises HTML autorisées dans les articles (tout le reste, dont <script>, est supprimé)
 BALISES = {"p", "br", "hr", "h2", "h3", "h4", "strong", "em", "b", "i", "u", "a", "ul", "ol",
