@@ -21,6 +21,7 @@ import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data" / "items.json"
+ARCHIVES = ROOT / "data" / "archives"
 USER_AGENT = "AskanInfoBot/1.0 (agregateur RSS; +https://github.com/sese779/AskanInfo)"
 DUREE_CONSERVATION = timedelta(days=7)
 LONGUEUR_EXTRAIT = 300
@@ -60,7 +61,7 @@ GEOGRAPHIQUES = ("Afrique", "Monde")
 PRIORITAIRES = ("Sport", "Diaspora")
 
 
-def rubrique(titre, extrait, rubriques, mots_senegal):
+def rubrique(titre, extrait, rubriques, mots_senegal, zone=None):
     """1. Sport, Diaspora ; 2. hors Sénégal : Afrique puis Monde, d'après le
     TITRE seul (un extrait cite souvent un pays au passage) ; 3. thèmes.
     Le titre est toujours examiné avant l'extrait."""
@@ -75,6 +76,10 @@ def rubrique(titre, extrait, rubriques, mots_senegal):
         return None
 
     parle_du_senegal = any(m in titre or m in extrait for m in mots_senegal)
+    # source africaine ou mondiale, article qui ne concerne pas le Sénégal :
+    # onglet Afrique si le titre cite l'Afrique, sinon la zone de la source
+    if zone and not parle_du_senegal:
+        return premiere(("Afrique",), (titre,)) or zone
     themes = [n for n in motifs if n not in GEOGRAPHIQUES + PRIORITAIRES]
     return (premiere(PRIORITAIRES)
             or (None if parle_du_senegal else premiere(GEOGRAPHIQUES, (titre,)))
@@ -143,6 +148,7 @@ def lire_source(source, config):
             "site_source": source.get("site", ""),
             "date": date_item(e).isoformat(),
             "rubrique": "",
+            "zone": source.get("zone"),
             "extrait": extrait,
         })
     print(f"  {source['nom']} : {len(items)} article(s)")
@@ -151,6 +157,25 @@ def lire_source(source, config):
 
 def cle_doublon(titre):
     return re.sub(r"\W+", "", titre.lower())[:80]
+
+
+def archiver(items):
+    """Range les articles de plus de 7 jours dans data/archives/AAAA-MM.json
+    (un fichier par mois) au lieu de les supprimer."""
+    par_mois = {}
+    for i in items:
+        par_mois.setdefault(i["date"][:7], []).append(i)
+    for mois, nouveaux in par_mois.items():
+        f = ARCHIVES / f"{mois}.json"
+        existants = json.loads(f.read_text(encoding="utf-8")) if f.exists() else []
+        ids = {i["id"] for i in existants}
+        ajout = [i for i in nouveaux if i["id"] not in ids]
+        if not ajout:
+            continue
+        tous = sorted(existants + ajout, key=lambda i: i["date"], reverse=True)
+        ARCHIVES.mkdir(parents=True, exist_ok=True)
+        f.write_text(json.dumps(tous, ensure_ascii=False, indent=1), encoding="utf-8")
+        print(f"  archives {mois} : +{len(ajout)} article(s)")
 
 
 def main():
@@ -168,12 +193,14 @@ def main():
     # (re)classement de tous les articles, pour profiter des mots-clés à jour
     for i in par_id.values():
         i["rubrique"] = rubrique(i["titre"], i.get("extrait", ""), config.get("rubriques", {}),
-                                 [m.lower() for m in config.get("mots_cles_senegal", [])])
+                                 [m.lower() for m in config.get("mots_cles_senegal", [])],
+                                 i.get("zone"))
 
     limite = datetime.now(timezone.utc) - DUREE_CONSERVATION
-    vus, resultat = set(), []
+    vus, resultat, a_archiver = set(), [], []
     for i in sorted(par_id.values(), key=lambda i: i["date"], reverse=True):
         if datetime.fromisoformat(i["date"]) < limite:
+            a_archiver.append(i)
             continue
         k = cle_doublon(i["titre"])
         if k in vus:
@@ -181,6 +208,7 @@ def main():
         vus.add(k)
         resultat.append(i)
 
+    archiver(a_archiver)
     DATA.parent.mkdir(exist_ok=True)
     DATA.write_text(json.dumps(resultat, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"{len(resultat)} article(s) dans le fil.")

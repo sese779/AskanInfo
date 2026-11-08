@@ -27,6 +27,7 @@
   <nav class="conteneur rubriques">
     <a href="{{ racine }}index.html">Accueil</a>
     {% for r in rubriques %}<a href="{{ racine }}rubrique/{{ slugify(r) }}.html">{{ r }}</a>{% endfor %}
+    <a href="{{ racine }}archives.html">Archives</a>
   </nav>
 </header>
 <main class="conteneur">
@@ -35,7 +36,7 @@
 <footer class="pied">
   <div class="conteneur">
     <p>Mis à jour le {{ maj }} (heure GMT, celle de Dakar).</p>
-    <p><a href="{{ racine }}sources.html">Nos sources</a> · <a href="{{ racine }}a-propos.html">À propos et transparence</a> · <a href="{{ racine }}flux.xml">Flux RSS</a> · <a href="mailto:{{ contact }}">{{ contact }}</a></p>
+    <p><a href="{{ racine }}sources.html">Nos sources</a> · <a href="{{ racine }}archives.html">Archives</a> · <a href="{{ racine }}a-propos.html">À propos et transparence</a> · <a href="{{ racine }}flux.xml">Flux RSS</a> · <a href="mailto:{{ contact }}">{{ contact }}</a></p>
     <p>Les liens du fil renvoient vers les articles originaux, qui appartiennent à leurs auteurs.</p>
   </div>
 </footer>

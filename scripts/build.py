@@ -117,6 +117,36 @@ def ecrire_sitemap(pages):
         f'<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{urls}</urlset>', encoding="utf-8")
 
 
+def ecrire_archives(ecrire, items, contenus):
+    """Une page par mois : synthèses et articles de la rédaction, puis tous les
+    liens du fil, jour par jour (fil récent + data/archives/AAAA-MM.json)."""
+    dossier = ROOT / "data" / "archives"
+    tous = {i["id"]: i for i in items}
+    for f in sorted(dossier.glob("*.json")) if dossier.exists() else []:
+        for i in json.loads(f.read_text(encoding="utf-8")):
+            if lien_valide(i.get("lien")):
+                tous.setdefault(i["id"], i)
+    mois = {}
+    for i in tous.values():
+        d = parse_date(i["date"])
+        i["date_fr"] = date_fr(d)
+        mois.setdefault(d.strftime("%Y-%m"), {}).setdefault(d.strftime("%Y-%m-%d"), []).append(i)
+    for c in contenus:
+        mois.setdefault(c["date"].strftime("%Y-%m"), {})
+    liste = []
+    for m in sorted(mois, reverse=True):
+        annee, num = int(m[:4]), int(m[5:])
+        nom = f"{MOIS[num - 1].capitalize()} {annee}"
+        jours = [(f"{int(j[8:])} {MOIS[num - 1]} {annee}",
+                  sorted(v, key=lambda i: i["date"], reverse=True))
+                 for j, v in sorted(mois[m].items(), reverse=True)]
+        une = [c for c in contenus if c["date"].strftime("%Y-%m") == m]
+        ecrire(f"archives/{m}.html", "archives.html", "../", titre_page=f"Archives – {nom}",
+               nom_mois=nom, une=une, jours=jours)
+        liste.append((m, nom, sum(len(v) for _, v in jours), len(une)))
+    ecrire("archives.html", "archives.html", "", titre_page="Archives", liste_mois=liste)
+
+
 def main():
     env = Environment(loader=FileSystemLoader(ROOT / "templates"), autoescape=True)
     items = json.loads((ROOT / "data" / "items.json").read_text(encoding="utf-8")) \
@@ -128,7 +158,7 @@ def main():
     a_la_une = sorted(lire_contenus("articles", "article") + lire_contenus("syntheses", "synthese"),
                       key=lambda c: c["date"], reverse=True)
     presentes = {i["rubrique"] for i in items} | {c["rubrique"] for c in a_la_une}
-    ORDRE = ["Politique", "Économie", "Société", "Sport", "Culture", "Diaspora",
+    ORDRE = ["Politique", "Faits divers", "Sport", "Diaspora", "Économie", "Culture",
              "Afrique", "Monde", "Actualité"]
     rubriques = sorted(presentes, key=lambda r: (ORDRE.index(r) if r in ORDRE else len(ORDRE), r))
     sources = yaml.safe_load((ROOT / "sources.yaml").read_text(encoding="utf-8"))["sources"]
@@ -137,6 +167,7 @@ def main():
         shutil.rmtree(OUT)
     (OUT / "article").mkdir(parents=True)
     (OUT / "rubrique").mkdir()
+    (OUT / "archives").mkdir()
     shutil.copytree(ROOT / "static", OUT / "static")
 
     commun = {"nom_site": NOM_SITE, "url_site": URL_SITE, "contact": CONTACT, "description": DESCRIPTION, "rubriques": rubriques, "slugify": slugify,
@@ -149,7 +180,9 @@ def main():
             racine=racine, chemin=chemin, **commun, **ctx), encoding="utf-8")
         pages.append((chemin, date))
 
-    ecrire("index.html", "index.html", "", une=a_la_une[:12], fil=items[:80], titre_page=None)
+    # accueil : l'actualité du Sénégal ; l'Afrique et le Monde ont leurs onglets
+    ecrire("index.html", "index.html", "", une=a_la_une[:12],
+           fil=[i for i in items if i["rubrique"] not in ("Afrique", "Monde")][:80], titre_page=None)
     for r in rubriques:
         ecrire(f"rubrique/{slugify(r)}.html", "index.html", "../",
                une=[c for c in a_la_une if c["rubrique"] == r][:12],
@@ -157,6 +190,7 @@ def main():
     for c in a_la_une:
         ecrire(f"article/{c['slug']}.html", "article.html", "../", date=c["date"], c=c, titre_page=c["titre"])
     ecrire("sources.html", "sources.html", "", sources=sources, titre_page="Nos sources")
+    ecrire_archives(ecrire, items, a_la_une)
     ecrire("a-propos.html", "a-propos.html", "", titre_page="À propos")
     (OUT / ".nojekyll").touch()
     ecrire_sitemap(pages)
