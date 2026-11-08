@@ -117,6 +117,9 @@ def ecrire_sitemap(pages):
         f'<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{urls}</urlset>', encoding="utf-8")
 
 
+EPISODES_LOCAUX = 14   # derniers épisodes servis depuis askaninfo.com (les autres depuis GitHub)
+
+
 def lire_episodes(contenus):
     """Épisodes de la revue de presse dont le MP3 existe (data/podcast/<nom>.json)."""
     episodes = []
@@ -130,6 +133,11 @@ def lire_episodes(contenus):
         if not lien_valide(audio.get("url")):
             continue
         date = parse_date(meta.get("date", f.stem))
+        local = ROOT / "cache-podcast" / Path(audio["url"]).name
+        if len(episodes) < EPISODES_LOCAUX and local.exists() and local.stat().st_size == audio["taille"]:
+            (OUT / "podcast").mkdir(exist_ok=True)
+            shutil.copy(local, OUT / "podcast" / local.name)
+            audio = dict(audio, url=f"{URL_SITE}/podcast/{local.name}", relatif=f"podcast/{local.name}")
         episodes.append({
             "slug": f.stem,
             "titre": meta.get("titre", f"Revue de presse du {date_fr(date)}"),
