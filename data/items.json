@@ -1,5 +1,49 @@
 [
  {
+  "id": "113bd11c6f38",
+  "titre": "JOJ Dakar 2026 : Abdoulaye Diouf décroche le bronze en lutte de plage",
+  "lien": "https://lesoleil.sn/actualites/sports/dakar2026/joj-dakar-2026-abdoulaye-diouf-decroche-le-bronze-en-lutte-de-plage/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-08T18:06:15+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "extrait": "Le Sénégal poursuit sa récolte de médailles aux Jeux olympiques de la jeunesse (JOJ) Dakar 2026. Ablaye Diouf a décroché, ce dimanche, la médaille de bronze en lutte de plage dans la catégorie des moins de 90 kg, offrant une nouvelle distinction à la délégation sénégalaise. Le lutteur sénégalais a…"
+ },
+ {
+  "id": "0234cc0fe091",
+  "titre": "JOJ Dakar 2026-Lutte: Abdoulaye Diouf décroche le bronze en 90 kg",
+  "lien": "https://www.seneweb.com/fr/news/Sport/joj-dakar-2026-lutte-abdoulaye-diouf-decroche-le-bronze-en-90-kg_n_999003040.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-08T18:00:50+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "extrait": "Le Sénégal enrichit son tableau des médailles aux Jeux Olympiques de la Jeunesse (JOJ) Dakar 2026."
+ },
+ {
+  "id": "04368363a79b",
+  "titre": "JOJ Dakar 2026 / Lutte de plage : le Sénégal s'offre une 2e médaille de bronze et porte son total à 5 récompenses",
+  "lien": "https://www.pressafrik.com/JOJ-Dakar-2026-Lutte-de-plage-le-Senegal-s-offre-une-2e-medaille-de-bronze-et-porte-son-total-a-5-recompenses_a314273.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-08T17:57:00+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "extrait": "La moisson de médailles se poursuit pour la délégation sénégalaise aux Jeux Olympiques de l... www.pressafrik.com"
+ },
+ {
+  "id": "e7371c428c79",
+  "titre": "Première sortie de Modou Gueye après sa libération « La seule solution, pour sauver ce pays, c'est le retour de Macky Sall »",
+  "lien": "https://www.dakaractu.com/Premiere-sortie-de-Modou-Gueye-apres-sa-liberation-La-seule-solution-pour-sauver-ce-pays-c-est-le-retour-de-Macky-Sall_a277965.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-08T17:55:00+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "extrait": "Modou Gueye, maire de Djiddah Thiaroye Kao, a livré sa première déclaration publique depuis sa libération. Il a tiré les enseignements de son passage en prison et appelé au retour de Macky Sall pour sortir le pays de ce qu'il qualifie de situation « chaotique ». « Nous pardonnons à tous… Mon séjour…"
+ },
+ {
   "id": "0154deed7bb0",
   "titre": "Théodore Chérif Monteil : « On est dans une situation de catastrophe »",
   "lien": "https://www.seneweb.com/fr/news/Politique/theodore-cherif-monteil-on-est-dans-une-situation-de-catastrophe_n_999003039.html",
@@ -185,6 +229,17 @@
   "rubrique": "Diaspora",
   "zone": null,
   "extrait": "Une nouvelle tragédie liée à l'émigration irrégulière vient d'endeuiller le Sénégal."
+ },
+ {
+  "id": "b5bbe05f3209",
+  "titre": "Tennis : Carlos Alcaraz remporte pour la première fois le Masters 1000 de Paris",
+  "lien": "https://www.france24.com/fr/sports/20261108-tennis-carlos-alcaraz-remporte-pour-la-premi%C3%A8re-fois-le-masters-1000-de-paris",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-08T16:50:00+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "extrait": "L'Espagnol Carlos Alcaraz, 3e joueur mondial, a décroché dimanche son premier titre au Masters 1000 de Paris en battant l'Américain Ben Shelton en finale. Avec ce 29e titre en carrière, il n'est plus qu'à une victoire d'égaler son grand rival Jannik Sinner, qui compte 30 trophées."
  },
  {
   "id": "9c4800c270d4",
