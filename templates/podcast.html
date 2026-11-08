@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block contenu %}
+<article class="article">
+  <p class="retour"><a href="{{ racine }}index.html">← Retour à l'accueil</a></p>
+  <h1>🎧 La revue de presse d'AskanInfo</h1>
+  <p class="chapo">Chaque soir, l'essentiel de l'actualité du Sénégal en quelques minutes, à partir des synthèses du jour.</p>
+  <p class="meta">Lue par une voix de synthèse. Pour l'écouter dans votre application de podcasts, abonnez-vous au <a href="{{ racine }}podcast.xml">flux du podcast</a>.</p>
+  {% for e in episodes %}
+  <section class="episode">
+    <h2>{{ e.titre }}</h2>
+    <p class="meta">{{ e.date_fr }} · {{ e.duree_fr }}</p>
+    <audio controls preload="none" src="{{ e.audio.url }}"></audio>
+    <p class="meta"><a href="{{ e.audio.url }}">Télécharger le fichier MP3</a> (pour le partager sur WhatsApp)</p>
+    {% if e.sujets %}
+    <p><strong>Au sommaire :</strong></p>
+    <ul>{% for c in e.sujets %}<li><a href="{{ racine }}article/{{ c.slug }}.html">{{ c.titre }}</a></li>{% endfor %}</ul>
+    {% endif %}
+    <details><summary>Lire le texte de l'épisode</summary>
+      {% for p in e.texte %}<p>{{ p }}</p>{% endfor %}
+    </details>
+  </section>
+  {% else %}
+  <p>Le premier épisode arrive bientôt.</p>
+  {% endfor %}
+</article>
+{% endblock %}

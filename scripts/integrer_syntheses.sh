@@ -3,7 +3,7 @@
 # branches « claude/… ». Exécuté depuis main par le workflow horaire : l'agent
 # ne peut donc pas modifier ce contrôle.
 # Une branche n'est intégrée que si elle ne modifie QUE des fichiers
-# content/syntheses/*.md. Sinon elle est ignorée (relecture humaine).
+# content/syntheses/*.md ou content/podcast/*.md (scripts de la revue de presse). Sinon elle est ignorée (relecture humaine).
 set -euo pipefail
 
 git fetch -q origin '+refs/heads/claude/*:refs/remotes/origin/claude/*' || true
@@ -17,8 +17,8 @@ for branche in $(git for-each-ref --format='%(refname:short)' refs/remotes/origi
   if [ -z "$fichiers" ]; then
     continue
   fi
-  if echo "$fichiers" | grep -qvE '^content/syntheses/[A-Za-z0-9][A-Za-z0-9._-]*\.md$'; then
-    echo "::notice::$branche modifie d'autres fichiers que des synthèses : ignorée (relecture humaine nécessaire)."
+  if echo "$fichiers" | grep -qvE '^content/(syntheses|podcast)/[A-Za-z0-9][A-Za-z0-9._-]*\.md$'; then
+    echo "::notice::$branche modifie d'autres fichiers que des synthèses ou scripts de podcast : ignorée (relecture humaine nécessaire)."
     continue
   fi
   # seulement les synthèses pas encore publiées (on ne modifie jamais une
