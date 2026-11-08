@@ -67,6 +67,17 @@ jobs:
           done
           exit 1
 
+      # Les MP3 du podcast sont servis depuis askaninfo.com (même site, bon
+      # format audio) : on récupère les épisodes récents depuis la release.
+      - uses: actions/cache@v4
+        with:
+          path: cache-podcast
+          key: podcast-${{ hashFiles('data/podcast/*.json') }}
+          restore-keys: podcast-
+
+      - name: Récupération des épisodes récents du podcast
+        run: python scripts/podcast_local.py
+
       - name: Construction du site
         run: python scripts/build.py
 
