@@ -6,7 +6,7 @@ Site d'informations sur le Sénégal et les Sénégalais, mis à jour automatiqu
 
 | Étape | Qui | Quand |
 |---|---|---|
-| **Veille** : lecture des flux RSS des médias (`sources.yaml`) → `data/items.json` | GitHub Actions (`scripts/fetch.py`) | toutes les heures |
+| **Veille** : lecture des flux RSS des médias (`medias.yaml`) → `data/items.json` | GitHub Actions (`scripts/fetch.py`) | toutes les heures |
 | **Site** : construction et mise en ligne sur GitHub Pages | GitHub Actions (`scripts/build.py`) | toutes les heures et à chaque modification |
 | **Synthèses** : courts articles originaux qui citent leurs sources → `content/syntheses/` | Claude Code (tâche planifiée, consignes dans `CLAUDE.md`), sur une branche `claude/…` ; publiées par la mise à jour horaire (`scripts/integrer_syntheses.sh`) si la branche ne modifie que des synthèses | 2 fois par jour |
 | **Vos articles** → `content/articles/` | Vous | quand vous voulez |
@@ -26,16 +26,31 @@ mots, citent toutes leurs sources et passent un contrôle anti-copie
 GitHub Pages est gratuit si le dépôt est **public**. Pour un dépôt privé, il faut un
 abonnement GitHub payant.
 
-## Écrire un article
+## Administrer le site : Pages CMS
 
-Dans `content/articles/`, copiez `_modele.md` sous un nouveau nom (par exemple
-`2026-11-07-mon-article.md`), écrivez, enregistrez. Vous pouvez le faire
-directement sur le site de GitHub (bouton « Add file »). Le site se met à jour
-en quelques minutes.
+Interface web gratuite : **https://app.pagescms.org** (connexion avec le compte
+GitHub, puis choisir le dépôt AskanInfo). Configuration : `.pages.yml`.
 
-## Ajouter ou retirer une source
+| Menu | Pour… |
+|---|---|
+| **Mes articles** | écrire un article (titre, chapô, rubrique, texte, photos) ; cocher « Brouillon » pour ne pas le publier encore |
+| **Synthèses** | corriger ou supprimer une synthèse écrite par l'agent |
+| **Médias suivis** | ajouter, désactiver ou retirer une source |
+| **Réglages** | slogan, e-mail de contact, code GoatCounter (statistiques) |
 
-Modifiez `sources.yaml`. Si un média demande à être retiré, supprimez son bloc.
+Chaque enregistrement met le site à jour en 1 à 2 minutes. Les photos vont
+dans `static/images/`.
+
+## Statistiques : GoatCounter
+
+Créer un compte gratuit sur https://www.goatcounter.com (par ex. le code
+« askaninfo »), puis saisir ce code dans **Réglages → Code GoatCounter**.
+Les statistiques se consultent ensuite sur https://askaninfo.goatcounter.com.
+
+## Modèles
+
+`modeles/` contient les modèles d'article, de synthèse et de script de
+podcast (utilisés par l'agent ; Pages CMS fournit ses propres formulaires).
 
 ## Tester sur son ordinateur
 

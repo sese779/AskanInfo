@@ -18,7 +18,7 @@ importants du moment.
 4. Choisis au maximum **5 sujets**, les plus importants. Lance un sous-agent par
    sujet, en parallèle, avec ces consignes et la liste des articles du sujet.
 5. Chaque sous-agent écrit un fichier `content/syntheses/AAAA-MM-JJ-titre-court.md`
-   (modèle : `content/syntheses/_modele.md`).
+   (modèle : `modeles/synthese.md`).
 6. Lance `python scripts/check_overlap.py`. Si un fichier échoue, reformule les
    passages signalés et relance jusqu'à ce que tout passe.
 7. `python scripts/build.py` doit réussir.
@@ -36,7 +36,7 @@ importants du moment.
 
 Au passage de 17h47 (heure de Dakar), après les synthèses et avant le commit,
 écris le script du podcast du jour : `content/podcast/AAAA-MM-JJ.md` (modèle :
-`content/podcast/_modele.md`). Un seul épisode par jour ; s'il existe déjà, ne
+`modeles/podcast.md`). Un seul épisode par jour ; s'il existe déjà, ne
 le refais pas. Le MP3 est fabriqué automatiquement ensuite (workflow Podcast).
 
 - Pars **uniquement des synthèses publiées aujourd'hui** (matin et soir), pas du
@@ -88,4 +88,4 @@ le refais pas. Le MP3 est fabriqué automatiquement ensuite (workflow Podcast).
 ## Ce que tu ne dois pas toucher
 
 - `content/articles/` : ce sont les articles du propriétaire du site.
-- `sources.yaml` : seulement si on te le demande.
+- `medias.yaml`, `sources.yaml`, `reglages.yaml` : seulement si on te le demande.

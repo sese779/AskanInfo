@@ -6,6 +6,8 @@
 # content/syntheses/*.md ou content/podcast/*.md (scripts de la revue de presse). Sinon elle est ignorée (relecture humaine).
 set -euo pipefail
 
+PUBLIES=data/publies.txt   # tout ce qui a déjà été publié depuis une branche
+
 git fetch -q origin '+refs/heads/claude/*:refs/remotes/origin/claude/*' || true
 
 for branche in $(git for-each-ref --format='%(refname:short)' refs/remotes/origin/claude/); do
@@ -25,6 +27,10 @@ for branche in $(git for-each-ref --format='%(refname:short)' refs/remotes/origi
   # synthèse déjà en ligne) et encore présentes dans la branche
   nouveaux=""
   for f in $fichiers; do
+    # déjà publié un jour (puis peut-être supprimé à la main) : on ne le reprend jamais
+    if grep -qxF "$f" "$PUBLIES" 2>/dev/null; then
+      continue
+    fi
     if [ ! -e "$f" ] && git cat-file -e "$branche:$f" 2>/dev/null; then
       nouveaux="$nouveaux $f"
     fi
@@ -35,5 +41,7 @@ for branche in $(git for-each-ref --format='%(refname:short)' refs/remotes/origi
   echo "Intégration des synthèses de $branche :$nouveaux"
   # on ne prend que ces fichiers, jamais le reste de l'historique
   git checkout "$branche" -- $nouveaux
+  printf '%s\n' $nouveaux >> "$PUBLIES"
+  git add -- "$PUBLIES"
   git commit -q -m "Publication des synthèses ($branche)"
 done
