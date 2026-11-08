@@ -54,14 +54,33 @@ def _motif(mots):
     return re.compile(r"\b(?:" + "|".join(parties) + ")")
 
 
-def rubrique(titre, extrait, rubriques):
-    """Cherche d'abord dans le titre (plus fiable), puis dans l'extrait."""
-    motifs = [(nom, _motif(mots)) for nom, mots in rubriques.items()]
-    for texte in (titre.lower(), extrait.lower()):
-        for nom, motif in motifs:
-            if motif.search(texte):
-                return nom
-    return "Actualité"
+GEOGRAPHIQUES = ("Afrique", "Monde")
+
+
+PRIORITAIRES = ("Sport", "Diaspora")
+
+
+def rubrique(titre, extrait, rubriques, mots_senegal):
+    """1. Sport, Diaspora ; 2. hors Sénégal : Afrique puis Monde, d'après le
+    TITRE seul (un extrait cite souvent un pays au passage) ; 3. thèmes.
+    Le titre est toujours examiné avant l'extrait."""
+    motifs = {nom: _motif(mots) for nom, mots in rubriques.items()}
+    titre, extrait = titre.lower(), extrait.lower()
+
+    def premiere(noms, textes=(titre, extrait)):
+        for texte in textes:
+            for nom in noms:
+                if nom in motifs and motifs[nom].search(texte):
+                    return nom
+        return None
+
+    parle_du_senegal = any(m in titre or m in extrait for m in mots_senegal)
+    themes = [n for n in motifs if n not in GEOGRAPHIQUES + PRIORITAIRES]
+    return (premiere(PRIORITAIRES)
+            or (None if parle_du_senegal else premiere(GEOGRAPHIQUES, (titre,)))
+            or premiere(themes)
+            or premiere(GEOGRAPHIQUES)
+            or "Actualité")
 
 
 def lien_valide(lien):
@@ -148,7 +167,8 @@ def main():
 
     # (re)classement de tous les articles, pour profiter des mots-clés à jour
     for i in par_id.values():
-        i["rubrique"] = rubrique(i["titre"], i.get("extrait", ""), config.get("rubriques", {}))
+        i["rubrique"] = rubrique(i["titre"], i.get("extrait", ""), config.get("rubriques", {}),
+                                 [m.lower() for m in config.get("mots_cles_senegal", [])])
 
     limite = datetime.now(timezone.utc) - DUREE_CONSERVATION
     vus, resultat = set(), []

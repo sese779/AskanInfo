@@ -42,6 +42,9 @@ importants du moment.
   chapô d'une phrase.
 - **Toutes les sources citées** dans l'en-tête `sources`, avec le lien exact.
   Dans le texte, attribue les informations : « selon l'APS », « rapporte Seneweb ».
+- Rubrique (champ `rubrique`) : une seule parmi Politique, Économie, Société,
+  Sport, Culture, Diaspora, Afrique (sujet africain hors Sénégal), Monde (reste
+  du monde hors Sénégal).
 - Si les sources se contredisent, dis-le clairement.
 - Ton neutre. Pas d'opinion, pas de prise de parti politique.
 - Sujets sensibles (justice, accusations, victimes, mineurs) : prudence, emploie
