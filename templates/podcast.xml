@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>La revue de presse d'AskanInfo</title>
+  <link>{{ url_site }}/podcast.html</link>
+  <atom:link href="{{ url_site }}/podcast.xml" rel="self" type="application/rss+xml"/>
+  <description>Chaque soir, l'essentiel de l'actualité du Sénégal en quelques minutes, à partir des synthèses d'AskanInfo. Lue par une voix de synthèse.</description>
+  <language>fr</language>
+  <copyright>AskanInfo</copyright>
+  <itunes:author>AskanInfo</itunes:author>
+  <itunes:owner><itunes:name>AskanInfo</itunes:name><itunes:email>{{ contact }}</itunes:email></itunes:owner>
+  <itunes:image href="{{ url_site }}/static/podcast.png"/>
+  <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  {% for e in episodes %}
+  <item>
+    <title>{{ e.titre }}</title>
+    <guid isPermaLink="false">askaninfo-podcast-{{ e.slug }}</guid>
+    <pubDate>{{ e.date.strftime("%a, %d %b %Y %H:%M:%S +0000") }}</pubDate>
+    <enclosure url="{{ e.audio.url }}" length="{{ e.audio.taille }}" type="audio/mpeg"/>
+    <itunes:duration>{{ e.audio.duree }}</itunes:duration>
+    <description>{% for c in e.sujets %}{{ c.titre }}{% if not loop.last %} · {% endif %}{% endfor %}</description>
+    <link>{{ url_site }}/podcast.html</link>
+  </item>
+  {% endfor %}
+</channel>
+</rss>

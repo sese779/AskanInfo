@@ -1,9 +1,9 @@
 :root {
-  --vert: #00853f; --jaune: #fdef42; --rouge: #e31b23;
+  --vert: #00853f; --vert-texte: #00853f; --jaune: #fdef42; --rouge: #e31b23;
   --texte: #1c1c1c; --doux: #666; --fond: #fafaf7; --carte: #fff; --bord: #e4e4dd;
 }
 @media (prefers-color-scheme: dark) {
-  :root { --texte: #ececec; --doux: #a8a8a8; --fond: #141414; --carte: #1e1e1e; --bord: #333; }
+  :root { --vert-texte: #3ccf7e; --texte: #ececec; --doux: #a8a8a8; --fond: #141414; --carte: #1e1e1e; --bord: #333; }
 }
 * { box-sizing: border-box; }
 body { margin: 0; font: 17px/1.55 Georgia, "Times New Roman", serif; color: var(--texte); background: var(--fond); }
@@ -14,6 +14,7 @@ a { color: inherit; }
 .logo { font: 700 2.1rem/1 system-ui, sans-serif; text-decoration: none; color: var(--vert); }
 .logo span { color: var(--rouge); }
 .devise { margin: 4px 0 12px; color: var(--doux); font-style: italic; }
+.devise strong { font-style: normal; font-weight: 800; font-size: 1.12em; color: var(--vert-texte); }
 .rubriques { display: flex; gap: 18px; overflow-x: auto; padding-bottom: 10px; font: 600 .9rem system-ui, sans-serif; }
 .rubriques a { text-decoration: none; white-space: nowrap; }
 .rubriques a:hover { color: var(--vert); }
@@ -44,3 +45,8 @@ main { padding: 24px 16px 48px; }
 .retour { margin: 0 0 12px; font: 600 .95rem system-ui, sans-serif; }
 .retour a { text-decoration: none; color: var(--vert); }
 .retour a:hover { text-decoration: underline; }
+.episode { margin: 28px 0; padding: 16px; background: var(--carte); border: 1px solid var(--bord); border-radius: 6px; }
+.episode h2 { margin: 0 0 4px; font-size: 1.2rem; }
+.episode audio { width: 100%; margin: 10px 0 4px; }
+.episode details { margin-top: 8px; font-size: .95rem; }
+.episode summary { cursor: pointer; font: 600 .9rem system-ui, sans-serif; color: var(--vert-texte); }

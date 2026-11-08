@@ -1,0 +1,85 @@
+name: Podcast
+
+# Après chaque mise à jour du site : si un nouveau script de revue de presse
+# (content/podcast/*.md) est arrivé sur main, on fabrique le MP3 avec Piper,
+# on le range dans la release « podcast », puis on relance la mise à jour du
+# site pour publier l'épisode. S'exécute toujours depuis main.
+
+on:
+  workflow_run:
+    workflows: ["Mise à jour du site"]
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: site
+  cancel-in-progress: false
+
+env:
+  VOIX: fr_FR-siwis-medium
+  VOIX_URL: https://huggingface.co/rhasspy/piper-voices/resolve/main/fr/fr_FR/siwis/medium
+
+jobs:
+  episode:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+
+      - name: Y a-t-il un nouvel épisode ?
+        id: verif
+        run: |
+          nouveau=non
+          for f in content/podcast/[!_]*.md; do
+            [ -e "$f" ] || continue
+            nom=$(basename "$f" .md)
+            [ -e "data/podcast/$nom.json" ] || nouveau=oui
+          done
+          echo "nouveau=$nouveau" >> "$GITHUB_OUTPUT"
+          echo "Nouvel épisode : $nouveau"
+
+      - uses: actions/setup-python@v6
+        if: steps.verif.outputs.nouveau == 'oui'
+        with:
+          python-version: "3.12"
+
+      - name: Installer Piper et ffmpeg
+        if: steps.verif.outputs.nouveau == 'oui'
+        run: |
+          pip install -q piper-tts==1.8.0
+          command -v ffmpeg || (sudo apt-get update -q && sudo apt-get install -y -q ffmpeg)
+
+      - uses: actions/cache@v4
+        if: steps.verif.outputs.nouveau == 'oui'
+        with:
+          path: voix
+          key: voix-${{ env.VOIX }}
+
+      - name: Télécharger la voix française
+        if: steps.verif.outputs.nouveau == 'oui'
+        run: |
+          mkdir -p voix
+          [ -s "voix/$VOIX.onnx" ] || curl -sSfL -o "voix/$VOIX.onnx" "$VOIX_URL/$VOIX.onnx"
+          [ -s "voix/$VOIX.onnx.json" ] || curl -sSfL -o "voix/$VOIX.onnx.json" "$VOIX_URL/$VOIX.onnx.json"
+
+      - name: Fabriquer et publier l'épisode
+        if: steps.verif.outputs.nouveau == 'oui'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python scripts/podcast.py "voix/$VOIX.onnx"
+          git config user.name "askaninfo-bot"
+          git config user.email "askaninfo-bot@users.noreply.github.com"
+          git add data/podcast
+          git commit -q -m "Podcast : nouvel épisode"
+          for essai in 1 2 3; do
+            git pull -q --rebase origin main && git push -q origin HEAD:main && break
+            sleep 5
+          done
+          gh workflow run site.yml --ref main

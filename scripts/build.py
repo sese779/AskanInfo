@@ -25,7 +25,7 @@ NOM_SITE = "AskanInfo"
 CONTACT = "contact@askaninfo.com"
 # Adresse publique du site (à changer si vous prenez un nom de domaine)
 URL_SITE = os.environ.get("URL_SITE", "https://askaninfo.com").rstrip("/")
-DESCRIPTION = "L'actualité du Sénégal et des Sénégalais, en un seul endroit."
+DESCRIPTION = "Le Sénégal, l'Afrique, le monde : l'actualité en un seul endroit. Toute l'actualité du Sénégal et des Sénégalais, avec les sources."
 
 # Balises HTML autorisées dans les articles (tout le reste, dont <script>, est supprimé)
 BALISES = {"p", "br", "hr", "h2", "h3", "h4", "strong", "em", "b", "i", "u", "a", "ul", "ol",
@@ -117,6 +117,32 @@ def ecrire_sitemap(pages):
         f'<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{urls}</urlset>', encoding="utf-8")
 
 
+def lire_episodes(contenus):
+    """Épisodes de la revue de presse dont le MP3 existe (data/podcast/<nom>.json)."""
+    episodes = []
+    for f in sorted((ROOT / "content" / "podcast").glob("[!_]*.md"), reverse=True):
+        meta_audio = ROOT / "data" / "podcast" / f"{f.stem}.json"
+        m = re.match(r"^---\n(.*?)\n---\n(.*)$", f.read_text(encoding="utf-8"), re.S)
+        if not m or not meta_audio.exists():
+            continue
+        meta = yaml.safe_load(m.group(1)) or {}
+        audio = json.loads(meta_audio.read_text(encoding="utf-8"))
+        if not lien_valide(audio.get("url")):
+            continue
+        date = parse_date(meta.get("date", f.stem))
+        episodes.append({
+            "slug": f.stem,
+            "titre": meta.get("titre", f"Revue de presse du {date_fr(date)}"),
+            "date": date,
+            "date_fr": date_fr(date),
+            "audio": audio,
+            "duree_fr": f"{audio['duree'] // 60} min {audio['duree'] % 60:02d} s",
+            "sujets": [contenus[s] for s in meta.get("syntheses", []) if s in contenus],
+            "texte": [p.strip() for p in m.group(2).strip().split("\n\n") if p.strip()],
+        })
+    return episodes
+
+
 def ecrire_archives(ecrire, items, contenus):
     """Une page par mois : synthèses et articles de la rédaction, puis tous les
     liens du fil, jour par jour (fil récent + data/archives/AAAA-MM.json)."""
@@ -192,6 +218,10 @@ def main():
     ecrire("sources.html", "sources.html", "", sources=sources, titre_page="Nos sources")
     ecrire_archives(ecrire, items, a_la_une)
     ecrire("a-propos.html", "a-propos.html", "", titre_page="À propos")
+    episodes = lire_episodes({c["slug"]: c for c in a_la_une})
+    ecrire("podcast.html", "podcast.html", "", titre_page="Podcast – La revue de presse", episodes=episodes)
+    (OUT / "podcast.xml").write_text(env.get_template("podcast.xml").render(
+        episodes=episodes[:100], **commun), encoding="utf-8")
     (OUT / ".nojekyll").touch()
     ecrire_sitemap(pages)
     (OUT / "flux.xml").write_text(env.get_template("flux.xml").render(

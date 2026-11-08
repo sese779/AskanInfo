@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{% if titre_page %}{{ titre_page }} – {% endif %}{{ nom_site }}</title>
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'; img-src 'self' https: data:; style-src 'self'; frame-src https://www.youtube.com https://www.youtube-nocookie.com">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'; img-src 'self' https: data:; style-src 'self'; frame-src https://www.youtube.com https://www.youtube-nocookie.com; media-src https://github.com https://objects.githubusercontent.com https://release-assets.githubusercontent.com">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 {% set desc = c.chapo if c is defined and c.chapo else description %}
 <meta name="description" content="{{ desc }}">
@@ -22,11 +22,12 @@
 <header class="entete">
   <div class="conteneur">
     <a class="logo" href="{{ racine }}index.html">Askan<span>Info</span></a>
-    <p class="devise">L'actualité du Sénégal et des Sénégalais</p>
+    <p class="devise"><strong>Le Sénégal</strong>, l'Afrique, le monde : l'actualité en un seul endroit</p>
   </div>
   <nav class="conteneur rubriques">
     <a href="{{ racine }}index.html">Accueil</a>
     {% for r in rubriques %}<a href="{{ racine }}rubrique/{{ slugify(r) }}.html">{{ r }}</a>{% endfor %}
+    <a href="{{ racine }}podcast.html">🎧 Podcast</a>
     <a href="{{ racine }}archives.html">Archives</a>
   </nav>
 </header>
@@ -36,7 +37,7 @@
 <footer class="pied">
   <div class="conteneur">
     <p>Mis à jour le {{ maj }} (heure GMT, celle de Dakar).</p>
-    <p><a href="{{ racine }}sources.html">Nos sources</a> · <a href="{{ racine }}archives.html">Archives</a> · <a href="{{ racine }}a-propos.html">À propos et transparence</a> · <a href="{{ racine }}flux.xml">Flux RSS</a> · <a href="mailto:{{ contact }}">{{ contact }}</a></p>
+    <p><a href="{{ racine }}sources.html">Nos sources</a> · <a href="{{ racine }}podcast.html">Podcast</a> · <a href="{{ racine }}archives.html">Archives</a> · <a href="{{ racine }}a-propos.html">À propos et transparence</a> · <a href="{{ racine }}flux.xml">Flux RSS</a> · <a href="mailto:{{ contact }}">{{ contact }}</a></p>
     <p>Les liens du fil renvoient vers les articles originaux, qui appartiennent à leurs auteurs.</p>
   </div>
 </footer>
