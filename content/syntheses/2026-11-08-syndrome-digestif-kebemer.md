@@ -2,7 +2,7 @@
 titre: "Kébémer : 604 cas de syndrome digestif aigu recensés, aucun décès signalé"
 chapo: "Dans le département de Kébémer, le nombre de personnes touchées par des troubles digestifs aigus a atteint 604 au 7 novembre, sans décès selon PressAfrik."
 date: 2026-11-08T08:55:00+00:00
-rubrique: Actualité
+rubrique: Société
 sources:
   - nom: PressAfrik
     titre: "Kébémer : 604 cas de syndrome digestif aigu recensés au 7 novembre, aucun décès enregistré"

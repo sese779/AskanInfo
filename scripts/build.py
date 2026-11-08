@@ -158,7 +158,7 @@ def main():
     a_la_une = sorted(lire_contenus("articles", "article") + lire_contenus("syntheses", "synthese"),
                       key=lambda c: c["date"], reverse=True)
     presentes = {i["rubrique"] for i in items} | {c["rubrique"] for c in a_la_une}
-    ORDRE = ["Politique", "Faits divers", "Sport", "Diaspora", "Économie", "Culture",
+    ORDRE = ["Politique", "Société", "Faits divers", "Sport", "Diaspora", "Économie", "Culture",
              "Afrique", "Monde", "Actualité"]
     rubriques = sorted(presentes, key=lambda r: (ORDRE.index(r) if r in ORDRE else len(ORDRE), r))
     sources = yaml.safe_load((ROOT / "sources.yaml").read_text(encoding="utf-8"))["sources"]
