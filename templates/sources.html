@@ -1,11 +1,12 @@
 {% extends "base.html" %}
 {% block contenu %}
 <article class="article">
+  <p class="retour"><a href="{{ racine }}index.html">← Retour à l'accueil</a></p>
   <h1>Nos sources</h1>
   <p>AskanInfo lit les flux RSS que ces médias publient. Chaque titre du fil renvoie vers l'article original.</p>
   <ul>
   {% for s in sources if s.get("actif", True) %}
-    <li><a href="{{ s.site }}" target="_blank" rel="noopener">{{ s.nom }}</a>{% if s.filtre %} (uniquement les articles qui concernent le Sénégal){% endif %}</li>
+    <li><a href="{{ s.site }}">{{ s.nom }}</a>{% if s.filtre %} (uniquement les articles qui concernent le Sénégal){% endif %}</li>
   {% endfor %}
   </ul>
   <p>Vous êtes l'un de ces médias et vous ne voulez plus apparaître ici ? Écrivez-nous à <a href="mailto:{{ contact }}">{{ contact }}</a> : votre flux sera retiré immédiatement.</p>
