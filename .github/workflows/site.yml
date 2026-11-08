@@ -49,7 +49,7 @@ jobs:
             git reset -q --hard origin/main
             bash scripts/integrer_syntheses.sh
             python scripts/fetch.py
-            git add data/items.json
+            git add data/items.json data/archives
             if ! git diff --cached --quiet; then
               git commit -q -m "Fil d'actualité : mise à jour automatique"
             fi

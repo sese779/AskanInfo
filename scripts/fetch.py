@@ -184,6 +184,7 @@ def main():
 
     anciens = json.loads(DATA.read_text(encoding="utf-8")) if DATA.exists() else []
     par_id = {i["id"]: i for i in anciens}
+    deja_dans_le_fil = set(par_id)
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:
         for items in pool.map(lambda s: lire_source(s, config), sources):
@@ -200,7 +201,10 @@ def main():
     vus, resultat, a_archiver = set(), [], []
     for i in sorted(par_id.values(), key=lambda i: i["date"], reverse=True):
         if datetime.fromisoformat(i["date"]) < limite:
-            a_archiver.append(i)
+            # on n'archive que ce qui a été publié dans le fil ; un vieil article
+            # découvert aujourd'hui dans un flux n'est pas une actualité
+            if i["id"] in deja_dans_le_fil:
+                a_archiver.append(i)
             continue
         k = cle_doublon(i["titre"])
         if k in vus:
