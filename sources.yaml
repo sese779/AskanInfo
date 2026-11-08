@@ -1,7 +1,9 @@
 # Sources suivies par la veille automatique.
 # - flux : adresse du flux RSS officiel publié par le média
 # - filtre : true = ne garder que les articles qui parlent du Sénégal
-#            (utile pour les médias internationaux)
+# - zone : Afrique ou Monde = les articles de cette source qui ne parlent pas
+#          du Sénégal vont dans cet onglet (l'onglet Afrique est aussi choisi
+#          quand le titre cite un pays africain)
 # Pour ajouter une source : copier un bloc et changer les valeurs.
 # Pour en retirer une : supprimer le bloc ou mettre « actif: false ».
 
@@ -44,27 +46,64 @@ sources:
   - nom: RFI Afrique
     site: https://www.rfi.fr/fr/afrique/
     flux: https://www.rfi.fr/fr/afrique/rss
-    filtre: true
+    filtre: false
+    zone: Afrique
 
   - nom: BBC Afrique
     site: https://www.bbc.com/afrique
     flux: https://feeds.bbci.co.uk/afrique/rss.xml
-    filtre: true
+    filtre: false
+    zone: Afrique
 
   - nom: Jeune Afrique
     site: https://www.jeuneafrique.com
     flux: https://www.jeuneafrique.com/feed/
-    filtre: true
+    filtre: false
+    zone: Afrique
 
   - nom: France 24 Afrique
     site: https://www.france24.com/fr/afrique/
     flux: https://www.france24.com/fr/afrique/rss
-    filtre: true
+    filtre: false
+    zone: Afrique
 
   - nom: Le Monde Afrique
     site: https://www.lemonde.fr/afrique/
     flux: https://www.lemonde.fr/afrique/rss_full.xml
-    filtre: true
+    filtre: false
+    zone: Afrique
+
+  # --- Afrique (articles hors Sénégal → onglet Afrique) ---
+  - nom: Africanews
+    site: https://fr.africanews.com
+    flux: https://fr.africanews.com/feed/rss
+    filtre: false
+    zone: Afrique
+
+  - nom: APA News
+    site: https://apanews.net
+    flux: https://apanews.net/feed/
+    filtre: false
+    zone: Afrique
+
+  # --- Monde (articles hors Sénégal → onglet Monde) ---
+  - nom: Le Monde International
+    site: https://www.lemonde.fr/international/
+    flux: https://www.lemonde.fr/international/rss_full.xml
+    filtre: false
+    zone: Monde
+
+  - nom: France 24 Monde
+    site: https://www.france24.com/fr/
+    flux: https://www.france24.com/fr/rss
+    filtre: false
+    zone: Monde
+
+  - nom: RFI Monde
+    site: https://www.rfi.fr/fr/monde/
+    flux: https://www.rfi.fr/fr/monde/rss
+    filtre: false
+    zone: Monde
 
 # Mots-clés utilisés quand « filtre: true »
 mots_cles_senegal:
@@ -95,7 +134,8 @@ rubriques:
   Politique: [président, présidentiel, gouvernement, premier ministre, ministre, assemblée, député, élection, électoral, municipales, législatives, parti, pastef, apr, opposition, majorité, sonko, diomaye, conseil des ministres, politique, diplomatie, diplomatique, ambassad, sabotage, motion, décret, nomination]
   Économie: [économie, économique, budget, budgétaire, fmi, banque, dette, pétrole, gaz, hydrocarbure, minier, minière, mines, croissance, entreprise, secteur privé, prix, inflation, investissement, emploi, salaire, port autonome, commerce, importation, exportation, tonnes, campagne arachidière, arachide, agricult, récolte, sonatel, fcfa, marché, industrie, énergie, électricité, senelec]
   Culture: [culture, culturel, musique, musicien, cinéma, film, festival, artiste, art, livre, littérature, écrivain, poète, philosophe, théâtre, exposition, miss, chanteur, architecture, patrimoine]
-  Société: [santé, sanitaire, hôpital, épidémie, syndrome, vih, maladie, cas recensés, école, élève, étudiant, université, éducation, enseignant, justice, tribunal, procès, prison, police, policier, gendarmerie, arrestation, suspect, enquête, accident, drame, mort, mortel, fauché, décès, tué, meurtre, assassinat, affrontement, incendie, inondation, météo, chaleur, température, pluie, religion, magal, tabaski, mosquée, église, ménages, sécurité alimentaire, escroquerie, arnaque, usurpation, deepfake, société, famille, femmes, jeunes, levée du corps, érosion, environnement]
+  Faits divers: [fait divers, faits divers, justice, tribunal, procès, prison, détenu, police, policier, gendarmerie, arrestation, arrêté, interpellé, suspect, enquête, accident, collision, drame, mort, mortel, fauché, tué, meurtre, assassinat, agression, attaque, braquage, vol, cambriol, viol, affrontement, rixe, incendie, inondation, noyade, effondrement, escroquerie, arnaque, usurpation, deepfake, trafic, drogue, faux médicaments, levée du corps]
+  Société: [société, santé, sanitaire, hôpital, médecin, épidémie, syndrome, vih, paludisme, maladie, vaccin, cas recensés, école, élève, université, éducation, enseignant, examen, baccalauréat, bac, météo, chaleur, température, pluie, religion, religieux, magal, gamou, tabaski, korité, mosquée, église, confrérie, ménages, sécurité alimentaire, eau potable, électrification, logement, érosion, environnement, pollution, femmes, enfants, handicap]
   # Afrique et Monde : pour les articles qui ne concernent pas le Sénégal
   # (aucun des « mots_cles_senegal »). Sport et Diaspora restent prioritaires.
   Afrique: [afrique, africain, cedeao, union africaine, sahel, mali, malien, gambie, mauritanie, guinée, guinée-bissau, cap-vert, maroc, algérie, tunisie, libye, égypte, côte d'ivoire, ivoirien, burkina, niger, nigeria, nigéria, ghana, togo, bénin, cameroun, gabon, congo, rdc, kinshasa, tchad, centrafrique, soudan, éthiopie, kenya, ouganda, rwanda, tanzanie, somalie, madagascar, afrique du sud, angola, mozambique, zimbabwe]

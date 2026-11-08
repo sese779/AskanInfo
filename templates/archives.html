@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block contenu %}
+<article class="article">
+  <p class="retour"><a href="{{ racine }}index.html">← Retour à l'accueil</a></p>
+{% if liste_mois is defined %}
+  <h1>Archives</h1>
+  <p>Toute l'actualité publiée sur AskanInfo, mois par mois.</p>
+  <ul>
+  {% for m, nom, nb, nb_une in liste_mois %}
+    <li><a href="{{ racine }}archives/{{ m }}.html">{{ nom }}</a> <span class="meta">– {{ nb }} lien(s){% if nb_une %}, {{ nb_une }} synthèse(s) et article(s){% endif %}</span></li>
+  {% endfor %}
+  </ul>
+{% else %}
+  <p class="retour"><a href="{{ racine }}archives.html">← Toutes les archives</a></p>
+  <h1>{{ nom_mois }}</h1>
+  {% if une %}
+  <h2 class="section">Synthèses et articles</h2>
+  <ul>
+  {% for c in une %}<li><a href="{{ racine }}article/{{ c.slug }}.html">{{ c.titre }}</a> <span class="meta">– {{ c.rubrique }} · {{ c.date_fr }}</span></li>{% endfor %}
+  </ul>
+  {% endif %}
+  {% for jour, liens in jours %}
+  <h2 class="section">{{ jour }}</h2>
+  <ul class="fil">
+  {% for i in liens %}
+    <li><a href="{{ i.lien }}">{{ i.titre }}</a><span class="meta">{{ i.source }} · {{ i.rubrique }}</span></li>
+  {% endfor %}
+  </ul>
+  {% endfor %}
+{% endif %}
+</article>
+{% endblock %}
