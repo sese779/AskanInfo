@@ -49,7 +49,9 @@ jobs:
             git reset -q --hard origin/main
             bash scripts/integrer_syntheses.sh
             python scripts/fetch.py
-            git add data/items.json data/archives
+            git add data/items.json
+            # le dossier des archives n'existe qu'après le premier article archivé
+            if [ -d data/archives ]; then git add data/archives; fi
             if ! git diff --cached --quiet; then
               git commit -q -m "Fil d'actualité : mise à jour automatique"
             fi
