@@ -195,7 +195,12 @@ def main():
     ORDRE = ["Politique", "Société", "Faits divers", "Sport", "Diaspora", "Économie", "Culture",
              "Afrique", "Monde", "Actualité"]
     rubriques = sorted(presentes, key=lambda r: (ORDRE.index(r) if r in ORDRE else len(ORDRE), r))
-    sources = yaml.safe_load((ROOT / "sources.yaml").read_text(encoding="utf-8"))["sources"]
+    sources = yaml.safe_load((ROOT / "medias.yaml").read_text(encoding="utf-8"))["sources"] or []
+    reglages = yaml.safe_load((ROOT / "reglages.yaml").read_text(encoding="utf-8")) or {}
+    goatcounter = str(reglages.get("goatcounter") or "").strip().lower()
+    if goatcounter and not re.fullmatch(r"[a-z0-9-]{1,50}", goatcounter):
+        print(f"  ! code GoatCounter invalide ({goatcounter!r}) : statistiques désactivées")
+        goatcounter = ""
 
     if OUT.exists():
         shutil.rmtree(OUT)
@@ -204,7 +209,10 @@ def main():
     (OUT / "archives").mkdir()
     shutil.copytree(ROOT / "static", OUT / "static")
 
-    commun = {"nom_site": NOM_SITE, "url_site": URL_SITE, "contact": CONTACT, "description": DESCRIPTION, "rubriques": rubriques, "slugify": slugify,
+    contact = str(reglages.get("contact") or CONTACT).strip()
+    commun = {"nom_site": NOM_SITE, "url_site": URL_SITE, "contact": contact,
+              "slogan_fort": reglages.get("slogan_fort", ""), "slogan_suite": reglages.get("slogan_suite", ""),
+              "goatcounter": goatcounter, "description": DESCRIPTION, "rubriques": rubriques, "slugify": slugify,
               "maj": date_fr(datetime.now(timezone.utc))}
 
     pages = []

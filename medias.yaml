@@ -1,0 +1,123 @@
+# Médias suivis par la veille automatique (modifiable depuis Pages CMS).
+# - flux : adresse du flux RSS officiel publié par le média
+# - filtre : true = ne garder que les articles qui parlent du Sénégal
+# - zone : Afrique ou Monde = les articles de cette source qui ne parlent pas
+#          du Sénégal vont dans cet onglet (l'onglet Afrique est aussi choisi
+#          quand le titre cite un pays africain)
+# Pour ajouter une source : copier un bloc et changer les valeurs.
+# Pour en retirer une : supprimer le bloc ou mettre « actif: false ».
+
+sources:
+  - nom: APS
+    site: https://www.aps.sn
+    flux: https://www.aps.sn/feed/
+    filtre: false
+    actif: false   # accès refusé (403) depuis le 8/11 : demande d'autorisation en cours
+
+  - nom: Le Soleil
+    site: https://lesoleil.sn
+    flux: https://lesoleil.sn/feed/
+    filtre: false
+    actif: true
+
+  - nom: Seneweb
+    site: https://www.seneweb.com
+    flux: https://www.seneweb.com/feed
+    filtre: false
+    actif: true
+
+  - nom: Dakaractu
+    site: https://www.dakaractu.com
+    flux: https://www.dakaractu.com/xml/syndication.rss
+    filtre: false
+    actif: true
+
+  - nom: PressAfrik
+    site: https://www.pressafrik.com
+    flux: https://www.pressafrik.com/xml/syndication.rss
+    filtre: false
+    actif: true
+
+  - nom: Le Quotidien
+    site: https://lequotidien.sn
+    flux: https://lequotidien.sn/feed/
+    filtre: false
+    actif: true
+
+  - nom: SenePlus
+    site: https://www.seneplus.com
+    flux: https://www.seneplus.com/rss.xml
+    filtre: false
+    actif: true
+
+  - nom: RFI Afrique
+    site: https://www.rfi.fr/fr/afrique/
+    flux: https://www.rfi.fr/fr/afrique/rss
+    filtre: false
+    actif: true
+    zone: Afrique
+
+  - nom: BBC Afrique
+    site: https://www.bbc.com/afrique
+    flux: https://feeds.bbci.co.uk/afrique/rss.xml
+    filtre: false
+    actif: true
+    zone: Afrique
+
+  - nom: Jeune Afrique
+    site: https://www.jeuneafrique.com
+    flux: https://www.jeuneafrique.com/feed/
+    filtre: false
+    actif: true
+    zone: Afrique
+
+  - nom: France 24 Afrique
+    site: https://www.france24.com/fr/afrique/
+    flux: https://www.france24.com/fr/afrique/rss
+    filtre: false
+    actif: true
+    zone: Afrique
+
+  - nom: Le Monde Afrique
+    site: https://www.lemonde.fr/afrique/
+    flux: https://www.lemonde.fr/afrique/rss_full.xml
+    filtre: false
+    actif: true
+    zone: Afrique
+
+  # --- Afrique (articles hors Sénégal → onglet Afrique) ---
+  - nom: Africanews
+    site: https://fr.africanews.com
+    flux: https://fr.africanews.com/feed/rss
+    filtre: false
+    actif: true
+    zone: Afrique
+
+  - nom: APA News
+    site: https://apanews.net
+    flux: https://apanews.net/feed/
+    filtre: false
+    zone: Afrique
+    actif: false   # accès refusé (403) : à réactiver seulement avec leur accord
+
+  # --- Monde (articles hors Sénégal → onglet Monde) ---
+  - nom: Le Monde International
+    site: https://www.lemonde.fr/international/
+    flux: https://www.lemonde.fr/international/rss_full.xml
+    filtre: false
+    actif: true
+    zone: Monde
+
+  - nom: France 24 Monde
+    site: https://www.france24.com/fr/
+    flux: https://www.france24.com/fr/rss
+    filtre: false
+    actif: true
+    zone: Monde
+
+  - nom: RFI Monde
+    site: https://www.rfi.fr/fr/monde/
+    flux: https://www.rfi.fr/fr/monde/rss
+    filtre: false
+    actif: true
+    zone: Monde

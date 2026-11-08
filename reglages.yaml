@@ -1,0 +1,7 @@
+# Réglages du site (modifiables depuis Pages CMS).
+slogan_fort: "Le Sénégal"
+slogan_suite: ", l'Afrique, le monde : l'actualité en un seul endroit"
+contact: contact@askaninfo.com
+# Code du compte GoatCounter (ex. « askaninfo » pour askaninfo.goatcounter.com).
+# Vide = pas de statistiques.
+goatcounter: ""

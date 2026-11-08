@@ -1,0 +1,11 @@
+content/podcast/2026-11-08.md
+content/syntheses/2026-11-08-baye-niass-day-dakar.md
+content/syntheses/2026-11-08-budget-2027-commission-finances.md
+content/syntheses/2026-11-08-camberene-dispute-mobile-money.md
+content/syntheses/2026-11-08-emigration-irreguliere-interceptions.md
+content/syntheses/2026-11-08-joj-lioncelles-basket-3x3.md
+content/syntheses/2026-11-08-joj-lutte-de-plage-or.md
+content/syntheses/2026-11-08-levee-gel-pommes-de-terre.md
+content/syntheses/2026-11-08-naufrage-lompoul-bilan-34-morts.md
+content/syntheses/2026-11-08-naufrage-pirogue-kebemer.md
+content/syntheses/2026-11-08-syndrome-digestif-kebemer.md

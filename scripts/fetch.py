@@ -1,4 +1,4 @@
-"""Veille : lit les flux RSS déclarés dans sources.yaml et met à jour data/items.json.
+"""Veille : lit les flux RSS déclarés dans medias.yaml et met à jour data/items.json.
 
 On ne garde que le titre, le lien, la date et un court extrait (usage interne
 pour l'agent de rédaction). Le site n'affiche que le titre et renvoie vers
@@ -180,6 +180,7 @@ def archiver(items):
 
 def main():
     config = yaml.safe_load((ROOT / "sources.yaml").read_text(encoding="utf-8"))
+    config["sources"] = yaml.safe_load((ROOT / "medias.yaml").read_text(encoding="utf-8"))["sources"] or []
     sources = [s for s in config["sources"] if s.get("actif", True)]
 
     anciens = json.loads(DATA.read_text(encoding="utf-8")) if DATA.exists() else []

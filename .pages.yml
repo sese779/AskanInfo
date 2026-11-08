@@ -1,0 +1,147 @@
+# Configuration de l'interface d'administration Pages CMS (https://pagescms.org)
+# Connexion : https://app.pagescms.org avec le compte GitHub.
+
+media:
+  input: static/images
+  output: /static/images
+
+content:
+  - name: articles
+    label: Mes articles
+    type: collection
+    path: content/articles
+    filename: "{year}-{month}-{day}-{primary}.md"
+    view:
+      fields: [titre, date, rubrique, brouillon]
+      primary: titre
+      sort: [date]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: titre
+        label: Titre
+        type: string
+        required: true
+      - name: chapo
+        label: Chapô (une phrase d'introduction)
+        type: text
+      - name: date
+        label: Date de publication
+        type: date
+        required: true
+        options:
+          time: true
+      - name: rubrique
+        label: Rubrique
+        type: select
+        default: Actualité
+        options:
+          values: [Politique, Société, Faits divers, Sport, Diaspora, Économie, Culture, Afrique, Monde, Actualité]
+      - name: auteur
+        label: Signature
+        type: string
+        default: Rédaction
+      - name: brouillon
+        label: Brouillon (non publié)
+        type: boolean
+        default: true
+      - name: body
+        label: Texte de l'article
+        type: rich-text
+
+  - name: syntheses
+    label: Synthèses (agent)
+    type: collection
+    path: content/syntheses
+    view:
+      fields: [titre, date, rubrique]
+      primary: titre
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: titre
+        label: Titre
+        type: string
+        required: true
+      - name: chapo
+        label: Chapô
+        type: text
+      - name: date
+        label: Date
+        type: date
+        options:
+          time: true
+      - name: rubrique
+        label: Rubrique
+        type: select
+        options:
+          values: [Politique, Société, Faits divers, Sport, Diaspora, Économie, Culture, Afrique, Monde, Actualité]
+      - name: sources
+        label: Sources
+        type: object
+        list: true
+        fields:
+          - name: nom
+            label: Média
+            type: string
+          - name: titre
+            label: Titre de l'article
+            type: string
+          - name: url
+            label: Lien
+            type: string
+      - name: body
+        label: Texte
+        type: text
+
+  - name: medias
+    label: Médias suivis
+    type: file
+    path: medias.yaml
+    fields:
+      - name: sources
+        label: Médias
+        type: object
+        list: true
+        fields:
+          - name: nom
+            label: Nom du média
+            type: string
+            required: true
+          - name: site
+            label: Adresse du site
+            type: string
+          - name: flux
+            label: Adresse du flux RSS
+            type: string
+            required: true
+          - name: filtre
+            label: Ne garder que les articles sur le Sénégal
+            type: boolean
+          - name: zone
+            label: Onglet pour ses articles hors Sénégal (Afrique ou Monde, sinon vide)
+            type: string
+          - name: actif
+            label: Actif
+            type: boolean
+            default: true
+
+  - name: reglages
+    label: Réglages
+    type: file
+    path: reglages.yaml
+    fields:
+      - name: slogan_fort
+        label: Slogan – partie en gras et en vert
+        type: string
+      - name: slogan_suite
+        label: Slogan – suite
+        type: string
+      - name: contact
+        label: E-mail de contact
+        type: string
+      - name: goatcounter
+        label: Code GoatCounter (statistiques ; vide = désactivé)
+        type: string
