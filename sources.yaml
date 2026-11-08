@@ -12,6 +12,7 @@ sources:
     site: https://www.aps.sn
     flux: https://www.aps.sn/feed/
     filtre: false
+    actif: false   # accès refusé (403) depuis le 8/11 : demande d'autorisation en cours
 
   - nom: Le Soleil
     site: https://lesoleil.sn
@@ -85,6 +86,7 @@ sources:
     flux: https://apanews.net/feed/
     filtre: false
     zone: Afrique
+    actif: false   # accès refusé (403) : à réactiver seulement avec leur accord
 
   # --- Monde (articles hors Sénégal → onglet Monde) ---
   - nom: Le Monde International
