@@ -85,12 +85,15 @@ mots_cles_senegal:
   - lions de la teranga
   - teranga
 
-# Rubriques, attribuées automatiquement par mots-clés (la première qui correspond gagne).
+# Rubriques, attribuées automatiquement par mots-clés : la PREMIÈRE rubrique
+# (dans l'ordre ci-dessous) dont un mot apparaît dans le titre gagne, sinon
+# dans l'extrait. Un mot de 5 lettres ou plus reconnaît aussi les mots qui
+# commencent pareil (« lioncel » → « Lioncelles »).
 rubriques:
-  Politique: [président, gouvernement, ministre, assemblée, député, élection, parti, pastef, opposition, sonko, diomaye, conseil des ministres, politique]
-  Économie: [économie, budget, fmi, banque, dette, pétrole, gaz, croissance, entreprise, prix, inflation, investissement, emploi, port]
-  Société: [santé, école, éducation, justice, tribunal, police, gendarmerie, accident, inondation, religion, magal, tabaski, société]
-  Sport: [football, lions, can, match, coupe, lutte, basket, sport, jo, athlétisme, mané]
-  Culture: [musique, cinéma, festival, artiste, livre, culture, théâtre]
-  Diaspora: [diaspora, émigration, migrants, pirogue, sénégalais de l'extérieur, sénégalais en]
-  International: [cedeao, union africaine, onu, france, mali, gambie, mauritanie, guinée, international]
+  Sport: [sport, football, foot, ligue, match, lions, lionceau, lioncel, coupe du monde, can, joj, jo, olympique, médaille, champion, basket, futsal, lutte, athlétisme, taekwondo, gymnastique, équitation, natation, judo, handball, fifa, caf, fsf, psg, real madrid, barça, manchester, tottenham, chelsea, arsenal, liverpool, mané, sélectionneur, entraîneur, forfait, mma, tennis]
+  Diaspora: [diaspora, émigration, émigré, migrant, migration, pirogue, sénégalais de l'extérieur, sénégalais en, sénégalais d'italie, sénégalais de france, rapatri]
+  Politique: [président, présidentiel, gouvernement, premier ministre, ministre, assemblée, député, élection, électoral, municipales, législatives, parti, pastef, apr, opposition, majorité, sonko, diomaye, conseil des ministres, politique, sabotage, motion, décret, nomination]
+  Économie: [économie, économique, budget, budgétaire, fmi, banque, dette, pétrole, gaz, hydrocarbure, minier, minière, mines, croissance, entreprise, secteur privé, prix, inflation, investissement, emploi, salaire, port autonome, commerce, importation, exportation, tonnes, campagne arachidière, arachide, agricult, récolte, sonatel, fcfa, marché, industrie, énergie, électricité, senelec]
+  Culture: [culture, culturel, musique, musicien, cinéma, film, festival, artiste, art, livre, littérature, écrivain, poète, philosophe, théâtre, exposition, miss, chanteur, architecture, patrimoine]
+  Société: [santé, sanitaire, hôpital, épidémie, syndrome, vih, maladie, cas recensés, école, élève, étudiant, université, éducation, enseignant, justice, tribunal, procès, prison, police, policier, gendarmerie, arrestation, suspect, enquête, accident, drame, mort, mortel, fauché, décès, tué, meurtre, assassinat, affrontement, incendie, inondation, météo, chaleur, température, pluie, religion, magal, tabaski, mosquée, église, ménages, sécurité alimentaire, escroquerie, arnaque, usurpation, deepfake, société, famille, femmes, jeunes, levée du corps, érosion, environnement]
+  International: [international, cedeao, union africaine, onu, france, mali, gambie, mauritanie, guinée, maroc, côte d'ivoire, nigéria, kenya, afrique du sud, états-unis, etats-unis, trump, maison blanche, chine, russie, ukraine, europe]

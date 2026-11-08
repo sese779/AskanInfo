@@ -27,6 +27,9 @@ importants du moment.
    elle-même les **nouveaux** fichiers `content/syntheses/*.md` de ta branche,
    à condition que ta branche ne modifie rien d'autre. Une synthèse déjà en
    ligne n'est jamais remplacée. S'il n'y a aucun sujet nouveau, ne crée rien.
+9. Après le push, déclenche la mise à jour du site pour publier tout de suite
+   (outil GitHub `actions_run_trigger`, workflow `site.yml`, branche `main`).
+   Ce workflow s'exécute depuis `main` et fait lui-même les contrôles.
 
 ## Règles de rédaction (obligatoires)
 
