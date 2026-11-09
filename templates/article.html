@@ -8,6 +8,7 @@
   {% if c.chapo %}<p class="chapo">{{ c.chapo }}</p>{% endif %}
   <p class="meta">Par {{ c.auteur }} · {{ c.date_fr }}</p>
   <div class="corps">{{ c.html|safe }}</div>
+  {% set titre_partage = c.titre %}{% set url_partage = url_page %}{% include "_partage.html" %}
   {% if c.sources %}
   <aside class="sources">
     <h2>Sources</h2>

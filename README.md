@@ -47,6 +47,23 @@ Créer un compte gratuit sur https://www.goatcounter.com (par ex. le code
 « askaninfo »), puis saisir ce code dans **Réglages → Code GoatCounter**.
 Les statistiques se consultent ensuite sur https://askaninfo.goatcounter.com.
 
+## Faire connaître le site
+
+- **Boutons de partage** (WhatsApp, Facebook, X, Telegram) sous chaque article
+  et chaque épisode du podcast.
+- **Images d'aperçu** générées automatiquement (`scripts/images_partage.py`)
+  pour les vignettes sur WhatsApp, Facebook, X et Google.
+- **Message du jour** : https://askaninfo.com/partage.html (page non référencée)
+  donne un texte prêt à envoyer dans une chaîne ou un groupe WhatsApp.
+- **Chaîne Telegram automatique** (`scripts/telegram.py`) : publie chaque
+  nouvelle synthèse et chaque épisode. Pour l'activer :
+  1. Dans Telegram, parler à **@BotFather** → `/newbot` → noter le **jeton**.
+  2. Créer une chaîne publique (ex. `@askaninfo`) et y ajouter le bot comme
+     **administrateur** (droit de publier).
+  3. Sur GitHub : **Settings → Secrets and variables → Actions → New repository
+     secret** : `TELEGRAM_TOKEN` (le jeton) et `TELEGRAM_CANAL` (ex. `@askaninfo`).
+  Au premier passage, rien n'est envoyé (l'existant est seulement noté).
+
 ## Modèles
 
 `modeles/` contient les modèles d'article, de synthèse et de script de

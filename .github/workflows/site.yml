@@ -87,3 +87,20 @@ jobs:
           path: _site
       - id: deploiement
         uses: actions/deploy-pages@v5
+
+      # Chaîne Telegram : ne fait rien tant que les secrets ne sont pas créés
+      # (Settings → Secrets and variables → Actions : TELEGRAM_TOKEN, TELEGRAM_CANAL)
+      - name: Publication sur Telegram
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CANAL: ${{ secrets.TELEGRAM_CANAL }}
+        run: |
+          python scripts/telegram.py
+          if [ -f data/telegram.txt ] && [ -n "$(git status --porcelain data/telegram.txt)" ]; then
+            git add data/telegram.txt
+            git commit -q -m "Telegram : contenus publiés"
+            for essai in 1 2 3; do
+              git pull -q --rebase origin main && git push -q origin HEAD:main && break
+              sleep 5
+            done
+          fi

@@ -11,6 +11,7 @@
     <p class="meta">{{ e.date_fr }} · {{ e.duree_fr }}</p>
     <audio controls preload="none" src="{{ racine ~ e.audio.relatif if e.audio.relatif else e.audio.url }}"></audio>
     <p class="meta"><a href="{{ racine ~ e.audio.relatif if e.audio.relatif else e.audio.url }}" download>Télécharger le fichier MP3</a> (pour le partager sur WhatsApp)</p>
+    {% set titre_partage = "🎧 " ~ e.titre ~ " (AskanInfo)" %}{% set url_partage = url_site ~ "/podcast.html" %}{% include "_partage.html" %}
     {% if e.sujets %}
     <p><strong>Au sommaire :</strong></p>
     <ul>{% for c in e.sujets %}<li><a href="{{ racine }}article/{{ c.slug }}.html">{{ c.titre }}</a></li>{% endfor %}</ul>

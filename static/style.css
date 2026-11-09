@@ -50,3 +50,9 @@ main { padding: 24px 16px 48px; }
 .episode audio { width: 100%; margin: 10px 0 4px; }
 .episode details { margin-top: 8px; font-size: .95rem; }
 .episode summary { cursor: pointer; font: 600 .9rem system-ui, sans-serif; color: var(--vert-texte); }
+.partage { margin: 24px 0 8px; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font: 600 .9rem system-ui, sans-serif; }
+.partage a { text-decoration: none; color: #fff; padding: 6px 12px; border-radius: 999px; }
+.partage .wa { background: #1e9e55; } .partage .fb { background: #1877f2; }
+.partage .x { background: #111; } .partage .tg { background: #229ed9; }
+.bouton-wa { display: inline-block; background: #1e9e55; color: #fff; text-decoration: none; padding: 10px 18px; border-radius: 999px; font: 700 1rem system-ui, sans-serif; }
+.message { white-space: pre-wrap; word-break: break-word; background: var(--carte); border: 1px solid var(--bord); border-radius: 6px; padding: 14px; font: .95rem/1.5 system-ui, sans-serif; user-select: all; }

@@ -18,6 +18,7 @@ import yaml
 from jinja2 import Environment, FileSystemLoader
 
 from check_overlap import passages_copies
+from images_partage import image_article, image_site
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "_site"
@@ -117,6 +118,7 @@ def ecrire_sitemap(pages):
         f'<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{urls}</urlset>', encoding="utf-8")
 
 
+IMAGES_PARTAGE = 80    # nombre de contenus récents qui ont leur propre image d'aperçu
 EPISODES_LOCAUX = 14   # derniers épisodes servis depuis askaninfo.com (les autres depuis GitHub)
 
 
@@ -149,6 +151,29 @@ def lire_episodes(contenus):
             "texte": [p.strip() for p in m.group(2).strip().split("\n\n") if p.strip()],
         })
     return episodes
+
+
+JOURS = ["lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"]
+
+
+def ecrire_message_du_jour(env, contenus, episodes, commun):
+    """Page « Message du jour » : un texte prêt à copier dans WhatsApp, avec les
+    titres du jour le plus récent et le dernier épisode du podcast."""
+    if not contenus:
+        return
+    jour = contenus[0]["date"].date()
+    du_jour = [c for c in contenus if c["date"].date() == jour]
+    lignes = [f"📰 *AskanInfo* – l'essentiel du {JOURS[jour.weekday()]} {jour.day} {MOIS[jour.month - 1]} {jour.year}", ""]
+    for c in du_jour:
+        lignes += [f"▪️ {c['titre']}", f"{URL_SITE}/article/{c['slug']}.html", ""]
+    ep = next((e for e in episodes if e["date"].date() == jour), None)
+    if ep:
+        lignes += [f"🎧 La revue de presse audio ({ep['duree_fr']}) :", f"{URL_SITE}/podcast.html", ""]
+    lignes += [f"Toute l'actualité : {URL_SITE}"]
+    message = "\n".join(lignes)
+    (OUT / "partage.html").write_text(env.get_template("partage.html").render(
+        racine="", chemin="partage.html", titre_page="Message du jour", message=message,
+        nb=len(du_jour), **commun), encoding="utf-8")
 
 
 def ecrire_archives(ecrire, items, contenus):
@@ -210,7 +235,7 @@ def main():
     shutil.copytree(ROOT / "static", OUT / "static")
 
     contact = str(reglages.get("contact") or CONTACT).strip()
-    commun = {"nom_site": NOM_SITE, "url_site": URL_SITE, "contact": contact,
+    commun = {"image_defaut": f"{URL_SITE}/og/askaninfo.png", "nom_site": NOM_SITE, "url_site": URL_SITE, "contact": contact,
               "slogan_fort": reglages.get("slogan_fort", ""), "slogan_suite": reglages.get("slogan_suite", ""),
               "goatcounter": goatcounter, "description": DESCRIPTION, "rubriques": rubriques, "slugify": slugify,
               "maj": date_fr(datetime.now(timezone.utc))}
@@ -229,13 +254,22 @@ def main():
         ecrire(f"rubrique/{slugify(r)}.html", "index.html", "../",
                une=[c for c in a_la_une if c["rubrique"] == r][:12],
                fil=[i for i in items if i["rubrique"] == r][:80], titre_page=r)
+    image_site(OUT / "og" / "askaninfo.png")
+    for n, c in enumerate(a_la_une):
+        c["image"] = f"{URL_SITE}/og/askaninfo.png"
+        if n < IMAGES_PARTAGE:
+            image_article(c["titre"], c["rubrique"], "Rédaction" if c["type"] == "article" else "Synthèse",
+                          OUT / "og" / f"{c['slug']}.png")
+            c["image"] = f"{URL_SITE}/og/{c['slug']}.png"
     for c in a_la_une:
-        ecrire(f"article/{c['slug']}.html", "article.html", "../", date=c["date"], c=c, titre_page=c["titre"])
+        ecrire(f"article/{c['slug']}.html", "article.html", "../", date=c["date"], c=c, titre_page=c["titre"],
+               image_partage=c["image"], url_page=f"{URL_SITE}/article/{c['slug']}.html")
     ecrire("sources.html", "sources.html", "", sources=sources, titre_page="Nos sources")
     ecrire_archives(ecrire, items, a_la_une)
     ecrire("a-propos.html", "a-propos.html", "", titre_page="À propos")
     episodes = lire_episodes({c["slug"]: c for c in a_la_une})
     ecrire("podcast.html", "podcast.html", "", titre_page="Podcast – La revue de presse", episodes=episodes)
+    ecrire_message_du_jour(env, a_la_une, episodes, commun)
     (OUT / "podcast.xml").write_text(env.get_template("podcast.xml").render(
         episodes=episodes[:100], **commun), encoding="utf-8")
     (OUT / ".nojekyll").touch()
