@@ -59,9 +59,15 @@ GEOGRAPHIQUES = ("Afrique", "Monde")
 
 
 PRIORITAIRES = ("Sport", "Diaspora")
+# « un Sénégalais / une Sénégalaise / des compatriotes » dans un titre qui cite
+# un pays étranger = vie de la diaspora
+SENEGALAIS = re.compile(r"\bs[ée]n[ée]galais(?:e|es)?\b|\bcompatriotes?\b")
+MOTS_GENERIQUES = {"afrique", "africain", "monde", "mondial", "international", "europe",
+                   "européen", "union européenne", "sahel", "cedeao", "union africaine",
+                   "onu", "nations unies", "otan", "g20"}
 
 
-def rubrique(titre, extrait, rubriques, mots_senegal, zone=None):
+def rubrique(titre, extrait, rubriques, mots_senegal, zone=None, diaspora=False):
     """1. Sport, Diaspora ; 2. hors Sénégal : Afrique puis Monde, d'après le
     TITRE seul (un extrait cite souvent un pays au passage) ; 3. thèmes.
     Le titre est toujours examiné avant l'extrait."""
@@ -75,11 +81,20 @@ def rubrique(titre, extrait, rubriques, mots_senegal, zone=None):
                     return nom
         return None
 
+    # média consacré à la diaspora : tout va en Diaspora, sauf le sport
+    if diaspora:
+        return premiere(("Sport",)) or "Diaspora"
     parle_du_senegal = any(m in titre or m in extrait for m in mots_senegal)
     # source africaine ou mondiale, article qui ne concerne pas le Sénégal :
     # onglet Afrique si le titre cite l'Afrique, sinon la zone de la source
     if zone and not parle_du_senegal:
         return premiere(("Afrique",), (titre,)) or zone
+    prioritaire = premiere(PRIORITAIRES)   # titre d'abord, puis extrait
+    if prioritaire:
+        return prioritaire
+    pays = [m for nom in GEOGRAPHIQUES for m in rubriques.get(nom, []) if m.lower() not in MOTS_GENERIQUES]
+    if SENEGALAIS.search(titre) and pays and _motif(pays).search(titre):
+        return "Diaspora"
     themes = [n for n in motifs if n not in GEOGRAPHIQUES + PRIORITAIRES]
     return (premiere(PRIORITAIRES)
             or (None if parle_du_senegal else premiere(GEOGRAPHIQUES, (titre,)))
@@ -149,6 +164,7 @@ def lire_source(source, config):
             "date": date_item(e).isoformat(),
             "rubrique": "",
             "zone": source.get("zone"),
+            "diaspora": bool(source.get("diaspora")),
             "extrait": extrait,
         })
     print(f"  {source['nom']} : {len(items)} article(s)")
@@ -196,7 +212,7 @@ def main():
     for i in par_id.values():
         i["rubrique"] = rubrique(i["titre"], i.get("extrait", ""), config.get("rubriques", {}),
                                  [m.lower() for m in config.get("mots_cles_senegal", [])],
-                                 i.get("zone"))
+                                 i.get("zone"), i.get("diaspora", False))
 
     limite = datetime.now(timezone.utc) - DUREE_CONSERVATION
     vus, resultat, a_archiver = set(), [], []
