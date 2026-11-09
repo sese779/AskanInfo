@@ -123,6 +123,9 @@ content:
           - name: zone
             label: Onglet pour ses articles hors Sénégal (Afrique ou Monde, sinon vide)
             type: string
+          - name: diaspora
+            label: Média de la diaspora (ses articles vont dans l'onglet Diaspora)
+            type: boolean
           - name: actif
             label: Actif
             type: boolean

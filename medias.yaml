@@ -121,3 +121,32 @@ sources:
     filtre: false
     actif: true
     zone: Monde
+
+  # --- Diaspora (adresses de flux à confirmer au premier passage) ---
+  # diaspora: true = média consacré à la diaspora : ses articles vont dans
+  # l'onglet Diaspora (sauf le sport).
+  - nom: Diasporaactu
+    site: https://www.diasporaactu.net
+    flux: https://www.diasporaactu.net/xml/syndication.rss
+    filtre: false
+    diaspora: true
+    actif: true
+
+  - nom: Xalima (Diaspora)
+    site: https://xalimasn.com/category/diaspora/
+    flux: https://xalimasn.com/category/diaspora/feed/
+    filtre: false
+    diaspora: true
+    actif: true
+
+  - nom: Diaspora Vision
+    site: https://www.diasporavision.eu
+    flux: https://www.diasporavision.eu/feed/
+    filtre: false
+    actif: true
+
+  - nom: Diasporanews
+    site: https://diasporanews.sn
+    flux: https://diasporanews.sn/feed/
+    filtre: false
+    actif: true

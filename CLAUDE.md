@@ -15,7 +15,9 @@ importants du moment.
    sujets couverts par **au moins 2 sources différentes** (ou 1 source officielle :
    APS, gouvernement, présidence). Ignore les sujets déjà traités dans
    `content/syntheses/` (regarde les liens déjà cités dans les en-têtes).
-4. Choisis au maximum **5 sujets**, les plus importants. Lance un sous-agent par
+4. Choisis au maximum **5 sujets**, les plus importants. Si un sujet sur la
+   **vie des Sénégalais à l'étranger** (hors drame migratoire) est couvert par
+   au moins 2 sources, retiens-en un par jour. Lance un sous-agent par
    sujet, en parallèle, avec ces consignes et la liste des articles du sujet.
 5. Chaque sous-agent écrit un fichier `content/syntheses/AAAA-MM-JJ-titre-court.md`
    (modèle : `modeles/synthese.md`).
@@ -64,7 +66,9 @@ le refais pas. Le MP3 est fabriqué automatiquement ensuite (workflow Podcast).
   Dans le texte, attribue les informations : « selon l'APS », « rapporte Seneweb ».
 - Rubrique (champ `rubrique`) : une seule parmi Politique, Société (santé,
   éducation, religion, environnement, vie quotidienne), Faits divers (accidents,
-  crimes, justice, drames), Sport, Diaspora, Économie, Culture, Afrique (sujet
+  crimes, justice, drames), Sport, Diaspora (migration ET vie des Sénégalais à
+  l'étranger : communautés, consulats, réussites, démarches, faits divers à
+  l'étranger), Économie, Culture, Afrique (sujet
   africain hors Sénégal), Monde (reste du monde hors Sénégal), Actualité (le reste).
 - Si les sources se contredisent, dis-le clairement.
 - Ton neutre. Pas d'opinion, pas de prise de parti politique.
