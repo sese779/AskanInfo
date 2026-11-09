@@ -14,3 +14,9 @@ content/syntheses/2026-11-09-joj-troisieme-or-lutte-basket.md
 content/syntheses/2026-11-09-kedougou-incendie-bantaco.md
 content/syntheses/2026-11-09-lompoul-reactions-politiques.md
 content/syntheses/2026-11-09-medina-baye-deces-sokhna-mariama-ndiaye.md
+content/podcast/2026-11-09.md
+content/syntheses/2026-11-09-budget-sante-rejete-commission.md
+content/syntheses/2026-11-09-diomaye-paris-phnom-penh.md
+content/syntheses/2026-11-09-joj-basket-3x3-or-bronze.md
+content/syntheses/2026-11-09-kebemer-salmonella-identifiee.md
+content/syntheses/2026-11-09-lompoul-bilan-39-morts.md
