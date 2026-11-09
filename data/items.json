@@ -1,5 +1,16 @@
 [
  {
+  "id": "6f86b5c14493",
+  "titre": "Podor : à Thialma, traditions culturelles et transmission au cœur d’une journée dédiée à la jeunesse",
+  "lien": "https://www.seneweb.com/fr/news/Culture/podor-a-thialma-traditions-culturelles-et-transmission-au-coeur-dune-journee-dediee-a-la-jeunesse_n_999003069.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-08T23:40:02+00:00",
+  "rubrique": "Culture",
+  "zone": null,
+  "extrait": "Le village de Thialma, dans le département de Podor, a accueilli ce dimanche 8 novembre une journée marquée par plusieurs activités culturelles et éducatives."
+ },
+ {
   "id": "93846a641039",
   "titre": "EN DIRECT, guerre en Ukraine : Marco Rubio fait état de progrès pour l’« architecture de sécurité » après la guerre",
   "lien": "https://www.lemonde.fr/international/live/2026/11/09/en-direct-guerre-en-ukraine-marco-rubio-fait-etat-de-progres-pour-l-architecture-de-securite-apres-la-guerre_6803934_3210.html",
@@ -33,6 +44,17 @@
   "extrait": "La réaction du président de la République, Bassirou Diomaye Faye, ordonnant une traque sans répit contre les passeurs après le naufrage survenu au large de Lompoul (34 morts), a suscité la réplique du Dr Yoro Dia."
  },
  {
+  "id": "5456d39917fe",
+  "titre": "Maurice, premier pays à faire reculer durablement le diabète de type 2",
+  "lien": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20261108-maurice-premier-pays-%C3%A0-faire-reculer-durablement-le-diab%C3%A8te-de-type-2",
+  "source": "RFI Afrique",
+  "site_source": "https://www.rfi.fr/fr/afrique/",
+  "date": "2026-11-08T23:26:35+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "extrait": "Pour la première fois, un pays enregistre un recul durable du diabète de type 2. C'est à Maurice que la prévalence de la maladie et du prédiabète diminue depuis plusieurs années, selon une étude publiée dans la revue The Lancet Diabetes & Endocrinology. Entre 2009 et 2021, elle a reculé de 11% chez…"
+ },
+ {
   "id": "8e30d7aa753c",
   "titre": "Dakar : un effondrement partiel au lycée Thierno Saïdou Nourou Tall entraîne la fermeture du bâtiment B.",
   "lien": "https://www.seneweb.com/fr/news/Societe/dakar-un-effondrement-partiel-au-lycee-thierno-saidou-nourou-tall-entraine-la-fermeture-du-batiment-b_n_999003066.html",
@@ -42,6 +64,17 @@
   "rubrique": "Politique",
   "zone": null,
   "extrait": "Après la chute de gros blocs de pierres dans la nuit du 7 novembre, le proviseur du lycée Thierno Saïdou Nourou Tall a décidé de mettre en quarantaine le bâtiment B."
+ },
+ {
+  "id": "787c2c7dfc5c",
+  "titre": "L'État sud-africain veut céder 2,5 millions d'hectares de terres aux agriculteurs noirs",
+  "lien": "https://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/20261108-l-%C3%A9tat-sud-africain-veut-c%C3%A9der-2-5-millions-d-hectares-de-terres-aux-agriculteurs-noirs",
+  "source": "RFI Afrique",
+  "site_source": "https://www.rfi.fr/fr/afrique/",
+  "date": "2026-11-08T23:10:50+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "extrait": "En Afrique du Sud, le président Cyril Ramaphosa prévoit de céder 2,5 millions d'hectares de terres à des agriculteurs noirs, pour transformer le secteur agricole sud-africain. Il s'agit de terres achetées et détenues par l'État depuis 2006, dont certaines n'étaient plus utilisées. L'Afrique du Sud…"
  },
  {
   "id": "fa9ad2bacd71",
