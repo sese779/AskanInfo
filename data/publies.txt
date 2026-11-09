@@ -9,3 +9,8 @@ content/syntheses/2026-11-08-levee-gel-pommes-de-terre.md
 content/syntheses/2026-11-08-naufrage-lompoul-bilan-34-morts.md
 content/syntheses/2026-11-08-naufrage-pirogue-kebemer.md
 content/syntheses/2026-11-08-syndrome-digestif-kebemer.md
+content/syntheses/2026-11-09-abdourahmane-diouf-repond-sonko.md
+content/syntheses/2026-11-09-joj-troisieme-or-lutte-basket.md
+content/syntheses/2026-11-09-kedougou-incendie-bantaco.md
+content/syntheses/2026-11-09-lompoul-reactions-politiques.md
+content/syntheses/2026-11-09-medina-baye-deces-sokhna-mariama-ndiaye.md
