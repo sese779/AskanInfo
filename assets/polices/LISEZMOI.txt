@@ -1,0 +1,2 @@
+Polices DejaVu (https://dejavu-fonts.github.io), licence libre « Bitstream Vera / domaine public ».
+Utilisées pour générer les images d’aperçu des articles (scripts/images_partage.py).

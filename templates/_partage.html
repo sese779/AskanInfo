@@ -1,0 +1,9 @@
+{# Boutons de partage : simples liens, aucun script (compatible avec la CSP) #}
+{% set texte = titre_partage ~ " – " ~ url_partage %}
+<div class="partage">
+  <span>Partager :</span>
+  <a class="wa" href="https://wa.me/?text={{ texte|urlencode }}" rel="noopener">WhatsApp</a>
+  <a class="fb" href="https://www.facebook.com/sharer/sharer.php?u={{ url_partage|urlencode }}" rel="noopener">Facebook</a>
+  <a class="x" href="https://twitter.com/intent/tweet?text={{ titre_partage|urlencode }}&amp;url={{ url_partage|urlencode }}" rel="noopener">X</a>
+  <a class="tg" href="https://t.me/share/url?url={{ url_partage|urlencode }}&amp;text={{ titre_partage|urlencode }}" rel="noopener">Telegram</a>
+</div>

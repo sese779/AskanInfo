@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block contenu %}
+<article class="article">
+  <p class="retour"><a href="{{ racine }}index.html">← Retour à l'accueil</a></p>
+  <h1>Message du jour</h1>
+  <p class="meta">Texte prêt à partager ({{ nb }} sujet(s)). Appuyez sur le bouton vert, ou sélectionnez le texte pour le copier dans une chaîne ou un groupe.</p>
+  <p><a class="bouton-wa" href="https://wa.me/?text={{ message|urlencode }}" rel="noopener">Envoyer sur WhatsApp</a></p>
+  <pre class="message">{{ message }}</pre>
+</article>
+{% endblock %}
