@@ -1,5 +1,27 @@
 [
  {
+  "id": "9da27e928167",
+  "titre": "Charles Russon (Absa) : « Pour les banques, atteindre les petites entreprises exige de penser autrement »",
+  "lien": "https://www.jeuneafrique.com/1860117/economie-entreprises/charles-russon-absa-pour-les-banques-atteindre-les-petites-entreprises-exige-de-penser-autrement/",
+  "source": "Jeune Afrique",
+  "site_source": "https://www.jeuneafrique.com",
+  "date": "2026-11-09T18:30:35+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "extrait": "Le directeur régional pour l’Afrique du géant bancaire Absa insiste sur le financement de l’économie réelle, trop souvent ignoré au profit des obligations d’État. Tout en rappelant que la dette souveraine est loin d’être sans risque."
+ },
+ {
+  "id": "f2f84e2837c6",
+  "titre": "Ventes d’armes russes en Afrique : comment Vladimir Poutine tente d’enrayer le déclin",
+  "lien": "https://www.jeuneafrique.com/1860174/politique/ventes-darmes-russes-en-afrique-comment-vladimir-poutine-tente-denrayer-le-declin/",
+  "source": "Jeune Afrique",
+  "site_source": "https://www.jeuneafrique.com",
+  "date": "2026-11-09T18:28:34+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "extrait": "Longtemps premier fournisseur d’armes du continent, la Russie a été dépassée par les États-Unis et la Chine. Lors du troisième sommet Russie-Afrique, Moscou a tenté de reconquérir des parts de marché. Une offensive menée alors que la guerre en Ukraine met sous pression son industrie militaire."
+ },
+ {
   "id": "094211bd9694",
   "titre": "Cameroun : qui a tué l’ancien dirigeant de la Bicec Innocent Ondoa Nkou ?",
   "lien": "https://www.jeuneafrique.com/1859922/politique/cameroun-qui-a-tue-lancien-dirigeant-de-la-bicec-innocent-ondoa-nkou/",
@@ -9,6 +31,83 @@
   "rubrique": "Afrique",
   "zone": "Afrique",
   "extrait": "Retrouvé mort à coups de machette à son domicile, l’ancien directeur général adjoint de la Banque internationale du Cameroun pour l’épargne et le crédit avait été l’un des protagonistes du vaste scandale financier qui avait secoué l’établissement en 2016. L’enquête sur son assassinat est en cours."
+ },
+ {
+  "id": "b7148ef9ffd5",
+  "titre": "Nathalie Yamb : « Le 09 octobre, l’UE a renouvelé ses sanctions à mon encontre »",
+  "lien": "https://www.seneweb.com/fr/news/Actualites/nathalie-yamb-le-09-octobre-lue-a-renouvele-ses-sanctions-a-mon-encontre_n_999003136.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-09T17:39:42+00:00",
+  "rubrique": "Monde",
+  "zone": null,
+  "extrait": "Dans un post publié le weekend dernier sur X, Nathalie Yamb a annoncé le renouvellement des sanctions de l’Union européenne contre sa personne"
+ },
+ {
+  "id": "02cc9754c546",
+  "titre": "Scandale Nvidia : quand le renseignement chinois passe par le \"sexpionage\"",
+  "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261109-scandale-nvidia-quand-renseignement-chinois-passe-sexpionage",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-09T17:37:17+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "extrait": "La révélation d’une liaison entre Jensen Huang, dirigeant de Nvidia, et une ressortissante chinoise soupçonnée de travailler pour les services de renseignement de Pékin a fait l’effet d’une bombe aux États-Unis. Elle rappelle aussi que le \"sexpionage\" est un procédé que Pékin maîtrise et utilise…"
+ },
+ {
+  "id": "5a8d6ec887be",
+  "titre": "[Décodeur] Je ne crois pas ce que je vois",
+  "lien": "https://lesoleil.sn/le-decodeur/decodeur-je-ne-crois-pas-ce-que-je-vois/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-09T17:36:09+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "extrait": "Avec l’intelligence artificielle, fabriquer un faux ne prend plus que quelques minutes. Le démenti prend toujours des heures. Face à cette course perdue d’avance, la riposte la plus durable ne se joue pas seulement dans les rédactions : elle se joue dans la tête du public. « Je ne crois que ce que…"
+ },
+ {
+  "id": "370d15c44962",
+  "titre": "Bruce Willis, dont le déclin est inexorable, se comporte désormais comme «un bébé»",
+  "lien": "https://www.seneweb.com/fr/news/People/bruce-willis-dont-le-declin-est-inexorable-se-comporte-desormais-comme-un-bebe_n_999003135.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-09T17:34:09+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "extrait": "Atteint de démence fronto-temporale, Bruce Willis continue de voir son état se détériorer..."
+ },
+ {
+  "id": "df0ce1a49372",
+  "titre": "Comment de fausses vidéos sont utilisées pour décrédibiliser les inondations à Gaza",
+  "lien": "https://www.france24.com/fr/moyen-orient/20261109-comment-de-fausses-vid%C3%A9os-sont-utilis%C3%A9es-pour-d%C3%A9cr%C3%A9dibiliser-les-inondations-%C3%A0-gaza",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-09T17:30:52+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "extrait": "Le 6 et 7 novembre, des inondations ont touché des camps de réfugiés dans la bande de Gaza. De nombreuses vidéos, partagées sur les réseaux sociaux montrent la détresse des habitants. Cependant, de fausses vidéos, générées par l’intelligence artificielle, viennent semer le doute et sont…"
+ },
+ {
+  "id": "437a2b10e25e",
+  "titre": "Ucad : Les élections des amicales d’étudiants prévues à partir de janvier 2027",
+  "lien": "https://www.seneweb.com/fr/news/Education/ucad-les-elections-des-amicales-detudiants-prevues-a-partir-de-janvier-2027_n_999003134.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-09T17:28:31+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "extrait": "Le renouvellement des amicales des étudiants se tiendra à partir de janvier 2027"
+ },
+ {
+  "id": "21af7d39b8f1",
+  "titre": "Gaza : de fortes pluies font quatre morts dans un camp de déplacés palestiniens",
+  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261109-gaza-de-fortes-pluies-font-quatre-morts-dans-un-camp-de-d%C3%A9plac%C3%A9s-palestiniens",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-09T17:23:27+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "extrait": "Des pluies torrentielles dans ​la bande de Gaza ont provoqué l'effondrement d'un talus de sable et de pierres sur des tentes de Palestiniens déplacés, tuant une femme et ​trois enfants. Près de 70 000 tentes de camps où vivent des déplacés ont été inondées."
  },
  {
   "id": "0efcbef5f86e",
@@ -31,6 +130,28 @@
   "rubrique": "Faits divers",
   "zone": null,
   "extrait": "Le Conseil pour l'Observation des Règles d'Éthique et de Déontologie dans les médias interpelle le... www.pressafrik.com"
+ },
+ {
+  "id": "350722fb98ee",
+  "titre": "Saisie record de méthamphétamine au Kenya, plaque tournante du trafic mondial",
+  "lien": "https://www.rfi.fr/fr/afrique/20261109-saisie-record-de-m%C3%A9thamph%C3%A9tamine-au-kenya-plaque-tournante-du-trafic-mondial",
+  "source": "RFI Afrique",
+  "site_source": "https://www.rfi.fr/fr/afrique/",
+  "date": "2026-11-09T17:17:56+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "extrait": "Au Kenya, une cargaison de 454 kilos de drogue a été saisie, dimanche 8 novembre, dans un petit village de la côte. D'après un communiqué de la police, il s'agirait de méthamphétamine, une drogue de synthèse très addictive. La valeur de la cargaison saisie tourne autour des 25 millions d'euros.…"
+ },
+ {
+  "id": "7db67c958bb9",
+  "titre": "🔴 DIRECT | Suivez l’entraînement des Lions avant Sénégal–Soudan",
+  "lien": "https://www.dakaractu.com/🔴-DIRECT--Suivez-l-entrainement-des-Lions-avant-Senegal-Soudan_a277999.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-09T17:16:00+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "extrait": "🔴 DIRECT | Suivez l’entraînement des Lions avant Sénégal–Soudan www.dakaractu.com"
  },
  {
   "id": "2bb6bdc121e6",
@@ -251,6 +372,17 @@
   "rubrique": "Monde",
   "zone": "Monde",
   "extrait": "Il avait été reconnu coupable du viol de l’une de ses fans, âgée de 21 ans au moment des faits, et d’avoir agressé sexuellement trois autres femmes."
+ },
+ {
+  "id": "b3b868d8e396",
+  "titre": "RDC: plus de 500 militaires congolais condamnés depuis 2025, dont 381 à mort, selon nos chiffres",
+  "lien": "https://www.rfi.fr/fr/afrique/20261109-rdc-plus-de-500-militaires-congolais-condamn%C3%A9s-depuis-2025-dont-381-%C3%A0-mort-selon-nos-chiffres",
+  "source": "RFI Afrique",
+  "site_source": "https://www.rfi.fr/fr/afrique/",
+  "date": "2026-11-09T16:39:11+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "extrait": "Dans l'est de la RDC, la justice militaire a condamné à mort 66 soldats de l'armée congolaise, vendredi 6 novembre à Walikale, dans la province du Nord-Kivu. Les poursuites portaient notamment sur la « lâcheté devant l'ennemi », la « révolte militaire » et le « refus d'obéir aux ordres »."
  },
  {
   "id": "9237d252d83d",
@@ -724,6 +856,28 @@
   "rubrique": "Afrique",
   "zone": "Afrique",
   "extrait": "Plus de 70 incidents avaient été signalés dans la région depuis novembre 2023, dont environ la moitié s’était produite en 2026."
+ },
+ {
+  "id": "1932e23dea31",
+  "titre": "Madagascar: le gouvernement demande l'annulation de la dette contractée pour la construction du téléphérique",
+  "lien": "https://www.rfi.fr/fr/afrique/20261109-madagascar-le-gouvernement-demande-l-annulation-de-la-dette-contract%C3%A9e-pour-la-construction-du-t%C3%A9l%C3%A9ph%C3%A9rique",
+  "source": "RFI Afrique",
+  "site_source": "https://www.rfi.fr/fr/afrique/",
+  "date": "2026-11-09T14:45:18+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "extrait": "Le Conseil des ministres a approuvé une demande d'annulation de la dette contractée auprès du Trésor français et de la Société générale pour la construction du téléphérique d'Antananarivo. Le gouvernement se montre par ailleurs favorable à un système de concession pour relancer ce mode de…"
+ },
+ {
+  "id": "e0ff67f6d89c",
+  "titre": "Centrafrique: la pénurie de carburant provoque une inflation dans la capitale",
+  "lien": "https://www.rfi.fr/fr/afrique/20261109-centrafrique-la-p%C3%A9nurie-de-carburant-provoque-une-inflation-dans-la-capitale",
+  "source": "RFI Afrique",
+  "site_source": "https://www.rfi.fr/fr/afrique/",
+  "date": "2026-11-09T14:44:31+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "extrait": "La pénurie de carburant continue de perturber le quotidien des habitants de Bangui. Depuis trois semaines, plusieurs stations-service connaissent des difficultés d'approvisionnement. Conséquence : les moyens de transport se font rares, les tarifs des déplacements augmentent et les prix de certaines…"
  },
  {
   "id": "47f9f8db8aec",
