@@ -10,6 +10,10 @@
     <li><strong>Les synthèses</strong> : quand plusieurs médias parlent du même sujet, un assistant automatique rédige un court résumé des faits avec ses propres mots, en citant toutes ses sources. Elles portent l'étiquette « Synthèse ».</li>
     <li><strong>Les articles de la rédaction</strong> : écrits par l'équipe d'AskanInfo, ils portent l'étiquette « Rédaction ».</li>
   </ul>
+  {% if reseaux %}
+  <h2>Nous suivre</h2>
+  <ul>{% for nom, lien in reseaux %}<li><a href="{{ lien }}" rel="noopener">{{ nom }}</a></li>{% endfor %}</ul>
+  {% endif %}
   <h2>Signaler une erreur</h2>
   <p>Une synthèse automatique peut contenir des erreurs. Signalez-les-nous à <a href="mailto:{{ contact }}">{{ contact }}</a> : elles seront corrigées.</p>
 </article>

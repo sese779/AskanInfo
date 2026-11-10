@@ -148,3 +148,12 @@ content:
       - name: goatcounter
         label: Code GoatCounter (statistiques ; vide = désactivé)
         type: string
+      - name: facebook
+        label: Page Facebook – nom d'utilisateur (ex. askaninfo)
+        type: string
+      - name: whatsapp
+        label: Chaîne WhatsApp – adresse complète (https://whatsapp.com/channel/…)
+        type: string
+      - name: telegram
+        label: Chaîne Telegram – nom sans @ (ex. askaninfo)
+        type: string

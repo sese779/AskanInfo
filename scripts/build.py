@@ -236,9 +236,19 @@ def main():
     shutil.copytree(ROOT / "static", OUT / "static")
 
     contact = str(reglages.get("contact") or CONTACT).strip()
+    reseaux = []   # liens « Suivez-nous », seulement s'ils sont valides
+    fb = str(reglages.get("facebook") or "").strip().lstrip("@")
+    if re.fullmatch(r"[A-Za-z0-9.]{5,50}", fb):
+        reseaux.append(("Facebook", f"https://www.facebook.com/{fb}"))
+    wa = str(reglages.get("whatsapp") or "").strip()
+    if re.fullmatch(r"https://(www\.)?whatsapp\.com/channel/[A-Za-z0-9]{10,40}", wa):
+        reseaux.append(("WhatsApp", wa))
+    tg = str(reglages.get("telegram") or "").strip().lstrip("@")
+    if re.fullmatch(r"[A-Za-z0-9_]{5,32}", tg):
+        reseaux.append(("Telegram", f"https://t.me/{tg}"))
     commun = {"image_defaut": f"{URL_SITE}/og/askaninfo.png", "nom_site": NOM_SITE, "url_site": URL_SITE, "contact": contact,
               "slogan_fort": reglages.get("slogan_fort", ""), "slogan_suite": reglages.get("slogan_suite", ""),
-              "goatcounter": goatcounter, "description": DESCRIPTION, "rubriques": rubriques, "slugify": slugify,
+              "goatcounter": goatcounter, "reseaux": reseaux, "description": DESCRIPTION, "rubriques": rubriques, "slugify": slugify,
               "maj": date_fr(datetime.now(timezone.utc))}
 
     pages = []
