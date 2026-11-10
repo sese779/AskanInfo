@@ -19,6 +19,7 @@ from jinja2 import Environment, FileSystemLoader
 
 from check_overlap import passages_copies
 from images_partage import image_article, image_site
+from pwa import PAGES_HORS_LIGNE, ecrire_pwa
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "_site"
@@ -270,10 +271,14 @@ def main():
     episodes = lire_episodes({c["slug"]: c for c in a_la_une})
     ecrire("podcast.html", "podcast.html", "", titre_page="Podcast – La revue de presse", episodes=episodes)
     ecrire_message_du_jour(env, a_la_une, episodes, commun)
+    ecrire("application.html", "application.html", "", titre_page="L'application", nb_hors_ligne=PAGES_HORS_LIGNE)
+    (OUT / "hors-ligne.html").write_text(env.get_template("hors-ligne.html").render(
+        racine="/", chemin="hors-ligne.html", titre_page="Hors connexion", **commun), encoding="utf-8")
     (OUT / "podcast.xml").write_text(env.get_template("podcast.xml").render(
         episodes=episodes[:100], **commun), encoding="utf-8")
     (OUT / ".nojekyll").touch()
     ecrire_sitemap(pages)
+    ecrire_pwa(OUT, a_la_une, URL_SITE, NOM_SITE, DESCRIPTION)
     (OUT / "flux.xml").write_text(env.get_template("flux.xml").render(
         une=a_la_une[:30], **commun), encoding="utf-8")
     (OUT / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {URL_SITE}/sitemap.xml\n")

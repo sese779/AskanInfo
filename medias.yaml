@@ -130,7 +130,7 @@ sources:
     flux: https://www.diasporaactu.net/xml/syndication.rss
     filtre: false
     diaspora: true
-    actif: true
+    actif: false   # flux introuvable (404) le 10/11 : coller la bonne adresse RSS puis réactiver
 
   - nom: Xalima (Diaspora)
     site: https://xalimasn.com/category/diaspora/
@@ -143,10 +143,10 @@ sources:
     site: https://www.diasporavision.eu
     flux: https://www.diasporavision.eu/feed/
     filtre: false
-    actif: true
+    actif: false   # flux introuvable (404) le 10/11 : coller la bonne adresse RSS puis réactiver
 
   - nom: Diasporanews
     site: https://diasporanews.sn
     flux: https://diasporanews.sn/feed/
     filtre: false
-    actif: true
+    actif: false   # le domaine ne répond plus (10/11) : site fermé ou adresse changée
