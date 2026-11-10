@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{% if titre_page %}{{ titre_page }} – {% endif %}{{ nom_site }}</title>
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src {% if goatcounter %}https://gc.zgo.at{% else %}'none'{% endif %};{% if goatcounter %} connect-src https://{{ goatcounter }}.goatcounter.com;{% endif %} object-src 'none'; base-uri 'none'; form-action 'none'; img-src 'self' https: data:; style-src 'self'; frame-src https://www.youtube.com https://www.youtube-nocookie.com; media-src 'self' https://github.com https://objects.githubusercontent.com https://release-assets.githubusercontent.com">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'{% if goatcounter %} https://gc.zgo.at{% endif %}; worker-src 'self';{% if goatcounter %} connect-src 'self' https://{{ goatcounter }}.goatcounter.com;{% endif %} object-src 'none'; base-uri 'none'; form-action 'none'; img-src 'self' https: data:; style-src 'self'; frame-src https://www.youtube.com https://www.youtube-nocookie.com; media-src 'self' https://github.com https://objects.githubusercontent.com https://release-assets.githubusercontent.com">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 {% if chemin == "partage.html" %}<meta name="robots" content="noindex">{% endif %}
 {% set desc = c.chapo if c is defined and c.chapo else description %}
@@ -22,6 +22,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <link rel="alternate" type="application/rss+xml" title="{{ nom_site }}" href="{{ racine }}flux.xml">
 <link rel="stylesheet" href="{{ racine }}static/style.css">
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="#00853f">
+<link rel="icon" type="image/png" sizes="192x192" href="/static/icones/icone-192.png">
+<link rel="apple-touch-icon" href="/static/icones/icone-180.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="AskanInfo">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<script src="/static/app.js" defer></script>
 {% if goatcounter %}<script data-goatcounter="https://{{ goatcounter }}.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>{% endif %}
 </head>
 <body>
@@ -34,6 +42,7 @@
     <a href="{{ racine }}index.html">Accueil</a>
     {% for r in rubriques %}<a href="{{ racine }}rubrique/{{ slugify(r) }}.html">{{ r }}</a>{% endfor %}
     <a href="{{ racine }}podcast.html">🎧 Podcast</a>
+    <a href="{{ racine }}application.html">📱 Appli</a>
     <a href="{{ racine }}archives.html">Archives</a>
   </nav>
 </header>
@@ -43,7 +52,7 @@
 <footer class="pied">
   <div class="conteneur">
     <p>Mis à jour le {{ maj }} (heure GMT, celle de Dakar).</p>
-    <p><a href="{{ racine }}sources.html">Nos sources</a> · <a href="{{ racine }}podcast.html">Podcast</a> · <a href="{{ racine }}archives.html">Archives</a> · <a href="{{ racine }}a-propos.html">À propos et transparence</a> · <a href="{{ racine }}flux.xml">Flux RSS</a> · <a href="mailto:{{ contact }}">{{ contact }}</a></p>
+    <p><a href="{{ racine }}sources.html">Nos sources</a> · <a href="{{ racine }}podcast.html">Podcast</a> · <a href="{{ racine }}application.html">Application</a> · <a href="{{ racine }}archives.html">Archives</a> · <a href="{{ racine }}a-propos.html">À propos et transparence</a> · <a href="{{ racine }}flux.xml">Flux RSS</a> · <a href="mailto:{{ contact }}">{{ contact }}</a></p>
     <p>Les liens du fil renvoient vers les articles originaux, qui appartiennent à leurs auteurs.</p>
   </div>
 </footer>

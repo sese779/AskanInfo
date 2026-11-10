@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block contenu %}
+<article class="article">
+  <p class="retour"><a href="{{ racine }}index.html">← Retour à l'accueil</a></p>
+  <h1>📱 L'application AskanInfo</h1>
+  <p class="chapo">Installez AskanInfo sur votre téléphone : une icône sur l'écran d'accueil, l'ouverture en plein écran, et les derniers articles lisibles même sans connexion.</p>
+  <p class="meta">Gratuite, sans compte, sans publicité, et elle ne prend presque pas de place.</p>
+
+  <p><button class="installer bouton-installer" hidden>Installer l'application</button></p>
+  <p class="deja-installee" hidden>✅ L'application est installée. Retrouvez AskanInfo sur votre écran d'accueil.</p>
+
+  <h2>Sur Android (Chrome)</h2>
+  <ol>
+    <li>Appuyez sur le bouton vert « Installer l'application » ci-dessus, s'il s'affiche.</li>
+    <li>Sinon, ouvrez le menu <strong>⋮</strong> en haut à droite de Chrome, puis <strong>« Installer l'application »</strong> ou <strong>« Ajouter à l'écran d'accueil »</strong>.</li>
+  </ol>
+
+  <h2>Sur iPhone (Safari)</h2>
+  <ol>
+    <li>Ouvrez askaninfo.com dans <strong>Safari</strong>.</li>
+    <li>Appuyez sur le bouton <strong>Partager</strong> (le carré avec une flèche vers le haut).</li>
+    <li>Choisissez <strong>« Sur l'écran d'accueil »</strong>, puis <strong>Ajouter</strong>.</li>
+  </ol>
+
+  <h2>Hors connexion</h2>
+  <p>Les {{ nb_hors_ligne }} derniers articles, la page d'accueil et la page du podcast sont enregistrés automatiquement : vous pouvez les relire sans réseau. Le reste s'affiche dès que la connexion revient.</p>
+</article>
+{% endblock %}
