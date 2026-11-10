@@ -7,7 +7,6 @@ if ("serviceWorker" in navigator) {
 const MEMOIRE_FERME = "askaninfo-bandeau-ferme";   // date de fermeture du bandeau
 const MEMOIRE_INSTALLEE = "askaninfo-appli-installee";
 const DELAI_RETOUR = 30 * 24 * 3600 * 1000;        // 30 jours
-const MEMOIRE_PAGES = "askaninfo-pages-vues";      // bandeau seulement à partir de la 2e page
 
 function lire(cle) { try { return localStorage.getItem(cle); } catch (e) { return null; } }
 function ecrire(cle, valeur) { try { localStorage.setItem(cle, valeur); } catch (e) { /* navigation privée */ } }
@@ -32,7 +31,7 @@ const safariIOS = surIOS && /Safari/.test(ua) && !/CriOS|FxiOS|EdgiOS/.test(ua);
 const surMobile = surIOS || /Android|Mobi/i.test(ua);   // bandeau réservé aux téléphones et tablettes
 
 function bandeauAutorise() {
-  if (!surMobile || dansLAppli || lire(MEMOIRE_INSTALLEE) || pagesVues < 2) return false;
+  if (!surMobile || dansLAppli || lire(MEMOIRE_INSTALLEE)) return false;
   const ferme = Number(lire(MEMOIRE_FERME) || 0);
   return !ferme || Date.now() - ferme > DELAI_RETOUR;
 }
@@ -59,8 +58,6 @@ if (dansLAppli) {
     }
   } catch (e) { /* stockage indisponible */ }
 }
-const pagesVues = Number(lire(MEMOIRE_PAGES) || 0) + 1;
-ecrire(MEMOIRE_PAGES, String(pagesVues));
 
 let invitation = null;
 window.addEventListener("beforeinstallprompt", (e) => {   // Android / Chrome / Edge
