@@ -25,3 +25,9 @@ content/syntheses/2026-11-10-diomaye-recu-par-macron-elysee.md
 content/syntheses/2026-11-10-fatick-faux-lieutenant-douanes.md
 content/syntheses/2026-11-10-lions-renforts-avant-soudan.md
 content/syntheses/2026-11-10-lompoul-ministre-interieur-passeurs.md
+content/podcast/2026-11-10.md
+content/syntheses/2026-11-10-agression-acide-inculpation-assassinat.md
+content/syntheses/2026-11-10-budget-affaires-etrangeres-rejete.md
+content/syntheses/2026-11-10-emigration-departs-dejoues.md
+content/syntheses/2026-11-10-joj-taekwondo-or-bronze.md
+content/syntheses/2026-11-10-rosso-filiere-papiers-etat-civil.md
