@@ -20,3 +20,8 @@ content/syntheses/2026-11-09-diomaye-paris-phnom-penh.md
 content/syntheses/2026-11-09-joj-basket-3x3-or-bronze.md
 content/syntheses/2026-11-09-kebemer-salmonella-identifiee.md
 content/syntheses/2026-11-09-lompoul-bilan-39-morts.md
+content/syntheses/2026-11-10-bijou-ngone-libre-apres-audition.md
+content/syntheses/2026-11-10-diomaye-recu-par-macron-elysee.md
+content/syntheses/2026-11-10-fatick-faux-lieutenant-douanes.md
+content/syntheses/2026-11-10-lions-renforts-avant-soudan.md
+content/syntheses/2026-11-10-lompoul-ministre-interieur-passeurs.md
