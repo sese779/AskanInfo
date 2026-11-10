@@ -61,6 +61,7 @@
   <div class="conteneur">
     <p>Mis à jour le {{ maj }} (heure GMT, celle de Dakar).</p>
     <p><a href="{{ racine }}sources.html">Nos sources</a> · <a href="{{ racine }}podcast.html">Podcast</a> · <a href="{{ racine }}application.html">Application</a> · <a href="{{ racine }}archives.html">Archives</a> · <a href="{{ racine }}a-propos.html">À propos et transparence</a> · <a href="{{ racine }}flux.xml">Flux RSS</a> · <a href="mailto:{{ contact }}">{{ contact }}</a></p>
+    {% if reseaux %}<p>Suivez-nous : {% for nom, lien in reseaux %}<a href="{{ lien }}" rel="noopener">{{ nom }}</a>{% if not loop.last %} · {% endif %}{% endfor %}</p>{% endif %}
     <p>Les liens du fil renvoient vers les articles originaux, qui appartiennent à leurs auteurs.</p>
   </div>
 </footer>
