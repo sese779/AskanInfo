@@ -33,6 +33,14 @@
 {% if goatcounter %}<script data-goatcounter="https://{{ goatcounter }}.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>{% endif %}
 </head>
 <body>
+<div class="bandeau-appli" id="bandeau-appli" hidden>
+  <div class="conteneur">
+    <span class="bandeau-texte">📱 L'appli <strong>AskanInfo</strong>, gratuite et lisible hors connexion</span>
+    <button type="button" class="installer bandeau-bouton" hidden>Installer</button>
+    <a class="bandeau-bouton bandeau-ios" href="{{ racine }}application.html" hidden>Comment faire</a>
+    <button type="button" class="bandeau-fermer" aria-label="Fermer">×</button>
+  </div>
+</div>
 <header class="entete">
   <div class="conteneur">
     <a class="logo" href="{{ racine }}index.html">Askan<span>Info</span></a>
