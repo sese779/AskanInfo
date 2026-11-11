@@ -98,3 +98,9 @@ window.addEventListener("appinstalled", () => {
   document.querySelectorAll(".installer").forEach((b) => { b.hidden = true; });
   document.querySelectorAll(".deja-installee").forEach((b) => { b.hidden = false; });
 });
+
+// Image de sujet introuvable : on retire le cadre plutôt que d'afficher une image cassée
+document.addEventListener("error", function (e) {
+  var f = e.target && e.target.closest && e.target.closest("figure.illustration");
+  if (f) f.remove();
+}, true);

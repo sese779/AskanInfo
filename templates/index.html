@@ -1,14 +1,44 @@
 {% extends "base.html" %}
+{% macro illustration(img) %}{% if img %}<figure class="illustration {{ img.type }}"><img src="{{ img.image }}" alt="" loading="lazy"><figcaption>{{ img.credit }}</figcaption></figure>{% endif %}{% endmacro %}
+{% macro carte_sujet(s, grande=False) %}
+<article class="carte sujet{% if grande %} grande{% endif %}">
+  {{ illustration(s.image) }}
+  <p class="meta"><span class="pastille">{{ s.rubrique }}</span> {{ s.nb_medias }} médias en parlent</p>
+  <h3><a href="{{ s.tete.lien }}" rel="noopener">{{ s.tete.titre }}</a></h3>
+  <p class="meta">{{ s.tete.source }} · {{ s.tete.date_fr }}</p>
+  {% if s.synthese %}<p class="lien-synthese"><span class="etiquette synthese">Synthèse</span> <a href="{{ racine }}article/{{ s.synthese.slug }}.html">{{ s.synthese.titre }}</a></p>{% endif %}
+  <ul class="autres">
+  {% for i in s.autres[:3] %}<li><span class="src">{{ i.source }}</span> <a href="{{ i.lien }}" rel="noopener">{{ i.titre }}</a></li>{% endfor %}
+  </ul>
+  {% if s.tous|length > 4 %}
+  <details><summary>Couverture complète : {{ s.tous|length }} articles, {{ s.nb_medias }} médias</summary>
+    <ul class="autres">{% for i in s.tous[1:] %}<li><span class="src">{{ i.source }}</span> <a href="{{ i.lien }}" rel="noopener">{{ i.titre }}</a> <span class="meta">{{ i.date_fr }}</span></li>{% endfor %}</ul>
+  </details>
+  {% endif %}
+</article>
+{% endmacro %}
 {% block contenu %}
 {% if titre_page %}<p class="retour"><a href="{{ racine }}index.html">← Retour à l'accueil</a></p>
 <h1 class="titre-rubrique">{{ titre_page }}</h1>{% endif %}
 
-{% if une %}
+{% if une_sujets %}
 <section>
   <h2 class="section">À la une</h2>
+  <p class="meta sous-titre">Les sujets repris par le plus de médias en ce moment</p>
+  <div class="une">
+    <div class="principale">{% for s in une_sujets %}{% if loop.index == 1 or loop.index > 3 %}<div class="ordre-{{ loop.index }}">{{ carte_sujet(s, loop.index == 1) }}</div>{% endif %}{% endfor %}</div>
+    {% if une_sujets|length > 1 %}<div class="colonne">{% for s in une_sujets[1:3] %}<div class="ordre-{{ loop.index + 1 }}">{{ carte_sujet(s) }}</div>{% endfor %}</div>{% endif %}
+  </div>
+</section>
+{% endif %}
+
+{% if une %}
+<section>
+  <h2 class="section">{{ "Nos synthèses" if une_sujets else "À la une" }}</h2>
   <div class="grille">
   {% for c in une %}
     <article class="carte">
+      {{ illustration(c.illustration) }}
       <p class="meta"><span class="etiquette {{ c.type }}">{{ "Rédaction" if c.type == "article" else "Synthèse" }}</span> {{ c.rubrique }}</p>
       <h3><a href="{{ racine }}article/{{ c.slug }}.html">{{ c.titre }}</a></h3>
       {% if c.chapo %}<p>{{ c.chapo }}</p>{% endif %}
@@ -21,15 +51,22 @@
 
 <section>
   <h2 class="section">Le fil de l'actualité</h2>
-  {% if fil %}
+  {% if groupes %}
   <ul class="fil">
-  {% for i in fil %}
+  {% for g in groupes %}
+    {% set i = g.tete %}
     <li>
-      <a href="{{ i.lien }}">{{ i.titre }}</a>
+      <a href="{{ i.lien }}" rel="noopener">{{ i.titre }}</a>
       <span class="meta">{{ i.source }} · {{ i.rubrique }} · {{ i.date_fr }}</span>
+      {% if g.tous|length > 1 %}
+      <details class="plus"><summary>+ {{ g.tous|length - 1 }} autre{{ "s" if g.tous|length > 2 }} article{{ "s" if g.tous|length > 2 }} sur ce sujet</summary>
+        <ul class="autres">{% for j in g.tous[1:] %}<li><span class="src">{{ j.source }}</span> <a href="{{ j.lien }}" rel="noopener">{{ j.titre }}</a></li>{% endfor %}</ul>
+      </details>
+      {% endif %}
     </li>
   {% endfor %}
   </ul>
+  {% if voir_tout %}<p class="voir-tout"><a href="{{ racine }}fil.html">Voir tout le fil de l'actualité →</a></p>{% endif %}
   {% else %}
   <p>Aucun article pour le moment.</p>
   {% endif %}
