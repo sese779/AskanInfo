@@ -1,0 +1,19 @@
+# Réglages de l'agent de rédaction (lus à chaque passage, 8h47 et 17h47).
+# Modifiables dans Pages CMS, menu « Rédaction (agent) ».
+# Une valeur hors des limites indiquées est remplacée par la valeur par défaut.
+
+syntheses_par_passage: 5        # nombre maximum de synthèses par passage (1 à 8)
+sources_minimum: 2              # sources principales différentes exigées par sujet (2 à 4)
+mots_minimum: 120               # longueur d'une synthèse (80 à 200)
+mots_maximum: 250               # (150 à 400)
+
+rubriques_prioritaires: []      # rubriques à privilégier à importance égale (ex. Sport, Diaspora)
+sujets_a_eviter: []             # mots-clés de sujets à ne pas traiter (ex. un feuilleton people)
+
+sujet_diaspora_quotidien: true  # un sujet « vie des Sénégalais à l'étranger » par jour s'il existe
+senegalais_du_week_end: true    # synthèse du lundi matin sur les joueurs à l'étranger
+joueurs_minimum: 3              # joueurs concernés pour l'écrire (2 à 6)
+
+podcast: true                   # revue de presse audio du soir
+podcast_mots_minimum: 400       # (300 à 600)
+podcast_mots_maximum: 700       # (500 à 1000)

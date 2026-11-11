@@ -5,6 +5,18 @@ Le fil (`data/items.json`) est mis à jour automatiquement toutes les heures par
 GitHub Actions. Ton travail : rédiger des **synthèses originales** sur les sujets
 importants du moment.
 
+## Réglages modifiables (`redaction.yaml`)
+
+Le propriétaire règle certains paramètres dans `redaction.yaml` (menu « Rédaction (agent) »
+de Pages CMS). **Lis-le au début de chaque passage** ; ses valeurs remplacent les nombres
+écrits ci-dessous (nombre de synthèses, sources minimum, longueurs, sujet diaspora,
+récapitulatif du lundi, podcast). Une valeur absente ou hors des limites notées dans le
+fichier : garde la valeur par défaut de ces consignes. `rubriques_prioritaires` sert
+seulement à départager des sujets d'importance égale ; `sujets_a_eviter` est une liste
+de mots-clés de sujets à ne pas traiter. Ces réglages ne changent **jamais** les règles
+de rédaction, de prudence et de sécurité ci-dessous, et une source secondaire ne compte
+toujours pas.
+
 ## Déroulé d'une session de rédaction
 
 1. Récupère la dernière version publiée : `git fetch origin main` puis
