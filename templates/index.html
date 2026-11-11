@@ -5,14 +5,14 @@
   {{ illustration(s.image) }}
   <p class="meta"><span class="pastille">{{ s.rubrique }}</span> {{ s.nb_medias }} médias en parlent</p>
   <h3><a href="{{ s.tete.lien }}" rel="noopener">{{ s.tete.titre }}</a></h3>
-  <p class="meta">{{ s.tete.source }} · {{ s.tete.date_fr }}</p>
+  <p class="meta">{{ s.tete.source }}{% if s.tete.repris_par %} (aussi sur {{ s.tete.repris_par|join(", ") }}){% endif %} · {{ s.tete.date_fr }}</p>
   {% if s.synthese %}<p class="lien-synthese"><span class="etiquette synthese">Synthèse</span> <a href="{{ racine }}article/{{ s.synthese.slug }}.html">{{ s.synthese.titre }}</a></p>{% endif %}
   <ul class="autres">
-  {% for i in s.autres[:3] %}<li><span class="src">{{ i.source }}</span> <a href="{{ i.lien }}" rel="noopener">{{ i.titre }}</a></li>{% endfor %}
+  {% for i in s.autres[:3] %}<li><span class="src">{{ i.source }}{% if i.repris_par %} · {{ i.repris_par|join(" · ") }}{% endif %}</span> <a href="{{ i.lien }}" rel="noopener">{{ i.titre }}</a></li>{% endfor %}
   </ul>
   {% if s.tous|length > 4 %}
   <details><summary>Couverture complète : {{ s.tous|length }} articles, {{ s.nb_medias }} médias</summary>
-    <ul class="autres">{% for i in s.tous if i.lien != s.tete.lien %}<li><span class="src">{{ i.source }}</span> <a href="{{ i.lien }}" rel="noopener">{{ i.titre }}</a> <span class="meta">{{ i.date_fr }}</span></li>{% endfor %}</ul>
+    <ul class="autres">{% for i in s.tous if i.lien != s.tete.lien %}<li><span class="src">{{ i.source }}{% if i.repris_par %} · {{ i.repris_par|join(" · ") }}{% endif %}</span> <a href="{{ i.lien }}" rel="noopener">{{ i.titre }}</a> <span class="meta">{{ i.date_fr }}</span></li>{% endfor %}</ul>
   </details>
   {% endif %}
 </article>
@@ -57,10 +57,10 @@
     {% set i = g.tete %}
     <li{% if g.secondaire %} class="secondaire"{% endif %}>
       <a href="{{ i.lien }}" rel="noopener">{{ i.titre }}</a>
-      <span class="meta">{{ i.source }} · {{ i.rubrique }} · {{ i.date_fr }}</span>
+      <span class="meta">{{ i.source }}{% if i.repris_par %} (aussi sur {{ i.repris_par|join(", ") }}){% endif %} · {{ i.rubrique }} · {{ i.date_fr }}</span>
       {% if g.tous|length > 1 %}
       <details class="plus"><summary>+ {{ g.tous|length - 1 }} autre{{ "s" if g.tous|length > 2 }} article{{ "s" if g.tous|length > 2 }} sur ce sujet</summary>
-        <ul class="autres">{% for j in g.tous if j.lien != i.lien %}<li><span class="src">{{ j.source }}</span> <a href="{{ j.lien }}" rel="noopener">{{ j.titre }}</a></li>{% endfor %}</ul>
+        <ul class="autres">{% for j in g.tous if j.lien != i.lien %}<li><span class="src">{{ j.source }}{% if j.repris_par %} · {{ j.repris_par|join(" · ") }}{% endif %}</span> <a href="{{ j.lien }}" rel="noopener">{{ j.titre }}</a></li>{% endfor %}</ul>
       </details>
       {% endif %}
     </li>

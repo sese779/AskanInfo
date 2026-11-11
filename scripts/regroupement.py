@@ -31,6 +31,56 @@ def mots(titre):
             if len(m) > 2 and m not in MOTS_VIDES}
 
 
+def _mots_complets(texte):
+    return set(re.findall(r"[a-z0-9]+", normaliser(texte)))
+
+
+def _proche(a, b):
+    return len(a & b) / max(1, len(a | b))
+
+
+def dedoublonner(items, heures=48):
+    """Retire les articles identiques (items triés du plus récent au plus ancien).
+
+    - même titre (ou presque) ET même début d'article : c'est le même article,
+      republié par le même média ou repris par un autre site ;
+    - on garde un seul exemplaire : de préférence celui d'un média principal, sinon le
+      plus ancien (l'original) ; les autres médias sont notés dans « repris_par ».
+    """
+    gardes = []
+    for item in reversed(items):          # du plus ancien au plus récent
+        titre, extrait = _mots_complets(item["titre"]), _mots_complets(item.get("extrait") or "")
+        double = None
+        for g in gardes:
+            if abs(_age(g) - _age(item)) > heures * 3600:
+                continue
+            t = _proche(titre, g["_titre"])
+            e = _proche(extrait, g["_extrait"]) if extrait and g["_extrait"] else None
+            if t >= 0.95 or (t >= 0.7 and e is not None and e >= 0.6):
+                double = g
+                break
+        if double is None:
+            gardes.append(dict(item, _titre=titre, _extrait=extrait, repris_par=[]))
+            continue
+        if item["source"] == double["source"]:
+            continue                       # même média : on garde le premier
+        if double.get("secondaire") and not item.get("secondaire"):
+            # l'exemplaire du média principal prend la place de celui du site secondaire
+            repris = double["repris_par"] + [double["source"]]
+            double.clear()
+            double.update(dict(item, _titre=titre, _extrait=extrait, repris_par=repris))
+        elif item["source"] not in double["repris_par"]:
+            double["repris_par"].append(item["source"])
+    resultat = [{k: v for k, v in g.items() if not k.startswith("_")} for g in gardes]
+    resultat.sort(key=lambda i: i["date"], reverse=True)
+    return resultat
+
+
+def _age(item):
+    from datetime import datetime
+    return datetime.fromisoformat(item["date"]).timestamp()
+
+
 def grouper(items):
     """items triés du plus récent au plus ancien -> liste de groupes (listes d'items)."""
     signatures = [mots(i["titre"]) for i in items]
@@ -111,7 +161,7 @@ def sujets(items, contenus, regles, maintenant, nb_une=5, heures=36):
                 "nb_principaux": len(principaux), "secondaire": not principaux,
                 "rubrique": g[0]["rubrique"], "synthese": synthese, "image": image_pour(titres, regles)}
 
-    groupes = [habiller(g) for g in grouper(items)]
+    groupes = [habiller(g) for g in grouper(dedoublonner(items))]
     limite = (maintenant - timedelta(hours=heures)).isoformat()
     # à la une : au moins 2 médias principaux (les sources secondaires complètent la carte)
     candidats = [s for s in groupes if s["nb_principaux"] >= 2 and s["tete"]["date"] >= limite]
