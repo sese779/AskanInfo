@@ -56,6 +56,8 @@ def _motif(mots):
 
 
 GEOGRAPHIQUES = ("Afrique", "Monde")
+# contenus publicitaires glissés dans certains flux (ex. « Comparing Casino Bonus Details »)
+PUBLICITE = re.compile(r"\bcasinos?\b|\bbetting\b|\bslot machines?\b|\bonline slots?\b|\bbonus details\b", re.I)
 
 
 PRIORITAIRES = ("Sport", "Diaspora")
@@ -151,7 +153,7 @@ def lire_source(source, config):
     for e in flux.entries:
         titre = nettoyer(e.get("title"))
         lien = (e.get("link") or "").strip()
-        if not titre or not lien_valide(lien):
+        if not titre or not lien_valide(lien) or PUBLICITE.search(titre):
             continue
         extrait = couper(nettoyer(e.get("summary")), LONGUEUR_EXTRAIT)
         texte = f"{titre} {extrait}"
@@ -197,10 +199,25 @@ def archiver(items):
         print(f"  archives {mois} : +{len(ajout)} article(s)")
 
 
+def ajouter_sport(config):
+    """joueurs.yaml : les joueurs et clubs sénégalais comptent comme « parle du Sénégal »
+    et rangent l'article en Sport ; les championnats étrangers rangent seulement en Sport."""
+    f = ROOT / "joueurs.yaml"
+    if not f.exists():
+        return
+    j = yaml.safe_load(f.read_text(encoding="utf-8")) or {}
+    noms = [str(x).strip() for x in (j.get("joueurs") or []) + (j.get("clubs_senegal") or []) if str(x).strip()]
+    competitions = [str(x).strip() for x in j.get("competitions") or [] if str(x).strip()]
+    config["mots_cles_senegal"] = list(config.get("mots_cles_senegal") or []) + noms
+    rubriques = config.setdefault("rubriques", {})
+    rubriques["Sport"] = list(rubriques.get("Sport") or []) + [n.lower() for n in noms + competitions]
+
+
 def main():
     config = yaml.safe_load((ROOT / "sources.yaml").read_text(encoding="utf-8"))
     config["sources"] = yaml.safe_load((ROOT / "medias.yaml").read_text(encoding="utf-8"))["sources"] or []
     sources = [s for s in config["sources"] if s.get("actif", True)]
+    ajouter_sport(config)
 
     anciens = json.loads(DATA.read_text(encoding="utf-8")) if DATA.exists() else []
     par_id = {i["id"]: i for i in anciens}

@@ -194,3 +194,21 @@ content:
             label: "Actif"
             type: boolean
             default: true
+
+  - name: joueurs
+    label: "Sport : joueurs et clubs"
+    type: file
+    path: joueurs.yaml
+    fields:
+      - name: joueurs
+        label: "Joueurs sénégalais suivis (prénom et nom)"
+        type: string
+        list: true
+      - name: clubs_senegal
+        label: "Clubs, compétitions et lutteurs du Sénégal"
+        type: string
+        list: true
+      - name: competitions
+        label: "Championnats étrangers (servent seulement à ranger en Sport)"
+        type: string
+        list: true

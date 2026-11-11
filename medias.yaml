@@ -242,6 +242,55 @@ sources:
   # --- Diaspora (adresses de flux à confirmer au premier passage) ---
   # diaspora: true = média consacré à la diaspora : ses articles vont dans
   # l'onglet Diaspora (sauf le sport).
+  # Sport international, filtré : seulement les articles qui citent le Sénégal,
+  # un joueur ou un club sénégalais (liste dans joueurs.yaml). Ajoutés le 11/11, à confirmer.
+  - nom: "RFI Sports"
+    site: https://www.rfi.fr/fr/sports
+    flux: https://www.rfi.fr/fr/sports/rss
+    filtre: true
+    actif: true
+
+  - nom: "France 24 Sports"
+    site: https://www.france24.com/fr/sports
+    flux: https://www.france24.com/fr/sports/rss
+    filtre: true
+    actif: true
+
+  - nom: "L'Équipe"
+    site: https://www.lequipe.fr
+    flux: https://dwh.lequipe.fr/api/edito/rss?path=/Football/
+    filtre: true
+    actif: true
+
+  - nom: "Afrik-Foot"
+    site: https://www.afrik-foot.com
+    flux: https://www.afrik-foot.com/feed
+    filtre: true
+    actif: true
+
+  # Rubriques « Diaspora » de sites sénégalais (tout va en Diaspora). Ajoutées le 11/11, à confirmer.
+  - nom: "Senenews Diaspora"
+    site: https://www.senenews.com
+    flux: https://www.senenews.com/category/diaspora/feed
+    filtre: false
+    diaspora: true
+    actif: true
+
+  - nom: "Senego Diaspora"
+    site: https://senego.com
+    flux: https://senego.com/category/diaspora/feed
+    filtre: false
+    diaspora: true
+    secondaire: true
+    actif: true
+
+  - nom: "Rewmi Diaspora"
+    site: https://www.rewmi.com
+    flux: https://www.rewmi.com/category/diaspora/feed/
+    filtre: false
+    diaspora: true
+    actif: true
+
   - nom: Diasporaactu
     site: https://www.diasporaactu.net
     flux: https://www.diasporaactu.net/xml/syndication.rss
