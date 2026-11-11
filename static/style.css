@@ -64,8 +64,13 @@ main { padding: 24px 16px 48px; }
 .bandeau-fermer { background: none; border: 0; color: #fff; font-size: 1.5rem; line-height: 1; cursor: pointer; padding: 0 4px; }
 /* À la une façon « sujets » : un sujet par carte, les autres médias en dessous */
 .sous-titre { margin: -4px 0 12px; }
-.une { display: grid; grid-template-columns: 2fr 1fr; gap: 16px; align-items: start; }
+.une { display: grid; grid-template-columns: 2fr 1fr; gap: 16px; }
 .une .principale, .une .colonne { display: grid; gap: 16px; }
+.une .principale { align-content: start; grid-auto-rows: auto; }
+.une .principale > div > .carte { height: 100%; }
+.une .colonne { display: flex; flex-direction: column; }
+.une .colonne > div:last-child { flex: 1; }
+.une .colonne > div:last-child > .carte { height: 100%; }
 .une .principale { grid-template-columns: 1fr 1fr; }
 .une .principale > div:first-child { grid-column: 1 / -1; }
 @media (max-width: 760px) {
