@@ -36,3 +36,9 @@ content/syntheses/2026-11-11-forum-paris-paix-diomaye-enfants.md
 content/syntheses/2026-11-11-kebemer-tiac-stabilisation.md
 content/syntheses/2026-11-11-orpaillage-clandestin-machines-detruites.md
 content/syntheses/2026-11-11-sesame-exportations.md
+content/podcast/2026-11-11.md
+content/syntheses/2026-11-11-ambassade-mali-expulsion-terrain.md
+content/syntheses/2026-11-11-lions-vieira-avant-soudan.md
+content/syntheses/2026-11-11-lompoul-aide-familles-victimes.md
+content/syntheses/2026-11-11-marine-sauvetages-ziguinchor-interpellations.md
+content/syntheses/2026-11-11-mbour-faux-cadavre-stade.md
