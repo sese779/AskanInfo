@@ -212,3 +212,73 @@ content:
         label: "Championnats étrangers (servent seulement à ranger en Sport)"
         type: string
         list: true
+
+  - name: redaction
+    label: "Rédaction (agent)"
+    type: file
+    path: redaction.yaml
+    fields:
+      - name: heures_passage
+        label: "Heures de passage de l'agent, heure de Dakar (1 à 3, ex. 8h47). Appliquées au passage suivant"
+        type: string
+        list: true
+      - name: syntheses_par_passage
+        label: "Nombre maximum de synthèses par passage (1 à 8)"
+        type: number
+        default: 5
+      - name: sources_minimum
+        label: "Sources principales exigées par sujet (2 à 4)"
+        type: number
+        default: 2
+      - name: mots_minimum
+        label: "Longueur minimale d'une synthèse, en mots (80 à 200)"
+        type: number
+        default: 120
+      - name: mots_maximum
+        label: "Longueur maximale d'une synthèse, en mots (150 à 400)"
+        type: number
+        default: 250
+      - name: rubriques_prioritaires
+        label: "Rubriques à privilégier à importance égale"
+        type: select
+        options:
+          multiple: true
+          values: [Politique, Société, Faits divers, Sport, Diaspora, Économie, Culture, Afrique, Monde, Actualité]
+      - name: sujets_a_eviter
+        label: "Mots-clés de sujets à ne pas traiter"
+        type: string
+        list: true
+      - name: sujet_diaspora_quotidien
+        label: "Un sujet « Sénégalais à l'étranger » par jour quand il existe"
+        type: boolean
+        default: true
+      - name: senegalais_du_week_end
+        label: "Synthèse du lundi « Les Sénégalais du week-end »"
+        type: boolean
+        default: true
+      - name: joueurs_minimum
+        label: "Joueurs concernés pour l'écrire (2 à 6)"
+        type: number
+        default: 3
+      - name: podcast
+        label: "Revue de presse audio du soir"
+        type: boolean
+        default: true
+      - name: podcast_mots_minimum
+        label: "Longueur minimale du podcast, en mots (300 à 600)"
+        type: number
+        default: 400
+      - name: podcast_mots_maximum
+        label: "Longueur maximale du podcast, en mots (500 à 1000)"
+        type: number
+        default: 700
+
+  - name: masquer
+    label: "Liens masqués"
+    type: file
+    path: masquer.yaml
+    fields:
+      - name: liens
+        label: "Adresses d'articles à retirer du site (une par ligne)"
+        type: string
+        list: true

@@ -199,6 +199,15 @@ def archiver(items):
         print(f"  archives {mois} : +{len(ajout)} article(s)")
 
 
+def liens_masques():
+    """masquer.yaml : liens retirés à la main par le propriétaire du site."""
+    f = ROOT / "masquer.yaml"
+    if not f.exists():
+        return set()
+    liens = (yaml.safe_load(f.read_text(encoding="utf-8")) or {}).get("liens") or []
+    return {str(l).strip() for l in liens if str(l).strip()}
+
+
 def ajouter_sport(config):
     """joueurs.yaml : les joueurs et clubs sénégalais comptent comme « parle du Sénégal »
     et rangent l'article en Sport ; les championnats étrangers rangent seulement en Sport."""
@@ -234,6 +243,9 @@ def main():
                                  [m.lower() for m in config.get("mots_cles_senegal", [])],
                                  i.get("zone"), i.get("diaspora", False))
 
+    masques = liens_masques()
+    for lien in [i["id"] for i in par_id.values() if i["lien"] in masques]:
+        del par_id[lien]
     limite = datetime.now(timezone.utc) - DUREE_CONSERVATION
     vus, resultat, a_archiver = set(), [], []
     for i in sorted(par_id.values(), key=lambda i: i["date"], reverse=True):

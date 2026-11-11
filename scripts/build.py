@@ -241,7 +241,10 @@ def main():
     env = Environment(loader=FileSystemLoader(ROOT / "templates"), autoescape=True)
     items = json.loads((ROOT / "data" / "items.json").read_text(encoding="utf-8")) \
         if (ROOT / "data" / "items.json").exists() else []
-    items = [i for i in items if lien_valide(i.get("lien"))]
+    masquer = ROOT / "masquer.yaml"
+    masques = {str(l).strip() for l in ((yaml.safe_load(masquer.read_text(encoding="utf-8")) or {}).get("liens") or [])} \
+        if masquer.exists() else set()
+    items = [i for i in items if lien_valide(i.get("lien")) and i["lien"] not in masques]
     for i in items:
         i["date_fr"] = date_fr(parse_date(i["date"]))
 
