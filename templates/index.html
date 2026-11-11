@@ -65,6 +65,13 @@
   {% endfor %}
   </ul>
 {% endmacro %}
+{% if lions_etranger %}
+<section class="bloc-lions">
+  <h2 class="section">⚽ Les Lions à l'étranger</h2>
+  {{ liste_fil(lions_etranger) }}
+  <p class="voir-tout"><a href="{{ racine }}rubrique/sport.html">Tout le sport →</a></p>
+</section>
+{% endif %}
 {% if sections %}
 {% for titre_section, groupes_section in sections %}
 <section>
