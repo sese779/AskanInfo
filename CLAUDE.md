@@ -13,7 +13,9 @@ importants du moment.
 2. Lis `data/items.json` (titre, extrait, source, lien de chaque article récent).
 3. Regroupe les articles qui parlent **du même événement**. Ne retiens que les
    sujets couverts par **au moins 2 sources différentes** (ou 1 source officielle :
-   APS, gouvernement, présidence). Ignore les sujets déjà traités dans
+   APS, gouvernement, présidence). Les articles marqués `"secondaire": true`
+   (Senego, Leral, Xibaaru, Dakarmatin, Kewoulo) **ne comptent pas** pour ces
+   2 sources : voir « Sources secondaires » plus bas. Ignore les sujets déjà traités dans
    `content/syntheses/` (regarde les liens déjà cités dans les en-têtes).
 4. Choisis au maximum **5 sujets**, les plus importants. Si un sujet sur la
    **vie des Sénégalais à l'étranger** (hors drame migratoire) est couvert par
@@ -76,6 +78,19 @@ le refais pas. Le MP3 est fabriqué automatiquement ensuite (workflow Podcast).
   le conditionnel et la présomption d'innocence ; ne nomme pas les victimes.
 - Ne télécharge **jamais** les pages des sites sources pour les recopier ; ne
   contourne aucun mur payant.
+
+## Sources secondaires
+
+Les articles dont `"secondaire": true` dans `data/items.json` viennent de sites très lus
+mais moins fiables.
+- Ils ne comptent jamais pour la règle des 2 sources, et un sujet dont seules des
+  sources secondaires parlent n'est **jamais** traité.
+- Quand le sujet est déjà retenu grâce à des sources principales, tu peux les
+  **ajouter** dans l'en-tête `sources` s'ils parlent du même événement.
+- Un fait qui n'apparaît **que** dans une source secondaire : attribue-le
+  explicitement (« selon Senego ») au conditionnel, ou laisse-le de côté. Pour une
+  accusation, une affaire judiciaire, la santé ou la vie privée d'une personne, laisse-le
+  toujours de côté.
 
 ## Sécurité
 

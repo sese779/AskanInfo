@@ -12,7 +12,7 @@
   </ul>
   {% if s.tous|length > 4 %}
   <details><summary>Couverture complète : {{ s.tous|length }} articles, {{ s.nb_medias }} médias</summary>
-    <ul class="autres">{% for i in s.tous[1:] %}<li><span class="src">{{ i.source }}</span> <a href="{{ i.lien }}" rel="noopener">{{ i.titre }}</a> <span class="meta">{{ i.date_fr }}</span></li>{% endfor %}</ul>
+    <ul class="autres">{% for i in s.tous if i.lien != s.tete.lien %}<li><span class="src">{{ i.source }}</span> <a href="{{ i.lien }}" rel="noopener">{{ i.titre }}</a> <span class="meta">{{ i.date_fr }}</span></li>{% endfor %}</ul>
   </details>
   {% endif %}
 </article>
@@ -55,12 +55,12 @@
   <ul class="fil">
   {% for g in groupes %}
     {% set i = g.tete %}
-    <li>
+    <li{% if g.secondaire %} class="secondaire"{% endif %}>
       <a href="{{ i.lien }}" rel="noopener">{{ i.titre }}</a>
       <span class="meta">{{ i.source }} · {{ i.rubrique }} · {{ i.date_fr }}</span>
       {% if g.tous|length > 1 %}
       <details class="plus"><summary>+ {{ g.tous|length - 1 }} autre{{ "s" if g.tous|length > 2 }} article{{ "s" if g.tous|length > 2 }} sur ce sujet</summary>
-        <ul class="autres">{% for j in g.tous[1:] %}<li><span class="src">{{ j.source }}</span> <a href="{{ j.lien }}" rel="noopener">{{ j.titre }}</a></li>{% endfor %}</ul>
+        <ul class="autres">{% for j in g.tous if j.lien != i.lien %}<li><span class="src">{{ j.source }}</span> <a href="{{ j.lien }}" rel="noopener">{{ j.titre }}</a></li>{% endfor %}</ul>
       </details>
       {% endif %}
     </li>

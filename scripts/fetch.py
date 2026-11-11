@@ -165,6 +165,7 @@ def lire_source(source, config):
             "rubrique": "",
             "zone": source.get("zone"),
             "diaspora": bool(source.get("diaspora")),
+            "secondaire": bool(source.get("secondaire")),
             "extrait": extrait,
         })
     print(f"  {source['nom']} : {len(items)} article(s)")

@@ -102,11 +102,18 @@ def sujets(items, contenus, regles, maintenant, nb_une=5, heures=36):
                 un_par_media.append(i)
         synthese = next((synthese_par_lien[i["lien"]] for i in g if i["lien"] in synthese_par_lien), None)
         titres = [g[0]["titre"]] + ([synthese["titre"]] if synthese else [])
-        return {"tete": g[0], "autres": un_par_media[1:], "tous": g, "nb_medias": len(un_par_media),
+        # la tête du sujet : de préférence un média principal
+        principaux = [i for i in un_par_media if not i.get("secondaire")]
+        if principaux and principaux[0] is not un_par_media[0]:
+            un_par_media.remove(principaux[0])
+            un_par_media.insert(0, principaux[0])
+        return {"tete": un_par_media[0], "autres": un_par_media[1:], "tous": g, "nb_medias": len(un_par_media),
+                "nb_principaux": len(principaux), "secondaire": not principaux,
                 "rubrique": g[0]["rubrique"], "synthese": synthese, "image": image_pour(titres, regles)}
 
     groupes = [habiller(g) for g in grouper(items)]
     limite = (maintenant - timedelta(hours=heures)).isoformat()
-    candidats = [s for s in groupes if s["nb_medias"] >= 2 and s["tete"]["date"] >= limite]
-    candidats.sort(key=lambda s: (s["nb_medias"], s["tete"]["date"]), reverse=True)
+    # à la une : au moins 2 médias principaux (les sources secondaires complètent la carte)
+    candidats = [s for s in groupes if s["nb_principaux"] >= 2 and s["tete"]["date"] >= limite]
+    candidats.sort(key=lambda s: (s["nb_principaux"], s["nb_medias"], s["tete"]["date"]), reverse=True)
     return candidats[:nb_une], groupes

@@ -126,6 +126,9 @@ content:
           - name: diaspora
             label: Média de la diaspora (ses articles vont dans l'onglet Diaspora)
             type: boolean
+          - name: secondaire
+            label: "Source secondaire (dans le fil, mais ne compte ni pour la une ni pour les synthèses)"
+            type: boolean
           - name: actif
             label: Actif
             type: boolean

@@ -130,6 +130,43 @@ sources:
     filtre: false
     actif: true
 
+  # Sources secondaires : leurs titres sont dans le fil et complètent les sujets,
+  # mais elles ne comptent ni pour la une ni pour la règle des 2 sources des synthèses.
+  - nom: "Senego"
+    site: https://senego.com
+    flux: https://senego.com/feed
+    filtre: false
+    secondaire: true
+    actif: true
+
+  - nom: "Leral"
+    site: https://www.leral.net
+    flux: https://www.leral.net/xml/syndication.rss
+    filtre: false
+    secondaire: true
+    actif: true
+
+  - nom: "Xibaaru"
+    site: https://www.xibaaru.sn
+    flux: https://www.xibaaru.sn/feed/
+    filtre: false
+    secondaire: true
+    actif: true
+
+  - nom: "Dakarmatin"
+    site: https://www.dakarmatin.com
+    flux: https://www.dakarmatin.com/feed/
+    filtre: false
+    secondaire: true
+    actif: true
+
+  - nom: "Kewoulo"
+    site: https://www.kewoulo.info
+    flux: https://www.kewoulo.info/feed
+    filtre: false
+    secondaire: true
+    actif: true
+
   - nom: RFI Afrique
     site: https://www.rfi.fr/fr/afrique/
     flux: https://www.rfi.fr/fr/afrique/rss
