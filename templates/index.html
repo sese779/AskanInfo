@@ -49,9 +49,7 @@
 </section>
 {% endif %}
 
-<section>
-  <h2 class="section">Le fil de l'actualité</h2>
-  {% if groupes %}
+{% macro liste_fil(groupes) %}
   <ul class="fil">
   {% for g in groupes %}
     {% set i = g.tete %}
@@ -66,9 +64,30 @@
     </li>
   {% endfor %}
   </ul>
+{% endmacro %}
+{% if lions_etranger %}
+<section class="bloc-lions">
+  <h2 class="section">⚽ Les Lions à l'étranger</h2>
+  {{ liste_fil(lions_etranger) }}
+  <p class="voir-tout"><a href="{{ racine }}rubrique/sport.html">Tout le sport →</a></p>
+</section>
+{% endif %}
+{% if sections %}
+{% for titre_section, groupes_section in sections %}
+<section>
+  <h2 class="section">{{ titre_section }}</h2>
+  {% if groupes_section %}{{ liste_fil(groupes_section) }}{% else %}<p>Aucun article pour le moment.</p>{% endif %}
+</section>
+{% endfor %}
+{% else %}
+<section>
+  <h2 class="section">Le fil de l'actualité</h2>
+  {% if groupes %}
+  {{ liste_fil(groupes) }}
   {% if voir_tout %}<p class="voir-tout"><a href="{{ racine }}fil.html">Voir tout le fil de l'actualité →</a></p>{% endif %}
   {% else %}
   <p>Aucun article pour le moment.</p>
   {% endif %}
 </section>
+{% endif %}
 {% endblock %}

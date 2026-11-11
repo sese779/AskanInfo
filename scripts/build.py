@@ -39,6 +39,35 @@ ATTRIBUTS = {"a": {"href", "title"}, "img": {"src", "alt", "title", "width", "he
 # Les vidéos YouTube intégrées sont permises dans vos articles, pas dans les synthèses
 BALISES_REDACTION = BALISES | {"iframe"}
 ATTRIBUTS_REDACTION = ATTRIBUTS | {"iframe": {"src", "width", "height", "title", "allowfullscreen"}}
+# titres sur la migration (pour séparer, en Diaspora, la vie à l'étranger des départs en mer)
+MIGRATION = re.compile(r"migr|pirogue|naufrag|clandestin|passeur|canaries|chavir|secouru|candidats? au départ|"
+                       r"lompoul|émigration irrégulière|emigration irreguliere|traversée|en mer\b|la mer\b|routes? du désespoir|dnlt|trafic de migrants", re.I)
+def motif_joueurs():
+    """Titres qui parlent d'un joueur sénégalais (joueurs.yaml), ou d'un « Sénégalais »
+    dans un championnat étranger."""
+    f = ROOT / "joueurs.yaml"
+    j = (yaml.safe_load(f.read_text(encoding="utf-8")) or {}) if f.exists() else {}
+    def sans_accent(t):
+        return "".join(c for c in unicodedata.normalize("NFD", str(t).lower()) if unicodedata.category(c) != "Mn")
+    noms = [re.escape(sans_accent(n).strip()) for n in j.get("joueurs") or [] if str(n).strip()]
+    comp = [re.escape(sans_accent(n).strip()) for n in j.get("competitions") or [] if str(n).strip()]
+    joueur = re.compile(r"\b(?:" + "|".join(noms) + r")\b") if noms else None
+    championnat = re.compile(r"\b(?:" + "|".join(comp) + r")\b") if comp else None
+    senegalais = re.compile(r"\bsenegalais(?:e|es)?\b")
+
+    # sujets de l'équipe nationale : restent dans « Équipes nationales et sport au Sénégal »
+    selection = re.compile(r"vieira|selection|equipe nationale|taniere|eliminatoire|\bcan\b|lions de la teranga|"
+                           r"leopold sedar senghor|diamniadio|forfait|convoqu|liste des")
+
+    def test(titre):
+        t = sans_accent(titre)
+        if selection.search(t):
+            return False
+        return bool((joueur and joueur.search(t)) or
+                    (championnat and championnat.search(t) and senegalais.search(t)))
+    return test
+
+
 MOIS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet",
         "août", "septembre", "octobre", "novembre", "décembre"]
 
@@ -273,17 +302,30 @@ def main():
     deja_syntheses = {s["synthese"]["slug"] for s in une_sujets if s["synthese"]}
     _, groupes_accueil = sujets([i for i in recents if i["rubrique"] not in ("Afrique", "Monde")
                                  and i["lien"] not in deja], a_la_une, regles, maintenant)
+    est_joueur = motif_joueurs()
+    lions_etranger = [g for g in groupes_accueil if g["rubrique"] == "Sport" and est_joueur(g["tete"]["titre"])][:5]
     ecrire("index.html", "index.html", "", une_sujets=une_sujets,
            une=[c for c in a_la_une if c["slug"] not in deja_syntheses][:9],
-           groupes=groupes_accueil[:30], voir_tout=True, titre_page=None)
+           lions_etranger=lions_etranger,
+           groupes=[g for g in groupes_accueil if g not in lions_etranger][:30], voir_tout=True, titre_page=None)
     _, tous_groupes = sujets(recents, a_la_une, regles, maintenant)
     ecrire("fil.html", "index.html", "", une_sujets=[], une=[], groupes=tous_groupes[:200],
            titre_page="Tout le fil")
     for r in rubriques:
         _, groupes_r = sujets([i for i in items if i["rubrique"] == r][:120], a_la_une, regles, maintenant)
+        sections = None
+        if r == "Sport":
+            etranger = [g for g in groupes_r if est_joueur(g["tete"]["titre"])]
+            autres = [g for g in groupes_r if not est_joueur(g["tete"]["titre"])]
+            sections = [("⚽ Les Lions à l'étranger", etranger[:25]), ("Équipes nationales et sport au Sénégal", autres[:40])]
+        if r == "Diaspora":
+            # la vie des Sénégalais de l'extérieur d'abord, la migration ensuite
+            vie = [g for g in groupes_r if not MIGRATION.search(g["tete"]["titre"])]
+            migration = [g for g in groupes_r if MIGRATION.search(g["tete"]["titre"])]
+            sections = [("Sénégalais de l'extérieur", vie[:40]), ("Migration et émigration irrégulière", migration[:40])]
         ecrire(f"rubrique/{slugify(r)}.html", "index.html", "../", une_sujets=[],
                une=[c for c in a_la_une if c["rubrique"] == r][:12],
-               groupes=groupes_r[:60], titre_page=r)
+               groupes=groupes_r[:60], sections=sections, titre_page=r)
     image_site(OUT / "og" / "askaninfo.png")
     for n, c in enumerate(a_la_une):
         c["image"] = f"{URL_SITE}/og/askaninfo.png"

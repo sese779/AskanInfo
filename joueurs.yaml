@@ -1,0 +1,77 @@
+# Sport : joueurs sénégalais et clubs du championnat du Sénégal suivis par le site.
+# Un article qui cite un de ces noms est rangé en Sport, et les grands médias sportifs
+# (filtrés sur le Sénégal) gardent leurs articles qui en parlent.
+# Écrivez le nom complet (prénom + nom) pour éviter les confusions.
+# Modifiable dans Pages CMS (menu « Sport : joueurs et clubs »).
+
+joueurs:
+  - Sadio Mané
+  - Kalidou Koulibaly
+  - Édouard Mendy
+  - Edouard Mendy
+  - Iliman Ndiaye
+  - Nicolas Jackson
+  - Ismaïla Sarr
+  - Ismaila Sarr
+  - Pape Matar Sarr
+  - Idrissa Gana Gueye
+  - Gana Guèye
+  - Lamine Camara
+  - Habib Diarra
+  - Pape Gueye
+  - Boulaye Dia
+  - Krépin Diatta
+  - El Hadji Malick Diouf
+  - Moussa Niakhaté
+  - Abdou Diallo
+  - Habib Diallo
+  - Chérif Ndiaye
+  - Bamba Dieng
+  - Abdallah Sima
+  - Nampalys Mendy
+  - Pathé Ciss
+  - Youssouf Sabaly
+  - Ismail Jakobs
+  - Mamadou Sarr
+  - Antoine Mendy
+  - Seny Dieng
+  - Mory Diaw
+  - Malang Sarr
+  - Assane Diao
+  - Ibrahim Mbaye
+  - Moussa Diaby
+
+# Clubs et compétitions du Sénégal (championnat local, lutte…)
+clubs_senegal:
+  - Ligue 1 sénégalaise
+  - Ligue pro
+  - Jaraaf
+  - Génération Foot
+  - Teungueth FC
+  - Casa Sports
+  - Diambars
+  - AS Pikine
+  - Guédiawaye FC
+  - US Gorée
+  - AS Douanes
+  - Wallydaan
+  - Linguère de Saint-Louis
+  - Dakar Sacré-Cœur
+  - Sonacos de Diourbel
+  - Balla Gaye 2
+  - Modou Lô
+  - Ada Fass
+  - Eumeu Sène
+
+# Championnats étrangers où jouent des Sénégalais (servent seulement à ranger en Sport)
+competitions:
+  - Premier League
+  - Ligue 1
+  - Ligue 2
+  - Liga
+  - Serie A
+  - Bundesliga
+  - Saudi Pro League
+  - Ligue des champions
+  - Ligue Europa
+  - Ligue des nations

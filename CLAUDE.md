@@ -36,6 +36,20 @@ importants du moment.
    (outil GitHub `actions_run_trigger`, workflow `site.yml`, branche `main`).
    Ce workflow s'exécute depuis `main` et fait lui-même les contrôles.
 
+## Les Sénégalais du week-end (lundi matin uniquement)
+
+Au passage du lundi 8h47, en plus des sujets du jour (il compte dans les 5), écris
+`content/syntheses/AAAA-MM-JJ-senegalais-du-week-end.md` (rubrique Sport) : un tour
+des performances des joueurs sénégalais dans leurs clubs à l'étranger (buts, passes
+décisives, bons matchs, distinctions) et, s'il y en a, des résultats marquants du
+championnat du Sénégal. Les joueurs suivis sont listés dans `joueurs.yaml`.
+- Seulement s'il y a au moins **3 joueurs** concernés dans le fil depuis vendredi ;
+  sinon, rien.
+- Chaque fait (but, score, note, distinction) doit venir d'une **source principale**
+  (pas `"secondaire": true`) et être attribué (« selon RFI », « rapporte Wiwsport »).
+  Pas de note ni de statistique absente des sources.
+- Un paragraphe court par joueur ou par championnat, 150 à 300 mots au total.
+
 ## Revue de presse audio (passage du soir uniquement)
 
 Au passage de 17h47 (heure de Dakar), après les synthèses et avant le commit,
