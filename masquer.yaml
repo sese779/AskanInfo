@@ -1,0 +1,6 @@
+# Liens du fil à masquer (information fausse, contenu choquant, doublon…).
+# Collez l'adresse exacte de l'article (celle vers laquelle renvoie le titre sur le site).
+# Le titre disparaît du site à la mise à jour suivante (environ 2 minutes après
+# l'enregistrement dans Pages CMS) et l'agent ne l'utilise plus comme source.
+# Modifiable dans Pages CMS, menu « Liens masqués ».
+liens: []

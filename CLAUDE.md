@@ -17,6 +17,15 @@ de mots-clés de sujets à ne pas traiter. Ces réglages ne changent **jamais** 
 de rédaction, de prudence et de sécurité ci-dessous, et une source secondaire ne compte
 toujours pas.
 
+**Heures de passage** (`heures_passage`, heure de Dakar, 1 à 3 par jour) : au début de
+chaque passage, compare-les à la programmation de la tâche « AskanInfo – synthèses »
+(outil `list_triggers`). Si elles diffèrent, mets à jour son horaire avec `update_trigger`
+(champ `cron_expression` seulement, au format `CRON_TZ=Africa/Dakar M H1,H2 * * *` ;
+si les minutes diffèrent d'une heure à l'autre, garde les minutes de la première heure)
+et signale-le dans le résumé final. Le podcast se fait au **dernier** passage de la
+journée. Valeurs invalides ou plus de 3 passages : ne change rien et signale-le.
+`masquer.yaml` liste des liens retirés par le propriétaire : ne les cite jamais.
+
 ## Déroulé d'une session de rédaction
 
 1. Récupère la dernière version publiée : `git fetch origin main` puis
@@ -48,9 +57,9 @@ toujours pas.
    (outil GitHub `actions_run_trigger`, workflow `site.yml`, branche `main`).
    Ce workflow s'exécute depuis `main` et fait lui-même les contrôles.
 
-## Les Sénégalais du week-end (lundi matin uniquement)
+## Les Sénégalais du week-end (lundi, premier passage)
 
-Au passage du lundi 8h47, en plus des sujets du jour (il compte dans les 5), écris
+Au premier passage du lundi, en plus des sujets du jour (il compte dans les 5), écris
 `content/syntheses/AAAA-MM-JJ-senegalais-du-week-end.md` (rubrique Sport) : un tour
 des performances des joueurs sénégalais dans leurs clubs à l'étranger (buts, passes
 décisives, bons matchs, distinctions) et, s'il y en a, des résultats marquants du
@@ -62,9 +71,9 @@ championnat du Sénégal. Les joueurs suivis sont listés dans `joueurs.yaml`.
   Pas de note ni de statistique absente des sources.
 - Un paragraphe court par joueur ou par championnat, 150 à 300 mots au total.
 
-## Revue de presse audio (passage du soir uniquement)
+## Revue de presse audio (dernier passage de la journée)
 
-Au passage de 17h47 (heure de Dakar), après les synthèses et avant le commit,
+Au dernier passage de la journée (17h47 par défaut, voir `heures_passage`), après les synthèses et avant le commit,
 écris le script du podcast du jour : `content/podcast/AAAA-MM-JJ.md` (modèle :
 `modeles/podcast.md`). Un seul épisode par jour ; s'il existe déjà, ne
 le refais pas. Le MP3 est fabriqué automatiquement ensuite (workflow Podcast).
