@@ -157,3 +157,37 @@ content:
       - name: telegram
         label: Chaîne Telegram – nom sans @ (ex. askaninfo)
         type: string
+
+  - name: images
+    label: "Images par sujet"
+    type: file
+    path: images.yaml
+    fields:
+      - name: images
+        label: "Images (affichées quand le titre contient un des mots-clés ; uniquement des images libres ou autorisées)"
+        type: object
+        list: true
+        fields:
+          - name: mots_cles
+            label: "Mots-clés (ex. JOJ, Lions, Assemblée nationale)"
+            type: string
+            list: true
+            required: true
+          - name: image
+            label: "Image"
+            type: image
+            required: true
+          - name: type
+            label: "Type"
+            type: select
+            default: photo
+            options:
+              values: [photo, logo]
+          - name: credit
+            label: "Crédit (obligatoire, ex. « Logo : COJOJ Dakar 2026 » ou « Photo : auteur, licence »)"
+            type: string
+            required: true
+          - name: actif
+            label: "Actif"
+            type: boolean
+            default: true

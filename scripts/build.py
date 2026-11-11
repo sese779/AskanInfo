@@ -20,6 +20,7 @@ from jinja2 import Environment, FileSystemLoader
 from check_overlap import passages_copies
 from images_partage import image_article, image_site
 from pwa import PAGES_HORS_LIGNE, ecrire_pwa
+from regroupement import image_pour, lire_images, sujets
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "_site"
@@ -258,13 +259,31 @@ def main():
             racine=racine, chemin=chemin, **commun, **ctx), encoding="utf-8")
         pages.append((chemin, date))
 
-    # accueil : l'actualité du Sénégal ; l'Afrique et le Monde ont leurs onglets
-    ecrire("index.html", "index.html", "", une=a_la_une[:12],
-           fil=[i for i in items if i["rubrique"] not in ("Afrique", "Monde")][:80], titre_page=None)
+    # images par sujet (images.yaml) : logo ou photo, jamais de cadre vide
+    regles = lire_images(ROOT)
+    for c in a_la_une:
+        c["illustration"] = image_pour([c["titre"]], regles)
+    items.sort(key=lambda i: i["date"], reverse=True)
+    recents = items[:400]
+    maintenant = parse_date(recents[0]["date"]) if recents else datetime.now(timezone.utc)
+    # accueil : les sujets repris par le plus de médias (toutes rubriques), puis nos synthèses,
+    # puis le fil regroupé par sujet (l'Afrique et le Monde ont leurs onglets)
+    une_sujets, _ = sujets(recents, a_la_une, regles, maintenant)
+    deja = {i["lien"] for s in une_sujets for i in s["tous"]}
+    deja_syntheses = {s["synthese"]["slug"] for s in une_sujets if s["synthese"]}
+    _, groupes_accueil = sujets([i for i in recents if i["rubrique"] not in ("Afrique", "Monde")
+                                 and i["lien"] not in deja], a_la_une, regles, maintenant)
+    ecrire("index.html", "index.html", "", une_sujets=une_sujets,
+           une=[c for c in a_la_une if c["slug"] not in deja_syntheses][:9],
+           groupes=groupes_accueil[:30], voir_tout=True, titre_page=None)
+    _, tous_groupes = sujets(recents, a_la_une, regles, maintenant)
+    ecrire("fil.html", "index.html", "", une_sujets=[], une=[], groupes=tous_groupes[:200],
+           titre_page="Tout le fil")
     for r in rubriques:
-        ecrire(f"rubrique/{slugify(r)}.html", "index.html", "../",
+        _, groupes_r = sujets([i for i in items if i["rubrique"] == r][:120], a_la_une, regles, maintenant)
+        ecrire(f"rubrique/{slugify(r)}.html", "index.html", "../", une_sujets=[],
                une=[c for c in a_la_une if c["rubrique"] == r][:12],
-               fil=[i for i in items if i["rubrique"] == r][:80], titre_page=r)
+               groupes=groupes_r[:60], titre_page=r)
     image_site(OUT / "og" / "askaninfo.png")
     for n, c in enumerate(a_la_une):
         c["image"] = f"{URL_SITE}/og/askaninfo.png"

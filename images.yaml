@@ -1,0 +1,12 @@
+# Images par sujet : affichées sur les cartes (À la une, synthèses) quand le titre
+# contient un des mots-clés. Aucune image = la carte s'affiche sans image (pas de cadre vide).
+# N'ajoutez que des images libres de droits ou utilisées avec l'accord de leur propriétaire,
+# et indiquez toujours le crédit. Modifiable depuis Pages CMS (menu « Images par sujet »).
+#
+# Exemple :
+#   - mots_cles: [JOJ, Jeux olympiques de la jeunesse]
+#     image: /static/images/joj-dakar-2026.png
+#     type: logo        # logo (affiché en entier sur fond blanc) ou photo (pleine largeur)
+#     credit: "Logo : COJOJ Dakar 2026"
+#     actif: true
+images: []
