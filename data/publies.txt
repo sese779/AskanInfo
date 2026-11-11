@@ -31,3 +31,8 @@ content/syntheses/2026-11-10-budget-affaires-etrangeres-rejete.md
 content/syntheses/2026-11-10-emigration-departs-dejoues.md
 content/syntheses/2026-11-10-joj-taekwondo-or-bronze.md
 content/syntheses/2026-11-10-rosso-filiere-papiers-etat-civil.md
+content/syntheses/2026-11-11-budgets-peches-microfinance-fonction-publique.md
+content/syntheses/2026-11-11-forum-paris-paix-diomaye-enfants.md
+content/syntheses/2026-11-11-kebemer-tiac-stabilisation.md
+content/syntheses/2026-11-11-orpaillage-clandestin-machines-detruites.md
+content/syntheses/2026-11-11-sesame-exportations.md
