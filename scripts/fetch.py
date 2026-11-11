@@ -99,7 +99,9 @@ def rubrique(titre, extrait, rubriques, mots_senegal, zone=None, diaspora=False)
     return (premiere(PRIORITAIRES)
             or (None if parle_du_senegal else premiere(GEOGRAPHIQUES, (titre,)))
             or premiere(themes)
-            or premiere(GEOGRAPHIQUES)
+            # un article sur le Sénégal qui cite un autre pays (« Sénégal–Soudan »)
+            # ne part pas en Afrique ou Monde
+            or (None if parle_du_senegal else premiere(GEOGRAPHIQUES))
             or "Actualité")
 
 
@@ -165,6 +167,7 @@ def lire_source(source, config):
             "rubrique": "",
             "zone": source.get("zone"),
             "diaspora": bool(source.get("diaspora")),
+            "secondaire": bool(source.get("secondaire")),
             "extrait": extrait,
         })
     print(f"  {source['nom']} : {len(items)} article(s)")
