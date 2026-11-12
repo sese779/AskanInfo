@@ -42,3 +42,8 @@ content/syntheses/2026-11-11-lions-vieira-avant-soudan.md
 content/syntheses/2026-11-11-lompoul-aide-familles-victimes.md
 content/syntheses/2026-11-11-marine-sauvetages-ziguinchor-interpellations.md
 content/syntheses/2026-11-11-mbour-faux-cadavre-stade.md
+content/syntheses/2026-11-12-budgets-mines-energie-education-rejetes.md
+content/syntheses/2026-11-12-cartes-consulaires-modernisation.md
+content/syntheses/2026-11-12-joj-ameth-diop-bronze-dix-medailles.md
+content/syntheses/2026-11-12-lompoul-bilan-alourdi.md
+content/syntheses/2026-11-12-mali-dement-expulsion-ambassade.md
