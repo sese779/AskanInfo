@@ -53,3 +53,9 @@ content/syntheses/2026-11-12-emigration-lompoul-44-morts-interpellations.md
 content/syntheses/2026-11-12-joj-beach-handball-demi-finales.md
 content/syntheses/2026-11-12-mgr-martin-boucar-tine-eveque-thies.md
 content/syntheses/2026-11-12-universite-thies-debris-verre-repas.md
+content/podcast/2026-11-13.md
+content/syntheses/2026-11-13-budget-interieur-rejete-commission.md
+content/syntheses/2026-11-13-cio-ordre-olympique-dethie-fall.md
+content/syntheses/2026-11-13-diomaye-sommet-francophonie-phnom-penh.md
+content/syntheses/2026-11-13-joj-beach-handball-bronze-onze-medailles.md
+content/syntheses/2026-11-13-leduc-senegal-port-bargny-bail-resilie.md
