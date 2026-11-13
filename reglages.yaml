@@ -2,7 +2,5 @@ slogan_fort: Le Sénégal
 slogan_suite: ", l'Afrique, le monde : l'actualité en un seul endroit"
 contact: contact@askaninfo.com
 goatcounter: askaninfo
-# Réseaux sociaux (vide = non affiché)
-facebook: askaninfo          # nom d'utilisateur de la page (facebook.com/…)
-whatsapp: ""                 # adresse complète de la chaîne (https://whatsapp.com/channel/…)
-telegram: ""                 # nom de la chaîne sans @ (t.me/…)
+facebook: askaninfo
+whatsapp: https://whatsapp.com/channel/0029Vb8Yq3zJf05bUIc1zI3l
