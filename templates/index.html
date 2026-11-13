@@ -21,6 +21,7 @@
 {% if titre_page %}<p class="retour"><a href="{{ racine }}index.html">← Retour à l'accueil</a></p>
 <h1 class="titre-rubrique">{{ titre_page }}</h1>{% endif %}
 
+{% if not titre_page %}{% if whatsapp_chaine %}<p class="suivre-wa"><a class="bouton-wa" href="{{ whatsapp_chaine }}" rel="noopener">📲 Suivre AskanInfo sur WhatsApp</a> <span>L'essentiel de l'actualité, chaque jour, gratuitement.</span></p>{% endif %}{% endif %}
 {% if une_sujets %}
 <section>
   <h2 class="section">À la une</h2>
