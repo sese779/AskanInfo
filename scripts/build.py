@@ -297,7 +297,8 @@ def main():
         reseaux.append(("Telegram", f"https://t.me/{tg}"))
     commun = {"image_defaut": f"{URL_SITE}/og/askaninfo.png", "nom_site": NOM_SITE, "url_site": URL_SITE, "contact": contact,
               "slogan_fort": reglages.get("slogan_fort", ""), "slogan_suite": reglages.get("slogan_suite", ""),
-              "goatcounter": goatcounter, "reseaux": reseaux, "description": DESCRIPTION, "rubriques": rubriques, "slugify": slugify,
+              "goatcounter": goatcounter, "reseaux": reseaux,
+              "whatsapp_chaine": dict(reseaux).get("WhatsApp", ""), "description": DESCRIPTION, "rubriques": rubriques, "slugify": slugify,
               "maj": date_fr(datetime.now(timezone.utc))}
 
     pages = []
