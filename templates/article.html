@@ -17,6 +17,12 @@
     </ul>
   </aside>
   {% endif %}
+  {% if a_lire %}
+  <aside class="a-lire">
+    <h2>À lire aussi</h2>
+    <ul>{% for a in a_lire %}<li><a href="{{ racine }}article/{{ a.slug }}.html">{{ a.titre }}</a></li>{% endfor %}</ul>
+  </aside>
+  {% endif %}
   {% if c.type == "synthese" %}
   <p class="avertissement">Cette synthèse a été rédigée automatiquement à partir des sources citées ci-dessus. Pour le détail, consultez les articles originaux.</p>
   {% endif %}
@@ -26,12 +32,24 @@
   "@type": "NewsArticle",
   "headline": c.titre,
   "description": c.chapo,
+  "image": [image_partage],
   "datePublished": c.date.isoformat(),
+  "dateModified": c.date.isoformat(),
   "inLanguage": "fr",
   "articleSection": c.rubrique,
-  "author": {"@type": "Person", "name": c.auteur} if c.type == "article" and c.auteur != "Rédaction" else {"@type": "Organization", "name": nom_site},
-  "publisher": {"@type": "Organization", "name": nom_site, "url": url_site},
+  "author": {"@type": "Person", "name": c.auteur} if c.type == "article" and c.auteur != "Rédaction" else {"@type": "Organization", "name": nom_site, "url": url_site},
+  "publisher": {"@type": "Organization", "name": nom_site, "url": url_site,
+                "logo": {"@type": "ImageObject", "url": url_site ~ "/static/icones/icone-512.png", "width": 512, "height": 512}},
   "mainEntityOfPage": url_site ~ "/article/" ~ c.slug ~ ".html",
   "isBasedOn": c.sources | map(attribute="url") | list
+}|tojson }}</script>
+<script type="application/ld+json">{{ {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": "Accueil", "item": url_site ~ "/"},
+    {"@type": "ListItem", "position": 2, "name": c.rubrique, "item": url_site ~ "/rubrique/" ~ slugify(c.rubrique) ~ ".html"},
+    {"@type": "ListItem", "position": 3, "name": c.titre}
+  ]
 }|tojson }}</script>
 {% endblock %}

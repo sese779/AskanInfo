@@ -149,6 +149,22 @@ def ecrire_sitemap(pages):
         f'<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{urls}</urlset>', encoding="utf-8")
 
 
+def ecrire_sitemap_actualites(contenus, maintenant):
+    """Plan de site « Google Actualités » : les articles et synthèses des 2 derniers jours."""
+    from xml.sax.saxutils import escape
+    recents = [c for c in contenus if (maintenant - c["date"]).total_seconds() <= 2 * 86400][:1000]
+    urls = "".join(
+        f"<url><loc>{URL_SITE}/article/{c['slug']}.html</loc><news:news>"
+        f"<news:publication><news:name>{NOM_SITE}</news:name><news:language>fr</news:language></news:publication>"
+        f"<news:publication_date>{c['date'].strftime('%Y-%m-%dT%H:%M:%S+00:00')}</news:publication_date>"
+        f"<news:title>{escape(c['titre'])}</news:title></news:news></url>"
+        for c in recents)
+    (OUT / "sitemap-actualites.xml").write_text(
+        '<?xml version="1.0" encoding="UTF-8"?>'
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" '
+        f'xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">{urls}</urlset>', encoding="utf-8")
+
+
 IMAGES_PARTAGE = 80    # nombre de contenus récents qui ont leur propre image d'aperçu
 EPISODES_LOCAUX = 14   # derniers épisodes servis depuis askaninfo.com (les autres depuis GitHub)
 
@@ -337,7 +353,8 @@ def main():
                           OUT / "og" / f"{c['slug']}.png")
             c["image"] = f"{URL_SITE}/og/{c['slug']}.png"
     for c in a_la_une:
-        ecrire(f"article/{c['slug']}.html", "article.html", "../", date=c["date"], c=c, titre_page=c["titre"],
+        a_lire = [a for a in a_la_une if a is not c and a["rubrique"] == c["rubrique"]][:4]
+        ecrire(f"article/{c['slug']}.html", "article.html", "../", date=c["date"], c=c, titre_page=c["titre"], a_lire=a_lire,
                image_partage=c["image"], url_page=f"{URL_SITE}/article/{c['slug']}.html")
     ecrire("sources.html", "sources.html", "", sources=sources, titre_page="Nos sources")
     ecrire_archives(ecrire, items, a_la_une)
@@ -352,10 +369,11 @@ def main():
         episodes=episodes[:100], **commun), encoding="utf-8")
     (OUT / ".nojekyll").touch()
     ecrire_sitemap(pages)
+    ecrire_sitemap_actualites(a_la_une, datetime.now(timezone.utc))
     ecrire_pwa(OUT, a_la_une, URL_SITE, NOM_SITE, DESCRIPTION)
     (OUT / "flux.xml").write_text(env.get_template("flux.xml").render(
         une=a_la_une[:30], **commun), encoding="utf-8")
-    (OUT / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {URL_SITE}/sitemap.xml\n")
+    (OUT / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {URL_SITE}/sitemap.xml\nSitemap: {URL_SITE}/sitemap-actualites.xml\n")
     print(f"Site construit : {len(a_la_une)} article(s)/synthèse(s), {len(items)} lien(s) dans le fil.")
 
 
