@@ -140,4 +140,5 @@ images:
     image: /static/images/JOJ-1.png
     type: photo
     credit: "Photo : olympics"
+    source: https://www.olympics.com
     actif: true
