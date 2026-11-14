@@ -134,3 +134,10 @@ images:
     credit: "Photo : photo_pr_officielle"
     source: https://www.presidence.sn/fr/assets/img/page/photo_pr_officielle.jpg
     actif: true
+  - mots_cles:
+      - JOJ
+      - Jeux Olympiques de la jeunesse
+    image: /static/images/JOJ-1.png
+    type: photo
+    credit: "Photo : olympics"
+    actif: true
