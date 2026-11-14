@@ -7,7 +7,7 @@ images:
       - loi de finances
       - budget 2027
       - LFR
-    image: /static/images/Sonko_President_Assablee_Nationale-2.jpg
+    image: /static/images/Sonko_President_Assablee_Nationale-1.jpg
     type: photo
     credit: "Photo : assemblee nationale"
     source: https://api.assemblee.sn/storage/thumbnails/l4nQPTfvaUWrzRqGtxKFHz9fJEEnwcHl346KTVlI_500.jpg
@@ -137,7 +137,7 @@ images:
   - mots_cles:
       - JOJ
       - Jeux Olympiques de la jeunesse
-    image: /static/images/JOJ-1.png
+    image: /static/images/JOJ.png
     type: photo
     credit: "Photo : olympics"
     source: https://www.olympics.com
