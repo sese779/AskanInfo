@@ -9,7 +9,7 @@
   <p class="meta">Par {{ c.auteur }} · {{ c.date_fr }}</p>
   <div class="corps">{{ c.html|safe }}</div>
   {% set titre_partage = c.titre %}{% set url_partage = url_page %}{% include "_partage.html" %}
-  {% if whatsapp_chaine %}<p class="suivre-wa"><a class="bouton-wa" href="{{ whatsapp_chaine }}" rel="noopener">📲 Suivre AskanInfo sur WhatsApp</a> <span>L'essentiel de l'actualité, chaque jour, gratuitement.</span></p>{% endif %}
+  {% set fermable = False %}{% include "_suivre.html" %}
   {% if c.sources %}
   <aside class="sources">
     <h2>Sources</h2>

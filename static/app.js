@@ -104,3 +104,19 @@ document.addEventListener("error", function (e) {
   var f = e.target && e.target.closest && e.target.closest("figure.illustration");
   if (f) f.remove();
 }, true);
+
+// Ligne « Suivre AskanInfo » de l'accueil : masquée une fois qu'on a cliqué
+// sur WhatsApp ou Telegram, ou qu'on l'a fermée (mémorisé sur cet appareil).
+const MEMOIRE_SUIVRE = "askaninfo-suivre-masque";
+document.addEventListener("DOMContentLoaded", () => {
+  const l = document.getElementById("suivre-accueil");
+  if (l && !lire(MEMOIRE_SUIVRE)) l.hidden = false;
+});
+document.addEventListener("click", (e) => {
+  const lien = e.target.closest("[data-suivre]");
+  const fermer = e.target.closest(".suivre-fermer");
+  if (!lien && !fermer) return;
+  ecrire(MEMOIRE_SUIVRE, "1");
+  evenement(lien ? "suivre-" + lien.dataset.suivre : "suivre-masque");
+  if (fermer) { const l = document.getElementById("suivre-accueil"); if (l) l.hidden = true; }
+});
