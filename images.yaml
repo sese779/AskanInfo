@@ -7,19 +7,19 @@ images:
       - loi de finances
       - budget 2027
       - LFR
-    image: /static/images/assemblee-nationale.jpg
+    image: /static/images/assemblee nationale.png
     type: photo
-    credit: assemblee nationale
+    credit: "Photo : assemblee nationale"
     source: https://www.assemblee.sn/assets/images/Logo-Assemblee-Nationale-'.png
     actif: true
   - mots_cles:
       - palais présidentiel
       - palais de la République
       - Conseil des ministres
-    image: /static/images/palais-presidentiel.jpg
+    image: /static/images/palais.webp
     type: photo
-    credit: "Photo : HaguardDuNord, CC BY-SA 3.0, via Wikimedia Commons"
-    source: https://commons.wikimedia.org/wiki/File:Dakar_-_Palais_pr%C3%A9sidentiel.JPG
+    credit: "Photo : presidence"
+    source: https://www.presidence.sn/fr/assets/img/page/palais.jpg
     actif: true
   - mots_cles:
       - palais de justice
