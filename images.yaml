@@ -9,4 +9,120 @@
 #     type: logo        # logo (affiché en entier sur fond blanc) ou photo (pleine largeur)
 #     credit: "Logo : COJOJ Dakar 2026"
 #     actif: true
-images: []
+# Photos libres choisies le 14/11 (Wikimedia Commons) : la page d'origine est dans « source ».
+images:
+- mots_cles:
+  - Assemblée nationale
+  - député
+  - députés
+  - commission des finances
+  - loi de finances
+  - budget 2027
+  - LFR
+  image: /static/images/assemblee-nationale.jpg
+  type: photo
+  credit: 'Photo : HaguardDuNord, CC BY-SA 3.0, via Wikimedia Commons'
+  source: https://commons.wikimedia.org/wiki/File:Dakar_-_Assembl%C3%A9e_nationale.JPG
+  actif: true
+- mots_cles:
+  - palais présidentiel
+  - palais de la République
+  - Conseil des ministres
+  image: /static/images/palais-presidentiel.jpg
+  type: photo
+  credit: 'Photo : HaguardDuNord, CC BY-SA 3.0, via Wikimedia Commons'
+  source: https://commons.wikimedia.org/wiki/File:Dakar_-_Palais_pr%C3%A9sidentiel.JPG
+  actif: true
+- mots_cles:
+  - palais de justice
+  - tribunal de Dakar
+  - Cour suprême
+  image: /static/images/palais-de-justice-dakar.jpg
+  type: photo
+  credit: 'Photo : Christian Pirkl, CC BY-SA 4.0, via Wikimedia Commons'
+  source: https://commons.wikimedia.org/wiki/File:Palais_de_justice_294A2550_Dakar.jpg
+  actif: true
+- mots_cles:
+  - Magal
+  - Grande Mosquée de Touba
+  - Khalife général des mourides
+  image: /static/images/touba-grande-mosquee.jpg
+  type: photo
+  credit: 'Photo : John Crane, CC BY 2.0, via Wikimedia Commons'
+  source: https://commons.wikimedia.org/wiki/File:Touba_034_(45718877585).jpg
+  actif: true
+- mots_cles:
+  - Gamou
+  - Maouloud
+  - Khalife général des tidianes
+  image: /static/images/tivaouane-mosquee.jpg
+  type: photo
+  credit: 'Photo : Cheikh Ahmed Tidiane Diagne, CC BY 2.0, via Wikimedia Commons'
+  source: https://commons.wikimedia.org/wiki/File:Mosqu%C3%A9e_Serigne_Babacar_Sy_RTA.jpg
+  actif: true
+- mots_cles:
+  - AIBD
+  - Blaise Diagne
+  - Air Sénégal
+  image: /static/images/aeroport-aibd.jpg
+  type: photo
+  credit: 'Photo : DIOP BARKA, CC BY-SA 4.0, via Wikimedia Commons'
+  source: https://commons.wikimedia.org/wiki/File:A%C3%A9roport_international_Blaise_Diagne.jpg
+  actif: true
+- mots_cles:
+  - TER
+  - Train express régional
+  image: /static/images/ter-dakar.jpg
+  type: photo
+  credit: 'Photo : Pamgueye, CC BY-SA 4.0, via Wikimedia Commons'
+  source: https://commons.wikimedia.org/wiki/File:Train_Express_R%C3%A9gional_de_Dakar.jpg
+  actif: true
+- mots_cles:
+  - Port autonome de Dakar
+  - port de Dakar
+  image: /static/images/port-de-dakar.jpg
+  type: photo
+  credit: 'Photo : Zarbialavi, CC BY-SA 4.0, via Wikimedia Commons'
+  source: https://commons.wikimedia.org/wiki/File:Dakar_Le_port_de_commerce.jpg
+  actif: true
+- mots_cles:
+  - UCAD
+  - Cheikh Anta Diop de Dakar
+  image: /static/images/ucad.jpg
+  type: photo
+  credit: 'Photo : Rignese, CC BY-SA 3.0, via Wikimedia Commons'
+  source: https://commons.wikimedia.org/wiki/File:BU_Universit%C3%A9_Chekh_Anta_Diop_de_Dakar.JPG
+  actif: true
+- mots_cles:
+  - pont Faidherbe
+  - Saint-Louis
+  image: /static/images/saint-louis-pont-faidherbe.jpg
+  type: photo
+  credit: 'Photo : Issathiome, CC BY-SA 4.0, via Wikimedia Commons'
+  source: https://commons.wikimedia.org/wiki/File:Pont_Faidherbe_connecting_Sor_to_Ndar_in_Saint_Louis.jpg
+  actif: true
+- mots_cles:
+  - Ziguinchor
+  - Casamance
+  image: /static/images/ziguinchor.jpg
+  type: photo
+  credit: 'Photo : KaBa (KaaBaa), CC BY 3.0, via Wikimedia Commons'
+  source: https://commons.wikimedia.org/wiki/File:ZiguinchorCasamance.JPG
+  actif: true
+- mots_cles:
+  - Hôpital Principal
+  image: /static/images/hopital-principal-dakar.jpg
+  type: photo
+  credit: 'Photo : Benj90, CC BY-SA 4.0, via Wikimedia Commons'
+  source: https://commons.wikimedia.org/wiki/File:H%C3%B4pital_Principal_de_Dakar.jpg
+  actif: true
+- mots_cles:
+  - pirogue
+  - pirogues
+  - pêcheurs
+  - quai de pêche
+  image: /static/images/pirogues-plage.jpg
+  type: photo
+  credit: 'Photo : Olivier Dugornay (Ifremer), CC BY 4.0, via Wikimedia Commons'
+  source: https://commons.wikimedia.org/wiki/File:Pirogues_sur_une_plage_au_S%C3%A9n%C3%A9gal_(Ifremer_00740-85240_-_42078).jpg
+  actif: true

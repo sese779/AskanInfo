@@ -193,6 +193,9 @@ content:
             label: "Crédit (obligatoire, ex. « Logo : COJOJ Dakar 2026 » ou « Photo : auteur, licence »)"
             type: string
             required: true
+          - name: source
+            label: "Page d'origine de l'image (lien)"
+            type: string
           - name: actif
             label: "Actif"
             type: boolean
