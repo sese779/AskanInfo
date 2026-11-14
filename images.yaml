@@ -10,7 +10,7 @@ images:
     image: /static/images/assemblee nationale.png
     type: photo
     credit: "Photo : assemblee nationale"
-    source: https://www.assemblee.sn/assets/images/Logo-Assemblee-Nationale-'.png
+    source: https://api.assemblee.sn/storage/thumbnails/l4nQPTfvaUWrzRqGtxKFHz9fJEEnwcHl346KTVlI_500.jpg
     actif: true
   - mots_cles:
       - palais présidentiel
