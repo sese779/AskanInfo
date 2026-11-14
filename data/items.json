@@ -65,6 +65,19 @@
   "extrait": "Une pirogue de candidats à l'émigration irrégulière, qui serait partie de Gambie six jours plus tôt, s'est échouée ce samedi 1..."
  },
  {
+  "id": "3f4b8f60c495",
+  "titre": "REMPLACEMENTS ADMINISTRATIFS AU SENEGAL : L’ETERNEL RETOUR DU BALANCIER POLITIQUE (Par Birahima SARR)",
+  "lien": "https://www.seneweb.com/fr/news/Contribution/remplacements-administratifs-au-senegal-leternel-retour-du-balancier-politique-par-birahima-sarr_n_999003623.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-14T14:29:34+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L’administration sénégalaise traverse une nouvelle vague de nominations et de limogeages"
+ },
+ {
   "id": "1ed5f32ef034",
   "titre": "Francophonie : Pour barrer la route au Rwanda, la RDC prête à se rallier au candidat roumain",
   "lien": "https://www.senenews.com/actualites/politique/francophonie-pour-barrer-la-route-au-rwanda-la-rdc-prete-a-se-rallier-au-candidat-roumain_606436.html",
@@ -1207,6 +1220,19 @@
   "diaspora": false,
   "secondaire": true,
   "extrait": "À Dionewar, dans le Saloum, le Centre culturel Cheikh Faty Faye annonce une journée dédiée aux arts visuels et au hip-hop le 2..."
+ },
+ {
+  "id": "8b4261321363",
+  "titre": "Canoë-kayak : la corniche de Dakar initie la jeunesse sénégalaise à la pagaie",
+  "lien": "https://www.leral.net/Canoe-kayak-la-corniche-de-Dakar-initie-la-jeunesse-senegalaise-a-la-pagaie_a411160.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-14T12:00:00+00:00",
+  "rubrique": "Culture",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "La Place du Souvenir africain, à la corniche de Dakar, est devenue le théâtre d'un engouement inattendu. Dans le cadre des Jeu..."
  },
  {
   "id": "fc4bac042846",
@@ -47795,15 +47821,5 @@
   "date": "2026-11-07T14:36:37+00:00",
   "rubrique": "Politique",
   "extrait": "L’ambassade du Maroc au Sénégal a organisé, hier, à la résidence de l’ambassadeur du Royaume chérifien, une cérémonie commémorant le 51e anniversaire de la Marche Verte. Dans son intervention, le diplomate est revenu sur la portée historique de cet événement qui, selon lui, pose les jalons du Maroc…"
- },
- {
-  "id": "639d68289d4d",
-  "titre": "Le sponsor d’un célèbre club anglais signe un partenariat avec une star du X et déclenche la polémique",
-  "lien": "https://www.seneweb.com/fr/news/Sport/le-sponsor-dun-celebre-club-anglais-signe-un-partenariat-avec-une-star-du-x-et-declenche-la-polemique_n_999002943.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-07T14:32:46+00:00",
-  "rubrique": "Sport",
-  "extrait": "En Angleterre, BC.Game, le sponsor principal du club de Leicester City a signé début novembre un nouveau partenariat avec Eva Elfie, une figure mondiale de l’e-sport"
  }
 ]
