@@ -58,7 +58,7 @@ images:
     source: https://commons.wikimedia.org/wiki/File:A%C3%A9roport_international_Blaise_Diagne.jpg
     actif: true
   - mots_cles:
-      - TER
+      - TER, train express régionale
       - Train express régional
     image: /static/images/ter-dakar.jpg
     type: photo
