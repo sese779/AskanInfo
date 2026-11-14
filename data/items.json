@@ -78,6 +78,32 @@
   "extrait": "Le ministère de l'Économie, des Finances et du Plan a publié ce samedi 14 novembre 2026 son rapport trimestriel d'exécutio..."
  },
  {
+  "id": "449439a87cc6",
+  "titre": "Un milliard de repas par jour : comment réduire le gaspillage alimentaire à la maison ?",
+  "lien": "https://www.bbc.com/afrique/articles/cqkgm1m805g6o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Afrique",
+  "site_source": "https://www.bbc.com/afrique",
+  "date": "2026-11-14T13:44:47+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Les experts affirment que réduire notre gaspillage alimentaire est l'une des actions climatiques les plus concrètes que nous puissions entreprendre individuellement."
+ },
+ {
+  "id": "039c7818322a",
+  "titre": "Gaza : l’Union européenne exhorte Israël à garantir un accès « immédiat » et « sans entrave » à l’enclave après des inondations importantes",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/14/gaza-l-union-europeenne-exhorte-israel-a-garantir-un-acces-immediat-et-sans-entrave-a-l-enclave-apres-des-inondations-importantes_6810313_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-14T13:42:05+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Depuis la fin de semaine dernière, ces intempéries ont entraîné l’inondation de dizaines de milliers de tentes de personnes déplacées, et ont provoqué la mort d’au moins cinq personnes, selon les secours palestiniens."
+ },
+ {
   "id": "9a610b13b389",
   "titre": "À Sagg, une pirogue s’échoue : tous les passagers indemnes, certains interpellés",
   "lien": "https://senego.com/a-sagg-une-pirogue-sechoue-tous-les-passagers-indemnes-certains-interpelles_2023911.html",
@@ -47471,26 +47497,5 @@
   "date": "2026-11-07T13:49:52+00:00",
   "rubrique": "Diaspora",
   "extrait": "Après plusieurs mois de baisse, la route atlantique vers les Canaries connaît une flambée spectaculaire"
- },
- {
-  "id": "574d3782eb0d",
-  "titre": "Amérique latine : le pape Léon XIV entame une tournée après son opération chirurgicale",
-  "lien": "http://fr.africanews.com/2026/11/07/amerique-latine-le-pape-leon-xiv-entame-une-tournee-apres-son-operation-chirurgicale/",
-  "source": "Africanews",
-  "site_source": "https://fr.africanews.com",
-  "date": "2026-11-07T13:46:03+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "extrait": "Trois semaines après avoir subi une intervention chirurgicale pour un cancer du poumon, le pape Léon XIV a entamé vendredi une tournée dans trois pays d’Amérique latine à commencer par l'Uruguay."
- },
- {
-  "id": "0d05c148b598",
-  "titre": "​Pleuropneumonie contagieuse caprine : 110 chèvres mortes dans 12 foyers au Sénégal",
-  "lien": "https://www.pressafrik.com/​Pleuropneumonie-contagieuse-caprine-110-chevres-mortes-dans-12-foyers-au-Senegal_a314236.html",
-  "source": "PressAfrik",
-  "site_source": "https://www.pressafrik.com",
-  "date": "2026-11-07T13:46:00+00:00",
-  "rubrique": "Faits divers",
-  "extrait": "La pleuropneumonie contagieuse caprine a causé la mort de 110 chèvres dans plusieurs régions d... www.pressafrik.com"
  }
 ]
