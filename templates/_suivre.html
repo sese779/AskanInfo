@@ -1,0 +1,6 @@
+{% if whatsapp_chaine or telegram_chaine %}<p class="suivre"{% if fermable %} id="suivre-accueil" hidden{% endif %}>
+  <span>Suivre AskanInfo :</span>
+  {% if whatsapp_chaine %}<a class="pastille-suivre wa" href="{{ whatsapp_chaine }}" rel="noopener" data-suivre="whatsapp">WhatsApp</a>{% endif %}
+  {% if telegram_chaine %}<a class="pastille-suivre tg" href="{{ telegram_chaine }}" rel="noopener" data-suivre="telegram">Telegram</a>{% endif %}
+  {% if fermable %}<button type="button" class="suivre-fermer" aria-label="Masquer">×</button>{% endif %}
+</p>{% endif %}
