@@ -126,8 +126,9 @@ images:
     source: https://pastef.app/wp-content/uploads/2026/11/sonko.jpg
     actif: true
   - mots_cles:
-      - Diomay Faye
+      - Président Diomay Faye
       - Président de la république du Sénégal
+      - Président Bassirou Diomay Faye
     image: /static/images/président_sénégal.webp
     type: photo
     credit: "Photo : photo_pr_officielle"
