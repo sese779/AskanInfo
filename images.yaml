@@ -9,7 +9,7 @@ images:
       - LFR
     image: /static/images/assemblee-nationale.jpg
     type: photo
-    credit: "Photo : HaguardDuNord, CC BY-SA 3.0, via Wikimedia Commons"
+    credit: assemblee sn
     source: https://www.assemblee.sn/assets/images/Logo-Assemblee-Nationale-'.png
     actif: true
   - mots_cles:
