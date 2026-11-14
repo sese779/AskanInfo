@@ -1,7 +1,8 @@
 name: Podcast
 
 # Après chaque mise à jour du site : si un nouveau script de revue de presse
-# (content/podcast/*.md) est arrivé sur main, on fabrique le MP3 avec Piper,
+# (content/podcast/*.md) ou une nouvelle synthèse est arrivé sur main, on fabrique
+# les MP3 avec Piper (podcast et synthèses lues),
 # on le range dans la release « podcast », puis on relance la mise à jour du
 # site pour publier l'épisode. S'exécute toujours depuis main.
 
@@ -41,6 +42,11 @@ jobs:
             nom=$(basename "$f" .md)
             [ -e "data/podcast/$nom.json" ] || nouveau=oui
           done
+          for f in content/syntheses/[!_]*.md; do
+            [ -e "$f" ] || continue
+            nom=$(basename "$f" .md)
+            [ -e "data/audio/$nom.json" ] || nouveau=oui
+          done
           echo "nouveau=$nouveau" >> "$GITHUB_OUTPUT"
           echo "Nouvel épisode : $nouveau"
 
@@ -74,10 +80,13 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           python scripts/podcast.py "voix/$VOIX.onnx"
+          python scripts/audio_articles.py "voix/$VOIX.onnx"
           git config user.name "askaninfo-bot"
           git config user.email "askaninfo-bot@users.noreply.github.com"
-          git add data/podcast
-          git commit -q -m "Podcast : nouvel épisode"
+          mkdir -p data/podcast data/audio
+          git add data/podcast data/audio
+          git diff --cached --quiet && exit 0
+          git commit -q -m "Audio : podcast et synthèses lues"
           for essai in 1 2 3; do
             git pull -q --rebase origin main && git push -q origin HEAD:main && break
             sleep 5

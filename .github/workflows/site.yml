@@ -72,7 +72,7 @@ jobs:
       - uses: actions/cache@v4
         with:
           path: cache-podcast
-          key: podcast-${{ hashFiles('data/podcast/*.json') }}
+          key: podcast-${{ hashFiles('data/podcast/*.json', 'data/audio/*.json') }}
           restore-keys: podcast-
 
       - name: Récupération des épisodes récents du podcast
