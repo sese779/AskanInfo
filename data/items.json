@@ -65,6 +65,19 @@
   "extrait": "Le ministre de la Justice, Garde des Sceaux, Me Moussa Sarr, a accordé une audience le mardi 10 novembre 2026 à une délégatio..."
  },
  {
+  "id": "e3e84095498d",
+  "titre": "Russie-Afrique : une stratégie d’influence entravée par les retombées de la guerre en Ukraine",
+  "lien": "https://www.jeuneafrique.com/1861454/politique/russie-afrique-une-strategie-dinfluence-entravee-par-les-retombees-de-la-guerre-en-ukraine/",
+  "source": "Jeune Afrique",
+  "site_source": "https://www.jeuneafrique.com",
+  "date": "2026-11-14T16:33:26+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Un document confidentiel dévoile la feuille de route de la diplomatie russe en Afrique pour les trois prochaines années. Entre retard d’investissement et sanctions liées à la guerre en Ukraine, Moscou se heurte toutefois à de lourds obstacles."
+ },
+ {
   "id": "8c16e05c7a21",
   "titre": "Comment Ismaïl Omar Guelleh parvient-il à protéger Djibouti dans une région aux crises multiformes",
   "lien": "https://www.jeuneafrique.com/1859692/politique/comment-ismail-omar-guelleh-parvient-il-a-proteger-djibouti-dans-une-region-aux-crises-multiformes/",
@@ -89,6 +102,32 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Les autorités du Burkina Faso ont annoncé avoir lancé des mandats d’arrêt contre une vingtaine de personnes en exil et demandé leur extradition. Des journalistes et un ancien pilier du régime de Blaise Compaoré sont notamment visés."
+ },
+ {
+  "id": "a96c5da9e82d",
+  "titre": "Suspension des vols aux Etats-Unis : des annulations et des retards de vols persistent samedi",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/14/suspension-des-vols-aux-etats-unis-des-annulations-et-des-retards-de-vols-persistent-samedi_6810445_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-14T15:31:00+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Vendredi, les autorités américaines de l’aviation ont interdit tout décollage des avions à partir des aéroports américains de 15 h 54 (à New York) jusqu’à 20 h 15. « Les opérations retournent progressivement à la normale [samedi] matin » malgré quelques retards persistants, a fait savoir le…"
+ },
+ {
+  "id": "4dfe83fb1bac",
+  "titre": "Nigeria : des affrontements entre gangs et milices dans le nord-ouest font plus de 50 morts, selon des habitants",
+  "lien": "https://www.seneweb.com/fr/news/Afrique/nigeria-des-affrontements-entre-gangs-et-milices-dans-le-nord-ouest-font-plus-de-50-morts-selon-des-habitants_n_999003632.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-14T15:29:26+00:00",
+  "rubrique": "Afrique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Des affrontements entre gangs et milices locales ont fait plus de 50 morts dans l'État de Zamfara, dans le nord-ouest du Nigeria..."
  },
  {
   "id": "b67d5222d7c6",
@@ -48314,15 +48353,5 @@
   "date": "2026-11-07T15:45:24+00:00",
   "rubrique": "Politique",
   "extrait": "L’Assemblée nationale face à un test de résilience institutionnelle Farid Akele Sat, 11/07/2026 - 15:45"
- },
- {
-  "id": "8081940b047c",
-  "titre": "Levée du corps : Parents, amis et figures marquantes du monde judiciaire rendent un dernier hommage à Me Yerim THIAM",
-  "lien": "https://www.seneweb.com/fr/news/Necrologie/levee-du-corps-parents-amis-et-figures-marquantes-du-monde-judiciaire-rendent-un-dernier-hommage-a-me-yerim-thiam_n_999002946.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-07T15:32:02+00:00",
-  "rubrique": "Faits divers",
-  "extrait": "La cérémonie de levée du corps de l'ancien bâtonnier, Me Yerim Thiam, s'est déroulée ce samedi 7 novembre 2026 à l'Hôpital Principal de Dakar"
  }
 ]
