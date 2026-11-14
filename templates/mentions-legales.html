@@ -5,29 +5,18 @@
   <h1>Mentions légales</h1>
 
   <h2>Éditeur</h2>
-  <p><strong>{{ nom_site }}</strong> est un site personnel, édité à titre non professionnel, sans publicité ni revenu. Conformément à l'article 6, III, 2 de la loi française du 21 juin 2004 pour la confiance dans l'économie numérique, l'éditeur a choisi de préserver son anonymat ; son identité a été communiquée à l'hébergeur.</p>
-  <p>Contact : <a href="mailto:{{ contact }}">{{ contact }}</a></p>
+  <p><strong>{{ nom_site }}</strong> est un site d'actualités, sans publicité.</p>
+
+  <h2>Contact</h2>
+  <p><a href="mailto:{{ contact }}">{{ contact }}</a></p>
 
   <h2>Hébergeur</h2>
-  <p>GitHub, Inc. (service GitHub Pages) – 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, États-Unis – <a href="https://github.com" rel="noopener">github.com</a></p>
+  <p>GitHub, Inc. (GitHub Pages) – 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, États-Unis.</p>
 
-  <h2>Contenus</h2>
-  <ul>
-    <li><strong>Le fil</strong> affiche uniquement les titres des articles publiés par les médias, avec un lien vers l'article original. Ces articles appartiennent à leurs auteurs et à leurs éditeurs.</li>
-    <li><strong>Les synthèses</strong> sont rédigées par un assistant automatique à partir des sources citées sous chaque texte. Elles peuvent contenir des erreurs.</li>
-    <li>Le fonctionnement du site est détaillé sur la page <a href="{{ racine }}a-propos.html">À propos et transparence</a>.</li>
-  </ul>
-
-  <h2>Signalement et droit de réponse</h2>
-  <p>Pour signaler une erreur, demander une correction, le retrait d'un contenu ou exercer un droit de réponse, écrivez à <a href="mailto:{{ contact }}">{{ contact }}</a>. Les demandes sont traitées dans les meilleurs délais.</p>
-  <p>Un média qui ne souhaite plus voir ses titres repris dans le fil peut le demander à la même adresse : ils seront retirés.</p>
+  <h2>Contenus, signalement et droit de réponse</h2>
+  <p>Toute demande (correction, retrait, droit de réponse) passe par l'adresse <a href="mailto:{{ contact }}">{{ contact }}</a>. Un média peut demander le retrait de ses titres du fil.</p>
 
   <h2>Données personnelles</h2>
-  <ul>
-    <li>Le site ne dépose <strong>aucun cookie</strong> et ne demande ni compte ni inscription.</li>
-    {% if goatcounter %}<li>La fréquentation est mesurée de façon anonyme avec GoatCounter, sans cookie et sans suivi individuel.</li>{% endif %}
-    <li>Quelques préférences (bandeau fermé, application installée) sont enregistrées uniquement sur votre appareil.</li>
-    <li>Si vous nous écrivez, votre adresse e-mail sert seulement à vous répondre.</li>
-  </ul>
+  <p>Aucun cookie. Les statistiques de fréquentation sont anonymes.</p>
 </article>
 {% endblock %}
