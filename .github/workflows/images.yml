@@ -1,0 +1,38 @@
+name: Images candidates
+
+# Lancé à la main : cherche des photos libres de droits sur Wikimedia Commons
+# (sujets de images_recherche.yaml) et les dépose sur la branche « images-candidats ».
+# Rien n'est ajouté au site : les images sont examinées avant d'être choisies.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: images
+  cancel-in-progress: true
+
+jobs:
+  chercher:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python scripts/images_candidates.py
+      - name: Dépôt sur la branche images-candidats
+        run: |
+          git config user.name "askaninfo-bot"
+          git config user.email "askaninfo-bot@users.noreply.github.com"
+          git checkout -q --orphan images-candidats
+          git rm -rq --cached .
+          git add -f candidats-images
+          git commit -q -m "Images candidates (Wikimedia Commons)"
+          git push -q --force origin images-candidats
