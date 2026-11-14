@@ -58,7 +58,7 @@ jobs:
       - name: Installer Piper et ffmpeg
         if: steps.verif.outputs.nouveau == 'oui'
         run: |
-          pip install -q piper-tts==1.8.0
+          pip install -q piper-tts==1.8.0 PyYAML==6.0.3
           command -v ffmpeg || (sudo apt-get update -q && sudo apt-get install -y -q ffmpeg)
 
       - uses: actions/cache@v4
