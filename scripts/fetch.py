@@ -136,21 +136,54 @@ def reparer_xml(donnees):
     return texte.encode("utf-8")
 
 
+PLAN_MAX = 80   # articles les plus récents lus dans un plan de site
+
+
+def lire_plan_actualites(donnees):
+    """Plan de site « Google Actualités » (pour les médias sans flux RSS) :
+    titre, lien et date de chaque article, sans extrait. Lu sans analyseur XML
+    (simple recherche de balises), limité aux PLAN_MAX premiers articles."""
+    texte = donnees.decode("utf-8", errors="replace")
+    entrees = []
+    for bloc in re.findall(r"<url>(.*?)</url>", texte, re.S)[:PLAN_MAX]:
+        lien = re.search(r"<loc>\s*(.*?)\s*</loc>", bloc, re.S)
+        titre = re.search(r"<news:title>\s*(.*?)\s*</news:title>", bloc, re.S)
+        date = re.search(r"<news:publication_date>\s*(.*?)\s*</news:publication_date>", bloc, re.S)
+        if not (lien and titre):
+            continue
+        entree = {"title": html.unescape(re.sub(r"^<!\[CDATA\[|\]\]>$", "", titre.group(1))).strip(' "«»'),
+                  "link": html.unescape(lien.group(1)), "summary": ""}
+        try:
+            d = datetime.fromisoformat(date.group(1).replace("Z", "+00:00"))
+            entree["published_parsed"] = d.astimezone(timezone.utc).timetuple()
+        except (AttributeError, ValueError):
+            pass
+        entrees.append(entree)
+    return entrees
+
+
 def lire_source(source, config):
     try:
         donnees = telecharger(source["flux"])
     except Exception as e:
         print(f"  ! {source['nom']} : téléchargement impossible ({e})", file=sys.stderr)
         return []
-    flux = feedparser.parse(donnees)
-    if flux.bozo and not flux.entries:
-        flux = feedparser.parse(reparer_xml(donnees))
-    if not flux.entries:
-        print(f"  ! {source['nom']} : flux illisible ({flux.get('bozo_exception')})", file=sys.stderr)
-        return []
+    if source.get("format") == "plan-actualites":
+        entrees = lire_plan_actualites(donnees)
+        if not entrees:
+            print(f"  ! {source['nom']} : plan de site illisible ou vide", file=sys.stderr)
+            return []
+    else:
+        flux = feedparser.parse(donnees)
+        if flux.bozo and not flux.entries:
+            flux = feedparser.parse(reparer_xml(donnees))
+        if not flux.entries:
+            print(f"  ! {source['nom']} : flux illisible ({flux.get('bozo_exception')})", file=sys.stderr)
+            return []
+        entrees = flux.entries
     mots = [m.lower() for m in config.get("mots_cles_senegal", [])]
     items = []
-    for e in flux.entries:
+    for e in entrees:
         titre = nettoyer(e.get("title"))
         lien = (e.get("link") or "").strip()
         if not titre or not lien_valide(lien) or PUBLICITE.search(titre):
