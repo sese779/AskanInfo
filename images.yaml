@@ -25,6 +25,7 @@ images:
       - palais de justice
       - tribunal de Dakar
       - Cour suprême
+      - Justice
     image: /static/images/palais-de-justice-dakar.jpg
     type: photo
     credit: "Photo : Christian Pirkl, CC BY-SA 4.0, via Wikimedia Commons"
@@ -78,7 +79,7 @@ images:
   - mots_cles:
       - UCAD
       - Cheikh Anta Diop de Dakar
-      - Université
+      - Université Cheikh Anta Diop
     image: /static/images/ucad.jpg
     type: photo
     credit: "Photo : Rignese, CC BY-SA 3.0, via Wikimedia Commons"
