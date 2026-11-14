@@ -138,7 +138,7 @@ images:
       - JOJ
       - Jeux Olympiques de la jeunesse
     image: /static/images/JOJ.png
-    type: photo
+    type: logo
     credit: "Photo : olympics"
     source: https://www.olympics.com
     actif: true
