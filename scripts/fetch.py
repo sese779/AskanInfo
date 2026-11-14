@@ -22,7 +22,7 @@ import yaml
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data" / "items.json"
 ARCHIVES = ROOT / "data" / "archives"
-USER_AGENT = "AskanInfoBot/1.0 (agregateur RSS; +https://github.com/sese779/AskanInfo)"
+USER_AGENT = "AskanInfoBot/1.0 (agregateur RSS; +https://askaninfo.com)"
 DUREE_CONSERVATION = timedelta(days=7)
 LONGUEUR_EXTRAIT = 300
 DELAI_MAX = 20                 # secondes

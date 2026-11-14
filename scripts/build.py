@@ -360,6 +360,7 @@ def main():
     ecrire("sources.html", "sources.html", "", sources=sources, titre_page="Nos sources")
     ecrire_archives(ecrire, items, a_la_une)
     ecrire("a-propos.html", "a-propos.html", "", titre_page="À propos")
+    ecrire("mentions-legales.html", "mentions-legales.html", "", titre_page="Mentions légales")
     episodes = lire_episodes({c["slug"]: c for c in a_la_une})
     ecrire("podcast.html", "podcast.html", "", titre_page="Podcast – La revue de presse", episodes=episodes)
     ecrire_message_du_jour(env, a_la_une, episodes, commun)
