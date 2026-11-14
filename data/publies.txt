@@ -64,3 +64,9 @@ content/syntheses/2026-11-14-joj-dakar-fin-douze-medailles.md
 content/syntheses/2026-11-14-pirogue-enfant-six-ans-lompoul-45-morts.md
 content/syntheses/2026-11-14-senegal-soudan-recettes-acces-stade.md
 content/syntheses/2026-11-14-sutura-diaspora-rapatriement-depouilles.md
+content/podcast/2026-11-14.md
+content/syntheses/2026-11-14-budgets-presidence-primature-assemblee-rejetes.md
+content/syntheses/2026-11-14-cio-distinctions-joj-dakar.md
+content/syntheses/2026-11-14-execution-budgetaire-fin-septembre.md
+content/syntheses/2026-11-14-lions-juba-soudan-du-sud.md
+content/syntheses/2026-11-14-pirogue-sagg-arrivees-el-hierro.md
