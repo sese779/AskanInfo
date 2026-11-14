@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block contenu %}
+<article class="article">
+  <p class="retour"><a href="{{ racine }}index.html">← Retour à l'accueil</a></p>
+  <h1>Mentions légales</h1>
+
+  <h2>Éditeur</h2>
+  <p><strong>{{ nom_site }}</strong> est un site d'actualités, sans publicité.</p>
+
+  <h2>Contact</h2>
+  <p><a href="mailto:{{ contact }}">{{ contact }}</a></p>
+
+  <h2>Contenus, signalement et droit de réponse</h2>
+  <p>Toute demande (correction, retrait, droit de réponse) passe par l'adresse <a href="mailto:{{ contact }}">{{ contact }}</a>. Un média peut demander le retrait de ses titres du fil.</p>
+
+  <h2>Données personnelles</h2>
+  <p>Aucun cookie. Les statistiques de fréquentation sont anonymes.</p>
+</article>
+{% endblock %}

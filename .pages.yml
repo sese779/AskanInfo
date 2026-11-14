@@ -117,6 +117,9 @@ content:
             label: Adresse du flux RSS
             type: string
             required: true
+          - name: format
+            label: "Format (vide = flux RSS ; plan-actualites = plan de site Google Actualités)"
+            type: string
           - name: filtre
             label: Ne garder que les articles sur le Sénégal
             type: boolean

@@ -56,11 +56,12 @@ sources:
     site: https://www.walf-groupe.com
     flux: https://www.walf-groupe.com/feed/
     filtre: false
-    actif: true
+    actif: false   # flux RSS désactivé par le site (vérifié le 14/11) : à réactiver s'ils le rouvrent
 
   - nom: "L'Observateur (iGFM)"
     site: https://www.igfm.sn
-    flux: https://www.igfm.sn/feed
+    flux: https://www.igfm.sn/google-news-sitemap.php
+    format: plan-actualites   # pas de flux RSS : on lit leur plan de site actualités (titres et liens)
     filtre: false
     actif: true
 
@@ -68,19 +69,19 @@ sources:
     site: https://lobservateur.sn
     flux: https://lobservateur.sn/feed/
     filtre: false
-    actif: true
+    actif: false   # flux muet depuis l'ajout (11/11) : adresse RSS à retrouver
 
   - nom: "Sud Quotidien"
     site: https://www.sudquotidien.sn
     flux: https://www.sudquotidien.sn/feed/
     filtre: false
-    actif: true
+    actif: false   # flux muet depuis l'ajout (11/11) : adresse RSS à retrouver
 
   - nom: "Libération"
     site: https://www.liberation.sn
     flux: https://www.liberation.sn/feed/
     filtre: false
-    actif: true
+    actif: false   # flux muet depuis l'ajout (11/11) : adresse RSS à retrouver
 
   - nom: "EnQuête"
     site: https://www.enqueteplus.com
@@ -98,7 +99,7 @@ sources:
     site: https://www.letemoin.sn
     flux: https://www.letemoin.sn/feed
     filtre: false
-    actif: true
+    actif: false   # flux muet depuis l'ajout (11/11) : adresse RSS à retrouver
 
   - nom: "Rewmi"
     site: https://www.rewmi.com

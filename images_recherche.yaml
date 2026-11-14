@@ -1,0 +1,28 @@
+# Recherches d'images libres de droits sur Wikimedia Commons (workflow « Images candidates »).
+# Chaque ligne : un identifiant et une recherche. Les résultats (4 par sujet) sont déposés
+# sur la branche « images-candidats » pour être examinés avant tout ajout au site.
+recherches:
+  assemblee-nationale: "Assemblée nationale Sénégal Dakar"
+  palais-presidence: "Palais présidentiel Dakar Sénégal"
+  stade-senghor: "Stade Léopold Sédar Senghor"
+  lions-football: "Senegal national football team"
+  touba: "Grande Mosquée de Touba"
+  tivaouane: "Tivaouane mosquée"
+  pirogues: "pirogues pêche Sénégal plage"
+  port-dakar: "Port de Dakar"
+  ucad: "Université Cheikh Anta Diop Dakar"
+  dakar: "Dakar Plateau vue aérienne"
+  saint-louis: "Pont Faidherbe Saint-Louis Sénégal"
+  renaissance: "Monument de la Renaissance africaine"
+  lutte: "lutte sénégalaise arène"
+  marche: "marché Dakar Sénégal"
+  hopital: "hôpital Dakar Sénégal"
+  orpaillage: "orpaillage Kédougou Sénégal"
+  agriculture: "arachide récolte Sénégal"
+  ter: "Train express régional Dakar"
+  aeroport: "Aéroport international Blaise Diagne"
+  justice: "Palais de justice Dakar"
+  ziguinchor: "Ziguinchor Casamance"
+  bceao: "BCEAO siège Dakar"
+  thies: "Thiès Sénégal ville"
+  peche: "pêche Sénégal poisson quai"
