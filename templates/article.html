@@ -6,6 +6,11 @@
     <a href="{{ racine }}rubrique/{{ slugify(c.rubrique) }}.html">{{ c.rubrique }}</a></p>
   <h1>{{ c.titre }}</h1>
   {% if c.chapo %}<p class="chapo">{{ c.chapo }}</p>{% endif %}
+  {% if c.audio %}<div class="ecouter">
+    <p class="ecouter-titre">🎧 Écouter l'article ({{ c.audio.duree_fr }})</p>
+    <audio controls preload="none" src="{{ c.audio.url }}"></audio>
+    <p class="ecouter-note">Lecture automatique</p>
+  </div>{% endif %}
   <p class="meta">Par {{ c.auteur }} · {{ c.date_fr }}</p>
   <div class="corps">{{ c.html|safe }}</div>
   {% set titre_partage = c.titre %}{% set url_partage = url_page %}{% include "_partage.html" %}

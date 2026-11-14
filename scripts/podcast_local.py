@@ -9,9 +9,11 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 CACHE = ROOT / "cache-podcast"
-NOMBRE = 14
+NOMBRE = 14          # épisodes du podcast
+NOMBRE_ARTICLES = 80 # synthèses lues
 
-metas = sorted((ROOT / "data" / "podcast").glob("*.json"), reverse=True)[:NOMBRE]
+metas = (sorted((ROOT / "data" / "podcast").glob("*.json"), reverse=True)[:NOMBRE]
+         + sorted((ROOT / "data" / "audio").glob("*.json"), reverse=True)[:NOMBRE_ARTICLES])
 CACHE.mkdir(exist_ok=True)
 for m in metas:
     audio = json.loads(m.read_text(encoding="utf-8"))

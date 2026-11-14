@@ -137,6 +137,23 @@ def lire_contenus(dossier, type_):
     return contenus
 
 
+def audio_article(slug):
+    """Version audio d'une synthèse (data/audio/<slug>.json), servie depuis le site si possible."""
+    f = ROOT / "data" / "audio" / f"{slug}.json"
+    if not f.exists():
+        return None
+    audio = json.loads(f.read_text(encoding="utf-8"))
+    if not lien_valide(audio.get("url")):
+        return None
+    local = ROOT / "cache-podcast" / Path(audio["url"]).name
+    if local.exists() and local.stat().st_size == audio.get("taille"):
+        (OUT / "audio").mkdir(exist_ok=True)
+        shutil.copy(local, OUT / "audio" / local.name)
+        audio = dict(audio, url=f"/audio/{local.name}")
+    minutes = max(1, round(audio.get("duree", 60) / 60))
+    return dict(audio, duree_fr=f"{minutes} min")
+
+
 def ecrire_sitemap(pages):
     # même adresse que la balise canonical : « / » plutôt que « /index.html »
     urls = "".join(
@@ -355,6 +372,7 @@ def main():
             c["image"] = f"{URL_SITE}/og/{c['slug']}.png"
     for c in a_la_une:
         a_lire = [a for a in a_la_une if a is not c and a["rubrique"] == c["rubrique"]][:4]
+        c["audio"] = audio_article(c["slug"]) if c["type"] == "synthese" else None
         ecrire(f"article/{c['slug']}.html", "article.html", "../", date=c["date"], c=c, titre_page=c["titre"], a_lire=a_lire,
                image_partage=c["image"], url_page=f"{URL_SITE}/article/{c['slug']}.html")
     ecrire("sources.html", "sources.html", "", sources=sources, titre_page="Nos sources")
