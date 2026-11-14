@@ -78,6 +78,58 @@
   "extrait": "Le ministère de l'Économie, des Finances et du Plan a publié ce samedi 14 novembre 2026 son rapport trimestriel d'exécutio..."
  },
  {
+  "id": "65e6538b16d3",
+  "titre": "Sénégal -Soudan : Le coup de gueule de Yoro Mangara sur l’état de la pelouse du stade Léopold Sédar Senghor",
+  "lien": "https://www.seneweb.com/fr/news/Sport/senegal-soudan-le-coup-de-gueule-de-yoro-mangara-sur-letat-de-la-pelouse-du-stade-leopold-sedar-senghor_n_999003622.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-14T14:00:21+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Les Lions du Sénégal ont signé une belle victoire (4-1) face au Soudan le jeudi 12 novembre dernier au Stade Léopold Sédar Senghor de Dakar"
+ },
+ {
+  "id": "46b62517b034",
+  "titre": "Dans les Alpes-Maritimes, un lieu pour écrire l’histoire des camps forestiers de harkis : « On était parqués comme des animaux, cachés au milieu de la forêt. On était une honte pour la France »",
+  "lien": "https://www.lemonde.fr/m-le-mag/article/2026/11/14/dans-les-alpes-maritimes-un-lieu-pour-ecrire-l-histoire-des-camps-forestiers-de-harkis-on-etait-parques-comme-des-animaux-caches-au-milieu-de-la-foret-on-etait-une-honte-pour-la-france_6810317_4500055.html",
+  "source": "Le Monde Afrique",
+  "site_source": "https://www.lemonde.fr/afrique/",
+  "date": "2026-11-14T14:00:05+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La première pierre de la Maison de la mémoire harkie a été posée fin septembre sur le site de l’ancien hameau de forestage de Valbonne, où près de 35 familles ont vécu dans des conditions misérables de 1967 à 1992."
+ },
+ {
+  "id": "cfcb9e8c25d5",
+  "titre": "Le crépuscule d’une ville d’ex-Allemagne de l’Est dans l’objectif d’Antoine Lecharny",
+  "lien": "https://www.lemonde.fr/m-le-mag/article/2026/11/14/le-crepuscule-d-une-ville-d-ex-allemagne-de-l-est-dans-l-objectif-d-antoine-lecharny_6810316_4500055.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-14T14:00:02+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L’ancienne cité modèle Eisenhüttenstadt raconte la déshérence de nombreuses régions de l’ex-République démocratique allemande qui ont connu, lors de la réunification, le passage du communisme au capitalisme, avant de subir la désindustrialisation. Les images en noir et blanc du photographe Antoine…"
+ },
+ {
+  "id": "868d52600b2c",
+  "titre": "IA : comment Huawei est devenu le navire amiral de la Chine dans la bataille des puces",
+  "lien": "https://www.lemonde.fr/economie/article/2026/11/14/ia-comment-huawei-est-devenu-le-navire-amiral-de-la-chine-dans-la-bataille-des-puces_6810315_3234.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-14T14:00:02+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Pour rattraper son retard dans la course à l’intelligence artificielle, Pékin mise sur son champion des télécoms Huawei. Fort de 208 000 employés dans le monde, dont 114 000 en recherche et développement, le groupe a été érigé en chef d’orchestre de l’effort chinois pour atteindre l’«…"
+ },
+ {
   "id": "825573bd0635",
   "titre": "Qualifications CAN 2027 : Nobel Mendy n’a pas fait le déplacement avec les Lions à Juba",
   "lien": "https://www.rewmi.com/qualifications-can-2027-nobel-mendy-na-pas-fait-le-deplacement-avec-les-lions-a-juba/",
@@ -104,6 +156,19 @@
   "extrait": "Le Ministère de l'Intégration africaine, des Affaires étrangères et des Sénégalais de l'Extérieu... www.pressafrik.com"
  },
  {
+  "id": "fbb43578fe01",
+  "titre": "Face aux soupçons de parrainage élyséen, Teddy Riner affiche son indépendance: « Je ne suis pas Macroniste »",
+  "lien": "https://www.dakaractu.com/Face-aux-soupcons-de-parrainage-elyseen-Teddy-Riner-affiche-son-independance-Je-ne-suis-pas-Macroniste_a278175.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-14T13:55:00+00:00",
+  "rubrique": "Monde",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Teddy Riner a pris ses distances avec Emmanuel Macron ce samedi 14 novembre, lors de sa visite au salon Made in France à Paris. Il a qualifié de « baiser empoisonné » les félicitations du chef de l’État. « Je ne suis pas l’envoyé du président, je ne suis pas un macroniste », a lancé le judoka,…"
+ },
+ {
   "id": "350cfbf3ac8a",
   "titre": "AIJC 2026 / Moussa Ngom sur le dossier René Capain Bassène : « sa libération a été un grand bonheur et un soulagement pour moi »",
   "lien": "https://www.dakaractu.com/AIJC-2026-Moussa-Ngom-sur-le-dossier-Rene-Capain-Bassene-sa-liberation-a-ete-un-grand-bonheur-et-un-soulagement-pour-moi_a278174.html",
@@ -115,6 +180,19 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Le dossier de René Capain Bassène, journaliste-écrivain qui a passé huit ans en détention dans le cadre de l’affaire Boffa Bayotte avant de bénéficier d’une grâce présidentielle, a profondément marqué le parcours professionnel de Moussa Ngom. Le fondateur de la « Maison des reporters », qui s’est…"
+ },
+ {
+  "id": "b2fb55d0f6a2",
+  "titre": "Au Sri Lanka, le jardin de Kandy, écrin tropical parmi les plus beaux d'Asie",
+  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261114-au-sri-lanka-le-jardin-de-kandy-%C3%A9crin-tropical-parmi-les-plus-beaux-d-asie",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-14T13:50:39+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "À Kandy, au Sri Lanka, ce jardin botanique réputé pour être l'un des plus beaux d'Asie abrite de nombreuses espèces tropicales protégées. Chaque année, il attire des centaines de milliers de visiteurs venus découvrir sa végétation exceptionnelle. Reportage de C. Devagenère et L. Delfolie (France 2)."
  },
  {
   "id": "a49dfdda0a1b",
