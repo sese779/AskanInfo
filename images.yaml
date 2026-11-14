@@ -34,6 +34,7 @@ images:
       - Magal
       - Grande Mosquée de Touba
       - Khalife général des mourides
+      - Mouridisme
     image: /static/images/touba-grande-mosquee.jpg
     type: photo
     credit: "Photo : John Crane, CC BY 2.0, via Wikimedia Commons"
@@ -45,20 +46,21 @@ images:
       - Khalife général des tidianes
     image: /static/images/tivaouane-mosquee.jpg
     type: photo
-    credit: "Photo : Cheikh Ahmed Tidiane Diagne, CC BY 2.0, via Wikimedia Commons"
+    credit: "Photo : Cheikh Ahmed Tidiane Diagne"
     source: https://commons.wikimedia.org/wiki/File:Mosqu%C3%A9e_Serigne_Babacar_Sy_RTA.jpg
     actif: true
   - mots_cles:
       - AIBD
       - Blaise Diagne
       - Air Sénégal
+      - Aéroport International Blaise Diagne
     image: /static/images/aeroport-aibd.jpg
     type: photo
     credit: "Photo : DIOP BARKA, CC BY-SA 4.0, via Wikimedia Commons"
     source: https://commons.wikimedia.org/wiki/File:A%C3%A9roport_international_Blaise_Diagne.jpg
     actif: true
   - mots_cles:
-      - TER, train express régionale
+      - TER
       - Train express régional
     image: /static/images/ter-dakar.jpg
     type: photo
@@ -76,6 +78,7 @@ images:
   - mots_cles:
       - UCAD
       - Cheikh Anta Diop de Dakar
+      - Université
     image: /static/images/ucad.jpg
     type: photo
     credit: "Photo : Rignese, CC BY-SA 3.0, via Wikimedia Commons"
@@ -116,8 +119,17 @@ images:
     actif: true
   - mots_cles:
       - Pastef
+      - ousmane sonko
     image: /static/images/Pastef_sonko.jpg
     type: photo
     credit: "Phot : Pastef"
     source: https://pastef.app/wp-content/uploads/2026/11/sonko.jpg
+    actif: true
+  - mots_cles:
+      - Diomay Faye
+      - Président de la république du Sénégal
+    image: /static/images/président_sénégal.webp
+    type: photo
+    credit: "Photo : photo_pr_officielle"
+    source: https://www.presidence.sn/fr/assets/img/page/photo_pr_officielle.jpg
     actif: true
