@@ -59,3 +59,8 @@ content/syntheses/2026-11-13-cio-ordre-olympique-dethie-fall.md
 content/syntheses/2026-11-13-diomaye-sommet-francophonie-phnom-penh.md
 content/syntheses/2026-11-13-joj-beach-handball-bronze-onze-medailles.md
 content/syntheses/2026-11-13-leduc-senegal-port-bargny-bail-resilie.md
+content/syntheses/2026-11-14-fausses-rumeurs-rapts-enfants.md
+content/syntheses/2026-11-14-joj-dakar-fin-douze-medailles.md
+content/syntheses/2026-11-14-pirogue-enfant-six-ans-lompoul-45-morts.md
+content/syntheses/2026-11-14-senegal-soudan-recettes-acces-stade.md
+content/syntheses/2026-11-14-sutura-diaspora-rapatriement-depouilles.md
