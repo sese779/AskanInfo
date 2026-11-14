@@ -7,7 +7,7 @@ images:
       - loi de finances
       - budget 2027
       - LFR
-    image: /static/images/assemblee nationale.png
+    image: /static/images/Sonko_President_Assablee_Nationale.jpg
     type: photo
     credit: "Photo : assemblee nationale"
     source: https://api.assemblee.sn/storage/thumbnails/l4nQPTfvaUWrzRqGtxKFHz9fJEEnwcHl346KTVlI_500.jpg
@@ -113,4 +113,11 @@ images:
     type: photo
     credit: "Photo : Olivier Dugornay (Ifremer), CC BY 4.0, via Wikimedia Commons"
     source: https://commons.wikimedia.org/wiki/File:Pirogues_sur_une_plage_au_S%C3%A9n%C3%A9gal_(Ifremer_00740-85240_-_42078).jpg
+    actif: true
+  - mots_cles:
+      - Pastef
+    image: /static/images/Pastef_sonko.jpg
+    type: photo
+    credit: "Phot : Pastef"
+    source: https://pastef.app/wp-content/uploads/2026/11/sonko.jpg
     actif: true
