@@ -78,6 +78,19 @@
   "extrait": "Des dindes, des oies, des pintades, des poules se pavanant dans leurs domaines respectifs, offrent un charme inédit au Centre d’incubation et de formation professionnelle (Cifop) d’Eguilaye, un village de la commune de Tenghory. À côté de ce spectacle attrayant de volaille, le maraîchage à l’état…"
  },
  {
+  "id": "5fa5956beea7",
+  "titre": "Sénégal – Soudan du Sud : Nobel Mendy, seul absent de la délégation à Juba",
+  "lien": "https://www.senenews.com/actualites/senegal-soudan-du-sud-nobel-mendy-seul-absent-de-la-delegation-a-juba_606409.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-14T13:25:52+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le défenseur sénégalais Nobel Mendy n'a pas fait le déplacement avec les Lions du Sénégal à Juba, au Soudan du Sud, en vue de la rencontre face au Soudan, prévue ce lundi 16 novembre, pour le compte de la 4e journée des éliminatoires de la CAN 2027. Selon la cellule de communication de la…"
+ },
+ {
   "id": "4da3dcbd5505",
   "titre": "L'affaire Nvidia s'invite dans les discussions sur la sécurité de l'IA entre la Chine et les États-Unis",
   "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261114-affaire-nvidia-invite-dans-discussions-s%C3%A9curit%C3%A9-ia-entre-chine-%C3%A9tats-unis",
@@ -2728,6 +2741,19 @@
   "diaspora": false,
   "secondaire": true,
   "extrait": "Une affaire de diffusion présumée de vidéo intime secoue le Groupe scolaire Étienne et Monique de Mbour. Selon les informations rapportées par le journal Libération, un élève en classe de Terminale L2 est soupçonné d’avoir diffusé une vidéo à caractère intime de sa petite amie, âgée de seulement 15…"
+ },
+ {
+  "id": "8a32ffc81281",
+  "titre": "Panne mondiale de Microsoft : le monde s’inquiète, l’Afrique reste silencieuse. Jusqu’à quand ?",
+  "lien": "https://lequotidien.sn/panne-mondiale-de-microsoft-le-monde-sinquiete-lafrique-reste-silencieuse-jusqua-quand/",
+  "source": "Le Quotidien",
+  "site_source": "https://lequotidien.sn",
+  "date": "2026-11-14T08:25:19+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L’Afrique, et particulièrement le Sénégal, doivent prendre conscience que l’avenir économique du monde se construit désormais autour du numérique. Pendant près de huit heures..."
  },
  {
   "id": "77a95a659068",
@@ -47399,16 +47425,5 @@
   "date": "2026-11-07T13:29:53+00:00",
   "rubrique": "Sport",
   "extrait": "Lutte de plage, Babacar Mbaye et Elisabeth Diatta réussissent leurs débuts aux JOJ Alioune Diatta Sat, 11/07/2026 - 13:29"
- },
- {
-  "id": "957d89fff7c9",
-  "titre": "Pourquoi la plus haute autorité religieuse de Libye interdit le port de vêtements Nike",
-  "lien": "https://www.bbc.com/afrique/articles/cv8ez3p1k48eo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Afrique",
-  "site_source": "https://www.bbc.com/afrique",
-  "date": "2026-11-07T13:29:21+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "extrait": "L'entreprise américaine tire son nom de la déesse grecque de la victoire, c'est pourquoi Dar al-Ifta a déclaré que l'affichage de son logo était contraire à l'islam."
  }
 ]
