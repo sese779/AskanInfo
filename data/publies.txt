@@ -70,3 +70,5 @@ content/syntheses/2026-11-14-cio-distinctions-joj-dakar.md
 content/syntheses/2026-11-14-execution-budgetaire-fin-septembre.md
 content/syntheses/2026-11-14-lions-juba-soudan-du-sud.md
 content/syntheses/2026-11-14-pirogue-sagg-arrivees-el-hierro.md
+content/syntheses/2026-11-15-budgets-forces-armees-infrastructures-rejetes.md
+content/syntheses/2026-11-15-sonko-divorce-politique-diomaye.md
