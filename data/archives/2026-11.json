@@ -1,5 +1,49 @@
 [
  {
+  "id": "dcbd23c05b65",
+  "titre": "Est-ce le début de l'indépendance économique de l'Afrique ?",
+  "lien": "https://www.bbc.com/afrique/articles/cq4g187e72r3o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Afrique",
+  "site_source": "https://www.bbc.com/afrique",
+  "date": "2026-11-08T09:12:02+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "extrait": "De nombreux pays africains cherchent de plus en plus à valoriser leurs ressources en les transformant localement plutôt qu'en les vendant à l'état brut."
+ },
+ {
+  "id": "4e0745af57d3",
+  "titre": "Ebola : « Une famille ne peut pas réduire les contacts dans un logement exigu, sans eau, sans nourriture ni matériel d’hygiène »",
+  "lien": "https://www.lemonde.fr/idees/article/2026/11/08/ebola-une-famille-ne-peut-pas-reduire-les-contacts-dans-un-logement-exigu-sans-eau-sans-nourriture-ni-materiel-d-hygiene_6808414_3232.html",
+  "source": "Le Monde Afrique",
+  "site_source": "https://www.lemonde.fr/afrique/",
+  "date": "2026-11-08T09:00:05+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "extrait": "Si les stratégies déployées pour limiter la propagation du virus en Afrique ne sont pas efficaces, ce n’est pas en raison de la méfiance ou du refus des populations, mais car ces dernières ne peuvent pas les mettre en œuvre, explique, dans une tribune au « Monde », le vice-président de l’ONG Alima…"
+ },
+ {
+  "id": "5fe1b3a13037",
+  "titre": "À Dakar, les soirées 100 % féminines ont la cote et bousculent les codes",
+  "lien": "https://www.jeuneafrique.com/1838051/societe/a-dakar-les-soirees-100-feminines-ont-la-cote-et-bousculent-les-codes/",
+  "source": "Jeune Afrique",
+  "site_source": "https://www.jeuneafrique.com",
+  "date": "2026-11-08T09:00:00+00:00",
+  "rubrique": "Politique",
+  "zone": "Afrique",
+  "extrait": "Depuis plus d’un an, dans la capitale sénégalaise, le concept « Yaay sort danser » réunit chaque trimestre un nombre croissant de participantes. Elles peuvent écouter de la musique et danser librement, sans peur d’être jugées, sans danger. Et sans hommes."
+ },
+ {
+  "id": "9856dbee7f59",
+  "titre": "Israël : Eisenkot, rival de Netanyahu, chargé de former le prochain gouvernement",
+  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261108-isra%C3%ABl-eisenkot-rival-de-netanyahu-charg%C3%A9-de-former-le-prochain-gouvernement",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-08T08:55:14+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "extrait": "La présidence israélienne a annoncé samedi soir choisir Gadi Eisenkot, principal rival du Premier ministre Benjamin Netanyahu, pour tenter de former un nouveau gouvernement. Cette décision intervient après des élections législatives sans issue claire, qui n'ont permis à aucun des deux hommes de…"
+ },
+ {
   "id": "b5e685cdc999",
   "titre": "Arabie saoudite : le quartier financier de Riyad attaqué ; deux missiles balistiques interceptés",
   "lien": "https://www.lemonde.fr/international/article/2026/11/08/arabie-saoudite-le-quartier-financier-de-riyad-attaque-deux-missiles-balistiques-interceptes_6808413_3210.html",
