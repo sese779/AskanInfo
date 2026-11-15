@@ -65,6 +65,19 @@
   "extrait": "Le ministre de la Justice, Garde des Sceaux, Me Moussa Sarr, a accordé une audience le mardi 10 novembre 2026 à une délégatio..."
  },
  {
+  "id": "f49be85f4dbf",
+  "titre": "Au Cap-Vert, modèle de stabilité démocratique, le président sortant José Maria Neves vise un second mandat",
+  "lien": "https://www.lemonde.fr/afrique/article/2026/11/15/au-cap-vert-modele-de-stabilite-democratique-le-president-sortant-jose-maria-neves-vise-un-second-mandat_6810808_3212.html",
+  "source": "Le Monde Afrique",
+  "site_source": "https://www.lemonde.fr/afrique/",
+  "date": "2026-11-15T01:53:33+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Parmi les six candidats en lice pour le premier tour, dimanche, le chef de l’Etat part favori face à sa principale rivale, l’ancienne ministre de la justice Joana Rosa Amado, première femme candidate à la présidence de la République du pays."
+ },
+ {
   "id": "315b459cc247",
   "titre": "SAINT-LOUIS : ACCÈS AUX SERVICES DE SANTÉ : Les jeunes se mobilisent pour lever les tabous et les préjugés",
   "lien": "https://www.enqueteplus.com/content/saint-louis-acc%C3%A8s-aux-services-de-sant%C3%A9-les-jeunes-se-mobilisent-pour-lever-les-tabous-et",
@@ -50134,27 +50147,5 @@
   "rubrique": "Société",
   "zone": null,
   "extrait": "La rénovation de deux établissements scolaires à Dalifort Foirail relance le débat sur les besoins en infrastructures éducatives dans la commune. Financés par la Société africaine de raffinage (SAR) dans le cadre de sa politique RSE, les travaux réalisés aux écoles CFA – Castors Forces armées – et…"
- },
- {
-  "id": "d614a015f6b7",
-  "titre": "Route du Rhum : Tom Laperche triomphe et bat un nouveau record",
-  "lien": "https://www.france24.com/fr/france/20261108-route-du-rhum-tom-laperche-triomphe-bat-un-nouveau-record",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-08T03:00:00+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "extrait": "Pour sa première participation, Tom Laperche (SVR Lazartigue) a remporté samedi soir en Guadeloupe la prestigieuse Route du Rhum, en un temps record."
- },
- {
-  "id": "296361337214",
-  "titre": "Les songes autochtones de Bérengère Cournut",
-  "lien": "https://www.rfi.fr/fr/podcasts/si-loin-si-proche/20261108-les-songes-autochtones-de-b%C3%A9reng%C3%A8re-cournut",
-  "source": "RFI Monde",
-  "site_source": "https://www.rfi.fr/fr/monde/",
-  "date": "2026-11-08T02:00:50+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "extrait": "Plongée littéraire et sensible à travers les mondes des Hopis d’Arizona, des Inuits du Grand Nord ou des Kawésqars de Patagonie."
  }
 ]
