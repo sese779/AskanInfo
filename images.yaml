@@ -145,3 +145,12 @@ images:
     credit: "Photo : olympics"
     source: https://www.olympics.com
     actif: true
+  - mots_cles:
+      - "Match Sénégal "
+      - CAN 2027
+      - "Coupe d’Afrique des nations 2027 "
+    image: /static/images/IMG_5935.jpeg
+    type: photo
+    credit: "Photo : FSF"
+    source: https://fsfoot.sn/actualites/eliminatoires-can-2027-patrick-vieira-devoile-une-liste-de-25-joueurs/
+    actif: true
