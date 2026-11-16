@@ -13,6 +13,71 @@
   "extrait": "Selon RFI, le Bénin exporte à nouveau du pétrole brut. Une première cargaison de 330 000 barils, extraite du gisement offshor..."
  },
  {
+  "id": "29328b2ebbaf",
+  "titre": "À Dakar, deux jeunes meurent après un repas à l’hôtel, d’autres convives hospitalisés",
+  "lien": "https://senego.com/a-dakar-deux-jeunes-meurent-apres-un-repas-a-lhotel-dautres-convives-hospitalises_2024421.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-16T08:55:12+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Abdou Tidiane Diop et Adama Salif Diallo sont morts après un repas collectif dans un hôtel de Dakar. D’autres convives ont été hospitalisés et des autopsies ordonnées."
+ },
+ {
+  "id": "b71e85ab44d7",
+  "titre": "Diomaye Faye et Mark Carney échangent sur le prochain sommet francophone au Canada",
+  "lien": "https://senego.com/diomaye-faye-et-mark-carney-echangent-sur-le-prochain-sommet-francophone-au-canada_2024419.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-16T08:55:07+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "En marge du 20e Sommet de la Francophonie, Bassirou Diomaye Faye et Mark Carney ont discuté du renforcement de la coopération économique, des investissements et de l’agriculture."
+ },
+ {
+  "id": "2d7aedc3a2e6",
+  "titre": "Un lutteur condamné après l’identification par les images de Google",
+  "lien": "https://senego.com/un-lutteur-condamne-apres-lidentification-par-les-images-de-google_2024417.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-16T08:55:02+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Le lutteur M. K. a été condamné à deux ans de prison après le cambriolage du domicile d’un journaliste. Les enquêteurs l’ont identifié grâce aux images d’un téléphone synchronisé."
+ },
+ {
+  "id": "598cc2af8bbf",
+  "titre": "Budgets des forces de sécurité : Mary Teuw Niane dénonce une contradiction de Pastef",
+  "lien": "https://senego.com/budgets-des-forces-de-securite-mary-teuw-niane-denonce-une-contradiction-de-pastef_2024415.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-16T08:54:57+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Mary Teuw Niane critique les rejets allégués des budgets des Forces armées et de l’Intérieur, qu’il juge contradictoires avec le patriotisme revendiqué par Pastef."
+ },
+ {
+  "id": "832003e0d4bd",
+  "titre": "Revue de presse (Wolof) RFM du lundi 16 novembre 2026 | Par Mamadou Mouhamed Ndiaye",
+  "lien": "https://senego.com/revue-de-presse-wolof-rfm-du-lundi-16-novembre-2026-par-mamadou-mouhamed-ndiaye_2024312.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-16T08:53:37+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Revue de presse (Wolof) RFM du lundi 16 novembre 2026 | Par Mamadou Mouhamed Ndiaye"
+ },
+ {
   "id": "8d3e8e3328b6",
   "titre": "Actualité du Sénégal : l’essentiel de ce lundi 16 novembre 2026",
   "lien": "https://www.senenews.com/essentiel-du-jour/actualite-senegal-16-novembre-2026_606561.html",
@@ -26,6 +91,32 @@
   "extrait": "Ousmane Sonko accuse l'État sur l'immigration irrégulière Le président de Pastef-Les Patriotes, Ousmane Sonko, a dénoncé la gestion actuelle de l'État concernant l'immigration irrégulière. Il a appelé à donner de l'espoir aux jeunes pour contrecarrer ce phénomène qui pousse de nombreux jeunes à…"
  },
  {
+  "id": "acd41b7d4caf",
+  "titre": "REVUE DE PRESSE RFM AVEC MAMADOU MOUHAMED NDIAYE - 16 NOVEMBRE 2026",
+  "lien": "https://www.seneweb.com/fr/news/Revue%20Presse/revue-de-presse-rfm-avec-mamadou-mouhamed-ndiaye-16-novembre-2026_n_999003756.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-16T08:52:58+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "REVUE DE PRESSE RFM AVEC MAMADOU MOUHAMED NDIAYE - 16 NOVEMBRE 2026"
+ },
+ {
+  "id": "4a8e6ef4f80a",
+  "titre": "Dakar-Plateau : le policier renverse la moto des agresseurs, sort son arme et tire",
+  "lien": "https://www.seneweb.com/fr/news/Societe/dakar-plateau-le-policier-renverse-la-moto-des-agresseurs-sort-son-arme-et-tire_n_999003755.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-16T08:51:59+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Un policier de la Sûreté urbaine (SU) de Dakar a déjoué un vol à l’arraché visant un membre de la délégation suisse des Jeux olympiques de la jeunesse (JOJ), en pleine patrouille au centre-ville."
+ },
+ {
   "id": "c597b6e5ad32",
   "titre": "Judo : Mbagnick Ndiaye décroche l’or à l’Open africain d’Abidjan et signe un 16e sacre",
   "lien": "https://senego.com/judo-mbagnick-ndiaye-decroche-lor-a-lopen-africain-dabidjan-et-signe-un-16e-sacre_2024409.html",
@@ -37,6 +128,19 @@
   "diaspora": false,
   "secondaire": true,
   "extrait": "Le Sénégalais Mbagnick Ndiaye s’est illustré sur les tatamis ivoiriens. Le champion d’Afrique a remporté, ce dimanche 15 novembre 2026, la médaille d’or dans la catégorie des plus de 100 kg à l’Open africain d’Abidjan. Il a dominé le Saoudien Saud Manaie en finale par ippon, signant ainsi son 16e…"
+ },
+ {
+  "id": "27fff66b841f",
+  "titre": "Francophonie: faute de consensus, l'OIF reporte d'un an l'élection du secrétaire général",
+  "lien": "https://www.pressafrik.com/Francophonie-faute-de-consensus-l-OIF-reporte-d-un-an-l-election-du-secretaire-general_a314655.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-16T08:50:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "A l'issue de tractations intenses et d'un campagne tendue, les membres de plein droit de l'OI... www.pressafrik.com"
  },
  {
   "id": "17bfbcbe4550",
@@ -442,6 +546,19 @@
   "extrait": "Revue de presse (Wolof) 2ATV du lundi 16 novembre 2026 | Par Ahmed Aidara"
  },
  {
+  "id": "b26a787223f4",
+  "titre": "Les Bleus affrontent la Turquie pour le retour de Zinédine Zidane à Bordeaux",
+  "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20261116-les-bleus-affrontent-la-turquie-pour-le-retour-de-zin%C3%A9dine-zidane-%C3%A0-bordeaux",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-16T08:11:47+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Pour son dernier match de groupe en Ligue des nations, l'équipe de France devra éviter la défaite contre la Turquie à Bordeaux pour s'assurer une place en quarts de finale. De retour de blessure, Kylian Mbappé est pressenti pour débuter le match en pointe."
+ },
+ {
   "id": "c4181567485f",
   "titre": "Soudan – Sénégal : Le onze de départ de Patrick Vieira, ce sera avec de légères modifications",
   "lien": "https://www.senenews.com/actualites/soudan-senegal-le-onze-de-depart-de-patrick-vieira-ce-sera-avec-de-legeres-modifications_606564.html",
@@ -843,6 +960,19 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Le 10 novembre 2026, aux environs de 23 h 45, les éléments de la Brigade régionale des stupéfiants de Dakar (Ocrtis) ont interpellé, en face du terminus Liberté 5, la ressortissante sierra-léonaise Francess Massaquoi en possession de trois cent douze (312) comprimés de substances psychotropes…"
+ },
+ {
+  "id": "124f7cad32d3",
+  "titre": "Ligue des nations : la France bat la Turquie et se qualifie pour les quarts",
+  "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20261116-ligue-des-nations-france-bat-turquie-se-qualifie-quarts",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-16T07:13:35+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L’équipe de France n’a pas brillé mais a battu la Turquie (2-1) pour la dernière journée de Ligue des nations. Grâce à cette victoire difficile, les Bleus terminent en tête du groupe A1 et sont qualifiés en quarts de finale."
  },
  {
   "id": "7128274e0881",
