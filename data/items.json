@@ -13,6 +13,19 @@
   "extrait": "Des violences meurtrières à Siguiri aux expulsions massives vers Bamako, la lutte contre l’orpaillage illégal fragilise les relations entre la Guinée et ses voisins. Mamadi Doumbouya refuse tout compromis."
  },
  {
+  "id": "7c8cad55f9e0",
+  "titre": "Quelle riposte pour la France après la cyberattaque contre les réfrigérateurs de supermarchés attribuée à l’Iran ?",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/16/quelle-riposte-pour-la-france-apres-la-cyberattaque-contre-les-refrigerateurs-de-supermarches-attribuee-a-l-iran_6812232_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-16T17:52:42+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L’attribution de l’attaque contre les systèmes de froid de nombreux supermarchés français à l’Iran est une première réponse de Paris. Mais la désignation publique est une arme à portée limitée, qui comporte des risques."
+ },
+ {
   "id": "dde70b1ce7de",
   "titre": "RESEAUX SOCIAUX, HARCELEMENT EN MILIEU SCOLAIRE… : Les femmes enseignantes de Linguère sonnent l’alerte",
   "lien": "https://www.enqueteplus.com/content/reseaux-sociaux-harcelement-en-milieu-scolaire%E2%80%A6-les-femmes-enseignantes-de-lingu%C3%A8re-sonnent",
@@ -1108,6 +1121,19 @@
   "id": "3abadb94ad3b",
   "titre": "Lancement d'un complément alimentaire : en plus des deux décès, d'autres victimes admises en soins intensifs à l'hôpital",
   "lien": "https://www.pressafrik.com/Lancement-d-un-complement-alimentaire-en-plus-des-deux-deces-d-autres-victimes-admises-en-soins-intensifs-a-l-hopital_a314684.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-16T15:54:00+00:00",
+  "rubrique": "Société",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Du nouveau dans l'affaire du petit-fils de l'ancien président de la République Abdou Diouf, ains... www.pressafrik.com"
+ },
+ {
+  "id": "402784a65f04",
+  "titre": "Décès Adama Salif Diallodu et d'Abdou Tidiane Diop : d'autres victimes admises en soins intensifs à l'hôpital suite au lancement d'un complément alimentaire",
+  "lien": "https://www.pressafrik.com/Deces-Adama-Salif-Diallodu-et-d-Abdou-Tidiane-Diop-d-autres-victimes-admises-en-soins-intensifs-a-l-hopital-suite-au_a314684.html",
   "source": "PressAfrik",
   "site_source": "https://www.pressafrik.com",
   "date": "2026-11-16T15:54:00+00:00",
@@ -57012,17 +57038,5 @@
   "zone": null,
   "diaspora": false,
   "extrait": "Une nation ne devrait jamais s’habituer à attendre de l’océan des nouvelles de ses enfants"
- },
- {
-  "id": "cf226c0fe055",
-  "titre": "Blocage des LFR- LFI / Les maires du département de Tivaouane montent au créneau : \"C'est du sabotage\" (Dr. Maguette Wade de Ngaye Mékhé)",
-  "lien": "https://www.dakaractu.com/Blocage-des-LFR-LFI-Les-maires-du-departement-de-Tivaouane-montent-au-creneau-C-est-du-sabotage-Dr-Maguette-Wade-de_a278001.html",
-  "source": "Dakaractu",
-  "site_source": "https://www.dakaractu.com",
-  "date": "2026-11-09T17:55:00+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "extrait": "Les maires du département de Tivaouane dont le maire de Ngaye Mékhé, le maire de Méouane, le maire de Taïba Ndiaye, ont fait face à la presse pour se prononcer sur le blocage des LFR et LFI par la majorité Pastef. \"Le Pastef a rejeté la loi sans délai. C'est du sabotage! Le Pastef est dans une…"
  }
 ]
