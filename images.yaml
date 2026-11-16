@@ -156,7 +156,8 @@ images:
     source: https://fsfoot.sn/actualites/eliminatoires-can-2027-patrick-vieira-devoile-une-liste-de-25-joueurs/
     actif: true
   - mots_cles:
-      - "Al-Nassr, Sadio Mané "
+      - Al-Nassr
+      - Sadio Mané
     image: /static/images/IMG_5937.jpeg
     type: photo
     credit: Mehr News Agency, CC BY 4.0, via Wikimedia Commons
