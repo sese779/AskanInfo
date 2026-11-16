@@ -78,3 +78,8 @@ content/syntheses/2026-11-15-diabete-prevalence-regions.md
 content/syntheses/2026-11-15-manuels-scolaires-editeurs-ultimatum.md
 content/syntheses/2026-11-15-matam-pirogue-chavire-kobilo.md
 content/syntheses/2026-11-15-sadio-mane-al-nassr-fin-contrat.md
+content/syntheses/2026-11-16-budget-justice-rejete-moussa-sarr.md
+content/syntheses/2026-11-16-cap-vert-neves-reelu.md
+content/syntheses/2026-11-16-reseaux-emigration-yenne-ziguinchor.md
+content/syntheses/2026-11-16-sonko-message-militants-pastef.md
+content/syntheses/2026-11-16-sotigui-souleymane-seye-ndiaye.md
