@@ -134,7 +134,7 @@ images:
       - chef de l'État sénégalais
     image: /static/images/président_sénégal.webp
     type: photo
-    credit: "Photo : photo_pr_officielle"
+    credit: "Photo : Présidence officielle"
     source: https://www.presidence.sn/fr/assets/img/page/photo_pr_officielle.jpg
     actif: true
   - mots_cles:
