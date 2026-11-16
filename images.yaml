@@ -164,7 +164,7 @@ images:
     actif: true
   - mots_cles:
       - "FSF, Sénégal "
-      - "Fédération sénégalaise de football "
+      - Fédération sénégalaise de football
     image: /static/images/IMG_5939.jpeg
     type: photo
     credit: "Photo : FSF"
