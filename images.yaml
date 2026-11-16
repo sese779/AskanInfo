@@ -145,3 +145,28 @@ images:
     credit: "Photo : olympics"
     source: https://www.olympics.com
     actif: true
+  - mots_cles:
+      - "Match Sénégal "
+      - CAN 2027
+      - "Coupe d’Afrique des nations 2027 "
+      - Patrick Vieira
+    image: /static/images/IMG_5935.jpeg
+    type: photo
+    credit: "Photo : FSF"
+    source: https://fsfoot.sn/actualites/eliminatoires-can-2027-patrick-vieira-devoile-une-liste-de-25-joueurs/
+    actif: true
+  - mots_cles:
+      - "Al-Nassr, Sadio Mané "
+    image: /static/images/IMG_5937.jpeg
+    type: photo
+    credit: Mehr News Agency, CC BY 4.0, via Wikimedia Commons
+    source: https://upload.wikimedia.org/wikipedia/commons/7/7a/Sadio_Mane_2023_Al_Nassr_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+    actif: true
+  - mots_cles:
+      - "FSF, Sénégal "
+      - Fédération sénégalaise de football
+    image: /static/images/IMG_5939.jpeg
+    type: photo
+    credit: "Photo : FSF"
+    source: https://fsfoot.sn/actualites/eliminatoires-can-2027-patrick-vieira-devoile-une-liste-de-25-joueurs/
+    actif: true
