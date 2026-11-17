@@ -120,3 +120,34 @@ document.addEventListener("click", (e) => {
   evenement(lien ? "suivre-" + lien.dataset.suivre : "suivre-masque");
   if (fermer) { const l = document.getElementById("suivre-accueil"); if (l) l.hidden = true; }
 });
+
+// Page « Message du jour » : bouton qui copie le texte prêt pour Facebook.
+document.querySelectorAll("[data-copier]").forEach((bouton) => {
+  bouton.addEventListener("click", () => {
+    const source = document.getElementById(bouton.dataset.copier);
+    if (!source) return;
+    const texte = source.textContent;
+    const confirmer = () => {
+      const initial = bouton.textContent;
+      bouton.textContent = bouton.dataset.copie || "Copié ✓";
+      setTimeout(() => { bouton.textContent = initial; }, 4000);
+      evenement("partage-copie-facebook");
+    };
+    const secours = () => {
+      // Anciens navigateurs : copie via une zone de texte temporaire.
+      const zone = document.createElement("textarea");
+      zone.value = texte;
+      zone.setAttribute("readonly", "");
+      zone.className = "hors-ecran";
+      document.body.appendChild(zone);
+      zone.select();
+      try { document.execCommand("copy"); confirmer(); } catch (e) { /* rien */ }
+      zone.remove();
+    };
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(texte).then(confirmer, secours);
+    } else {
+      secours();
+    }
+  });
+});

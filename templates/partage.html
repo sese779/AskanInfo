@@ -3,8 +3,10 @@
 <article class="article">
   <p class="retour"><a href="{{ racine }}index.html">← Retour à l'accueil</a></p>
   <h1>Message du jour</h1>
-  <p class="meta">Texte prêt à partager ({{ nb }} sujet(s)). Appuyez sur le bouton vert, ou sélectionnez le texte pour le copier dans une chaîne ou un groupe.</p>
-  <p><a class="bouton-wa" href="https://wa.me/?text={{ message|urlencode }}" rel="noopener">Envoyer sur WhatsApp</a></p>
+  <p class="meta">Texte prêt à partager ({{ nb }} sujet(s)). WhatsApp : appuyez sur le bouton vert. Facebook : appuyez sur le bouton bleu, puis collez le texte dans une nouvelle publication de votre Page.</p>
+  <p class="boutons-partage"><a class="bouton-wa" href="https://wa.me/?text={{ message|urlencode }}" rel="noopener">Envoyer sur WhatsApp</a>
+  <button type="button" class="bouton-fb" data-copier="message-fb" data-copie="Copié ✓ Collez-le sur Facebook">Copier pour Facebook</button></p>
+  <pre id="message-fb" hidden>{{ message_fb }}</pre>
   <pre class="message">{{ message }}</pre>
 </article>
 {% endblock %}
