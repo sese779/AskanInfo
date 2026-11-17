@@ -89,3 +89,8 @@ content/syntheses/2026-11-16-oif-election-reportee-compromis.md
 content/syntheses/2026-11-16-saint-louis-quatre-corps-hydrobase.md
 content/syntheses/2026-11-16-soudan-senegal-2-4-juba.md
 content/syntheses/2026-11-16-tambacounda-nourrisson-excision.md
+content/syntheses/2026-11-17-agregation-cames-55-admis.md
+content/syntheses/2026-11-17-emigration-rufisque-gambie-malicounda.md
+content/syntheses/2026-11-17-parcelles-assainies-foie-avarie-saisi.md
+content/syntheses/2026-11-17-sante-contractuels-salaires-sames.md
+content/syntheses/2026-11-17-senegal-reelu-conseil-uit.md
