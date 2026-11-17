@@ -83,3 +83,9 @@ content/syntheses/2026-11-16-cap-vert-neves-reelu.md
 content/syntheses/2026-11-16-reseaux-emigration-yenne-ziguinchor.md
 content/syntheses/2026-11-16-sonko-message-militants-pastef.md
 content/syntheses/2026-11-16-sotigui-souleymane-seye-ndiaye.md
+content/podcast/2026-11-16.md
+content/syntheses/2026-11-16-dakar-deces-apres-repas-enquete.md
+content/syntheses/2026-11-16-oif-election-reportee-compromis.md
+content/syntheses/2026-11-16-saint-louis-quatre-corps-hydrobase.md
+content/syntheses/2026-11-16-soudan-senegal-2-4-juba.md
+content/syntheses/2026-11-16-tambacounda-nourrisson-excision.md
