@@ -26,6 +26,19 @@
   "extrait": "Le Sénégal est officiellement qualifié pour la Coupe d'Afrique des nations 2027, après la victoire du Mozambique en Éthiopie (1-0) c..."
  },
  {
+  "id": "548b23324fd0",
+  "titre": "La République des idées : Retisser le lien social",
+  "lien": "https://lesoleil.sn/le-decodeur/la-republique-des-idees-retisser-le-lien-social/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-17T17:49:57+00:00",
+  "rubrique": "Société",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La société sénégalaise traverse une crise du vivre-ensemble. Personne ne semble plus se soucier de l’autre. Les liens traditionnels d’entraide ne fonctionnent plus. On n’ose plus s’enquérir du voisin de peur d’être accusé de voyeurisme. Deux voisins peuvent rester des semaines, voire des mois, sans…"
+ },
+ {
   "id": "4e9e74fc036f",
   "titre": "Le Maroc bat l’Éthiopie 5-3 et se qualifie, avec le Sénégal en possible adversaire",
   "lien": "https://senego.com/le-maroc-bat-lethiopie-5-3-et-se-qualifie-avec-le-senegal-en-possible-adversaire_2025023.html",
@@ -50,6 +63,32 @@
   "diaspora": false,
   "secondaire": true,
   "extrait": "Le décès d’une fillette de deux jours à Sadatou, dans le département de Goudiry, région de Tambacounda suscite une vive émotion et une profonde indignation. Nous condamnons avec la plus grande fermeté…"
+ },
+ {
+  "id": "5931c932f65b",
+  "titre": "Le Sénégal valide sa qualification pour la CAN",
+  "lien": "https://www.seneplus.com/article/le-senegal-valide-sa-qualification-pour-la-can",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-17T17:46:26+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le Sénégal valide sa qualification pour la CAN Paap Seen Tue, 11/17/2026 - 17:46"
+ },
+ {
+  "id": "43aa405ade73",
+  "titre": "Guédiawaye : Pour une histoire de « barada », elle asperge sa voisine d’eau bouillante",
+  "lien": "https://www.seneweb.com/fr/news/Societe/guediawaye-pour-une-histoire-de-barada-elle-asperge-sa-voisine-deau-bouillante_n_999003901.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-17T17:45:46+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Une banale histoire de théière, communément appelée « barada », a viré au drame familial à Guédiawaye"
  },
  {
   "id": "7b5faabea9cc",
@@ -167,6 +206,19 @@
   "diaspora": false,
   "secondaire": true,
   "extrait": "Il fut un temps où, au Sénégal, une seule mort brutale arrêtait un quartier. On fermait la boutique, on se rendait à la maison mortuaire sans attendre d’y être invité, on baissait la voix pendant des jours. Aujourd’hui, les morts tombent par dizaines et la vie reprend avant même que les corps…"
+ },
+ {
+  "id": "0ed8818a1cc0",
+  "titre": "Comment une fausse citation de Christine Lagarde a été amplifiée par un réseau de désinformation srilankais",
+  "lien": "https://www.france24.com/fr/france/20261117-comment-fausse-citation-christine-lagarde-amplifi%C3%A9e-par-r%C3%A9seau-d%C3%A9sinformation-sri-lanka",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-17T17:31:40+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Selon plusieurs publications Facebook, Christine Lagarde aurait déclaré que \"les personnes âgées vivent trop longtemps\", ce qui représenterait un \"risque\" pour l’économie. Une fausse citation attribuée à tort à la présidente de la Banque centrale européenne, actuellement relayée par un réseau de…"
  },
  {
   "id": "dea8d78847a2",
@@ -312,6 +364,19 @@
   "extrait": "La CIJ dira, jeudi 19 novembre, si la Birmanie a commis un génocide contre la minorité musulmane. Alors que la décision devrait préciser les contours de la définition juridique du génocide, les tentatives américaines d’intimidation contre ses juges se multiplient."
  },
  {
+  "id": "cdc351d642db",
+  "titre": "Record du monde : Nataliia Zharkova plonge en apnée à 124 mètres de profondeur",
+  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261117-record-du-monde-nataliia-zharkova-plonge-en-apn%C3%A9e-%C3%A0-124-m%C3%A8tres-de-profondeur",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-17T17:14:22+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Nataliia Zharkova plonge à 124 mètres et établit le record de profondeur en apnée féminine. Dans la catégorie “poids constant” où l'Ukrainienne concourt, les plongeurs descendent et remontent sans s'aider d'une corde, tout en étant soumis à une pression intense sur leurs poumons, à des besoins en…"
+ },
+ {
   "id": "0fe5ec47505f",
   "titre": "Vaccination des enfants : le Pr Abdoulaye Ndiaye appelle les parents à vérifier les carnets",
   "lien": "https://senego.com/vaccination-des-enfants-le-pr-abdoulaye-ndiaye-appelle-les-parents-a-verifier-les-carnets_2025005.html",
@@ -336,6 +401,19 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Migrations internes, Dakar attire près de la moitié des nouveaux arrivants Alioune Diatta Tue, 11/17/2026 - 17:10"
+ },
+ {
+  "id": "ecefcc01f36a",
+  "titre": "Guerre en Ukraine : une partie du pont de Crimée s’effondre après des frappes de Kiev",
+  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261117-guerre-en-ukraine-une-partie-du-pont-de-crim%C3%A9e-s-effondre-apr%C3%A8s-des-frappes-de-kiev",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-17T17:05:50+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L'attaque ukrainienne sur le pont reliant la Russie à la Crimée, annexée par Moscou, a été qualifiée d'\"opération sans précédent\" par Volodymyr Zelensky ce mardi 17 novembre. Des bombardements menés en \"réponse aux frappes russes\" contre les infrastructures du pays, selon le président ukrainien."
  },
  {
   "id": "3645a992a3a8",
@@ -375,6 +453,19 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Quel goût vous ramène instantanément en enfance ? Avec “Rue du Goût Perdu”, ces souvenirs d'enfance deviennent le point de départ d'un projet autour de la gastronomie et de la transmission."
+ },
+ {
+  "id": "99d06d9ddaaf",
+  "titre": "Les États-Unis perdent leur statut de pays ayant éliminé la rougeole",
+  "lien": "https://www.france24.com/fr/info-en-continu/20261117-les-%C3%A9tats-unis-perdent-leur-statut-de-pays-ayant-%C3%A9limin%C3%A9-la-rougeole",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-17T16:59:32+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Les États-Unis ont perdu leur statut de pays ayant éliminé la rougeole, a annoncé mardi l'Organisation panaméricaine de la Santé (PAHO), cette maladie grave et très contagieuse y ayant signé sous Donald Trump un retour en force, sur fond de baisse des taux de vaccination."
  },
  {
   "id": "27a0aceb003a",
@@ -59573,17 +59664,5 @@
   "zone": "Monde",
   "diaspora": false,
   "extrait": "Sous l'impulsion des comités olympiques et paralympiques français, le milieu du sport veut s'imposer dans le débat pour la présidentielle de 2027. Le collectif \"Sport 2027\" dévoile ses cinq propositions que tout candidat pourra reprendre, et donne rendez-vous aux prétendants à l'Élysée le 1er…"
- },
- {
-  "id": "c16fd13f92e6",
-  "titre": "Résultats financiers : Kosmos Energy affiche un résultat net ajusté de 35 millions de dollars au troisième trimestre 2026",
-  "lien": "https://www.pressafrik.com/Resultats-financiers-Kosmos-Energy-affiche-un-resultat-net-ajuste-de-35-millions-de-dollars-au-troisieme-trimestre-2026_a314392.html",
-  "source": "PressAfrik",
-  "site_source": "https://www.pressafrik.com",
-  "date": "2026-11-10T17:53:00+00:00",
-  "rubrique": "Société",
-  "zone": null,
-  "diaspora": false,
-  "extrait": "La société pétrolière et gazière Kosmos Energy a publié ses résultats financiers et opérationnel... www.pressafrik.com"
  }
 ]
