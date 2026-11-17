@@ -235,8 +235,10 @@ def ecrire_message_du_jour(env, contenus, episodes, commun):
         lignes += [f"🎧 La revue de presse audio ({ep['duree_fr']}) :", f"{URL_SITE}/podcast.html", ""]
     lignes += [f"Toute l'actualité : {URL_SITE}"]
     message = "\n".join(lignes)
+    # Facebook n'interprète pas le gras de WhatsApp (*texte*) : on retire les astérisques.
+    message_fb = re.sub(r"\*([^*\n]+)\*", r"\1", message)
     (OUT / "partage.html").write_text(env.get_template("partage.html").render(
-        racine="", chemin="partage.html", titre_page="Message du jour", message=message,
+        racine="", chemin="partage.html", titre_page="Message du jour", message=message, message_fb=message_fb,
         nb=len(du_jour), **commun), encoding="utf-8")
 
 
