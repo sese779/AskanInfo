@@ -104,3 +104,4 @@ syntheses/2026-11-17-dakar-repas-autopsie-quatre-deces
 syntheses/2026-11-17-joj-bourse-500000-athletes
 syntheses/2026-11-17-meteo-pluies-hors-saison
 syntheses/2026-11-17-senegal-officiellement-qualifie-can-2027
+podcast/2026-11-17
