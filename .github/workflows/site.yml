@@ -2,10 +2,12 @@ name: Mise à jour du site
 
 on:
   schedule:
-    # GitHub ne garantit pas les horaires (il en saute quand ses serveurs sont
-    # chargés) : deux créneaux par heure pour en avoir au moins un.
-    - cron: "17 * * * *"
-    - cron: "47 * * * *"
+    # GitHub ne garantit pas les horaires : il saute beaucoup de créneaux quand
+    # ses serveurs sont chargés (5 à 8 exécutions par jour sur 48 prévues).
+    # On tente donc toutes les 10 minutes ; l'étape « verifier » ci-dessous
+    # arrête aussitôt la tentative si le site a été mis à jour il y a moins
+    # de 50 minutes.
+    - cron: "7,17,27,37,47,57 * * * *"
   push:
     branches: [main]
   workflow_dispatch:
@@ -21,7 +23,29 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  verifier:
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    outputs:
+      lancer: ${{ steps.age.outputs.lancer }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+      - id: age
+        name: Dernière mise à jour il y a moins de 50 minutes ?
+        run: |
+          age=$(( $(date +%s) - $(git log -1 --format=%ct) ))
+          echo "Dernier commit sur main il y a $(( age / 60 )) min."
+          if [ "${{ github.event_name }}" = "schedule" ] && [ "$age" -lt 3000 ]; then
+            echo "lancer=non" >> "$GITHUB_OUTPUT"
+          else
+            echo "lancer=oui" >> "$GITHUB_OUTPUT"
+          fi
+
   construire:
+    needs: verifier
+    if: needs.verifier.outputs.lancer == 'oui'
     runs-on: ubuntu-latest
     timeout-minutes: 15
     environment:
