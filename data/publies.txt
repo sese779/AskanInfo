@@ -94,3 +94,9 @@ content/syntheses/2026-11-17-emigration-rufisque-gambie-malicounda.md
 content/syntheses/2026-11-17-parcelles-assainies-foie-avarie-saisi.md
 content/syntheses/2026-11-17-sante-contractuels-salaires-sames.md
 content/syntheses/2026-11-17-senegal-reelu-conseil-uit.md
+content/podcast/2026-11-17.md
+content/syntheses/2026-11-17-budget-2027-calendrier-plenieres.md
+content/syntheses/2026-11-17-dakar-repas-autopsie-quatre-deces.md
+content/syntheses/2026-11-17-joj-bourse-500000-athletes.md
+content/syntheses/2026-11-17-meteo-pluies-hors-saison.md
+content/syntheses/2026-11-17-senegal-officiellement-qualifie-can-2027.md
