@@ -1,5 +1,57 @@
 [
  {
+  "id": "f7f55448f8c2",
+  "titre": "Conservation du Lion et du Léopard: un plan national d’action en élaboration",
+  "lien": "https://lesoleil.sn/actualites/environnement/conservation-du-lion-et-du-leopard-un-plan-national-daction-en-elaboration/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-11T17:34:32+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Les acteurs des parcs nationaux et leurs partenaires travaillent sur la protection du lion et de léopard, deux espèces sous la menace des braconniers, des éleveurs et la dégradation de l’habitat. Un plan national d’actions pour la conservation des félins est en gestation. Le Sénégal est en train de…"
+ },
+ {
+  "id": "3267ec76757f",
+  "titre": "L'envers du décor de l'amitié d'acier Chine-Serbie",
+  "lien": "https://www.rfi.fr/fr/podcasts/grand-reportage/20261111-l-amiti%C3%A9-d-acier-entre-la-serbie-et-la-chine-r%C3%A9sistera-t-elle-au-nouveau-souffle-d%C3%A9mocratique",
+  "source": "RFI Monde",
+  "site_source": "https://www.rfi.fr/fr/monde/",
+  "date": "2026-11-11T17:33:50+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "En Serbie, l'ex-président Vucic avait déroulé un véritable tapis rouge à la Chine, célébrant volontiers l’amitié d'acier qui unit les deux pays. La Chine est donc très vite devenue incontournable pour bâtir des ponts, des chemins de fer, exploiter des mines et faire tourner des usines. Mais la…"
+ },
+ {
+  "id": "de1b5e79b54f",
+  "titre": "Projet de budget du ministère du Pétrole rejeté : Les sujets sur lesquels Abdourahmane Diouf a été interpellé",
+  "lien": "https://www.seneweb.com/fr/news/Energie/projet-de-budget-du-ministere-du-petrole-rejete-les-sujets-sur-lesquels-abdourahmane-diouf-a-ete-interpelle_n_999003349.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-11T17:33:03+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Dr Abdourahmane Diouf, ministre de l’Énergie et du Pétrole (MEP), était, ce mercredi, face à la Commission des Finances et du Contrôle budgétaire..."
+ },
+ {
+  "id": "f1b5fb8b682c",
+  "titre": "Aéroport Blaise-Diagne : un syndicaliste évoque 1,4 milliard FCFA dus par Air Sénégal",
+  "lien": "https://senego.com/aeroport-blaise-diagne-un-syndicaliste-evoque-14-milliard-fcfa-dus-par-air-senegal_2022847.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-11T17:32:39+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "À Yoff, les syndicats SPAS et SUDTRAS dénoncent les difficultés financières de l’AIBD et réclament le recouvrement de créances, la récupération du patrimoine de l’ADS et davantage d’autonomie."
+ },
+ {
   "id": "dac308f17b4b",
   "titre": "Midterms 2026 : aux Etats-Unis, l’improbable victoire de Bobby Pulido, star de la musique tex-mex",
   "lien": "https://www.lemonde.fr/international/article/2026/11/11/midterms-2026-aux-etats-unis-l-improbable-victoire-de-bobby-pulido-star-de-la-musique-tex-mex_6809009_3210.html",
