@@ -20,7 +20,7 @@ from jinja2 import Environment, FileSystemLoader
 from check_overlap import passages_copies
 from images_partage import image_article, image_site
 from pwa import PAGES_HORS_LIGNE, ecrire_pwa
-from regroupement import image_pour, lire_images, sujets
+from regroupement import illustration, image_pour, lire_images, sujets
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "_site"
@@ -121,7 +121,14 @@ def lire_contenus(dossier, type_):
             print(f"  ! {f.name} : trop proche des sources, NON publiée (voir check_overlap.py)")
             continue
         date = parse_date(meta.get("date", datetime.fromtimestamp(f.stat().st_mtime, timezone.utc)))
+        # photo choisie à la main dans Pages CMS (prioritaire sur les mots-clés)
+        photo = None
+        if meta.get("photo"):
+            photo = illustration(ROOT, meta.get("photo"), meta.get("credit_photo"))
+            if not photo:
+                print(f"  ! {f.name} : photo ignorée (fichier absent ou crédit manquant) : {meta.get('photo')}")
         contenus.append({
+            "photo": photo,
             "type": type_,
             "titre": meta["titre"],
             "chapo": meta.get("chapo", ""),
@@ -330,7 +337,7 @@ def main():
     # images par sujet (images.yaml) : logo ou photo, jamais de cadre vide
     regles = lire_images(ROOT)
     for c in a_la_une:
-        c["illustration"] = image_pour([c["titre"]], regles)
+        c["illustration"] = c["photo"] or image_pour([c["titre"], c["chapo"]], regles)
     items.sort(key=lambda i: i["date"], reverse=True)
     recents = items[:400]
     maintenant = parse_date(recents[0]["date"]) if recents else datetime.now(timezone.utc)
@@ -368,7 +375,10 @@ def main():
     image_site(OUT / "og" / "askaninfo.png")
     for n, c in enumerate(a_la_une):
         c["image"] = f"{URL_SITE}/og/askaninfo.png"
-        if n < IMAGES_PARTAGE:
+        if c["photo"]:
+            # aperçu de partage : la photo choisie pour l'article
+            c["image"] = URL_SITE + c["photo"]["image"]
+        elif n < IMAGES_PARTAGE:
             image_article(c["titre"], c["rubrique"], "Rédaction" if c["type"] == "article" else "Synthèse",
                           OUT / "og" / f"{c['slug']}.png")
             c["image"] = f"{URL_SITE}/og/{c['slug']}.png"
