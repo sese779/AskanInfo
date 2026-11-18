@@ -42,6 +42,7 @@ sources:
     titre: "Îles Canaries : aucune arrivée de migrants en 24 heures, une première
       depuis un mois"
     url: https://www.pressafrik.com/Iles-Canaries-aucune-arrivee-de-migrants-en-24-heures-une-premiere-depuis-un-mois_a314746.html
+photo: /static/images/IMG_5949-1.jpeg
 credit_photo: "Photo : voa afrique "
 ---
 De janvier à novembre 2026, la division de la police spécialisée contre le trafic de migrants (DNLT) a procédé à 6 889 interpellations et mis fin aux activités de 88 réseaux, d'après le bilan rapporté par PressAfrik. Sur ces onze mois, 107 départs clandestins auraient en outre été empêchés, selon Senego. SenePlus évoque de son côté « près de 900 personnes » interpellées dans la lutte contre ces réseaux. Les éléments disponibles ne précisent ni la période ni le service concernés par ce second chiffre : rien ne permet de dire s'il recouvre le bilan de la DNLT ou s'il s'agit d'un autre décompte.
