@@ -46,6 +46,12 @@ content:
         label: Brouillon (non publié)
         type: boolean
         default: true
+      - name: photo
+        label: "Photo de l'article (facultatif : remplace la photo choisie par mots-clés ; uniquement une image libre ou autorisée)"
+        type: image
+      - name: credit_photo
+        label: "Crédit de la photo (obligatoire si une photo est choisie, ex. « Photo : Nom, CC BY-SA 4.0, via Wikimedia Commons »)"
+        type: string
       - name: body
         label: Texte de l'article
         type: rich-text
@@ -92,6 +98,12 @@ content:
           - name: url
             label: Lien
             type: string
+      - name: photo
+        label: "Photo de l'article (facultatif : remplace la photo choisie par mots-clés ; uniquement une image libre ou autorisée)"
+        type: image
+      - name: credit_photo
+        label: "Crédit de la photo (obligatoire si une photo est choisie, ex. « Photo : Nom, CC BY-SA 4.0, via Wikimedia Commons »)"
+        type: string
       - name: body
         label: Texte
         type: text

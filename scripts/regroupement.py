@@ -11,6 +11,7 @@ import unicodedata
 from collections import Counter
 from datetime import timedelta
 from pathlib import Path
+from urllib.parse import quote
 
 import yaml
 
@@ -106,6 +107,21 @@ def grouper(items):
     return [membres for _, membres in groupes]
 
 
+# Fichier d'image accepté : dans static/images/, extension d'image, sans « .. ».
+# Les accents et les espaces sont permis (Pages CMS garde le nom du fichier
+# envoyé) : l'adresse est encodée pour le navigateur.
+IMAGE_VALIDE = re.compile(r"/static/images/[^/\\<>\"']+\.(png|jpe?g|webp)", re.I)
+
+
+def illustration(racine, image, credit, type_="photo"):
+    """-> {image (adresse encodée), credit, type} ou None si le fichier est invalide."""
+    image, credit = str(image or "").strip(), str(credit or "").strip()
+    if not (IMAGE_VALIDE.fullmatch(image) and ".." not in image and credit
+            and (racine / image.lstrip("/")).is_file()):
+        return None
+    return {"image": quote(image), "credit": credit, "type": "logo" if type_ == "logo" else "photo"}
+
+
 def lire_images(racine):
     """images.yaml -> liste de règles valides {mots, image, type, credit}."""
     f = racine / "images.yaml"
@@ -115,16 +131,14 @@ def lire_images(racine):
     for r in (yaml.safe_load(f.read_text(encoding="utf-8")) or {}).get("images") or []:
         if not isinstance(r, dict) or r.get("actif") is False:
             continue
-        image, credit = str(r.get("image") or "").strip(), str(r.get("credit") or "").strip()
         cles = r.get("mots_cles") or []
         cles = [cles] if isinstance(cles, str) else cles
         cles = [normaliser(c).strip() for c in cles if str(c).strip()]
-        valide = re.fullmatch(r"/static/images/[A-Za-z0-9._-]+\.(png|jpe?g|webp)", image, re.I)
-        if not (valide and credit and cles and (racine / image.lstrip("/")).is_file()):
-            print(f"  ! images.yaml : règle ignorée (image absente, crédit ou mots-clés manquants) : {image or r}")
+        img = illustration(racine, r.get("image"), r.get("credit"), r.get("type"))
+        if not (img and cles):
+            print(f"  ! images.yaml : règle ignorée (image absente, crédit ou mots-clés manquants) : {r.get('image') or r}")
             continue
-        regles.append({"mots": cles, "image": image, "credit": credit,
-                       "type": "logo" if r.get("type") == "logo" else "photo"})
+        regles.append({"mots": cles, **img})
     return regles
 
 
@@ -151,7 +165,8 @@ def sujets(items, contenus, regles, maintenant, nb_une=5, heures=36):
                 vus.add(i["source"])
                 un_par_media.append(i)
         synthese = next((synthese_par_lien[i["lien"]] for i in g if i["lien"] in synthese_par_lien), None)
-        titres = [g[0]["titre"]] + ([synthese["titre"]] if synthese else [])
+        # tous les titres du sujet, plus le titre et le chapô de la synthèse
+        titres = [i["titre"] for i in g] + ([synthese["titre"], synthese.get("chapo") or ""] if synthese else [])
         # la tête du sujet : de préférence un média principal
         principaux = [i for i in un_par_media if not i.get("secondaire")]
         if principaux and principaux[0] is not un_par_media[0]:
@@ -159,7 +174,8 @@ def sujets(items, contenus, regles, maintenant, nb_une=5, heures=36):
             un_par_media.insert(0, principaux[0])
         return {"tete": un_par_media[0], "autres": un_par_media[1:], "tous": g, "nb_medias": len(un_par_media),
                 "nb_principaux": len(principaux), "secondaire": not principaux,
-                "rubrique": g[0]["rubrique"], "synthese": synthese, "image": image_pour(titres, regles)}
+                "rubrique": g[0]["rubrique"], "synthese": synthese,
+                "image": (synthese or {}).get("photo") or image_pour(titres, regles)}
 
     groupes = [habiller(g) for g in grouper(dedoublonner(items))]
     limite = (maintenant - timedelta(hours=heures)).isoformat()

@@ -6,6 +6,7 @@
     <a href="{{ racine }}rubrique/{{ slugify(c.rubrique) }}.html">{{ c.rubrique }}</a></p>
   <h1>{{ c.titre }}</h1>
   {% if c.chapo %}<p class="chapo">{{ c.chapo }}</p>{% endif %}
+  {% set img = c.illustration %}{% if img %}<figure class="photo-article {{ img.type }}"><img src="{{ img.image }}" alt=""><figcaption>{{ img.credit }}</figcaption></figure>{% endif %}
   {% if c.audio %}<div class="ecouter">
     <p class="ecouter-titre">🎧 Écouter l'article ({{ c.audio.duree_fr }})</p>
     <audio controls preload="none" src="{{ c.audio.url }}"></audio>
