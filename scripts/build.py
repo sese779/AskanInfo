@@ -337,7 +337,7 @@ def main():
     # images par sujet (images.yaml) : logo ou photo, jamais de cadre vide
     regles = lire_images(ROOT)
     for c in a_la_une:
-        c["illustration"] = c["photo"] or image_pour([c["titre"], c["chapo"]], regles)
+        c["illustration"] = c["photo"] or image_pour([c["titre"], c["chapo"]], regles, c["rubrique"])
     items.sort(key=lambda i: i["date"], reverse=True)
     recents = items[:400]
     maintenant = parse_date(recents[0]["date"]) if recents else datetime.now(timezone.utc)

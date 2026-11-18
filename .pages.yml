@@ -187,10 +187,14 @@ content:
         list: true
         fields:
           - name: mots_cles
-            label: "Mots-clés (ex. JOJ, Lions, Assemblée nationale)"
+            label: "Mots-clés (ex. JOJ, Lions, Assemblée nationale) ; facultatif pour une photo de secours"
             type: string
             list: true
-            required: true
+          - name: secours_rubrique
+            label: "Photo de secours de la rubrique (facultatif) : utilisée quand aucun mot-clé ne correspond"
+            type: select
+            options:
+              values: ["", Politique, Société, Faits divers, Sport, Diaspora, Économie, Culture, Afrique, Monde, Actualité]
           - name: image
             label: "Image"
             type: image
