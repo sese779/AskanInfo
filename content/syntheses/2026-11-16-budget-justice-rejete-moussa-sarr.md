@@ -26,6 +26,7 @@ sources:
     titre: Me Moussa Sarr alerte après le rejet du budget de la Justice, sans fin du
       processus
     url: https://senego.com/me-moussa-sarr-alerte-apres-le-rejet-du-budget-de-la-justice-sans-fin-du-processus_2024273.html
+photo: /static/images/IMG_5950-1.png
 credit_photo: "Photo : wiki "
 ---
 Le garde des Sceaux, Me Moussa Sarr, a présenté le 13 novembre 2026 aux députés des commissions des finances et des lois, réunies pour l'occasion, le budget de son département pour 2027. Selon Dakaractu et Le Soleil, les crédits de paiement atteindraient 85,76 milliards de FCFA, soit une hausse par rapport aux 80,73 milliards inscrits pour 2026. Le Soleil note que le ministre a évoqué des finances publiques sous tension, tandis que Dakaractu cite son plaidoyer : son ministère « a besoin de davantage de moyens ».
