@@ -105,3 +105,8 @@ syntheses/2026-11-17-joj-bourse-500000-athletes
 syntheses/2026-11-17-meteo-pluies-hors-saison
 syntheses/2026-11-17-senegal-officiellement-qualifie-can-2027
 podcast/2026-11-17
+syntheses/2026-11-18-air-senegal-vols-paris-perturbes
+syntheses/2026-11-18-can-u23-senegal-soudan-du-sud-maroc
+syntheses/2026-11-18-gfm-youssou-ndour-salaires-restructuration
+syntheses/2026-11-18-pastef-exclut-diomaye-faye
+syntheses/2026-11-18-trafic-migrants-bilan-interpellations
