@@ -52,6 +52,19 @@
   "extrait": "En Ouganda, Muhoozi Kainerugaba est de retour sur le réseau social X depuis lundi 16 novembre, après une semaine d’absence. Le fils du président Yoweri Museveni, qui s’est déjà vanté d’avoir fait enlever et torturer des opposants, affiche désormais ses ambitions présidentielles et s’en prend de…"
  },
  {
+  "id": "55e3856808cc",
+  "titre": "Air Sénégal annonce des perturbations sur les vols Dakar-Paris du 18 novembre",
+  "lien": "https://www.leral.net/Air-Senegal-annonce-des-perturbations-sur-les-vols-Dakar-Paris-du-18-novembre_a411545.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-18T10:42:00+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Un incident survenu sur le tarmac de l’Aéroport international Blaise Diagne (AIBD), impliquant une passerelle et un appareil d..."
+ },
+ {
   "id": "f3083bb5fbe8",
   "titre": "Mobilisations en France : la police au bord de l'épuisement professionnel",
   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261118-mobilisations-en-france-la-police-au-bord-de-l-%C3%A9puisement-professionnel",
@@ -1155,6 +1168,19 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "La dépouille d’un homme a été découverte le 17 novembre près du quai de pêche du Cap-Skirring. L’Observateur rapporte l’identification d’un jeune d’environ vingt ans, tandis que Libération confirme la découverte et les démarches engagées pour établir la cause du décès. Une nouvelle découverte de…"
+ },
+ {
+  "id": "ef2b957a8fa3",
+  "titre": "Niger : une attaque signalée dans le département de Dioundou, région de Dosso",
+  "lien": "https://www.leral.net/Niger-une-attaque-signalee-dans-le-departement-de-Dioundou-region-de-Dosso_a411535.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-18T09:16:00+00:00",
+  "rubrique": "Afrique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Le Niger a été le théâtre d'une nouvelle attaque dans le département de Dioundou, région de Dosso, dans le sud-ouest du pays..."
  },
  {
   "id": "0fb3dce124a3",
@@ -61331,29 +61357,5 @@
   "zone": null,
   "diaspora": false,
   "extrait": "Dans un communiqué publié ce mercredi 11 novembre 2026, la Marine sénégalaise dit avoir «port... www.pressafrik.com"
- },
- {
-  "id": "39a52e974518",
-  "titre": "CAN U23 : les Lionceaux lancent leur campagne face au Soudan du Sud",
-  "lien": "https://www.seneweb.com/fr/news/Sport/can-u23-les-lionceaux-lancent-leur-campagne-face-au-soudan-du-sud_n_999003302.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-11T10:46:58+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "extrait": "Pendant que les Lions A s’apprêtent à recevoir le Soudan jeudi au stade Léopold Sédar Senghor pour le compte de la 3ᵉ journée des qualifications CAN 2027, la sélection sénégalaise U23 sera déjà sur le pont ce mercredi."
- },
- {
-  "id": "e5c04669649a",
-  "titre": "Christophe Gleizes, journaliste détenu en Algérie depuis cinq cents jours : RSF organise un match solidaire pour appeler à sa libération",
-  "lien": "https://www.lemonde.fr/actualite-medias/article/2026/11/11/christophe-gleizes-journaliste-detenu-en-algerie-depuis-500-jours-rsf-organise-un-match-solidaire-pour-appeler-a-sa-liberation_6808956_3236.html",
-  "source": "Le Monde Afrique",
-  "site_source": "https://www.lemonde.fr/afrique/",
-  "date": "2026-11-11T10:46:51+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "extrait": "Des personnalités du sport, des médias et de la culture s’unissent lors d’un match inédit pour soutenir Christophe Gleizes, unique journaliste français détenu à l’étranger."
  }
 ]
