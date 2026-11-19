@@ -11,6 +11,7 @@ import html
 import json
 import re
 import sys
+import unicodedata
 import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta, timezone
@@ -76,7 +77,42 @@ MOTS_GENERIQUES = {"afrique", "africain", "monde", "mondial", "international", "
                    "onu", "nations unies", "otan", "g20"}
 
 
-def rubrique(titre, extrait, rubriques, mots_senegal, zone=None, diaspora=False):
+# Rubrique donnée par le site source (catégorie du flux RSS ou dossier de l'adresse,
+# ex. seneweb.com/fr/news/Politique/…). Seules les rubriques sans ambiguïté sont
+# reprises ; « Société », « Actualités », « Vidéo »… ne disent rien et sont ignorées.
+RUBRIQUES_SOURCE = {
+    "Sport": {"sport", "sports", "football", "foot", "lamb", "lutte", "lutte-senegalaise", "basket",
+              "basketball", "mondial-sports", "lamb-sport"},
+    "Politique": {"politique", "politics", "diplomatie", "elections", "gouvernement"},
+    "Économie": {"economie", "eco", "business", "finance", "finances", "info-eco", "afrique-economie"},
+    "Faits divers": {"faits-divers", "fait-divers", "faits divers", "faitsdivers", "justice", "police"},
+    "Société": {"sante", "education", "religion", "environnement"},
+    "Culture": {"culture", "people", "cinema", "musique", "livres"},
+    "Diaspora": {"diaspora", "immigration", "migration", "emigration"},
+    "Afrique": {"afrique"},
+    "Monde": {"international", "monde"},
+}
+_RUBRIQUE_PAR_MOT = {m: r for r, mots in RUBRIQUES_SOURCE.items() for m in mots}
+
+
+def _simple(t):
+    t = urllib.parse.unquote(str(t)).strip().lower()
+    return "".join(c for c in unicodedata.normalize("NFD", t) if unicodedata.category(c) != "Mn")
+
+
+def rubrique_source(item):
+    """Rubrique indiquée par le site source, ou None : catégories du flux d'abord,
+    puis dossiers de l'adresse (le dernier élément, le titre de l'article, est ignoré)."""
+    candidats = [_simple(c) for c in item.get("categories") or []]
+    dossiers = urllib.parse.urlsplit(item.get("lien", "")).path.strip("/").split("/")[:-1]
+    candidats += [_simple(d) for d in dossiers]
+    for c in candidats:
+        if c in _RUBRIQUE_PAR_MOT:
+            return _RUBRIQUE_PAR_MOT[c]
+    return None
+
+
+def rubrique(titre, extrait, rubriques, mots_senegal, zone=None, diaspora=False, indice=None):
     """1. Sport, Diaspora ; 2. hors Sénégal : Afrique puis Monde, d'après le
     TITRE seul (un extrait cite souvent un pays au passage) ; 3. thèmes.
     Le titre est toujours examiné avant l'extrait."""
@@ -101,11 +137,16 @@ def rubrique(titre, extrait, rubriques, mots_senegal, zone=None, diaspora=False)
     prioritaires = ("Diaspora",) if POLITIQUE_FORTE.search(titre) else PRIORITAIRES
     prioritaire = premiere(prioritaires)   # titre d'abord, puis extrait
     if prioritaire:
-        return prioritaire
+        return _arbitrer(prioritaire, indice, titre, parle_du_senegal)
     pays = [m for nom in GEOGRAPHIQUES for m in rubriques.get(nom, []) if m.lower() not in MOTS_GENERIQUES]
     if SENEGALAIS.search(titre) and pays and _motif(pays).search(titre):
         return "Diaspora"
     themes = [n for n in motifs if n not in GEOGRAPHIQUES + PRIORITAIRES]
+    return _arbitrer(_par_mots_cles(premiere, prioritaires, parle_du_senegal, themes, titre), indice,
+                     titre, parle_du_senegal)
+
+
+def _par_mots_cles(premiere, prioritaires, parle_du_senegal, themes, titre):
     return (premiere(prioritaires)
             or (None if parle_du_senegal else premiere(GEOGRAPHIQUES, (titre,)))
             or premiere(themes)
@@ -113,6 +154,24 @@ def rubrique(titre, extrait, rubriques, mots_senegal, zone=None, diaspora=False)
             # ne part pas en Afrique ou Monde
             or (None if parle_du_senegal else premiere(GEOGRAPHIQUES))
             or "Actualité")
+
+
+def _arbitrer(par_mots, indice, titre, parle_du_senegal):
+    """Rubrique du site source (indice) contre rubrique trouvée par les mots-clés.
+    L'indice ne l'emporte que dans les cas sûrs : rubriques Sport et Culture des
+    sites ; article que les mots-clés rangeaient en Sport (souvent un homonyme)
+    alors que le site le classe ailleurs ; article sans rubrique trouvée."""
+    if not indice or indice == par_mots:
+        return par_mots
+    if indice == "Sport":
+        return par_mots if POLITIQUE_FORTE.search(titre) else "Sport"
+    if indice == "Culture" and par_mots in ("Actualité", "Sport", "Société"):
+        return "Culture"
+    if indice in ("Afrique", "Monde"):
+        return indice if par_mots == "Actualité" and not parle_du_senegal else par_mots
+    if par_mots in ("Sport", "Actualité"):
+        return indice
+    return par_mots
 
 
 def lien_valide(lien):
@@ -197,6 +256,8 @@ def lire_source(source, config):
         if not titre or not lien_valide(lien) or PUBLICITE.search(titre):
             continue
         extrait = couper(nettoyer(e.get("summary")), LONGUEUR_EXTRAIT)
+        # catégories du flux (rubrique du site source), courtes et nettoyées
+        categories = [nettoyer(t.get("term"))[:40] for t in (e.get("tags") or []) if t.get("term")][:5]
         texte = f"{titre} {extrait}"
         if source.get("filtre") and not any(m in texte.lower() for m in mots):
             continue
@@ -212,6 +273,7 @@ def lire_source(source, config):
             "diaspora": bool(source.get("diaspora")),
             "secondaire": bool(source.get("secondaire")),
             "extrait": extrait,
+            **({"categories": categories} if categories else {}),
         })
     print(f"  {source['nom']} : {len(items)} article(s)")
     return items
@@ -282,7 +344,7 @@ def main():
     for i in par_id.values():
         i["rubrique"] = rubrique(i["titre"], i.get("extrait", ""), config.get("rubriques", {}),
                                  [m.lower() for m in config.get("mots_cles_senegal", [])],
-                                 i.get("zone"), i.get("diaspora", False))
+                                 i.get("zone"), i.get("diaspora", False), rubrique_source(i))
 
     masques = liens_masques()
     for lien in [i["id"] for i in par_id.values() if i["lien"] in masques]:
