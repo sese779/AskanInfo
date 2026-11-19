@@ -13,6 +13,81 @@
   "extrait": "Le lutteur Balla Gaye a délocalisé son open press en Casamance, précisément à Ziguinchor, en vue de son affrontement avec Ad..."
  },
  {
+  "id": "b40d69a489b4",
+  "titre": "La Matinale Senego : Diba sollicite, Sagna critique, Sonko interpelle le FMI",
+  "lien": "https://senego.com/la-matinale-senego-diba-sollicite-sagna-critique-sonko-interpelle-le-fmi_2025642.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-19T06:03:29+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Bonjour et bienvenue dans la matinale de Senego du jeudi 19 novembre 2026. À l’Assemblée nationale, le projet de budget 2027 suscite des prises de position contrastées : Cheikh Diba cherche des soutiens, Guy Marius Sagna dénonce le poids de la dette et Ousmane Sonko réclame davantage de…",
+  "categories": [
+   "Actualités",
+   "La Matinale",
+   "Sénégal",
+   "Vedette",
+   "Vidéos"
+  ]
+ },
+ {
+  "id": "4e5878280bc1",
+  "titre": "Leadership scolaire : Quand les filles passent des bancs de l’école à leur direction",
+  "lien": "https://www.rfi.fr/fr/podcasts/8-milliards-de-voisins/20261119-leadership-scolaire-quand-les-filles-passent-des-bancs-de-l-%C3%A9cole-%C3%A0-leur-direction",
+  "source": "RFI Monde",
+  "site_source": "https://www.rfi.fr/fr/monde/",
+  "date": "2026-11-19T06:00:52+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "À l’échelle internationale, la majorité des enseignants sont des femmes, mais dans de nombreux pays, celles-ci n’accèdent toujours pas aux postes de direction dans l’éducation. L’Afrique subsaharienne est la région du monde où l’on trouve le moins de femmes à la tête des établissements scolaires.",
+  "categories": [
+   "8 milliards de voisins"
+  ]
+ },
+ {
+  "id": "b682302bb276",
+  "titre": "« Inside Deutsche Bank » : derrière la façade verte, les coulisses du « greenwashing » de la banque allemande",
+  "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/11/19/inside-deutsche-bank-derriere-la-facade-verte-les-coulisses-du-greenwashing-de-la-banque-allemande_6813239_4355770.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-19T05:58:07+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Après l’accord de Paris en 2015, la banque a multiplié les annonces pour réduire son empreinte sur le climat. La fuite de données « Inside Deutsche Bank » montre que le groupe a contourné ou ignoré ses propres promesses à plusieurs reprises."
+ },
+ {
+  "id": "8e3b6fa429e5",
+  "titre": "EN DIRECT, guerre en Ukraine : peu avant leur rencontre tripartite en Chine, Donald Trump s’entretient séparément avec Vladimir Poutine et Xi Jinping",
+  "lien": "https://www.lemonde.fr/international/live/2026/11/19/en-direct-guerre-en-ukraine-peu-avant-leur-rencontre-tripartite-en-chine-donald-trump-s-entretient-separement-avec-vladimir-poutine-et-xi-jinping_6810982_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-19T05:52:43+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Les présidents américain et russe ont échangé pendant environ quarante minutes à Shenzhen, sans que l’on sache quels ont été les thèmes abordés. Par ailleurs, le pont de Crimée a de nouveau été touché, mercredi soir, deux jours après des frappes ukrainiennes ayant sérieusement endommagé…"
+ },
+ {
+  "id": "a9508f99ebae",
+  "titre": "Élimane Lam et les transferts de fonds, un maire arrêté, 16 millions F CFA et un couple détruit, … : 5 infos (et un bonus) à ne pas manquer sur Seneweb ce matin",
+  "lien": "https://www.seneweb.com/fr/news/Lupourvous/elimane-lam-et-les-transferts-de-fonds-un-maire-arrete-16-millions-f-cfa-et-un-couple-detruit-5-infos-et-un-bonus-a-ne-pas-manquer-sur-seneweb-ce-matin_n_999004059.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-19T05:51:06+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Découvrez l’essentiel de l’actualité traitée par les quotidiens d’information ce jeudi 19 novembre."
+ },
+ {
   "id": "4805582ff0b6",
   "titre": "À Shenzhen, une rencontre Xi -Trump dans le sillage du scandale Huang et Nvidia",
   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261119-une-rencontre-xi-trump-dans-le-sillage-du-scandale-huang-et-nvidia",
@@ -61556,44 +61631,5 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Le Colonel des Douanes K. Fall n’oubliera pas de sitôt sa mésaventure survenue dans la soirée du lundi 9 novembre 2026..."
- },
- {
-  "id": "7c21db3d7307",
-  "titre": "La Matinale Senego : Yérim Seck répond, Diouf voit son budget rejeté",
-  "lien": "https://senego.com/la-matinale-senego-yerim-seck-repond-diouf-voit-son-budget-rejete_2023031.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-12T06:03:27+00:00",
-  "rubrique": "Économie",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Bonjour et bienvenue dans la matinale de Senego du jeudi 12 novembre 2026. Au menu de la nuit : Cheikh Yérim Seck répond à Aminata Touré, les députés rejettent en commission le budget de l’Énergie et un garde d’honneur s’effondre à l’Élysée lors de l’accueil du président slovaque. Les 3 sujets…"
- },
- {
-  "id": "3ac3d00617e3",
-  "titre": "Mandat d’arrêt de Madiambal Diagne, Moustapha Diop-Tabaski Ngom, un faux policier arrête de vrais policiers, … : 5 infos (et un bonus) à ne pas manquer sur Seneweb ce matin",
-  "lien": "https://www.seneweb.com/fr/news/Lupourvous/mandat-darret-de-madiambal-diagne-moustapha-diop-tabaski-ngom-un-faux-policier-arrete-de-vrais-policiers-5-infos-et-un-bonus-a-ne-pas-manquer-sur-seneweb-ce-matin_n_999003390.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-12T06:00:19+00:00",
-  "rubrique": "Faits divers",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Suivez sur notre site les reprises de l’essentiel de l’actualité traitée par les quotidiens d’information ce jeudi 12 novembre."
- },
- {
-  "id": "979e1f639346",
-  "titre": "Salmonella détectée dans cinq prélèvements sur cinq à Kébémer, parmi 649 cas recensés",
-  "lien": "https://senego.com/salmonella-detectee-dans-cinq-prelevements-sur-cinq-a-kebemer-parmi-649-cas-recenses_2023029.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-12T05:43:43+00:00",
-  "rubrique": "Société",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "À Kébémer, 649 personnes ont été recensées pour des troubles digestifs, mais cinq prélèvements seulement ont confirmé la présence de salmonelles. L’Institut Pasteur étudie leur sensibilité aux antibiotiques."
  }
 ]
