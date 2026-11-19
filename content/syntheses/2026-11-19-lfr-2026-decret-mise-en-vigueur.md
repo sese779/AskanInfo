@@ -56,7 +56,7 @@ sources:
       ira-t-il jusqu’à faire tomber le gouvernement d’Al Aminou Lô ?
     url: https://www.dakaractu.com/Apres-le-decret-sur-la-LFR-2026-et-deux-revers-budgetaires-Pastef-ira-t-il-jusqu-a-faire-tomber-le-gouvernement-d-Al_a278386.html
 photo: /static/images/IMG_5965.jpeg
-credit_photo: "Photo : presi"
+credit_photo: "Photo : présidence "
 ---
 Le président Bassirou Diomaye Faye a rendu exécutoire, par le décret n° 2026-2416 daté du jeudi 19 novembre, la loi de finances rectificative (LFR) 2026, selon un communiqué de la Présidence relayé par Actusen, Le Soleil et RFI. Les députés avaient rejeté ce texte le 3 novembre. D'après Le Monde, il avait été repoussé deux fois en commission puis en plénière, et ce budget est jugé crucial pour l'aide du Fonds monétaire international (FMI).
 
