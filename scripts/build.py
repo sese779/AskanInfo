@@ -59,9 +59,13 @@ def motif_joueurs():
     selection = re.compile(r"vieira|selection|equipe nationale|taniere|eliminatoire|\bcan\b|lions de la teranga|"
                            r"leopold sedar senghor|diamniadio|forfait|convoqu|liste des")
 
+    # titre politique (« le député Mamadou Mory Diaw ») : jamais dans les Lions à l'étranger
+    politique = re.compile(r"assemblee|\bdepute|dissolution|budget|loi de finances|\bpastef\b|kii?raa?y|"
+                           r"takku wallu|ministre|gouvernement|\bparti\b")
+
     def test(titre):
         t = sans_accent(titre)
-        if selection.search(t):
+        if selection.search(t) or politique.search(t):
             return False
         return bool((joueur and joueur.search(t)) or
                     (championnat and championnat.search(t) and senegalais.search(t)))
