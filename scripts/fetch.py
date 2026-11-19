@@ -61,6 +61,13 @@ PUBLICITE = re.compile(r"\bcasinos?\b|\bbetting\b|\bslot machines?\b|\bonline sl
 
 
 PRIORITAIRES = ("Sport", "Diaspora")
+# Titre clairement politique : il n'est jamais rangé en Sport, même s'il contient
+# le nom d'un sportif (« le député Mamadou Mory Diaw » ≠ le gardien Mory Diaw)
+# ou un mot du sport (« JOJ »).
+POLITIQUE_FORTE = re.compile(
+    r"assembl[ée]e nationale|\bd[ée]put[ée]e?s?\b|dissolution|loi de finances|\bl[fF][iIrR]\b|"
+    r"budget 20\d\d|\bpastef\b|kii?raa?y|takku wallu|conseil des ministres|motion de censure|"
+    r"\bapr\b|\bboycott", re.I)
 # « un Sénégalais / une Sénégalaise / des compatriotes » dans un titre qui cite
 # un pays étranger = vie de la diaspora
 SENEGALAIS = re.compile(r"\bs[ée]n[ée]galais(?:e|es)?\b|\bcompatriotes?\b")
@@ -91,14 +98,15 @@ def rubrique(titre, extrait, rubriques, mots_senegal, zone=None, diaspora=False)
     # onglet Afrique si le titre cite l'Afrique, sinon la zone de la source
     if zone and not parle_du_senegal:
         return premiere(("Afrique",), (titre,)) or zone
-    prioritaire = premiere(PRIORITAIRES)   # titre d'abord, puis extrait
+    prioritaires = ("Diaspora",) if POLITIQUE_FORTE.search(titre) else PRIORITAIRES
+    prioritaire = premiere(prioritaires)   # titre d'abord, puis extrait
     if prioritaire:
         return prioritaire
     pays = [m for nom in GEOGRAPHIQUES for m in rubriques.get(nom, []) if m.lower() not in MOTS_GENERIQUES]
     if SENEGALAIS.search(titre) and pays and _motif(pays).search(titre):
         return "Diaspora"
     themes = [n for n in motifs if n not in GEOGRAPHIQUES + PRIORITAIRES]
-    return (premiere(PRIORITAIRES)
+    return (premiere(prioritaires)
             or (None if parle_du_senegal else premiere(GEOGRAPHIQUES, (titre,)))
             or premiere(themes)
             # un article sur le Sénégal qui cite un autre pays (« Sénégal–Soudan »)
