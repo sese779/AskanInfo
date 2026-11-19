@@ -13,6 +13,58 @@
   "extrait": "Le lutteur Balla Gaye a délocalisé son open press en Casamance, précisément à Ziguinchor, en vue de son affrontement avec Ad..."
  },
  {
+  "id": "dac3169e013f",
+  "titre": "La crise du détroit d’Ormuz favorise « une étroite convergence entre sécurité énergétique et objectifs climatiques », selon le directeur de l’AIE, Fatih Birol",
+  "lien": "https://www.lemonde.fr/economie/article/2026/11/19/la-crise-du-detroit-d-ormuz-favorise-une-etroite-convergence-entre-securite-energetique-et-objectifs-climatiques-selon-le-directeur-de-l-aie-fatih-birol_6813236_3234.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-19T05:00:41+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L’Agence internationale de l’énergie publie, jeudi 19 novembre, son rapport annuel. Son directeur exécutif souligne, dans un entretien au « Monde », comment la guerre au Moyen-Orient accélère le déploiement des renouvelables, du nucléaire et de l’électrification."
+ },
+ {
+  "id": "dc4479a9307a",
+  "titre": "Un demi-milliard de dollars dépensé pour les midterms 2026 : Elon Musk avoue se sentir « un peu idiot » après la victoire écrasante des démocrates",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/19/un-demi-milliard-de-dollars-depense-pour-les-midterms-2026-elon-musk-avoue-se-sentir-un-peu-idiot-apres-la-victoire-ecrasante-des-democrates_6813228_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-19T04:52:01+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le multimilliardaire a notamment déboursé plus de 220 millions de dollars en faveur du sénateur sortant du Texas, Ken Paxton, finalement battu. Il a expliqué que son engagement avait pour but « d’avoir un certain équilibre des pouvoirs »."
+ },
+ {
+  "id": "352d6aae2fbf",
+  "titre": "Guerre en Ukraine : la présence de soldats français en Ukraine fait-elle de Paris un « cobelligérant » contre qui la Russie pourrait riposter ?",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/19/guerre-en-ukraine-la-presence-de-soldats-francais-en-ukraine-fait-elle-de-paris-un-cobelligerant-contre-qui-la-russie-pourrait-riposter_6813225_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-19T04:30:19+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le gouvernement a reconnu avoir déployé des militaires sur le territoire ukrainien dans le cadre de missions de formation et de maintenance, ravivant le débat sur les risques de voir Moscou prendre la France pour cible ou sur la nécessité d’une consultation du Parlement."
+ },
+ {
+  "id": "9a6f4a478071",
+  "titre": "En Espagne, les candidats font campagne chez les youtubeurs",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/19/en-espagne-les-candidats-font-campagne-chez-les-youtubeurs_6813223_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-19T04:30:04+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "A l’approche des élections législatives du 29 novembre, les principaux responsables politiques espagnols multiplient les entretiens avec des créateurs de contenu. Des conversations à bâtons rompus, parfois très intimes, qui leur permettent de toucher un public éloigné des médias traditionnels."
+ },
+ {
   "id": "ec31ec4f7b42",
   "titre": "Bassirou Sarr justifie la baisse des recettes du PRES par la prudence budgétaire",
   "lien": "https://senego.com/bassirou-sarr-justifie-la-baisse-des-recettes-du-pres-par-la-prudence-budgetaire_2025631.html",
@@ -24,6 +76,19 @@
   "diaspora": false,
   "secondaire": true,
   "extrait": "Bassirou Sarr défend la révision des recettes du PRES, évoquant les difficultés des jeux de hasard, du foncier et des concessions téléphoniques."
+ },
+ {
+  "id": "af60fefb17b2",
+  "titre": "À la COP31, les ministres tentent de débloquer les négociations pour adopter un texte final",
+  "lien": "https://www.france24.com/fr/plan%C3%A8te/20261119-cop31-ministres-tentent-debloquer-climat-negociations-adopter-texte-final-environnement-onu-turquie-antalya",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-19T04:29:10+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Face aux divergences et aux blocages, les ministres se sont réunis mercredi soir pour une session de discussions informelles à la COP31 à Antalya, en Turquie. Un nouveau projet de déclaration finale est attendu d'ici vendredi."
  },
  {
   "id": "8d05679318fd",
@@ -61527,70 +61592,5 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Plus de 200 personnes dont des enfants sont mortes au cours d’un massacre perpétré le 1ᵉʳ mars par des rebelles. Selon un rapport de l’organisation de défense des droits humains, publié jeudi, le pouvoir soudanais ainsi que la Minuss avaient été informés de la possibilité de cette attaque au moins…"
- },
- {
-  "id": "91e6640ff8e5",
-  "titre": "Dans la mer d’Aral en voie d’assèchement, le « miracle » éphémère de la crevette artémia, ressource prisée de l’aquaculture mondiale",
-  "lien": "https://www.lemonde.fr/planete/article/2026/11/12/dans-la-mer-d-aral-en-voie-d-assechement-le-miracle-ephemere-de-la-crevette-artemia-ressource-prisee-de-l-aquaculture-mondiale_6809056_3244.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-12T05:00:28+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "A l’origine immense lac d’eau douce partagé entre Ouzbékistan et Kazakhstan, la mer d’Aral a vu ses rives reculer sous l’effet de la culture industrielle du coton et des réaménagements hydrologiques. Ses eaux saturées de sel sont devenues le royaume exclusif d’un crustacé perçu comme une manne par…"
- },
- {
-  "id": "eb553cec8e13",
-  "titre": "Génocide des Tutsi : au Sénégal, l’avenir incertain des génocidaires condamnés par la justice internationale",
-  "lien": "https://www.lemonde.fr/afrique/article/2026/11/12/genocide-des-tutsi-au-senegal-l-avenir-incertain-des-genocidaires-condamnes-par-la-justice-internationale_6809053_3212.html",
-  "source": "Le Monde Afrique",
-  "site_source": "https://www.lemonde.fr/afrique/",
-  "date": "2026-11-12T05:00:22+00:00",
-  "rubrique": "Faits divers",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "La signature, début octobre, d’un accord entre Dakar et Kigali prévoyant notamment le transfèrement des personnes condamnées pourrait permettre au Rwanda de récupérer huit génocidaires toujours emprisonnés au Sénégal."
- },
- {
-  "id": "32482e4851a6",
-  "titre": "Un paquebot américain coulé au large de la Floride pour devenir le plus grand récif artificiel du monde",
-  "lien": "https://www.lemonde.fr/international/article/2026/11/12/un-paquebot-americain-coule-au-large-de-la-floride-pour-devenir-le-plus-grand-recif-artificiel-du-monde_6809049_3210.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-12T04:59:32+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Hors d’usage depuis sa dernière traversée transatlantique, en 1969, l’« United-States », long de plus de 300 mètres, a été sabordé à une quarantaine de kilomètres de la côte floridienne afin de devenir une destination touristique pour les plongeurs."
- },
- {
-  "id": "0e0a96b3d79d",
-  "titre": "Découvrez les Unes des journaux sénégalais du jeudi 12 novembre 2026",
-  "lien": "https://senego.com/decouvrez-les-unes-des-journaux-senegalais-du-jeudi-12-novembre-2026_2022979.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-12T04:32:32+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Découvrez les Unes des journaux sénégalais du jeudi 12 novembre 2026"
- },
- {
-  "id": "75927a77530e",
-  "titre": "En RDC, Félix Tshisekedi promulgue une loi controversée qui lui ouvre la voie à un troisième mandat",
-  "lien": "https://www.lemonde.fr/international/article/2026/11/12/en-rdc-felix-tshisekedi-promulgue-une-loi-controversee-qui-lui-ouvre-la-voie-a-un-troisieme-mandat_6809048_3210.html",
-  "source": "Le Monde Afrique",
-  "site_source": "https://www.lemonde.fr/afrique/",
-  "date": "2026-11-12T04:30:03+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le 9 novembre, un texte qui permet de soumettre une nouvelle Constitution au référendum est entré en vigueur en République démocratique du Congo. Une disposition technique qui permet au président d’assouvir son ambition de maintien au pouvoir au-delà de la fin officielle de son mandat, en 2028.…"
  }
 ]
