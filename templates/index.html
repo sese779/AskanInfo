@@ -73,6 +73,13 @@
   <p class="voir-tout"><a href="{{ racine }}rubrique/sport.html">Tout le sport →</a></p>
 </section>
 {% endif %}
+{% if lutte %}
+<section class="bloc-lions bloc-lutte">
+  <h2 class="section">🤼 Lutte sénégalaise</h2>
+  {{ liste_fil(lutte) }}
+  <p class="voir-tout"><a href="{{ racine }}rubrique/sport.html">Toute la lutte et le sport →</a></p>
+</section>
+{% endif %}
 {% if sections %}
 {% for titre_section, groupes_section in sections %}
 <section>

@@ -68,6 +68,20 @@ def motif_joueurs():
     return test
 
 
+def motif_lutte():
+    """Titres qui parlent de lutte sénégalaise (mots de l'arène ou lutteur de joueurs.yaml).
+    « lutte contre / anti / pour » (corruption, paludisme…) n'en fait pas partie."""
+    f = ROOT / "joueurs.yaml"
+    j = (yaml.safe_load(f.read_text(encoding="utf-8")) or {}) if f.exists() else {}
+    def sans_accent(t):
+        return "".join(c for c in unicodedata.normalize("NFD", str(t).lower()) if unicodedata.category(c) != "Mn")
+    noms = [re.escape(sans_accent(n).strip()) for n in j.get("lutteurs") or [] if str(n).strip()]
+    motif = re.compile(r"\b(?:lutte(?!\s+(?:contre|anti|pour|de\s+classes?|independant|arme|syndical|politique))|lutteurs?|lamb|arene nationale|"
+                       r"open[- ]press|\bcng\b|ecurie|combat royal"
+                       + ("|" + "|".join(noms) if noms else "") + r")\b")
+    return lambda titre: bool(motif.search(sans_accent(titre)))
+
+
 MOIS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet",
         "août", "septembre", "octobre", "novembre", "décembre"]
 
@@ -349,11 +363,19 @@ def main():
     _, groupes_accueil = sujets([i for i in recents if i["rubrique"] not in ("Afrique", "Monde")
                                  and i["lien"] not in deja], a_la_une, regles, maintenant)
     est_joueur = motif_joueurs()
+    est_lutte = motif_lutte()
     lions_etranger = [g for g in groupes_accueil if g["rubrique"] == "Sport" and est_joueur(g["tete"]["titre"])][:5]
+    # lutte : les derniers sujets de l'arène (sur plusieurs jours), hors ceux déjà à la une
+    _, groupes_sport = sujets([i for i in items if i["rubrique"] == "Sport" and i["lien"] not in deja][:150],
+                              a_la_une, regles, maintenant)
+    lutte = [g for g in groupes_sport if est_lutte(g["tete"]["titre"])][:5]
+    liens_lutte = {i["lien"] for g in lutte for i in g["tous"]}
     ecrire("index.html", "index.html", "", une_sujets=une_sujets,
            une=[c for c in a_la_une if c["slug"] not in deja_syntheses][:9],
-           lions_etranger=lions_etranger,
-           groupes=[g for g in groupes_accueil if g not in lions_etranger][:30], voir_tout=True, titre_page=None)
+           lions_etranger=lions_etranger, lutte=lutte,
+           groupes=[g for g in groupes_accueil if g not in lions_etranger
+                    and not liens_lutte & {i["lien"] for i in g["tous"]}][:30],
+           voir_tout=True, titre_page=None)
     _, tous_groupes = sujets(recents, a_la_une, regles, maintenant)
     ecrire("fil.html", "index.html", "", une_sujets=[], une=[], groupes=tous_groupes[:200],
            titre_page="Tout le fil")
@@ -362,8 +384,10 @@ def main():
         sections = None
         if r == "Sport":
             etranger = [g for g in groupes_r if est_joueur(g["tete"]["titre"])]
-            autres = [g for g in groupes_r if not est_joueur(g["tete"]["titre"])]
-            sections = [("⚽ Les Lions à l'étranger", etranger[:25]), ("Équipes nationales et sport au Sénégal", autres[:40])]
+            lutte_r = [g for g in groupes_r if g not in etranger and est_lutte(g["tete"]["titre"])]
+            autres = [g for g in groupes_r if g not in etranger and g not in lutte_r]
+            sections = [("⚽ Les Lions à l'étranger", etranger[:25]), ("🤼 Lutte sénégalaise", lutte_r[:25]),
+                        ("Équipes nationales et sport au Sénégal", autres[:40])]
         if r == "Diaspora":
             # la vie des Sénégalais de l'extérieur d'abord, la migration ensuite
             vie = [g for g in groupes_r if not MIGRATION.search(g["tete"]["titre"])]

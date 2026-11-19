@@ -223,7 +223,11 @@ content:
         type: string
         list: true
       - name: clubs_senegal
-        label: "Clubs, compétitions et lutteurs du Sénégal"
+        label: "Clubs et compétitions du Sénégal"
+        type: string
+        list: true
+      - name: lutteurs
+        label: "Lutteurs suivis (section « Lutte » ; nom d'arène, ex. Balla Gaye 2)"
         type: string
         list: true
       - name: competitions

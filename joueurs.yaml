@@ -58,10 +58,22 @@ clubs_senegal:
   - Linguère de Saint-Louis
   - Dakar Sacré-Cœur
   - Sonacos de Diourbel
+
+# Lutte sénégalaise : lutteurs suivis (section « Lutte » de la page Sport et de l'accueil)
+lutteurs:
   - Balla Gaye 2
   - Modou Lô
   - Ada Fass
   - Eumeu Sène
+  - Reug Reug
+  - Gris Bordeaux
+  - Ama Baldé
+  - Boy Niang 2
+  - Siteu
+  - Sa Thiès
+  - Liss Ndiago
+  - Tapha Tine
+  - Boy Nar
 
 # Championnats étrangers où jouent des Sénégalais (servent seulement à ranger en Sport)
 competitions:

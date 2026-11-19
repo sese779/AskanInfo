@@ -57,6 +57,15 @@ journée. Valeurs invalides ou plus de 3 passages : ne change rien et signale-le
    (outil GitHub `actions_run_trigger`, workflow `site.yml`, branche `main`).
    Ce workflow s'exécute depuis `main` et fait lui-même les contrôles.
 
+## Lutte sénégalaise
+
+La lutte compte autant que le football pour les lecteurs. Quand un grand combat ou une
+actualité forte de l'arène (combat annoncé, open press, résultat, sanction du CNG) est couvert
+par au moins 2 sources principales, il peut être retenu comme sujet du jour (rubrique Sport),
+avec les mêmes règles : faits attribués, aucun pronostic, prudence sur les violences entre
+supporters et les affaires judiciaires de lutteurs. Les lutteurs suivis sont listés dans
+`joueurs.yaml` (`lutteurs`).
+
 ## Les Sénégalais du week-end (lundi, premier passage)
 
 Au premier passage du lundi, en plus des sujets du jour (il compte dans les 5), écris
