@@ -100,3 +100,9 @@ content/syntheses/2026-11-17-dakar-repas-autopsie-quatre-deces.md
 content/syntheses/2026-11-17-joj-bourse-500000-athletes.md
 content/syntheses/2026-11-17-meteo-pluies-hors-saison.md
 content/syntheses/2026-11-17-senegal-officiellement-qualifie-can-2027.md
+content/podcast/2026-11-18.md
+content/syntheses/2026-11-18-budget-2027-pleniere-ouverture.md
+content/syntheses/2026-11-18-classement-fifa-senegal-18e.md
+content/syntheses/2026-11-18-madiambal-diagne-mandat-arret-requete-rejetee.md
+content/syntheses/2026-11-18-marine-1424-migrants-interceptes-madrid.md
+content/syntheses/2026-11-18-yenne-pirogue-chavire-disparus.md

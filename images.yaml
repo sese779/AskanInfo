@@ -171,3 +171,9 @@ images:
     credit: "Photo : FSF"
     source: https://fsfoot.sn/actualites/eliminatoires-can-2027-patrick-vieira-devoile-une-liste-de-25-joueurs/
     actif: true
+  - mots_cles:
+      - Madiambal Diagne
+    image: /static/images/IMG_5952-1.jpeg
+    type: photo
+    credit: "Photo : x"
+    actif: true
