@@ -13,6 +13,102 @@
   "extrait": "Le lutteur Balla Gaye a délocalisé son open press en Casamance, précisément à Ziguinchor, en vue de son affrontement avec Ad..."
  },
  {
+  "id": "f305947c54dd",
+  "titre": "Assainissement : le SIF présente ses 491 latrines construites en deux ans",
+  "lien": "http://www.ndarinfo.com/Assainissement-le-SIF-presente-ses-491-latrines-construites-en-deux-ans_a47275.html",
+  "source": "Ndarinfo (Saint-Louis)",
+  "site_source": "https://www.ndarinfo.com",
+  "date": "2026-11-19T21:59:00+00:00",
+  "rubrique": "Monde",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le Secours islamique France a pris part ce jeudi à Ndiébène Gandiol, aux côtés du ministère de l'Hydraulique et de l'Assainissement...",
+  "categories": [
+   "+ D'ACTU"
+  ]
+ },
+ {
+  "id": "53ffdb614a8a",
+  "titre": "Babo Amadou Ba s’en prend au constitutionnaliste : « Le nouveau tailleur Meïssa… »",
+  "lien": "https://senego.com/babo-amadou-ba-sen-prend-au-constitutionnaliste-le-nouveau-tailleur-meissa_2025884.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-19T21:01:45+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Babo Amadou Ba a vivement réagi aux propos du constitutionnaliste le professeur Meïssa Diakhaté autour de l’interprétation de l’article 68 de la Constitution. Dans une publication au ton particulièrement critique, il ironise sur l’argumentaire du professeur Meïssa Diakhaté, notamment sur son…",
+  "categories": [
+   "Politique",
+   "Babo",
+   "Professeur Meissa diakhate"
+  ]
+ },
+ {
+  "id": "0951133ff030",
+  "titre": "Marché automobile sénégalais : La chute libre de 20% des ventes de véhicules neufs",
+  "lien": "https://www.dakaractu.com/Marche-automobile-senegalais-La-chute-libre-de-20-des-ventes-de-vehicules-neufs_a278398.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-19T21:01:00+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le secteur automobile sénégalais traverse une zone de turbulences sans précédent. Les ventes de véhicules neufs ont plongé de près de 20 % sur les deux dernières années, une tendance qui s’est même accélérée ces derniers mois. En août dernier, seulement 439 unités ont été écoulées, soit une chute…",
+  "categories": [
+   "Texto"
+  ]
+ },
+ {
+  "id": "2ca842b431fa",
+  "titre": "Kaolack : une jeune femme de 20 ans soupçonnée d’avoir tué son oncle",
+  "lien": "https://senego.com/kaolack-une-jeune-femme-de-20-ans-soupconnee-davoir-tue-son-oncle_2025886.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-19T20:59:36+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "À Kaolack, une femme de 20 ans est soupçonnée d’avoir tué son oncle après une dispute familiale. Elle est recherchée et sa mère a été interpellée.",
+  "categories": [
+   "Faits Divers",
+   "Sénégal",
+   "Société",
+   "dispute familiale",
+   "Enquête"
+  ]
+ },
+ {
+  "id": "170d025fefa1",
+  "titre": "DSC : Les minutes de la confrontation entre Rox et Elimane Lam",
+  "lien": "https://www.seneweb.com/fr/news/Justice/dsc-les-minutes-de-la-confrontation-entre-rox-et-elimane-lam_n_999004144.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-19T20:59:22+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "En garde à vue à la Division spéciale de cybersécurité (DSC), dans le cadre de l’enquête sur des insultes en ligne présumées financées, l’homme d’affaires Elimane Lam a été confronté à la TikTokeuse Rox la Chancelière, extraite de prison cet après-midi."
+ },
+ {
+  "id": "95f1272dad6e",
+  "titre": "[EXCLUSIF] Affaire Modou Ba Gawlo : Six présumés homosexuels séropositifs arrêtés par la BR de Keur Massar",
+  "lien": "https://www.seneweb.com/fr/news/Societe/exclusif-affaire-modou-ba-gawlo-six-presumes-homosexuels-seropositifs-arretes-par-la-br-de-keur-massar_n_999004143.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-19T20:51:14+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Six nouveaux suspects, présentés comme de présumés homosexuels séropositifs, ont été arrêtés par la brigade de recherches (BR) de Keur Massar dans le prolongement de l'affaire Modou Ba Gawlo selon des informations exclusives de Seneweb ."
+ },
+ {
   "id": "019aee054581",
   "titre": "LFR 2026 par décret : Aminata Touré salue « un acte de responsabilité » du président Faye",
   "lien": "http://www.ndarinfo.com/LFR-2026-par-decret-Aminata-Toure-salue-un-acte-de-responsabilite-du-president-Faye_a47274.html",
@@ -27,6 +123,228 @@
   "categories": [
    "Politique"
   ]
+ },
+ {
+  "id": "5235c0e30f02",
+  "titre": "Ousmane Sonko et Bassirou Diomaye Faye, la surprenante polémique sur un détail protocolaire",
+  "lien": "https://www.senenews.com/actualites/ousmane-sonko-et-bassirou-diomaye-faye-la-surprenante-polemique-sur-un-detail-protocolaire_606992.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-19T20:40:55+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Une courte séquence de la Journée des forces armées, diffusée en direct ce jeudi 19 novembre depuis Camp Dial Diop, circule largement sur les réseaux sociaux. On y voit le président de l’Assemblée nationale, Ousmane Sonko, prendre place dans un salon avant l’arrivée du chef de l’État, Bassirou…",
+  "categories": [
+   "Politique",
+   "Sénégal - Actualités",
+   "Diomaye",
+   "Sonko"
+  ]
+ },
+ {
+  "id": "36f99beb71f4",
+  "titre": "Kaolack : Le récit d’un drame familial, pourquoi Khady Lo a tué son propre oncle",
+  "lien": "https://www.senenews.com/actualites/kaolack-le-recit-dun-drame-familial-pourquoi-khady-lo-a-tue-son-propre-oncle_606990.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-19T20:35:48+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Ce qui avait commencé comme une querelle familiale s'est achevé par la mort d'un père de famille. Ce jeudi 19 novembre 2026, la commune de Kaolack a été secouée par un drame qui oppose un oncle à sa nièce et qui mobilise désormais les forces de défense et de sécurité. La victime, D. Diallo, avait…",
+  "categories": [
+   "Sénégal - Actualités",
+   "Société",
+   "kaolack"
+  ]
+ },
+ {
+  "id": "7b1f3bdbe7dc",
+  "titre": "Horaires adaptés, santé de proximité… : L’accès aux soins au cœur des défis à Kafountine (2/6)",
+  "lien": "https://www.seneweb.com/fr/news/Dossier/horaires-adaptes-sante-de-proximite-lacces-aux-soins-au-coeur-des-defis-a-kafountine-26_n_999004142.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-19T20:30:12+00:00",
+  "rubrique": "Diaspora",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le poste de santé de Kafountine dessert une population totale de 2 267 habitants, avec une forte présence de populations migrantes."
+ },
+ {
+  "id": "14271d37b01c",
+  "titre": "Décret De Diomaye, Rejet LFI: Le Décryptage De Daouda Mine",
+  "lien": "https://www.seneweb.com/fr/news/Video/decret-de-diomaye-rejet-lfi-le-decryptage-de-daouda-mine_n_999004141.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-19T20:28:31+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Décret De Diomaye, Rejet LFI: Le Décryptage De Dao"
+ },
+ {
+  "id": "7cf882bd4bc9",
+  "titre": "Kaolack: Elle tue son oncle à coups de couteau et prend la fuite...\" mi maayi\", criait D. Diallo.",
+  "lien": "https://www.dakaractu.com/Kaolack-Elle-tue-son-oncle-a-coups-de-couteau-et-prend-la-fuite-mi-maayi--criait-D-Diallo_a278397.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-19T20:28:00+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "C'est l'émoi et la consternation présentement au quartier Médina Mbaba( Kaolack) où une jeune femme de 20 ans a tué à coups de couteau son oncle( D. Diallo) Selon des témoignages recueillis sur place par l'équipe de Dakaractu Kaolack, ce drame fait suite à une violente dispute qui a éclaté entre…",
+  "categories": [
+   "Actu"
+  ]
+ },
+ {
+  "id": "7b295129edd8",
+  "titre": "Sécurité transfrontalière : la Zone militaire n°6 mise sur les opérations conjointes pour faire face aux menaces sécuritaires",
+  "lien": "https://www.pressafrik.com/Securite-transfrontaliere-la-Zone-militaire-n-6-mise-sur-les-operations-conjointes-pour-faire-face-aux-menaces_a314845.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-19T20:27:00+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "À l’occasion de la Journée des Forces armées, célébrée ce jeud... www.pressafrik.com",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "c0abf4458d94",
+  "titre": "\"GTA VI\" : prouesses techniques, budget, ventes... le jeu vidéo de tous les records",
+  "lien": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20261119-gta-vi-prouesses-techniques-budget-ventes-le-jeu-vid%C3%A9o-de-tous-les-records",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-19T20:26:06+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Treize ans d'attente, un budget estimé à plus d'un milliard de dollars et des ventes déjà vertigineuses… \"GTA VI\" affole tous les compteurs. Mais ce nouvel épisode du célèbre jeu vidéo est-il à la hauteur des attentes ? Les premiers joueurs saluent le réalisme du jeu, la narration digne d'un film…",
+  "categories": [
+   "À l'Affiche !"
+  ]
+ },
+ {
+  "id": "3f204a6d21da",
+  "titre": "Après la polémique sur la RTS, la poignée de main entre Diomaye et Sonko enfin dévoilée en vidéo",
+  "lien": "https://senego.com/apres-la-polemique-sur-la-rts-la-poignee-de-main-entre-diomaye-et-sonko-enfin-devoilee-en-video_2025878.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-19T20:23:21+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Une vidéo montrant la poignée de main entre le président de la République, Bassirou Diomaye Faye, et le président de l’Assemblée nationale, Ousmane Sonko, circule sur les réseaux sociaux. La séquence intervient lors de la célébration de la Journée des Forces armées, ce jeudi 19 novembre 2026, au…",
+  "categories": [
+   "Politique",
+   "Vidéos"
+  ]
+ },
+ {
+  "id": "9d2e632ae6ee",
+  "titre": "Niger: ce que l’on sait du convoi de carburant escorté par l’Algérie",
+  "lien": "https://www.rfi.fr/fr/afrique/20261119-niger-ce-que-l-on-sait-du-convoi-de-carburant-escort%C3%A9-par-l-alg%C3%A9rie",
+  "source": "RFI Afrique",
+  "site_source": "https://www.rfi.fr/fr/afrique/",
+  "date": "2026-11-19T20:23:16+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Quelques jours après le vote du 25 octobre 2026 au Parlement algérien actant l’envoi d’unités militaires au Niger pour « sécuriser les intérêts énergétiques », un premier convoi de carburant, entouré d'une escorte militaire, est entré au Niger, direction Agadez, dans le nord du pays. Durant les…",
+  "categories": [
+   "Afrique"
+  ]
+ },
+ {
+  "id": "74c15a2dd82f",
+  "titre": "ÉMIGRATION CLANDESTINE : LES PASSEURS S'ENRICHISSENT, NOS ENFANTS MEURENT ! (Par Mamadou BAAL )",
+  "lien": "https://www.pressafrik.com/EMIGRATION-CLANDESTINE-LES-PASSEURS-S-ENRICHISSENT-NOS-ENFANTS-MEURENT--Par-Mamadou-BAAL_a314846.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-19T20:17:00+00:00",
+  "rubrique": "Diaspora",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Il est temps de s'attaquer aux véritables organisateurs de ces voyages de la mort. ... www.pressafrik.com",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "7618e30fe96e",
+  "titre": "Une journée, une légende, une carrière : Edgar Barros retrace le parcours d’Edouard Mendy",
+  "lien": "https://lesoleil.sn/actualites/sports/une-journee-une-legende-une-carriere-edgar-barros-retrace-le-parcours-dedouard-mendy/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-19T20:14:08+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le créateur de contenus Edgar Barros a passé une journée rytmée aux côtés de l’ancien gardien de but de l’équipe nationale du Sénégal. De la visite de l’école Yakar à la Piscine olympique, en passant par l’épreuve de breaking, jusqu’à son jubilé célébré lors de la rencontre Sénégal vs Soudan, cette…",
+  "categories": [
+   "Sports"
+  ]
+ },
+ {
+  "id": "43610c26bfca",
+  "titre": "La pédagogie Ubuntu d’Amadou Elimane Kane s’invite en librairie",
+  "lien": "https://www.seneplus.com/article/la-pedagogie-ubuntu-damadou-elimane-kane-sinvite-en-librairie",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-19T20:10:10+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La pédagogie Ubuntu d’Amadou Elimane Kane s’invite en librairie Farid Akele Thu, 11/19/2026 - 20:10"
+ },
+ {
+  "id": "e602cf5cd9ff",
+  "titre": "Ziguinchor : la Roumanie renforce sa présence diplomatique et mise sur le potentiel de la Casamance‎",
+  "lien": "https://emedia.sn/ziguinchor-la-roumanie-renforce-sa-presence-diplomatique-et-mise-sur-le-potentiel-de-la-casamance/",
+  "source": "Emedia",
+  "site_source": "https://emedia.sn",
+  "date": "2026-11-19T20:09:54+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "‎La coopération entre le Sénégal et la Roumanie franchit une nouvelle étape avec l’inauguration du consulat honoraire de Roumanie à Ziguinchor, dirigé par Demba Keita. Cette représentation diplomatique, dont la juridiction couvre les régions de Ziguinchor, Sédhiou et Kolda, ambitionne de renforcer…",
+  "categories": [
+   "A L'INSTANT",
+   "ACTUALITÉS",
+   "UNE",
+   "Casamance",
+   "consul honoraire"
+  ]
+ },
+ {
+  "id": "67a35bf31abd",
+  "titre": "Rohingya : un arrêt historique de la Cour de justice internationale reconnaît la Birmanie coupable de génocide",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/19/rohingya-un-arret-historique-de-la-cour-de-justice-internationale-reconnait-la-birmanie-coupable-de-genocide_6813377_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-19T20:06:18+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L’organe judiciaire de l’ONU a considéré que le pays a violé six fois la convention sur le génocide de 1948. C’est la première fois de l’histoire qu’un Etat est condamné pour le « crime des crimes ». Quelque 10 000 Rohingya, une minorité musulmane, ont été massacrés par l’armée birmane, et leurs…"
  },
  {
   "id": "cbb46307adaa",
@@ -93,6 +411,19 @@
   "id": "9565a7477075",
   "titre": "Crise socio-politique : la rencontre Diomaye Faye - Ousmane Sonko peut-elle régler la situation ?",
   "lien": "https://www.seneweb.com/fr/news/Video/crise-socio-politique-la-rencontre-diomaye-faye-ousmane-sonko-peut-elle-regler-la-situation_n_999004139.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-19T19:54:10+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Crise socio-politique : la rencontre Diomaye-Sonko peut-elle régler la situation ?"
+ },
+ {
+  "id": "d7e3e6f73132",
+  "titre": "Décret De Diomaye, Rencontre Sonko-Diomaye, Amadou Ba...: Birima Ndiaye Se Prononce",
+  "lien": "https://www.seneweb.com/fr/news/Video/decret-de-diomaye-rencontre-sonko-diomaye-amadou-ba-birima-ndiaye-se-prononce_n_999004139.html",
   "source": "Seneweb",
   "site_source": "https://www.seneweb.com",
   "date": "2026-11-19T19:54:10+00:00",
@@ -1030,6 +1361,22 @@
   "extrait": "L'accusation a requis jeudi entre quatre et six ans de prison ferme contre les trois policiers ayant passé à tabac le producteur de musique noir Michel Zecler en 2020, et demandé que soit retenue la dimension raciste de l'agression, un aspect catégoriquement démenti par la défense."
  },
  {
+  "id": "84f9c47d88a1",
+  "titre": "Au procès Zecler, prison ferme requise contre les policiers, qui se défendent de tout racisme",
+  "lien": "https://www.france24.com/fr/france/20261119-au-proc%C3%A8s-zecler-prison-ferme-requise-contre-les-policiers-qui-se-d%C3%A9fendent-de-tout-racisme",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-19T18:14:26+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L'accusation a requis jeudi entre quatre et six ans de prison ferme contre les trois policiers ayant passé à tabac le producteur de musique noir Michel Zecler en 2020. La défense reconnait des \"violences inadmissibles\" mais conteste la lourdeur des peines requises et rejette toute dimension raciste.",
+  "categories": [
+   "France"
+  ]
+ },
+ {
   "id": "2ea2f4df049d",
   "titre": "Ballet d’avions espions en mer Noire: ce que disent les images en sources ouvertes",
   "lien": "https://www.rfi.fr/fr/monde/20261119-ballet-d-avions-espions-en-mer-noire-ce-que-disent-les-images-en-sources-ouvertes",
@@ -1249,6 +1596,22 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Dans un nouvel ouvrage, l’historien dresse le récit d’un moment-clé de l’affrontement entre la Chine et Taïwan : en 1949, la bataille sur l’île de Kinmen, qui vit s’imposer les nationalistes, alors en pleine déroute."
+ },
+ {
+  "id": "e61867fa2e6d",
+  "titre": "«Faites vos valises et partez»: la Somalie expulse l'ambassadeur des Émirats arabes unis",
+  "lien": "https://www.rfi.fr/fr/afrique/20261119-faites-vos-valises-et-partez-la-somalie-expulse-l-ambassadeur-des-%C3%A9mirats-arabes-unis",
+  "source": "RFI Afrique",
+  "site_source": "https://www.rfi.fr/fr/afrique/",
+  "date": "2026-11-19T17:59:41+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La Somalie annonce expulser l’ambassadeur des Émirats arabes unis, a-t-on appris mercredi 18 novembre, à l’issue du conseil des ministres. Par ailleurs, Mogadiscio a rappelé son ambassadeur à Abou Dhabi pour consultations. Le gouvernement somalien accuse les Émirats d’ingérence dans sa vie…",
+  "categories": [
+   "Afrique"
+  ]
  },
  {
   "id": "1ae8dd2f3a06",
@@ -2303,22 +2666,6 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "À l’origine de la procédure contre le Myanmar, la Gambie salue une décision historique de la Cour internationale de justice. Banjul promet de poursuivre son soutien aux Rohingyas et appelle à l’application de l’arrêt."
- },
- {
-  "id": "94b53c42f221",
-  "titre": "Sécurité transfrontalière : la Zone militaire n°6 mise sur les opérations conjointes pour faire face aux menaces sécuritaires",
-  "lien": "https://www.pressafrik.com/Securite-transfrontaliere-la-Zone-militaire-n-6-mise-sur-les-operations-conjointes-pour-faire-face-aux-menaces_a314834.html",
-  "source": "PressAfrik",
-  "site_source": "https://www.pressafrik.com",
-  "date": "2026-11-19T16:22:00+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "À l’occasion de la Journée des Forces armées, célébrée ce jeudi 19 novembre, le commandant de l... www.pressafrik.com",
-  "categories": [
-   "Société"
-  ]
  },
  {
   "id": "2e1318548c07",
@@ -63567,382 +63914,5 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Le secteur pétrolier ghanéen enregistre une nouvelle avancée dans ses activités d’exploration. Planet One Oil & Gas a annoncé la découverte d’hydrocarbures dans son puits d’exploration Nya Gyidie-1X, situé dans le bloc Deepwater Cape Three Points (DWCTP), au large du Ghana. Cette découverte marque…"
- },
- {
-  "id": "ed9d822e245e",
-  "titre": "Saint-Louis : Restitution des audits sociaux, les jeunes plaident pour un meilleur accès aux services de santé.",
-  "lien": "https://www.dakaractu.com/Saint-Louis-Restitution-des-audits-sociaux-les-jeunes-plaident-pour-un-meilleur-acces-aux-services-de-sante_a278118.html",
-  "source": "Dakaractu",
-  "site_source": "https://www.dakaractu.com",
-  "date": "2026-11-12T21:06:00+00:00",
-  "rubrique": "Société",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "L'ONG Jeunesse et Développement (JED) franchit une nouvelle étape dans le renforcement du pouvoir d'agir des jeunes. La coordination régionale de JED à Saint-Louis a organisé, ce jeudi 12 novembre 2026, au Lycée Technique André Peytavin, la cérémonie officielle de restitution des audits sociaux…"
- },
- {
-  "id": "06c86c855ee0",
-  "titre": "Qualifications CAN 2027 - Sénégal vs Soudan : Boulaye Dia double la mise (vidéo)",
-  "lien": "https://www.seneweb.com/fr/news/Sport/qualifications-can-2027-senegal-vs-soudan-boulaye-dia-double-la-mise-video_n_999003470.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-12T21:05:38+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le Sénégal reprend l’avantage devant le Soudan. Boulaye Dia a marqué le deuxième but des Lions à la 60e mn."
- },
- {
-  "id": "62758331a416",
-  "titre": "Qualifications CAN 2027 : le Sénégal corrige le Soudan (4-1) et conforte sa place de leader",
-  "lien": "https://senego.com/qualifications-can-2027-le-senegal-corrige-le-soudan-4-1-et-conforte-sa-place-de-leader_2023335.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-12T21:03:57+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Le Sénégal a largement dominé le Soudan (4-1) au stade Léopold Sédar Senghor, à l’occasion des qualifications à la CAN 2027. Après une première période conclue sur le score de 1-1, les Lions ont accéléré au retour des vestiaires pour signer une victoire convaincante. Nicolas Jackson avait ouvert le…"
- },
- {
-  "id": "78d1da3fd8b2",
-  "titre": "Cap-Skirring : un corps en état de décomposition avancée retrouvé à 10 km des côtes",
-  "lien": "https://www.dakaractu.com/Cap-Skirring-un-corps-en-etat-de-decomposition-avancee-retrouve-a-10-km-des-cotes_a278117.html",
-  "source": "Dakaractu",
-  "site_source": "https://www.dakaractu.com",
-  "date": "2026-11-12T21:01:00+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Une macabre découverte a été signalée en mer, au large de Cap-Skirring. Un équipage de pêcheurs a repéré un corps sans vie, dans un état de décomposition très avancée, flottant au gré des courants marins, à environ 10 kilomètres des côtes. L’alerte a été portée à la connaissance du chef du poste de…"
- },
- {
-  "id": "36aa8e1a131c",
-  "titre": "JOJ Dakar 2026 : KIRAAY Kaffrine salue une « fierté nationale » et plaide pour des retombées dans les régions",
-  "lien": "https://www.xibaaru.sn/joj-dakar-2026-kiraay-kaffrine-salue-une-fierte-nationale-et-plaide-pour-des-retombees-dans-les-regions/",
-  "source": "Xibaaru",
-  "site_source": "https://www.xibaaru.sn",
-  "date": "2026-11-12T21:00:08+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "La coordination départementale de KIRAAY de Kaffrine a exprimé sa satisfaction à l’égard de l’organisation des Jeux olympiques de la jeunesse (JOJ) Dakar 2026. Dans une deuxième résolution rendue publique mercredi 11…"
- },
- {
-  "id": "ae3c765de07b",
-  "titre": "Ziguinchor : la Coupe du Maire de football officiellement lancée",
-  "lien": "https://www.dakaractu.com/Ziguinchor-la-Coupe-du-Maire-de-football-officiellement-lancee_a278116.html",
-  "source": "Dakaractu",
-  "site_source": "https://www.dakaractu.com",
-  "date": "2026-11-12T21:00:00+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "La Coupe du Maire de Ziguinchor a officiellement démarré ce mercredi 11 novembre 2026 au stade Aline Sitoé Diatta. Le match inaugural, qui a mis aux prises le Casa Sports et Essamaye FC, deux pensionnaires de la Ligue 1 sénégalaise, s’est achevé sur un score de parité (1-1). Une compétition que le…"
- },
- {
-  "id": "c6a9aec00306",
-  "titre": "Sénégal vs Soudan : les Lions déroulent après la pause et signent une démonstration offensive 4 vs 1",
-  "lien": "https://www.dakaractu.com/Senegal-vs-Soudan-les-Lions-deroulent-apres-la-pause-et-signent-une-demonstration-offensive-4-vs-1_a278115.html",
-  "source": "Dakaractu",
-  "site_source": "https://www.dakaractu.com",
-  "date": "2026-11-12T20:59:00+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Au retour des vestiaires, les Lions affichent de meilleures intentions et reprennent rapidement les commandes de la rencontre. Après plusieurs offensives, le Sénégal trouve la faille à la 64e minute. Sur un magnifique centre d’El Hadji Malick Diouf, Boulaye Dia s'élève dans les airs et place une…"
- },
- {
-  "id": "163c3f4f8617",
-  "titre": "Éliminatoires de la CAN 2027 : le Sénégal, le Cameroun et la Côte d'Ivoire déroulent",
-  "lien": "https://www.france24.com/fr/sports/20261112-eliminatoires-can-2027-senegal-cameroun-cote-ivoire",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-12T20:57:52+00:00",
-  "rubrique": "Sport",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Pas de faux pas pour les géants du continent africain. Le Sénégal, le Cameroun et la Côte d'Ivoire se sont tous imposés à domicile lors de la troisième journée des éliminatoires de la CAN 2027."
- },
- {
-  "id": "73780e6a3cfe",
-  "titre": "Qualifs CAN 2027 : Les Lions de Patrick Vieira assomment le Soudan et se rassurent",
-  "lien": "https://wiwsport.com/2026/11/12/qualifs-can-2027-les-lions-de-patrick-vieira-assomment-le-soudan-et-se-rassurent/",
-  "source": "Wiwsport",
-  "site_source": "https://www.wiwsport.com",
-  "date": "2026-11-12T20:55:28+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "( wiwsport ) - Grâce, notamment, à des buts de Boulaye Dia et Ibrahim Mbaye inscrits en moins de quatre minutes en seconde période, et un autre de Pathé Mboup sur son premier ballon en sélection, l’Equipe Nationale du Sénégal a réduit au silence le Soudan ce jeudi soir au Stade…"
- },
- {
-  "id": "d53bc9c28934",
-  "titre": "En moins d’une minute de son entrée en jeu, Pathé Mboup marque le 4eme but du Sénégal",
-  "lien": "https://www.senenews.com/actualites/en-moins-dune-minute-de-son-entree-en-jeu-pathe-mboup-marque-le-4eme-but-du-senegal_606229.html",
-  "source": "Senenews",
-  "site_source": "https://www.senenews.com",
-  "date": "2026-11-12T20:53:51+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Les débuts de Pathé Mboup avec l’équipe nationale du Sénégal sont tout simplement remarquables. À peine entré en jeu, le jeune attaquant de 23 ans a trouvé le chemin des filets, inscrivant le quatrième but des Lions face au Soudan. Il n’aura fallu que moins d’une minute à l’attaquant pour se…"
- },
- {
-  "id": "f97c868649ea",
-  "titre": "États-Unis : \"plusieurs personnes\" touchées par des tirs à Washington (élue locale)",
-  "lien": "https://www.dakaractu.com/Etats-Unis-plusieurs-personnes-touchees-par-des-tirs-a-Washington-elue-locale_a278113.html",
-  "source": "Dakaractu",
-  "site_source": "https://www.dakaractu.com",
-  "date": "2026-11-12T20:52:00+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Plusieurs personnes ont été touchées par des tirs jeudi dans une salle de sport de la capitale américaine, Washington, a affirmé une responsable locale. L'élue Brooke Pinto a indiqué que les tirs s'étaient produits à l'intérieur et aux alentours d'une salle de sport et que \"plusieurs personnes\"…"
- },
- {
-  "id": "b055de1ceb7a",
-  "titre": "Le patron de Nvidia Jensen Huang démissionne (communiqué)",
-  "lien": "https://www.dakaractu.com/Le-patron-de-Nvidia-Jensen-Huang-demissionne-communique_a278112.html",
-  "source": "Dakaractu",
-  "site_source": "https://www.dakaractu.com",
-  "date": "2026-11-12T20:50:00+00:00",
-  "rubrique": "Monde",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le patron de Nvidia, Jensen Huang, a démissionné jeudi de son poste de directeur général, mettant fin à 33 années passées à la tête du groupe, après des révélations sur deux relations extraconjugales, dont l'une avec une femme accusée d'espionnage au profit de la Chine. Le conseil d'administration…"
- },
- {
-  "id": "84baae527a5e",
-  "titre": "Jeux olympiques en Afrique, l’ambition devient une réelle perspective",
-  "lien": "https://lesoleil.sn/actualites/jeux-olympiques-en-afrique-lambition-devient-une-reelle-perspective/",
-  "source": "Le Soleil",
-  "site_source": "https://lesoleil.sn",
-  "date": "2026-11-12T20:46:52+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le succès des Jeux olympiques de la jeunesse (JOJ) Dakar 2026 peut conforter les ambitions africaines d’accueillir un jour les Jeux olympiques. La présidente du Comité international olympique (CIO), Kirsty Coventry interrogée sur cette possible aspiration souligne « les JOJ ont montré que rien ne…"
- },
- {
-  "id": "51632fb287d5",
-  "titre": "​Sénégal, Nigéria, Ghana : les succès de l'Afrique de l'Ouest face à la tuberculose selon l'OMS",
-  "lien": "https://www.pressafrik.com/​Senegal-Nigeria-Ghana-les-succes-de-l-Afrique-de-l-Ouest-face-a-la-tuberculose-selon-l-OMS_a314519.html",
-  "source": "PressAfrik",
-  "site_source": "https://www.pressafrik.com",
-  "date": "2026-11-12T20:44:00+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "En Afrique de l'Ouest, la dynamique de lutte contre l... www.pressafrik.com"
- },
- {
-  "id": "12cdbe3cef82",
-  "titre": "Avec les Saveurs de Keha, l'agriculture camerounaise s'invite en France",
-  "lien": "https://www.rfi.fr/fr/podcasts/l-afrique-en-marche/20261112-avec-les-saveurs-de-keha-l-agriculture-camerounaise-s-invite-en-france",
-  "source": "RFI Afrique",
-  "site_source": "https://www.rfi.fr/fr/afrique/",
-  "date": "2026-11-12T20:39:17+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "À Toulouse, Caline Ngo Biyong a créé une marque visant à promouvoir les herbes et épices du continent africain."
- },
- {
-  "id": "8f6c1a2b5add",
-  "titre": "CEDEAO : Dakar accueille la 45e réunion du Comité des chefs d’état-major du 16 au 18 novembre",
-  "lien": "http://www.ndarinfo.com/CEDEAO-Dakar-accueille-la-45e-reunion-du-Comite-des-chefs-d-etat-major-du-16-au-18-novembre_a47212.html",
-  "source": "Ndarinfo (Saint-Louis)",
-  "site_source": "https://www.ndarinfo.com",
-  "date": "2026-11-12T20:39:00+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Dakar accueille du 16 au 18 novembre 2026 la 45e réunion ordinaire du Comité des chefs d'état-major de la CEDEAO, présidé depui..."
- },
- {
-  "id": "1feb14a9b710",
-  "titre": "Protection des ressources en eau : Vers la réduction de 60% des prélèvements dans la nappe de Pout à travers des SFN",
-  "lien": "https://www.dakaractu.com/Protection-des-ressources-en-eau-Vers-la-reduction-de-60-des-prelevements-dans-la-nappe-de-Pout-a-travers-des-SFN_a278111.html",
-  "source": "Dakaractu",
-  "site_source": "https://www.dakaractu.com",
-  "date": "2026-11-12T20:38:00+00:00",
-  "rubrique": "Société",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "La zone de Pout, Keur Moussa, Mont-Rolland et Diender, joue un rôle important dans l'approvisionnement en eau potable des populations de Dakar, Thiès et Mbour. En effet, près de 25% des besoins en eau de ce triangle sont couverts grâce aux prélèvements effectués dans la zone de Pout. Compte tenu…"
- },
- {
-  "id": "2782ea6327a5",
-  "titre": "Corniche ouest : internautes et travaux, le débat sur l’embellissement de Dakar",
-  "lien": "https://senego.com/corniche-ouest-internautes-et-travaux-le-debat-sur-lembellissement-de-dakar_2023330.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-12T20:36:44+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Les aménagements de la Corniche ouest pendant les JOJ suscitent des réactions en ligne, entre comparaison avec Miami et débat sur l’embellissement des villes."
- },
- {
-  "id": "94e6ea1aae79",
-  "titre": "L’espoir ravivé des démocrates",
-  "lien": "https://www.seneplus.com/article/lespoir-ravive-des-democrates",
-  "source": "SenePlus",
-  "site_source": "https://www.seneplus.com",
-  "date": "2026-11-12T20:31:52+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "L’espoir ravivé des démocrates Alioune Diatta Thu, 11/12/2026 - 20:31"
- },
- {
-  "id": "1be3aa354209",
-  "titre": "(Vidéo) Sénégal-Soudan: Boulaye Dia et Ibrahima Mbaye frappent coup sur coup, les Lions mènent 3-1",
-  "lien": "https://senego.com/senegal-soudan-boulaye-dia-et-ibrahima-mbaye-frappent-coup-sur-coup-les-lions-menent-3-1-3-1_2023323.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-12T20:31:42+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Les Lions reprennent les commandes de la rencontre avec autorité ! Après l’égalisation soudanaise juste avant la pause, le Sénégal a accéléré en deuxième période. Boulaye Dia a redonné l’avantage aux hommes de Patrick Vieira à la 60e minute, avant qu’Ibrahima Mbaye ne corse l’addition quatre…"
- },
- {
-  "id": "07e390b041c3",
-  "titre": "Canaries : trois pirogues avec 183 migrants, dont 23 mineurs, arrivent à El Hierro",
-  "lien": "http://www.ndarinfo.com/Canaries-trois-pirogues-avec-183-migrants-dont-23-mineurs-arrivent-a-El-Hierro_a47211.html",
-  "source": "Ndarinfo (Saint-Louis)",
-  "site_source": "https://www.ndarinfo.com",
-  "date": "2026-11-12T20:30:00+00:00",
-  "rubrique": "Diaspora",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Trois pirogues transportant 183 migrants, dont 23 mineurs et 13 femmes, ont accosté ce jeudi 12 novembre 2026 au port de La Restinga..."
- },
- {
-  "id": "87f5393adef6",
-  "titre": "Ibrahim Mbaye enfonce le clou après Boulaye Dia : le Sénégal inscrit son troisième but !",
-  "lien": "https://www.senenews.com/actualites/ibrahim-mbaye-enfonce-le-clou-apres-boulaye-dia-le-senegal-inscrit-son-troisieme-but_606228.html",
-  "source": "Senenews",
-  "site_source": "https://www.senenews.com",
-  "date": "2026-11-12T20:29:23+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Les Lions poursuivent leur démonstration ! Après le deuxième but inscrit sur un puissant coup de tête de Boulaye Dia, Ibrahim Mbaye vient à son tour faire trembler les filets et porte le score à 3-0 en faveur du Sénégal. Grâce à cette nouvelle réalisation, les hommes de la Tanière creusent…"
- },
- {
-  "id": "10fd468f4f3f",
-  "titre": "Course-poursuite à Jaxaay : un conducteur ivre et son passager envoyés en prison",
-  "lien": "https://www.senenews.com/actualites/course-poursuite-a-jaxaay-un-conducteur-ivre-et-son-passager-envoyes-en-prison_606226.html",
-  "source": "Senenews",
-  "site_source": "https://www.senenews.com",
-  "date": "2026-11-12T20:18:28+00:00",
-  "rubrique": "Faits divers",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Une infraction au Code de la route a viré à une course-poursuite mouvementée, le 9 novembre dernier, dans le secteur de Jaxaay. Une patrouille de sécurisation de la brigade de recherches du commissariat local a intercepté une Citroën C3 dont le conducteur avait refusé d’obtempérer, provoquant…"
- },
- {
-  "id": "499568bbcfe7",
-  "titre": "Sécurité : Dakar accueille la 45ᵉ réunion des chefs d’état-major de la CEDEAO",
-  "lien": "https://lesoleil.sn/societe/securite-dakar-accueille-la-45%e1%b5%89-reunion-des-chefs-detat-major-de-la-cedeao/",
-  "source": "Le Soleil",
-  "site_source": "https://lesoleil.sn",
-  "date": "2026-11-12T20:17:41+00:00",
-  "rubrique": "Économie",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Dakar abritera, du 16 au 18 novembre 2026, la 45ᵉ réunion ordinaire du Comité des chefs d’état-major de la Communauté économique des États de l’Afrique de l’Ouest (CEDEAO). L’information a été rendue publique ce jeudi 12 novembre par la Direction de l’information et des relations publiques des…"
- },
- {
-  "id": "d7fccd9407e7",
-  "titre": "Sénégal – Soudan : Nicolas Jackson délivre les Lions, mais les Soudanais refroidissent l’ambiance !",
-  "lien": "https://www.dakaractu.com/Senegal-Soudan-Nicolas-Jackson-delivre-les-Lions-mais-les-Soudanais-refroidissent-l-ambiance-_a278110.html",
-  "source": "Dakaractu",
-  "site_source": "https://www.dakaractu.com",
-  "date": "2026-11-12T20:16:00+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le Sénégal et le Soudan se tiennent en échec (1-1) à la pause, au terme d'une première période riche en occasions et en rebondissements. Après avoir longtemps buté sur une défense soudanaise bien organisée, les Lions ont finalement trouvé la faille grâce à Nicolas Jackson, avant de se faire…"
- },
- {
-  "id": "8b072595f56f",
-  "titre": "Rejet du budget : Babacar Ba plaide pour un référendum sur les choix budgétaires",
-  "lien": "https://www.seneweb.com/fr/news/Politique/rejet-du-budget-babacar-ba-plaide-pour-un-referendum-sur-les-choix-budgetaires_n_999003469.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-12T20:15:21+00:00",
-  "rubrique": "Économie",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "« Monsieur le Président, au nom de l’article 51 de la Constitution, donnez la parole au peuple »."
- },
- {
-  "id": "f041691fb093",
-  "titre": "Direct | Sénégal vs Soudan",
-  "lien": "https://www.pressafrik.com/Direct--Senegal-vs-Soudan_a314518.html",
-  "source": "PressAfrik",
-  "site_source": "https://www.pressafrik.com",
-  "date": "2026-11-12T20:13:00+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "www.pressafrik.com"
- },
- {
-  "id": "95f740847e23",
-  "titre": "« Quand le pouvoir arrête le pouvoir » : Moulaye Camara livre sa lecture de la crise institutionnelle",
-  "lien": "https://senego.com/quand-le-pouvoir-arrete-le-pouvoir-moulaye-camara-livre-sa-lecture-de-la-crise-institutionnelle_2022352.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-12T20:09:31+00:00",
-  "rubrique": "Culture",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "La crise entre le pouvoir exécutif et le pouvoir législatif ne doit pas uniquement être perçue comme un facteur de blocage institutionnel. C’est également, selon Moulaye Camara, une illustration du fonctionnement des mécanismes démocratiques et du principe de séparation des pouvoirs. Dans une…"
- },
- {
-  "id": "c885e798bece",
-  "titre": "Espagne, 183 migrants, dont 23 enfants, débarquent aux Canaries après six jours en mer",
-  "lien": "https://www.seneplus.com/article/espagne-183-migrants-dont-23-enfants-debarquent-aux-canaries-apres-six-jours-en-mer",
-  "source": "SenePlus",
-  "site_source": "https://www.seneplus.com",
-  "date": "2026-11-12T20:07:06+00:00",
-  "rubrique": "Diaspora",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Espagne, 183 migrants, dont 23 enfants, débarquent aux Canaries après six jours en mer Alioune Diatta Thu, 11/12/2026 - 20:07"
  }
 ]
