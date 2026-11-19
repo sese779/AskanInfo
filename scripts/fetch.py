@@ -248,7 +248,7 @@ def ajouter_sport(config):
     if not f.exists():
         return
     j = yaml.safe_load(f.read_text(encoding="utf-8")) or {}
-    noms = [str(x).strip() for x in (j.get("joueurs") or []) + (j.get("clubs_senegal") or []) if str(x).strip()]
+    noms = [str(x).strip() for x in (j.get("joueurs") or []) + (j.get("clubs_senegal") or []) + (j.get("lutteurs") or []) if str(x).strip()]
     competitions = [str(x).strip() for x in j.get("competitions") or [] if str(x).strip()]
     config["mots_cles_senegal"] = list(config.get("mots_cles_senegal") or []) + noms
     rubriques = config.setdefault("rubriques", {})
