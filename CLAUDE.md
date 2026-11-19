@@ -57,6 +57,27 @@ journée. Valeurs invalides ou plus de 3 passages : ne change rien et signale-le
    (outil GitHub `actions_run_trigger`, workflow `site.yml`, branche `main`).
    Ce workflow s'exécute depuis `main` et fait lui-même les contrôles.
 
+## Nominations du Conseil des ministres
+
+Le Conseil des ministres a lieu en principe le mercredi. Au premier passage qui suit
+(mercredi soir ou jeudi matin), si la synthèse n'existe pas encore :
+1. Lis le communiqué officiel : `node scripts/communique_conseil.js AAAA-MM-JJ`
+   (date du mercredi). C'est la **seule exception** à la règle « ne télécharge jamais les
+   pages des sites sources » : un acte public de l'État, sur presidence.sn, rien d'autre.
+   Code de sortie 2 = pas encore publié : réessaie au passage suivant.
+2. S'il contient une partie « AU TITRE DES MESURES INDIVIDUELLES », écris
+   `content/syntheses/AAAA-MM-JJ-nominations-conseil-des-ministres.md` (rubrique Politique,
+   titre « Conseil des ministres du JJ mois : les nominations ») : un chapô, puis une liste
+   Markdown, une ligne par personne : **nom**, nouveau poste, et fonction précédente ou
+   corps d'origine si le communiqué la donne. Aucun commentaire, aucun ajout. La longueur
+   peut dépasser 250 mots si la liste est longue. Source : le lien « Source » affiché par
+   le script (nom « Présidence de la République ») ; ce lien est permis même s'il n'est pas
+   dans `data/items.json`.
+3. Pas de mesures individuelles cette semaine : pas de synthèse « nominations ».
+4. Si le communiqué reste introuvable, ne cite que les nominations reprises par au moins
+   2 sources principales du fil, en précisant que la liste est partielle.
+Cette synthèse s'ajoute aux sujets du passage (elle ne compte pas dans le maximum).
+
 ## Lutte sénégalaise
 
 La lutte compte autant que le football pour les lecteurs. Quand un grand combat ou une
