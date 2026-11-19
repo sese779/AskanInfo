@@ -13,6 +13,19 @@
   "extrait": "Le lutteur Balla Gaye a délocalisé son open press en Casamance, précisément à Ziguinchor, en vue de son affrontement avec Ad..."
  },
  {
+  "id": "221f0ef846a7",
+  "titre": "Sénégal: le projet de budget 2027 rejeté par les députés",
+  "lien": "https://www.rfi.fr/fr/afrique/20261119-s%C3%A9n%C3%A9gal-le-projet-de-budget-2027-rejet%C3%A9-par-les-d%C3%A9put%C3%A9s",
+  "source": "RFI Afrique",
+  "site_source": "https://www.rfi.fr/fr/afrique/",
+  "date": "2026-11-19T05:07:09+00:00",
+  "rubrique": "Politique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Au Sénégal, l’Assemblée nationale a rejeté mercredi soir le projet de budget 2027. Les députés, en majorité du parti Pastef, ont voté contre la première partie du texte, recettes et dette, par 126 voix contre 18. Résultat : le reste ne sera pas examiné. Le président de l’Assemblée, Ousmane Sonko,…"
+ },
+ {
   "id": "dac3169e013f",
   "titre": "La crise du détroit d’Ormuz favorise « une étroite convergence entre sécurité énergétique et objectifs climatiques », selon le directeur de l’AIE, Fatih Birol",
   "lien": "https://www.lemonde.fr/economie/article/2026/11/19/la-crise-du-detroit-d-ormuz-favorise-une-etroite-convergence-entre-securite-energetique-et-objectifs-climatiques-selon-le-directeur-de-l-aie-fatih-birol_6813236_3234.html",
@@ -37,6 +50,19 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Le multimilliardaire a notamment déboursé plus de 220 millions de dollars en faveur du sénateur sortant du Texas, Ken Paxton, finalement battu. Il a expliqué que son engagement avait pour but « d’avoir un certain équilibre des pouvoirs »."
+ },
+ {
+  "id": "7311c0ac7a2c",
+  "titre": "Sortie de GTA VI : Miami et Dublin célèbrent le nouveau volet",
+  "lien": "http://fr.africanews.com/2026/11/19/sortie-de-gta-vi-miami-et-dublin-celebrent-le-nouveau-volet/",
+  "source": "Africanews",
+  "site_source": "https://fr.africanews.com",
+  "date": "2026-11-19T04:36:33+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Après 13 ans d'attente, Grand Theft Auto VI est enfin sorti. Des fans ont célébré lors d'une soirée de lancement à Dublin, tandis que des supporters du Miami Heat se sont rués sur des produits Vice City en édition limitée."
  },
  {
   "id": "352d6aae2fbf",
@@ -8989,7 +9015,7 @@
   "source": "Leral",
   "site_source": "https://www.leral.net",
   "date": "2026-11-18T08:56:00+00:00",
-  "rubrique": "Afrique",
+  "rubrique": "Politique",
   "zone": null,
   "diaspora": false,
   "secondaire": true,
@@ -10328,7 +10354,7 @@
   "source": "RFI Afrique",
   "site_source": "https://www.rfi.fr/fr/afrique/",
   "date": "2026-11-18T05:15:04+00:00",
-  "rubrique": "Afrique",
+  "rubrique": "Politique",
   "zone": "Afrique",
   "diaspora": false,
   "secondaire": false,
@@ -16438,7 +16464,7 @@
   "source": "Seneweb",
   "site_source": "https://www.seneweb.com",
   "date": "2026-11-17T12:10:29+00:00",
-  "rubrique": "Actualité",
+  "rubrique": "Sport",
   "zone": null,
   "diaspora": false,
   "secondaire": false,
@@ -37745,7 +37771,7 @@
   "source": "Seneweb",
   "site_source": "https://www.seneweb.com",
   "date": "2026-11-14T17:56:28+00:00",
-  "rubrique": "Actualité",
+  "rubrique": "Sport",
   "zone": null,
   "diaspora": false,
   "secondaire": false,
@@ -39760,7 +39786,7 @@
   "source": "France 24 Monde",
   "site_source": "https://www.france24.com/fr/",
   "date": "2026-11-14T13:50:39+00:00",
-  "rubrique": "Monde",
+  "rubrique": "Actualité",
   "zone": "Monde",
   "diaspora": false,
   "secondaire": false,
@@ -61579,18 +61605,5 @@
   "diaspora": false,
   "secondaire": true,
   "extrait": "314 affaires sont inscrites au rôle de l'audience (contentieux des sociétés) du jeudi 12 novembre 2026 devant le Tribunal d..."
- },
- {
-  "id": "046aa8eba779",
-  "titre": "Soudan du Sud : Amnesty International dénonce l’inaction tragique des autorités et de l’ONU",
-  "lien": "https://www.lemonde.fr/afrique/article/2026/11/12/soudan-du-sud-amnesty-international-denonce-l-inaction-tragique-des-autorites-et-de-l-onu_6809060_3212.html",
-  "source": "Le Monde Afrique",
-  "site_source": "https://www.lemonde.fr/afrique/",
-  "date": "2026-11-12T05:16:35+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Plus de 200 personnes dont des enfants sont mortes au cours d’un massacre perpétré le 1ᵉʳ mars par des rebelles. Selon un rapport de l’organisation de défense des droits humains, publié jeudi, le pouvoir soudanais ainsi que la Minuss avaient été informés de la possibilité de cette attaque au moins…"
  }
 ]
