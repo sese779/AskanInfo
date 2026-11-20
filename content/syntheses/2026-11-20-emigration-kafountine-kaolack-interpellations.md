@@ -16,6 +16,7 @@ sources:
     titre: "Kaolack- Immigration clandestine: Deux convoyeurs interpellés par la
       Police"
     url: https://www.dakaractu.com/Kaolack-Immigration-clandestine-Deux-convoyeurs-interpelles-par-la-Police_a278389.html
+photo: /static/images/IMG_5972-1.jpeg
 credit_photo: "Photo : wiki"
 ---
 À Kafountine, en Casamance, 62 personnes qui s'apprêtaient à prendre la mer de manière irrégulière ont été interpellées dans la nuit du mercredi 18 au jeudi 19 novembre, selon Le Soleil. Le quotidien relève que ces tentatives se poursuivent dans plusieurs régions du pays, en dépit des nombreux échecs enregistrés. SenePlus évoque de son côté une « nouvelle vague d'interpellations » dans cette localité côtière.
