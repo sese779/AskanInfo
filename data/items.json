@@ -1,5 +1,62 @@
 [
  {
+  "id": "f730ad8f7717",
+  "titre": "Revue de presse (Wolof) RFM du vendredi 20 novembre 2026 | Par Mamadou Mouhamed Ndiaye",
+  "lien": "https://senego.com/revue-de-presse-wolof-rfm-du-vendredi-20-novembre-2026-par-mamadou-mouhamed-ndiaye_2025639.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T08:54:26+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Revue de presse (Wolof) RFM du vendredi 20 novembre 2026 | Par Mamadou Mouhamed Ndiaye",
+  "categories": [
+   "Actualités",
+   "Audio",
+   "Revue de presse",
+   "Sénégal",
+   "Vidéos"
+  ]
+ },
+ {
+  "id": "6128ec1028df",
+  "titre": "Ziguinchor : Onze malfaiteurs interpellés après une série d’agressions nocturnes",
+  "lien": "https://kewoulo.info/ziguinchor-onze-malfaiteurs-interpelles-apres-une-serie-dagressions-nocturnes/",
+  "source": "Kewoulo",
+  "site_source": "https://www.kewoulo.info",
+  "date": "2026-11-20T08:52:35+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Ziguinchor : Onze malfaiteurs interpellés après une série d'agressions nocturnes",
+  "categories": [
+   "A LA UNE",
+   "Enquête",
+   "Featured",
+   "Société",
+   "Agressions nocturnes"
+  ]
+ },
+ {
+  "id": "b0802a03258d",
+  "titre": "« Ce que nous faisions aux toilettes » : Les deux détenues de la Prison de Liberté 6 passent aux aveux",
+  "lien": "https://www.senenews.com/actualites/ce-que-nous-faisions-aux-toilettes-les-deux-detenues-de-la-prison-de-liberte-6-passent-aux-aveux_607015.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-20T08:51:50+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le commissariat d'arrondissement de Grand-Yoff a déféré ce jeudi, devant le procureur de la République près le tribunal de grande instance hors classe de Dakar, deux femmes incarcérées soupçonnées d'actes contre nature en milieu carcéral. M. Ndiaye et F. Mar vont retourner en prison, pendant que…",
+  "categories": [
+   "Sénégal - Actualités",
+   "Société"
+  ]
+ },
+ {
   "id": "4c2e53a51e9f",
   "titre": "Revue de presse (Wolof) ZIK FM du vendredi 20 novembre 2026 | Par Mantoulaye Thioub Ndoye",
   "lien": "https://senego.com/revue-de-presse-wolof-zik-fm-du-vendredi-20-novembre-2026-par-mantoulaye-thioub-ndoye_2025948.html",
@@ -53,6 +110,22 @@
    "Politique",
    "Sénégal",
    "Alliance pour la République"
+  ]
+ },
+ {
+  "id": "0a13b274e85b",
+  "titre": "Vladimir Poutine a-t-il été snobé par Xi Jinping ?",
+  "lien": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261120-vladimir-poutine-a-t-il-%C3%A9t%C3%A9-snob%C3%A9-par-xi-jinping",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-20T08:44:15+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Alors que se tenait à Shenzhen le sommet de l'APEC, le président chinois Xi Jinping est accusé par des internautes d'avoir volontairement ignoré la main tendue par son homologue russe Vladimir Poutine. Mais les images utilisées comme preuves sont trompeuses et la poignée de main a bien eu lieu.",
+  "categories": [
+   "Info ou intox"
   ]
  },
  {
@@ -146,6 +219,22 @@
   "extrait": "Plus de deux ans après la découverte des corps d’Aziz Dabala et de Wally Gano dans un appartement de la Technopole de Pikine, le procureur Saliou Dicko a requis le renvoi de six personnes devant la chambre criminelle. Parmi elles figure la danseuse Nabou Lèye, qui conteste les accusations. Selon…",
   "categories": [
    "Texto"
+  ]
+ },
+ {
+  "id": "066e00c13522",
+  "titre": "En Irak, l'armée s'apprête à entrer dans un bastion du groupe pro-iranien Kataeb Hezbollah",
+  "lien": "https://www.france24.com/fr/moyen-orient/20261120-irak-arm%C3%A9e-s-appr%C3%AAte-%C3%A0-entrer-dans-bastion-groupe-pro-iranien-kataeb-hezbollah",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-20T08:39:59+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Les forces armées irakiennes commenceront vendredi à se déployer dans un bastion du groupe Kataeb Hezbollah, selon les médias d'État, alors que le Premier ministre Ali al-Zaïdi intensifie ses efforts pour maîtriser cette faction soutenue par l'Iran. Le Kataeb Hezbollah a adopté cette semaine un ton…",
+  "categories": [
+   "Moyen-Orient"
   ]
  },
  {
@@ -64775,57 +64864,5 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Le 31 août dernier, au Niger, notre confrère Moussa Kaka quittait les locaux de son média à Niame... www.pressafrik.com"
- },
- {
-  "id": "4abfe3def94e",
-  "titre": "Mbour : une accusation de relation homosexuelle avec son chauffeur fait voler un couple en éclats…",
-  "lien": "https://senego.com/mbour-une-accusation-de-relation-homosexuelle-avec-son-chauffeur-fait-voler-un-couple-en-eclats_2023440.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-13T08:53:07+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Une affaire de violences conjugales secoue Mbour. F. B. Yattassaye aurait été violemment battue par son mari, un ingénieur en génie civil, au point de subir des fractures aux deux mâchoires. Selon L’Obs elle a été admise aux urgences à Dakar. L’altercation serait partie d’une violente dispute au…"
- },
- {
-  "id": "952f18d9b07e",
-  "titre": "Législatives en Espagne: Pedro Sanchez espère créer la surprise malgré des sondages défavorables",
-  "lien": "https://www.pressafrik.com/Legislatives-en-Espagne-Pedro-Sanchez-espere-creer-la-surprise-malgre-des-sondages-defavorables_a314536.html",
-  "source": "PressAfrik",
-  "site_source": "https://www.pressafrik.com",
-  "date": "2026-11-13T08:53:00+00:00",
-  "rubrique": "Monde",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "C’est officiellement jeudi soir qu'a commencé la campagne électorale des élections législative... www.pressafrik.com"
- },
- {
-  "id": "54b927eb1708",
-  "titre": "Patrick Vieira : « Il y a encore des axes d’amélioration, mais on est sur le bon chemin »",
-  "lien": "https://wiwsport.com/2026/11/13/patrick-vieira-il-y-a-encore-des-axes-damelioration-mais-on-est-sur-le-bon-chemin/",
-  "source": "Wiwsport",
-  "site_source": "https://www.wiwsport.com",
-  "date": "2026-11-13T08:51:40+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "( wiwsport ) - Après la large victoire du Sénégal face au Soudan (4-1), Patrick Vieira a retenu la bonne réaction de ses joueurs en deuxième période. Le sélectionneur des Lions estime toutefois que son équipe doit encore gagner en constance. « Je trouve qu’on a été très bons en deuxième période. On…"
- },
- {
-  "id": "dd162adb44cd",
-  "titre": "Revue des titres de ce vendredi 13 novrembre 2026 avec Babacar Kébé",
-  "lien": "https://www.seneweb.com/fr/news/Revue%20Presse/revue-des-titres-de-ce-vendredi-13-novrembre-2026-avec-babacar-kebe_n_999003499.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-13T08:51:35+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Revue des titres de ce vendredi 13 novrembre 2026 avec Babacar Kébé"
  }
 ]
