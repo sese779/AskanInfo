@@ -27,6 +27,7 @@ sources:
     titre: "Ismaïla Sarr en route vers le Ballon d’Or africain : double trophée
       européen et un record historique en Coupe du monde"
     url: https://www.pressafrik.com/Ismaila-Sarr-en-route-vers-le-Ballon-d-Or-africain-double-trophee-europeen-et-un-record-historique-en-Coupe-du-monde_a314883.html
+photo: /static/images/b5dd3864-e9c2-4db7-95a8-b08e000a23b7-1.jpeg
 credit_photo: "Photo : tm"
 ---
 Double récompense pour Ismaïla Sarr. L'attaquant sénégalais s'est vu remettre officiellement les deux principaux prix individuels de l'édition 2025-2026 de la Conference League, organisée par l'UEFA : celui du joueur de l'année dans la compétition et celui de son buteur le plus prolifique. L'information est relayée par Le Soleil, Senenews, Seneweb et L'Observateur (iGFM).
