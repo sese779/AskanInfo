@@ -183,3 +183,9 @@ images:
     type: photo
     credit: Ins
     actif: true
+  - mots_cles:
+      - Aziz Dabala
+    image: /static/images/IMG_5974.jpeg
+    type: photo
+    credit: Fb
+    actif: true
