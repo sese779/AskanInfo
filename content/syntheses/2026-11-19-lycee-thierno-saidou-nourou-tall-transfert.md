@@ -15,6 +15,7 @@ sources:
     titre: "Délocalisation du lycée Thierno Saïdou Nourou Tall : Deux jours de
       suspension des cours pour préparer le redéploiement"
     url: https://www.seneweb.com/fr/news/Education/delocalisation-du-lycee-thierno-saidou-nourou-tall-deux-jours-de-suspension-des-cours-pour-preparer-le-redeploiement_n_999004019.html
+photo: /static/images/IMG_5975.jpeg
 credit_photo: Wiki
 ---
 Pas de cours pendant deux jours au lycée Thierno Saïdou Nourou Tall. D'après PressAfrik, l'interruption porte sur le mercredi 18 et le jeudi 19 novembre 2026, conformément à une note. Le site indique que ce temps doit permettre aux élèves, appelés à être transférés, de prendre connaissance de leur nouveau lieu d'accueil, le complexe Bibi Ndiaye.
