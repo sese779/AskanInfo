@@ -13,6 +13,46 @@
   "extrait": "Le lutteur Balla Gaye a délocalisé son open press en Casamance, précisément à Ziguinchor, en vue de son affrontement avec Ad..."
  },
  {
+  "id": "6fee2bff29c8",
+  "titre": "Beau Disundi Nzazi, artiste de la RDC, remporte le Grand Prix de Dak’Art 2026",
+  "lien": "https://senego.com/beau-disundi-nzazi-artiste-de-la-rdc-remporte-le-grand-prix-de-dakart-2026_2025938.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T01:39:50+00:00",
+  "rubrique": "Afrique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "L’artiste congolais Beau Disundi Nzazi remporte le Grand Prix Léopold Sédar Senghor de Dak’Art 2026, doté de 20 millions de francs CFA.",
+  "categories": [
+   "Afrique",
+   "Culture",
+   "Dakar",
+   "Évènement",
+   "Beau Disundi Nzazi"
+  ]
+ },
+ {
+  "id": "e285681cc319",
+  "titre": "Dak’Art 2026 : le OFF propose trois expositions de Thiès à Saly",
+  "lien": "https://senego.com/dakart-2026-le-off-propose-trois-expositions-de-thies-a-saly_2025936.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T01:11:29+00:00",
+  "rubrique": "Culture",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "À Thiès et Saly, trois expositions du OFF de Dak’Art 2026 sont programmées, entre peinture, proposition pluridisciplinaire et rendez-vous à Saly Niakh Niakhal.",
+  "categories": [
+   "Culture",
+   "Évènement",
+   "Sénégal",
+   "Dak’Art 2026",
+   "Manufactures sénégalaises des arts décor"
+  ]
+ },
+ {
   "id": "15f2b0af6fdd",
   "titre": "Prison de Liberté 6 : deux détenues déférées après des faits présumés dans le quartier des femmes",
   "lien": "https://www.leral.net/Prison-de-Liberte-6-deux-detenues-deferees-apres-des-faits-presumes-dans-le-quartier-des-femmes_a411723.html",
@@ -64198,31 +64238,5 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Dans une note rendue publique, quatre sénateurs démocrates ont montré leur opposition à la guerre au Moyen-Orient. Ils ont initié un projet de loi pour bloquer Trump. Dans leur déclaration commune, ces sénateurs démocrates, Michael Bennet du Colorado, Tammy Duckworth de l’Illinois et Chris Van…"
- },
- {
-  "id": "b37ed00e052a",
-  "titre": "En Haïti, la police reprend aux gangs le stade de l'équipe nationale de football",
-  "lien": "https://www.france24.com/fr/am%C3%A9riques/20261113-haiti-police-reprend-gangs-stade-equipe-nationale-football-sylvio-cator-salvador",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-13T01:21:56+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "La police haïtienne a annoncé jeudi avoir repris, avec l'aide de mercenaires étrangers, le \"contrôle total\" du stade Sylvio-Cator de Port-au-Prince, tombé aux mains des gangs en 2024. Le site a ensuite été placé sous la protection de militaires salvadoriens."
- },
- {
-  "id": "220796d1ec3b",
-  "titre": "EN DIRECT, guerre en Ukraine : la présence des Européens dans les prochaines négociations de paix annoncée par Volodymyr Zelensky et les émissaires américains",
-  "lien": "https://www.lemonde.fr/international/live/2026/11/13/en-direct-guerre-en-ukraine-la-presence-des-europeens-dans-les-prochaines-negociations-de-paix-annoncee-par-volodymyr-zelensky-et-les-emissaires-americains_6808609_3210.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-13T01:06:43+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Jared Kushner et Steve Witkoff, les émissaires des Etats-Unis pour les négociations sur le conflit entre la Russie et l’Ukraine, ont rencontré le président ukrainien, jeudi soir à Dublin, après avoir fait étape à Moscou pour des entretiens avec son homologue russe, Vladimir Poutine."
  }
 ]
