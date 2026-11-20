@@ -62,6 +62,19 @@
   ]
  },
  {
+  "id": "7e95cea046cc",
+  "titre": "Malgré l’arrêt historique de la Cour internationale de justice, les Rohingya ne sont pas près de rentrer en Birmanie",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/20/malgre-l-arret-historique-de-la-cour-internationale-de-justice-les-rohingya-ne-sont-pas-pres-de-rentrer-en-birmanie_6813682_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-20T17:41:12+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "En dépit des preuves d’un génocide contre cette minorité à majorité musulmane, la Birmanie juge « injuste » l’arrêt de la Cour et considère qu’elle « outrepasse ses compétences »."
+ },
+ {
   "id": "1175daa05ed6",
   "titre": "Dalifort : une adolescente écrouée pour diffusion d’images intimes",
   "lien": "https://senego.com/dalifort-une-adolescente-ecrouee-pour-diffusion-dimages-intimes_2026187.html",
@@ -99,6 +112,19 @@
    "dakar",
    "eau"
   ]
+ },
+ {
+  "id": "7ae27af1e94a",
+  "titre": "Couacs à l’ouverture de la Biennale de Dakar 2026 : Plusieurs invités et biennalistes privés d’accès",
+  "lien": "https://www.seneweb.com/fr/news/Culture/couacs-a-louverture-de-la-biennale-de-dakar-2026-plusieurs-invites-et-biennalistes-prives-dacces_n_999004223.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-20T17:38:52+00:00",
+  "rubrique": "Culture",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La cérémonie officielle d'ouverture de la 16ᵉ édition de la Biennale de l'Art africain contemporain, tenue le jeudi 19 novembre 2026 sous la présidence du chef de l'État..."
  },
  {
   "id": "e344c0617c44",
@@ -65945,31 +65971,5 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "L’enceinte mythique de Dakar a vibré de nouveau. Fermé pendant de longues années pour rénovation, le Stade Léopold Sédar Senghor a renoué avec les..."
- },
- {
-  "id": "620469b9ba99",
-  "titre": "\"Ils nous ont tués\" : Novaïa Gazeta ferme, la presse libre disparaît en Russie",
-  "lien": "https://www.france24.com/fr/%C3%A9missions/vu-de-russie/20261113-nova%C3%AFa-gazeta-ferme-presse-libre-dispara%C3%AEt-russie",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-13T17:43:43+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Lundi 9 novembre, les journalistes de Novaïa Gazeta, dernier journal indépendant de Russie, ont été contraints de quitter les locaux historiques de leur rédaction à Moscou. Sous pression constante, le média a été déclaré \"agent de l'étranger\". L'un de ses collaborateurs, Oleg Roldouguine, qui…"
- },
- {
-  "id": "97e5d3d15c16",
-  "titre": "Canaries : six pirogues et 409 migrants arrivés à El Hierro en une journée",
-  "lien": "http://www.ndarinfo.com/Canaries-six-pirogues-et-409-migrants-arrives-a-El-Hierro-en-une-journee_a47219.html",
-  "source": "Ndarinfo (Saint-Louis)",
-  "site_source": "https://www.ndarinfo.com",
-  "date": "2026-11-13T17:43:00+00:00",
-  "rubrique": "Diaspora",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Six pirogues transportant 409 migrants, dont plus de 30 mineurs, sont arrivées jeudi 12 novembre 2026 sur l'île canarienne d'E..."
  }
 ]
