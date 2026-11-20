@@ -1,5 +1,39 @@
 [
  {
+  "id": "fc0fc7739eb1",
+  "titre": "Afrique du Sud: Baisse des homicides au dernier trimestre mais 60 meurtres par jour",
+  "lien": "https://www.senenews.com/actualites/societe/afrique-du-sud-baisse-des-homicides-au-dernier-trimestre-mais-60-meurtres-par-jour_607039.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-20T11:02:24+00:00",
+  "rubrique": "Afrique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L’ Afrique du Sud a enregistré moins de meurtres en trois mois, avec 5.590 personnes tuées, a indiqué vendredi le ministère de la Police mais 60 meurtres par jour sont toujours recensés en moyenne dans le pays. Ce pays, qui compte environ 63,5 millions d’habitants, affiche l’un des taux d’homicides…",
+  "categories": [
+   "International",
+   "Société",
+   "afrique du sud"
+  ]
+ },
+ {
+  "id": "f1c131b8ef1f",
+  "titre": "Génocide des Rohingya : en Malaisie, une communauté de plus en plus rejetée",
+  "lien": "https://www.france24.com/fr/%C3%A9missions/focus/20261120-g%C3%A9nocide-des-rohingya-en-malaisie-une-communaut%C3%A9-de-plus-en-plus-rejet%C3%A9e",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-20T11:01:27+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le 19 novembre, la Cour internationale de justice a reconnu que la Birmanie avait commis un génocide contre les Rohingya en 2017. Une décision saluée par cette communauté, toujours persécutée dans son pays d'origine. Mais en Malaisie, où elle avait longtemps bénéficié d'un soutien favorable, le…",
+  "categories": [
+   "Focus"
+  ]
+ },
+ {
   "id": "09db2dfc0312",
   "titre": "​Touba : un maçon de 25 ans tue son beau-frère pour une histoire de couscous",
   "lien": "https://www.pressafrik.com/​Touba-un-macon-de-25-ans-tue-son-beau-frere-pour-une-histoire-de-couscous_a314866.html",
@@ -45,6 +79,19 @@
   "extrait": "Le régime du président Min Aung Hlaing, principal instigateur des massacres de 2017 en tant que chef de l’armée birmane, est cloué au pilori par la justice internationale pour « intention génocidaire » après des décennies d’exclusion et de violences contre les Rohingya."
  },
  {
+  "id": "d3a8cc70cade",
+  "titre": "Présidentielle 2027 : Dominique de Villepin annonce sa candidature",
+  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261120-pr%C3%A9sidentielle-2027-dominique-de-villepin-annonce-sa-candidature",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-20T11:00:04+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L'ex-Premier ministre Dominique de Villepin a officialisé vendredi sa candidature à l'élection présidentielle de 2027 en se présentant comme une alternative au macronisme, à La France insoumise et au Rassemblement national, qu'il juge responsables d'un \"pourrissement\" du pays."
+ },
+ {
   "id": "fa4d8130a6fc",
   "titre": "Biennale de Dakar : Bassirou Diomaye Faye appelle à la création d’un marché commun de l’art africain",
   "lien": "https://www.rewmi.com/biennale-de-dakar-bassirou-diomaye-faye-appelle-a-la-creation-dun-marche-commun-de-lart-africain/",
@@ -60,6 +107,19 @@
    "Actualité",
    "UNE"
   ]
+ },
+ {
+  "id": "090196e2b0fe",
+  "titre": "Kaolack - émigration irrégulière",
+  "lien": "https://www.enqueteplus.com/content/kaolack-%C3%A9migration-irr%C3%A9guli%C3%A8re",
+  "source": "EnQuête",
+  "site_source": "https://www.enqueteplus.com",
+  "date": "2026-11-20T10:58:15+00:00",
+  "rubrique": "Diaspora",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Kaolack - émigration irrégulière La Sûreté urbaine de Kaolack a interpellé deux hommes le 15 novembre 2026 dans le cadre d’une enquête pour association de malfaiteurs, trafic de migrants et mise en danger de la vie d’autrui. Selon deux candidats au départ entendus par la police, une pirogue devait…"
  },
  {
   "id": "33b311fe720d",
@@ -65174,31 +65234,5 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "ÉLIMINATOIRES CAN 2027 - SÉNÉGAL / SOUDAN (4-1) Retour gagnant des Lions à Léopold Sédar Senghor Le Sénégal enchaîne une deuxième victoire lors de la troisième journée des éliminatoires de la CAN 2027 en battant le Soudan sur le score de quatre buts à un, ce jeudi. Patrick Vieira et ses hommes…"
- },
- {
-  "id": "05b91cca1803",
-  "titre": "Des missiles et des drones iraniens exposés près de Téhéran",
-  "lien": "http://fr.africanews.com/2026/11/13/des-missiles-et-des-drones-iraniens-exposes-pres-de-teheran/",
-  "source": "Africanews",
-  "site_source": "https://fr.africanews.com",
-  "date": "2026-11-13T11:05:11+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "L'exposition présente notamment le missile Emad, d'une portée pouvant atteindre 1 700 kilomètres, ainsi que le Khorramshahr"
- },
- {
-  "id": "d97cb7c6cd31",
-  "titre": "Accès au logement au Sénégal : Ecobank accompagne les ménages dans le financement de leur projet immobilier",
-  "lien": "https://www.seneweb.com/fr/news/Societe/acces-au-logement-au-senegal-ecobank-accompagne-les-menages-dans-le-financement-de-leur-projet-immobilier_n_999003513.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-13T11:02:47+00:00",
-  "rubrique": "Société",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le Sénégal fait face à un déficit de quelque 500 000 logements, tandis que le crédit immobilier ne représente encore qu’environ 6 % des encours bancaires."
  }
 ]
