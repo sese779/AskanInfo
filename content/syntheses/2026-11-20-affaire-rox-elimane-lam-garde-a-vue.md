@@ -46,7 +46,7 @@ sources:
       devant les enquêteurs
     url: https://www.senenews.com/actualites/elimane-lam-et-la-tiktokeuse-rox-le-recit-dun-face-a-face-explosif-devant-les-enqueteurs_606996.html
 photo: /static/images/IMG_5973-1.jpeg
-credit_photo: Wiki
+credit_photo: "Photo : Wiki"
 ---
 Elimane Lam s'est présenté mercredi 18 novembre devant la Division spéciale de cybersécurité (DSC), qui exécute une délégation judiciaire d'un magistrat instructeur de Pikine-Guédiawaye, selon Seneweb, Senenews et PressAfrik. Interrogé avec l'assistance de deux avocats, l'homme d'affaires aurait nié les accusations, rapporte Dakaractu en reprenant Libération : les questions portaient notamment sur de l'argent qu'il aurait envoyé à Rokhaya Fall, l'influenceuse surnommée « Rox la Chancelière ». Il a été gardé à vue à l'issue de cette audition.
 
