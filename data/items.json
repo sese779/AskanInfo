@@ -1,5 +1,21 @@
 [
  {
+  "id": "888b092b437f",
+  "titre": "Liaison maritime Dakar-Banjul : le navire Aguène réussit sa traversée test",
+  "lien": "http://www.ndarinfo.com/Liaison-maritime-Dakar-Banjul-le-navire-Aguene-reussit-sa-traversee-test_a47287.html",
+  "source": "Ndarinfo (Saint-Louis)",
+  "site_source": "https://www.ndarinfo.com",
+  "date": "2026-11-20T18:34:00+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le navire Aguène du Consortium sénégalais d'activités maritimes a effectué les 17 et 18 novembre une traversée test sur l'ax...",
+  "categories": [
+   "Infos Flash"
+  ]
+ },
+ {
   "id": "5c5a05486875",
   "titre": "Le Gabon obtiendra-t-il un programme avec le FMI d’ici à la fin de l’année ?",
   "lien": "https://www.jeuneafrique.com/1863753/economie-entreprises/le-gabon-obtiendra-t-il-un-programme-avec-le-fmi-dici-a-la-fin-de-lannee/",
@@ -40,6 +56,65 @@
   "categories": [
    "+ D'ACTU"
   ]
+ },
+ {
+  "id": "850fecc888d9",
+  "titre": "Abdou Mbow dénonce les reports « irréguliers » des commissions et interpelle le président du Parlement",
+  "lien": "https://senego.com/abdou-mbow-denonce-les-reports-irreguliers-des-commissions-et-interpelle-le-president-du-parlement_2026186.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T17:35:56+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Le député Abdou Mbow, membre de la commission des Lois et président de la commission des Affaires économiques, monte au créneau contre les reports répétés des réunions des commissions parlementaires. Dans une déclaration, le responsable de Takku Wallu Sénégal dénonce notamment le report de dernière…",
+  "categories": [
+   "Actualités",
+   "Politique",
+   "Sénégal",
+   "Abdou Mbow",
+   "Assemblée nationale"
+  ]
+ },
+ {
+  "id": "57ac65d36197",
+  "titre": "Comment le marché africain pourrait refaçonner l’industrie du jeu vidéo ?",
+  "lien": "https://www.lemonde.fr/videos/video/2026/11/20/comment-le-marche-africain-pourrait-refaconner-l-industrie-du-jeu-video_6813681_1669088.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-20T17:32:42+00:00",
+  "rubrique": "Afrique",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le continent africain connaît une forte croissance du nombre de joueurs de jeux vidéo, mais aussi une multiplication des studios."
+ },
+ {
+  "id": "9e6b2b14f195",
+  "titre": "Décret de Diomaye, LFI, rencontre entre Diomaye-Sonko: les révèlations à chaudes",
+  "lien": "https://www.seneweb.com/fr/news/EN%20DIRECT/decret-de-diomaye-lfi-rencontre-entre-diomaye-sonko-les-revelations-a-chaudes_n_999004222.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-20T17:31:57+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Décret de Diomaye, LFI, rencontre entre Diomaye-Sonko: les révèlations à chaudes"
+ },
+ {
+  "id": "d80eba80c11e",
+  "titre": "Première édition des JOJ en Afrique : Kirsty Coventry rend hommage au Sénégal et salue l’héritage des Jeux",
+  "lien": "https://www.seneweb.com/fr/news/Sport/premiere-edition-des-joj-en-afrique-kirsty-coventry-rend-hommage-au-senegal-et-salue-lheritage-des-jeux_n_999004221.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-20T17:30:26+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Au terme des Jeux olympiques de la jeunesse (JOJ) Dakar 2026, la présidente du Comité international olympique (CIO), Kirsty Coventry, a adressé ses remerciements aux acteurs ayant contribué à leur réussite"
  },
  {
   "id": "22ddab362ed5",
@@ -548,6 +623,22 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Fiona, un hippopotame du zoo américain de Cincinnati (nord) devenue star des réseaux sociaux, est morte jeudi, une dizaine de jours après avoir malencontreusement englouti un bonnet, a annoncé le parc animalier."
+ },
+ {
+  "id": "09b3b7fc0506",
+  "titre": "ANA : EMG Universal Auto remporte le marché de matériels roulants (51,7 M FCFA)",
+  "lien": "https://www.leral.net/ANA-EMG-Universal-Auto-remporte-le-marche-de-materiels-roulants-517-M-FCFA_a411795.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-20T16:40:18+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "L'Agence Nationale de l'Aquaculture (ANA) a attribué à EMG UNIVERSAL AUTO le marché F_DAF_005, relatif à l'acquisition d...",
+  "categories": [
+   "Economie"
+  ]
  },
  {
   "id": "d47fd1373664",
@@ -65821,31 +65912,5 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Le Burkina Faso a lancé un mandat d’arrêt international contre l’activiste ivoirien Camille Makosso pour des faits présumés de terrorisme. L’information a été rendue publique ce vendredi 13 novembre 2026 à Ouagadougou par le procureur général près de la Cour d’appel, Pinguedewindé Désiré Sawadogo,…"
- },
- {
-  "id": "edd753d32711",
-  "titre": "Relax Time : Possible confrontation entre Pastef et Kiiraay, rejet de la LFR…",
-  "lien": "https://www.seneweb.com/fr/news/EN%20DIRECT/relax-time-possible-confrontation-entre-pastef-et-kiiraay-rejet-de-la-lfr_n_999003549.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-13T17:32:52+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Relax Time : Possible confrontation entre Pastef et Kiiraay, rejet de la LFR…"
- },
- {
-  "id": "2282ff3a5ec9",
-  "titre": "Pikine: la police évite un lynchage après une agression sur une fillette de 10 ans",
-  "lien": "https://senego.com/pikine-la-police-evite-un-lynchage-apres-une-agression-sur-une-fillette-de-10-ans_2023643.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-13T17:32:39+00:00",
-  "rubrique": "Faits divers",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Le 11 novembre, près du rond-point du Technopole, un père a fait irruption dans un magasin de pièces détachées après avoir découvert, selon son récit, que sa fille y était agressée. Une patrouille a dû évacuer le suspect, menacé par une foule prête à lui faire un mauvais sort. Selon L’Observateur,…"
  }
 ]
