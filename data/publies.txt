@@ -117,3 +117,8 @@ content/syntheses/2026-11-19-fifa-philippe-diallo-candidat.md
 content/syntheses/2026-11-19-journee-forces-armees-diomaye-sonko.md
 content/syntheses/2026-11-19-lfr-2026-decret-mise-en-vigueur.md
 content/syntheses/2026-11-19-maire-jaxaay-trafic-migrants.md
+content/syntheses/2026-11-20-dakart-2026-ouverture-beau-disundi.md
+content/syntheses/2026-11-20-ecobank-sicap-logements-kedougou.md
+content/syntheses/2026-11-20-emigration-kafountine-kaolack-interpellations.md
+content/syntheses/2026-11-20-omega-pro-arnaque-senegal.md
+content/syntheses/2026-11-20-ziguinchor-open-press-agressions-arrestations.md
