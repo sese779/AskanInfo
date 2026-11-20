@@ -608,6 +608,22 @@
   "extrait": "La tension monte au Lycée de Bayakh. L’Association des parents d’élèves (APE), soutenue par les populations de la localité, est descendue dans la rue le 19 novembre pour..."
  },
  {
+  "id": "2c4cdb7278e8",
+  "titre": "LFR : Aldiouma Sow défend le décret présidentiel et répond aux critiques",
+  "lien": "https://www.xibaaru.sn/lfr-aldiouma-sow-defend-le-decret-presidentiel-et-repond-aux-critiques/",
+  "source": "Xibaaru",
+  "site_source": "https://www.xibaaru.sn",
+  "date": "2026-11-20T17:00:45+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Le ministre conseiller Aldiouma Sow a pris la défense de l’exécutif dans le débat autour de la mise en œuvre, par décret, de la loi de finances rectificative (LFR). Il considère la…",
+  "categories": [
+   "Politique"
+  ]
+ },
+ {
   "id": "094684dcf093",
   "titre": "Législatives anticipées en Espagne : Pedro Sánchez en danger ?",
   "lien": "https://www.france24.com/fr/%C3%A9missions/ici-l-europe/20261120-l%C3%A9gislatives-anticip%C3%A9es-en-espagne-pedro-s%C3%A1nchez-en-danger",
@@ -12350,6 +12366,22 @@
   "extrait": "Dans un entretien accordé à France 24, le ministre rwandais des Affaires étrangères, Olivier Nduhungirehe, accuse Emmanuel Macron d’avoir cédé au \"chantage congolais\" au sommet de la Francophonie. Il défend en outre le futur centre pour migrants déboutés au Rwanda et juge \"déséquilibrée\" l’attitude…",
   "categories": [
    "En tête-à-tête"
+  ]
+ },
+ {
+  "id": "370757deef63",
+  "titre": "Jeux vidéo : un modèle en crise?",
+  "lien": "https://www.rfi.fr/fr/podcasts/d%C3%A9bat-du-jour/20261119-jeux-vid%C3%A9o-un-mod%C3%A8le-en-crise",
+  "source": "RFI Monde",
+  "site_source": "https://www.rfi.fr/fr/monde/",
+  "date": "2026-11-19T16:20:18+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "C’est un phénomène mondial, le jeu vidéo le plus attendu de l’histoire. GTA VI, le dernier opus de la saga développée par l’éditeur américain Rockstar Games est enfin sorti. Après 13 ans d’attente, des millions de joueurs ont commencé à le découvrir la nuit dernière. Certains ont même posé un jour…",
+  "categories": [
+   "Débat du jour"
   ]
  },
  {
