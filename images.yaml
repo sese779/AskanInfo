@@ -177,3 +177,9 @@ images:
     type: photo
     credit: "Photo : x"
     actif: true
+  - mots_cles:
+      - Rokhaya Fall Rox
+    image: /static/images/IMG_5973.jpeg
+    type: photo
+    credit: Ins
+    actif: true
