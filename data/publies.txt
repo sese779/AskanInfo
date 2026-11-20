@@ -122,3 +122,4 @@ content/syntheses/2026-11-20-ecobank-sicap-logements-kedougou.md
 content/syntheses/2026-11-20-emigration-kafountine-kaolack-interpellations.md
 content/syntheses/2026-11-20-omega-pro-arnaque-senegal.md
 content/syntheses/2026-11-20-ziguinchor-open-press-agressions-arrestations.md
+content/syntheses/2026-11-20-affaire-rox-elimane-lam-garde-a-vue.md
