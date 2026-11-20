@@ -1,5 +1,21 @@
 [
  {
+  "id": "bca1a044ff25",
+  "titre": "Touré Kunda fait résonner la musique sénégalaise dans le monde du jeu vidéo",
+  "lien": "https://lesoleil.sn/actualites/arts-et-culture/toure-kunda-fait-resonner-la-musique-senegalaise-dans-le-monde-du-jeu-video/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-20T20:07:03+00:00",
+  "rubrique": "Culture",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le groupe Touré Kunda figure dans la programmation musicale de Grand Theft Auto VI (GTA 6), le nouvel opus de la célèbre franchise de Rockstar Games. Son titre « Nobel » a été retenu pour la station de radio virtuelle Kaleidoscope FM. Une nouvelle vitrine internationale pour notre patrimoine…",
+  "categories": [
+   "Arts et culture"
+  ]
+ },
+ {
   "id": "8555259650a9",
   "titre": "« Décret bidon » : Guy Marius Sagna s'en prend vivement à Diomaye",
   "lien": "https://www.seneweb.com/fr/news/Societe/decret-bidon-guy-marius-sagna-sen-prend-vivement-a-diomaye_n_999004230.html",
@@ -66228,44 +66244,5 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Le bras de fer budgétaire fait flamber les rendements de la dette Farid Akele Fri, 11/13/2026 - 20:11"
- },
- {
-  "id": "ec6ce200b981",
-  "titre": "Pape Gueye rend visite à Boucher Ketchup dans son restaurant",
-  "lien": "https://senego.com/pape-gueye-rend-visite-a-boucher-ketchup-dans-son-restaurant_2023692.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-13T20:10:12+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Pape Gueye s’est rendu au restaurant de Boucher Ketchup avec des amis et y a dégusté du dibi. Des internautes évoquent aussi un don présumé au restaurateur et à Yoro."
- },
- {
-  "id": "54254dedd9c8",
-  "titre": "Un désaccord chèrement payé",
-  "lien": "https://www.seneplus.com/article/un-desaccord-cherement-paye",
-  "source": "SenePlus",
-  "site_source": "https://www.seneplus.com",
-  "date": "2026-11-13T20:09:16+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Un désaccord chèrement payé Farid Akele Fri, 11/13/2026 - 20:09"
- },
- {
-  "id": "9b39e3510f69",
-  "titre": "Centrafrique : l’opposition manifeste contre la vie chère à Bangui",
-  "lien": "http://fr.africanews.com/2026/11/13/centrafrique-lopposition-manifeste-contre-la-vie-chere-a-bangui/",
-  "source": "Africanews",
-  "site_source": "https://fr.africanews.com",
-  "date": "2026-11-13T20:06:27+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Des centaines de manifestants ont défilé vendredi 13 novembre dans les rues de Bangui, en République centrafricaine, pour dénoncer la hausse du coût de la vie et des prix du carburant."
  }
 ]
