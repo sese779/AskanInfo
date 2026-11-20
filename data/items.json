@@ -32,6 +32,32 @@
   ]
  },
  {
+  "id": "f3676222e9d2",
+  "titre": "Des drones aperçus jeudi soir près de l’aéroport de Gênes, qui a dû fermer pendant deux heures",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/20/des-drones-apercus-jeudi-soir-pres-de-l-aeroport-de-genes-qui-a-du-fermer-pendant-deux-heures_6813625_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-20T10:45:08+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Les passagers d’un avion à destination de Rome ont dû être débarqués avant la réouverture de la piste, peu après 22 heures. Le modèle des drones et leur provenance restent à déterminer."
+ },
+ {
+  "id": "8f7341fab563",
+  "titre": "367 millions de FCFA pour former 1 000 acteurs de la pêche artisanale dans la Petite-Côte",
+  "lien": "https://www.seneplus.com/article/367-millions-de-fcfa-pour-former-1-000-acteurs-de-la-peche-artisanale-dans-la-petite-cote",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-20T10:44:31+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "367 millions de FCFA pour former 1 000 acteurs de la pêche artisanale dans la Petite-Côte Paap Seen Fri, 11/20/2026 - 10:44"
+ },
+ {
   "id": "523a17d135f2",
   "titre": "Comment Bassirou Diomaye Faye a contourné le Parlement pour imposer le budget révisé 2026",
   "lien": "https://www.jeuneafrique.com/1863556/economie-entreprises/comment-bassirou-diomaye-faye-a-contourne-le-parlement-pour-imposer-le-budget-revise-2026/",
@@ -96,6 +122,19 @@
    "Lutte",
    "Ténors"
   ]
+ },
+ {
+  "id": "a76d1f605329",
+  "titre": "Manifestations en Italie : la jeunesse s'unit contre la vie chère",
+  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261120-manifestations-en-italie-la-jeunesse-s-unit-contre-la-vie-ch%C3%A8re",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-20T10:38:32+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La colère contre la vie chère mobilise plusieurs pays européens. En Italie, en Allemagne, en Espagne, en Grèce et en Belgique, syndicats et associations appellent à manifester pour dénoncer la hausse des prix et réclamer des mesures pour préserver le pouvoir d’achat. À Rome, les manifestants sont…"
  },
  {
   "id": "88404faccc82",
@@ -246,6 +285,22 @@
   ]
  },
  {
+  "id": "15cb01df6329",
+  "titre": "COP31 sur le climat : les énergies fossiles retirées du projet de décision finale",
+  "lien": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261120-cop31-sur-le-climat-les-%C3%A9nergies-fossiles-retir%C3%A9es-du-projet-de-d%C3%A9cision-finale",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-20T10:18:31+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Les énergies fossiles ne figurent plus dans le nouveau projet de décision finale de la COP31 sur le climat publié jeudi à Antalya (Turquie), un recul dénoncé avec force par les ONG à la veille de la fin théorique des négociations.",
+  "categories": [
+   "Élément Terre, la quotidienne"
+  ]
+ },
+ {
   "id": "250fe6cc2c0f",
   "titre": "​Génocide des Rohingyas: la Birmanie juge «injuste» la décision de la CIJ",
   "lien": "https://www.pressafrik.com/​Genocide-des-Rohingyas-la-Birmanie-juge-injuste-la-decision-de-la-CIJ_a314864.html",
@@ -344,6 +399,22 @@
    "UNE",
    "Dr Mame Awa Ndoye",
    "ONFP"
+  ]
+ },
+ {
+  "id": "ae91358d9d8d",
+  "titre": "L'actu en dessin : à Shenzhen, le sommet tripartite débouche sur une étonnante \"déclaration de paix\"",
+  "lien": "https://www.france24.com/fr/plan%C3%A8te/20261120-l-actu-en-dessin-%C3%A0-shenzhen-le-sommet-tripartite-d%C3%A9bouche-sur-une-%C3%A9tonnante-d%C3%A9claration-de-paix",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-20T10:06:04+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Donald Trump, Vladimir Poutine et Xi Jinping ont adopté jeudi une \"déclaration en faveur de la paix\" à l'issue d'un sommet tripartite inédit. Une conclusion inattendue quand on sait que la Russie est directement belligérante dans la guerre en Ukraine, que les États-Unis font la guerre à l'Iran et…",
+  "categories": [
+   "Environnement"
   ]
  },
  {
@@ -1119,6 +1190,26 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "\"L’article 68 de notre charte fondamentale qui est la constitution nous renseigne que si le projet de loi n’est pas voté définitivement à l’expiration du délai de 60 jours, il est mis en vigueur par décret, compte tenu des amendements votés par l’assemblée nationale et acceptés par le président de…"
+ },
+ {
+  "id": "885fa15351d7",
+  "titre": "Le parfum d’une démocratie illibérale ( Par Sidy Alpha Ndiaye)",
+  "lien": "https://kewoulo.info/le-parfum-dune-democratie-illiberale-la-stricte-exegese-de-lillegalite-du-decret-n-2026-2416-du-19-novembre-2026-par-sidy-alpha-ndiaye/",
+  "source": "Kewoulo",
+  "site_source": "https://www.kewoulo.info",
+  "date": "2026-11-20T09:01:04+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Le parfum d’une démocratie illibérale ( Par Sidy Alpha Ndiaye)",
+  "categories": [
+   "A LA UNE",
+   "Contribution",
+   "Faits divers & Insolites",
+   "Société",
+   "décret n° 2026-2416 du 19 novembre 2026"
+  ]
  },
  {
   "id": "4591eb93015a",
@@ -4590,22 +4681,6 @@
    "Sénégal",
    "Bassirou diomaye Faye",
    "Ousmane Sonko"
-  ]
- },
- {
-  "id": "4cf416a3db11",
-  "titre": "COP31 sur le climat : les énergies fossiles retirées du projet de décision finale",
-  "lien": "https://www.france24.com/fr/plan%C3%A8te/20261119-cop31-climat-%C3%A9nergies-fossiles-retir%C3%A9es-projet-d%C3%A9cision-finale",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-19T21:06:06+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Les énergies fossiles ne figurent plus dans le nouveau projet de décision finale de la COP31 sur le climat publié jeudi à Antalya (Turquie), un recul dénoncé avec force par les ONG à la veille de la fin théorique des négociations.",
-  "categories": [
-   "Environnement"
   ]
  },
  {
@@ -64930,31 +65005,5 @@
   "diaspora": false,
   "secondaire": true,
   "extrait": "À peine le drame de Lompoul, qui a coûté la vie à 39 personnes au large des côtes sénégalaises, une nouvelle tentative d’émigration clandestine a été déjouée à Potou, dans le département de Louga renseigne KEB’S fm. Dans la nuit d’hier, la brigade de gendarmerie de proximité de Potou, dans la…"
- },
- {
-  "id": "be715ca8a9e8",
-  "titre": "Pétrole : l’offre mondiale dépassera la demande au quatrième trimestre 2026",
-  "lien": "https://www.senenews.com/actualites/societe/petrole-le-marche-devrait-redevenir-excedentaire-au-dernier-trimestre-aie_606278.html",
-  "source": "Senenews",
-  "site_source": "https://www.senenews.com",
-  "date": "2026-11-13T10:47:26+00:00",
-  "rubrique": "Monde",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "L'offre mondiale de pétrole devrait dépasser la demande au dernier trimestre 2026 pour la première fois depuis le déclenchement de la guerre en Iran fin février, indique vendredi l'Agence internationale de l'énergie (AIE). \"Nos bilans de l'offre et de la demande pour le mois de novembre indiquent…"
- },
- {
-  "id": "3f256d96dcd7",
-  "titre": "JOJ Dakar 2026 – Beach handball : Les Lioncelles décrochent le bronze !",
-  "lien": "https://www.seneweb.com/fr/news/Sport/joj-dakar-2026-beach-handball-les-lioncelles-decrochent-le-bronze_n_999003511.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-13T10:47:03+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Les Lioncelles du Sénégal ont décroché la médaille de bronze en beach handball aux Jeux Olympiques de la Jeunesse (JOJ) Dakar 2026."
  }
 ]
