@@ -1,5 +1,101 @@
 [
  {
+  "id": "527d2aec3baf",
+  "titre": "Canaries : une pirogue partie de Saint-Louis arrive à El Hierro avec 67 personnes",
+  "lien": "http://www.ndarinfo.com/Canaries-une-pirogue-partie-de-Saint-Louis-arrive-a-El-Hierro-avec-67-personnes_a47297.html",
+  "source": "Ndarinfo (Saint-Louis)",
+  "site_source": "https://www.ndarinfo.com",
+  "date": "2026-11-21T20:41:00+00:00",
+  "rubrique": "Diaspora",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Une pirogue partie de Saint-Louis avec 67 personnes à bord, dont cinq femmes et quatre mineurs, a atteint samedi le port de L...",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "e5eccabf4261",
+  "titre": "Culture du fonio à Kolda : Les bons plants d’une filière stratégique (3/5)",
+  "lien": "https://lesoleil.sn/actualites/economie/culture-du-fonio-a-kolda-les-bons-plants-dune-filiere-strategique-3-5/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-21T20:00:56+00:00",
+  "rubrique": "Culture",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Sur la route de la frontière guinéenne, à l’extrême Est de la région de Kolda, un homme, Sanoussi Diakhité, se bat pour remettre au goût du jour une céréale aux multiples vertus : le fonio. Capable de résister aux aléas climatiques et de contribuer à la souveraineté alimentaire du pays, cette…",
+  "categories": [
+   "Économie",
+   "fonio",
+   "Kolda"
+  ]
+ },
+ {
+  "id": "a4335b78e08a",
+  "titre": "Météo : Bakel, Tambacounda et plusieurs localités sous des températures pouvant atteindre 40 °C",
+  "lien": "https://senego.com/meteo-bakel-tambacounda-et-plusieurs-localites-sous-des-temperatures-pouvant-atteindre-40-c_2026550.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-21T20:00:27+00:00",
+  "rubrique": "Société",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Le Sénégal connaîtra un ciel passagèrement nuageux au cours des prochaines 24 heures, selon les prévisions météorologiques couvrant la période du 21 novembre à 12 heures au 22 novembre à 12 heures. Des bandes nuageuses plus denses sont toutefois attendues en fin de soirée dans plusieurs localités…",
+  "categories": [
+   "Actualités",
+   "Chaleurs",
+   "Météo"
+  ]
+ },
+ {
+  "id": "a7341ffc3e33",
+  "titre": "Israël : Gadi Eisenkot invite le parti de Benyamin Nétanyahou à des négociations de coalition",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/21/israel-gadi-eisenkot-invite-le-parti-de-benyamin-netanyahou-a-des-negociations-de-coalition_6814066_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-21T20:00:09+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "M. Eisenkot a jusqu’au mois prochain pour former un gouvernement, à la suite des législatives de la fin d’octobre, qui n’ont dégagé aucune majorité absolue, ni pour son camp ni pour celui du premier ministre sortant."
+ },
+ {
+  "id": "ad6a10a5f84a",
+  "titre": "Jair Bolsonaro, ancien président du Brésil, à nouveau hospitalisé en soins intensifs pour une occlusion intestinale",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/21/jair-bolsonaro-ancien-president-du-bresil-a-nouveau-hospitalise-en-soins-intensifs-pour-une-occlusion-intestinale_6814064_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-21T19:43:21+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Placé en résidence surveillée après avoir été condamné pour tentative de coup d’Etat, l’ancien chef d’Etat d’extrême droite souffre de séquelles d’un coup de couteau au ventre reçu pendant la campagne électorale de 2018, et a été opéré à plusieurs reprises."
+ },
+ {
+  "id": "443b15c95789",
+  "titre": "Assemblée nationale : Les nouvelles précisions du Premier ministre, Al Aminou Lo",
+  "lien": "https://www.senenews.com/actualites/assemblee-nationale-les-nouvelles-precisions-du-premier-ministre-al-aminou-lo_607206.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-21T19:42:57+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Après une étape à Ndiassane, le Premier ministre Ahmadou Al Aminou Lô s'est rendu ce samedi 21 novembre à Thiènaba, où il a été reçu par le khalife général, Baye Serigne Assane Seck. Il était à la tête d'une importante délégation gouvernementale comprenant notamment le ministre de l'Intérieur,…",
+  "categories": [
+   "Politique",
+   "Sénégal - Actualités",
+   "Al Aminou Lô"
+  ]
+ },
+ {
   "id": "490f54df10e7",
   "titre": "Après le Sénégal, la Mauritanie ferme ses eaux aux navires européens",
   "lien": "http://www.ndarinfo.com/Apres-le-Senegal-la-Mauritanie-ferme-ses-eaux-aux-navires-europeens_a47296.html",
@@ -16,6 +112,112 @@
   ]
  },
  {
+  "id": "1fee25ed2d99",
+  "titre": "​Procédures d'asile épuisées en Italie : un Sénégalais de 27 ans renvoyé au pays avec interdiction de retour",
+  "lien": "https://www.pressafrik.com/​Procedures-d-asile-epuisees-en-Italie-un-Senegalais-de-27-ans-renvoye-au-pays-avec-interdiction-de-retour_a314923.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-21T19:32:00+00:00",
+  "rubrique": "Diaspora",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La police italienne, par l'intermédiaire du bureau d... www.pressafrik.com",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "44b3d4ae457f",
+  "titre": "Ligue 1 : victoire du PSG à Nice assombrie par la blessure de Désiré Doué",
+  "lien": "https://www.seneweb.com/fr/news/Sport/ligue-1-victoire-du-psg-a-nice-assombrie-par-la-blessure-de-desire-doue_n_999004300.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-21T19:31:10+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Surpris d'entrée par Nice, le Paris SG a inversé la tendance en s'imposant 3-2 à l'Allianz Riviera, mais a perdu son attaquant Désiré Doué, sévèrement touché à un genou, samedi lors de la 11e journée de Ligue 1.Une victoire au goût amer."
+ },
+ {
+  "id": "e689d10fb1c0",
+  "titre": "Conflit Niang-Amadou Ba : Birima Ndiaye dit pouvoir briser la carrière de Macky Sall",
+  "lien": "https://senego.com/conflit-niang-amadou-ba-birima-ndiaye-dit-pouvoir-briser-la-carriere-de-macky-sall_2026549.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-21T19:30:13+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Birima Ndiaye affirme connaître les tensions entre Mame Mbaye Niang et Amadou Ba et dit pouvoir briser la carrière politique de Macky Sall s’il le contredit.",
+  "categories": [
+   "Politique",
+   "Sénégal",
+   "amadou Ba",
+   "Apr",
+   "Birima Ndiaye"
+  ]
+ },
+ {
+  "id": "21605db8e02f",
+  "titre": "Zawiya Seydina Cheikh de Paris : Un troisième dîner de levée de fonds le 5 décembre à Bobigny",
+  "lien": "https://www.senenews.com/actualites/zawiya-seydina-cheikh-de-paris-un-troisieme-diner-de-levee-de-fonds-le-5-decembre-a-bobigny_607204.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-21T19:25:39+00:00",
+  "rubrique": "Monde",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le projet de la Zawiya Seydina Cheikh de Paris entre dans une phase décisive. Ses promoteurs annoncent un troisième dîner de levée de fonds le 5 décembre 2026, avec l'ambition de franchir une nouvelle étape vers la concrétisation de l'édifice. Pour ses initiateurs, la Zawiya n'est pas seulement un…",
+  "categories": [
+   "Sénégal - Actualités",
+   "SeneNews TV",
+   "Société",
+   "Zawiya Seydina Cheikh"
+  ]
+ },
+ {
+  "id": "8888a906ec1f",
+  "titre": "Yango porte plainte à la Division spéciale de cybersécurité, la femme convoquée reste injoignable",
+  "lien": "https://senego.com/yango-porte-plainte-a-la-division-speciale-de-cybersecurite-la-femme-convoquee-reste-injoignable_2026547.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-21T19:23:45+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Yango a saisi la Division spéciale de cybersécurité pour diffamation. Convoquée par les enquêteurs, la femme était injoignable et n’avait pas été entendue.",
+  "categories": [
+   "Dakar",
+   "Faits Divers",
+   "Justice",
+   "Sénégal",
+   "Almadies"
+  ]
+ },
+ {
+  "id": "4b83023f95ba",
+  "titre": "Plus de 300 sacs en attente d’acheteurs (2/5)",
+  "lien": "https://lesoleil.sn/actualites/economie/plus-de-300-sacs-en-attente-dacheteurs-2-5/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-21T19:15:44+00:00",
+  "rubrique": "Diaspora",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le paradoxe de la filière ne s’arrête pas aux champs et aux unités de transformation. Il se prolonge jusque dans les circuits de commercialisation. Alors que les acteurs affirment constater un intérêt croissant pour le fonio, notamment auprès des consommateurs urbains et de la diaspora,…",
+  "categories": [
+   "Économie",
+   "fonio",
+   "Sénégal"
+  ]
+ },
+ {
   "id": "e2cd0e432538",
   "titre": "LFR 2026 par décret : le député Alioune Ndao déconseille tout recours devant la Cour suprême",
   "lien": "http://www.ndarinfo.com/LFR-2026-par-decret-le-depute-Alioune-Ndao-deconseille-tout-recours-devant-la-Cour-supreme_a47295.html",
@@ -29,6 +231,73 @@
   "extrait": "Le député Pastef Alioune Ndao, ancien procureur, juge « manifestement illégal et anticonstitutionnel » le décret mettant en vigueu...",
   "categories": [
    "+ D'ACTU"
+  ]
+ },
+ {
+  "id": "54b62510bc96",
+  "titre": "IA, médicaments falsifiés, One Health: Dakar au cœur des grands défis de la santé africaine",
+  "lien": "https://www.seneweb.com/fr/news/Sante/ia-medicaments-falsifies-one-health-dakar-au-coeur-des-grands-defis-de-la-sante-africaine_n_999004299.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-21T19:12:38+00:00",
+  "rubrique": "Société",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "‎ Pour ses 10 ans, l’Université des Sciences de la Santé de Dakar mise sur un colloque scientifique international consacré aux mutations du secteur médical."
+ },
+ {
+  "id": "9eb98fe060e2",
+  "titre": "Algérie: un ambitieux projet de transfert d’eau potable vers la région de Tin Zaouatine",
+  "lien": "https://www.rfi.fr/fr/afrique/20261121-alg%C3%A9rie-un-ambitieux-projet-de-transfert-d-eau-potable-vers-la-r%C3%A9gion-de-tin-zaouatine",
+  "source": "RFI Afrique",
+  "site_source": "https://www.rfi.fr/fr/afrique/",
+  "date": "2026-11-21T19:11:32+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "C'est un nouveau projet ambitieux de l'Algérie dans son désert. En début de semaine dernière, le ministre de l’Hydraulique, Lounès Bouzegza, a donné le coup d'envoi des travaux d'un projet de transfert d'eau potable vers la région de Tin Zaouatine, tout près de la frontière avec le Mali. L'accès à…",
+  "categories": [
+   "Afrique"
+  ]
+ },
+ {
+  "id": "b7b1bee1603a",
+  "titre": "Nécrologie : L’hommage appuyé de l’État du Sénégal au Dr Abdou Cissé",
+  "lien": "https://www.senenews.com/actualites/necrologie-lhommage-appuye-de-letat-du-senegal-au-dr-abdou-cisse_607203.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-21T19:08:55+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La région de Matam est de nouveau en deuil. Le Dr Abdou Cissé, directeur de l'hôpital de Ourossogui, s'est éteint dans la soirée du vendredi 20 novembre à l'Hôpital Cheikhoul Khadim de Touba, des suites de ses blessures. Il disparaît quarante jours après l'accident de la route qui avait déjà…",
+  "categories": [
+   "Sénégal - Actualités",
+   "Société",
+   "Dr Abdou Cissé"
+  ]
+ },
+ {
+  "id": "86b0afc9996f",
+  "titre": "Casa Sports-Essamaye, un premier derby du Sud en Ligue 1 sous pression",
+  "lien": "https://senego.com/casa-sports-essamaye-un-premier-derby-du-sud-en-ligue-1-sous-pression_2026544.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-21T19:05:53+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "À Ziguinchor, Casa Sports et Essamaye FC vont disputer le premier derby du Sud de l’histoire de la Ligue 1 sénégalaise. Le Casa cherche encore sa première victoire.",
+  "categories": [
+   "Football",
+   "Sénégal",
+   "Sports",
+   "Casa Sports",
+   "derby du Sud"
   ]
  },
  {
@@ -91,6 +360,22 @@
   "extrait": "Le Premier ministre Ahmadou Al Aminou Lô a rendu vendredi une visite de courtoisie à Thierno Madani Tall, khalife de la famille d...",
   "categories": [
    "Infos Flash"
+  ]
+ },
+ {
+  "id": "f117a475bbe1",
+  "titre": "« Manifestement illégal et anticonstitutionnel » : le député Alioune Ndao demande de « laisser Diomaye assumer seul les conséquences de son décret »",
+  "lien": "https://www.pressafrik.com/Manifestement-illegal-et-anticonstitutionnel-le-depute-Alioune-Ndao-demande-de-laisser-Diomaye-assumer-seul-les_a314922.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-21T18:54:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Face au décret présidentiel qu'il qualifie de « manifestemen... www.pressafrik.com",
+  "categories": [
+   "Politique"
   ]
  },
  {
@@ -66997,226 +67282,5 @@
   "diaspora": false,
   "secondaire": true,
   "extrait": "Selon le Rapport économique et financier annexé à la loi de finances 2027, la croissance du Sénégal ne dépasserait pas 2,4..."
- },
- {
-  "id": "dd3ceb7b0e7e",
-  "titre": "Macron dénonce \"ceux qui veulent rationner\" l’aide à l’Ukraine et \"l’obliger à une paix injuste\"",
-  "lien": "https://www.france24.com/fr/france/20261114-macron-d%C3%A9nonce-ceux-qui-veulent-rationner-l-aide-%C3%A0-l-ukraine-et-l-obliger-%C3%A0-une-paix-injuste",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-14T20:02:07+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Dans un message publié sur son compte X, Emmanuel Macron a estimé samedi que \"rationner les moyens de l'Ukraine\" était \"la recette pour la guerre d'après\". Le président de la République a appelé à ne pas diminuer les aides à l'Ukraine, comme la candidate du Rassemblement national Marine Le Pen l'a…"
- },
- {
-  "id": "896f41ad121d",
-  "titre": "Popularité et compétence (Par Aly DIOUF)",
-  "lien": "https://lesoleil.sn/le-decodeur/chronique/popularite-et-competence-par-aly-diouf/",
-  "source": "Le Soleil",
-  "site_source": "https://lesoleil.sn",
-  "date": "2026-11-14T20:00:36+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Quintuple champion olympique et onze fois champion du monde de judo, Teddy Riner a annoncé, lundi 9 novembre, sa candidature à l’élection présidentielle française de 2027. L’homme de 37 ans est l’une des plus grandes figures du sport français. Il s’est présenté comme un candidat « ni de droite ni…"
- },
- {
-  "id": "d814946fb5fb",
-  "titre": "Moussa Diop attaque une députée…Waly Diouf Bodian lui répond sèchement",
-  "lien": "https://www.xibaaru.sn/moussa-diop-attaque-une-deputee-waly-diouf-bodian-lui-repond-sechement/",
-  "source": "Xibaaru",
-  "site_source": "https://www.xibaaru.sn",
-  "date": "2026-11-14T20:00:06+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Les déclarations de Me Moussa Diop sur le plateau de l’émission Jakaarlo de la TFM continuent de susciter des réactions. Ses propos visant une députée, qu’il a qualifiée de « sœur de…"
- },
- {
-  "id": "91e8c8e6e5b4",
-  "titre": "​Alerte sanitaire à Kolda : la flambée du diabète et les défis de la prise en charge",
-  "lien": "https://www.pressafrik.com/​Alerte-sanitaire-a-Kolda-la-flambee-du-diabete-et-les-defis-de-la-prise-en-charge_a314610.html",
-  "source": "PressAfrik",
-  "site_source": "https://www.pressafrik.com",
-  "date": "2026-11-14T19:45:00+00:00",
-  "rubrique": "Société",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "La situation sanitaire dans la région de Kolda est marquée pa... www.pressafrik.com"
- },
- {
-  "id": "51f8628114ea",
-  "titre": "Matam : Le Chavirement d’une pirogue à Mbargou Diawbé fait 2 morts",
-  "lien": "https://www.seneweb.com/fr/news/Societe/matam-le-chavirement-dune-pirogue-a-mbargou-diawbe-fait-2-morts_n_999003645.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-14T19:38:30+00:00",
-  "rubrique": "Diaspora",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Il y a des endroits qui tuent en silence. Mbargou Diawbé en fait partie. Ce petit marigot, à deux kilomètres seulement de Kobilo, a encore pris deux vies.Le 30 septembre 2026, un pêcheur sourd-muet de 43 ans s'y noyait déjà."
- },
- {
-  "id": "33a8ab720903",
-  "titre": "Budget 2027 des Forces armées : malgré les hommages, les députés rejettent le projet du ministère",
-  "lien": "https://emedia.sn/budget-2027-des-forces-armees-malgre-les-hommages-les-deputes-rejettent-le-projet-du-ministere/",
-  "source": "Emedia",
-  "site_source": "https://emedia.sn",
-  "date": "2026-11-14T19:35:01+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "La Commission des Finances et du Contrôle budgétaire de l’Assemblée nationale, élargie à la Commission de la Défense et de la Sécurité, a examiné le projet de budget 2027 du ministère des Forces armées, lors d’une séance tenue le samedi 14 novembre. À l’issue des échanges, les parlementaires ont…"
- },
- {
-  "id": "33a64f2c7fa8",
-  "titre": "En Israël, Gadi Eisenkot dénonce les « ruses » de Benyamin Nétanyahou, qui plaide pour la formation d’un gouvernement d’union",
-  "lien": "https://www.lemonde.fr/international/article/2026/11/14/en-israel-gadi-eisenkot-denonce-les-ruses-de-benyamin-netanyahou-qui-plaide-pour-la-formation-d-un-gouvernement-d-union_6810511_3210.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-14T19:33:52+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Aux yeux du premier ministre israélien sortant, seul un gouvernement d’union nationale avec Gadi Eisenkot permettra de « garantir la sécurité d’Israël » face à l’Iran, dont il promet d’éliminer la menace « une fois pour toutes »."
- },
- {
-  "id": "db1f0a9addf8",
-  "titre": "EN DIRECT, guerre en Ukraine : Emmanuel Macron dénonce « ceux qui veulent rationner » l’aide à Kiev et « l’obliger à une paix injuste »",
-  "lien": "https://www.lemonde.fr/international/live/2026/11/14/en-direct-guerre-en-ukraine-emmanuel-macron-denonce-ceux-qui-veulent-rationner-l-aide-a-kiev-et-l-obliger-a-une-paix-injuste_6808609_3210.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-14T19:33:34+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "La candidate du Rassemblement national, Marine Le Pen, entend, si elle est élue, cesser l’aide financière à l’Ukraine. Une position fustigée par le gouvernement et les candidats d’un arc allant de la social-démocratie à la droite. Samedi soir, le chef de l’Etat a mis en garde contre le risque d’une…"
- },
- {
-  "id": "311e6f063987",
-  "titre": "Budget 2027 : les députés rejettent le projet de budget du ministère des Infrastructures, fixé à 601 milliards FCFA",
-  "lien": "https://emedia.sn/budget-2027-les-deputes-rejettent-le-projet-de-budget-du-ministere-des-infrastructures-fixe-a-601-milliards-fcfa/",
-  "source": "Emedia",
-  "site_source": "https://emedia.sn",
-  "date": "2026-11-14T19:32:11+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "La Commission des Finances et du Contrôle budgétaire de l’Assemblée nationale, élargie à la Commission de l’Aménagement du territoire, de l’Urbanisme, de l’Habitat, des Infrastructures et des Transports, a examiné, le samedi 14 novembre 2026, le projet de budget 2027 du ministère des…"
- },
- {
-  "id": "6a3ebc478f78",
-  "titre": "Ousmane Sonko sur Diomaye : « Politiquement, le divorce est consommé, définitivement »",
-  "lien": "https://www.senenews.com/actualites/ousmane-sonko-sur-diomaye-politiquement-le-divorce-est-consomme-definitivement_606496.html",
-  "source": "Senenews",
-  "site_source": "https://www.senenews.com",
-  "date": "2026-11-14T19:26:00+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Lors d’une rencontre avec d’anciens DG, PCA et chargés de mission patriotes, ce samedi 14 novembre 2026 à Dakar, le leader du Pastef a employé des termes sans équivoque pour décrire sa rupture avec le président Bassirou Diomaye Faye. La rupture politique entre Ousmane Sonko et le pouvoir du…"
- },
- {
-  "id": "c0788e0464cb",
-  "titre": "“LES JEUX FACE AUX ENJEUX” (Par Khouraichi Thiam)",
-  "lien": "https://www.seneweb.com/fr/news/Contribution/les-jeux-face-aux-enjeux-par-khouraichi-thiam_n_999003644.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-14T19:22:45+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "“LES JEUX FACE AUX ENJEUX”"
- },
- {
-  "id": "44f6f539a272",
-  "titre": "Affaire Ndiaga Seck : L’inquiétude de Mame Makhtar Gueye face à la tournure inattendue du procès",
-  "lien": "https://www.senenews.com/actualites/affaire-ndiaga-seck-linquietude-de-mame-makhtar-gueye-face-a-la-tournure-inattendue-du-proces_606495.html",
-  "source": "Senenews",
-  "site_source": "https://www.senenews.com",
-  "date": "2026-11-14T19:22:40+00:00",
-  "rubrique": "Faits divers",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le procès de Ndiaga Seck et de ses coprévenus a été renvoyé au 14 décembre devant le tribunal de grande instance de Louga. La demande de huis clos formulée par la défense est contestée par l’Organisation Jamra, qui exige un traitement judiciaire égal pour tous les prévenus. Renvoi du procès au 14…"
- },
- {
-  "id": "bf7f293e0e66",
-  "titre": "Ousmane Sonko annonce une rupture définitive avec le pouvoir de Diomaye",
-  "lien": "https://senego.com/ousmane-sonko-annonce-une-rupture-definitive-avec-le-pouvoir-de-diomaye_2024007.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-14T19:19:16+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Ousmane Sonko présente sa rupture avec le pouvoir de Bassirou Diomaye Faye comme définitive. La séparation intervient après plusieurs mois de tensions au sommet de l’État."
- },
- {
-  "id": "d6d5bc2831d2",
-  "titre": "A Antalya, en marge de la COP, des milliers de manifestants en colère contre les atteintes à l’environnement : « Nous ne croyons plus en ceux qui nous dirigent »",
-  "lien": "https://www.lemonde.fr/planete/article/2026/11/14/a-antalya-en-marge-de-la-cop-des-milliers-de-manifestants-en-colere-contre-les-atteintes-a-l-environnement-nous-ne-croyons-plus-en-ceux-qui-nous-dirigent_6810478_3244.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-14T19:18:07+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Près de 10 000 personnes ont défilé, samedi, sous une pluie fine, dans le calme et une ambiance bon enfant, derrière une large banderole écrite en turc : « Contre la COP31, nous défendons la vie ! »"
- },
- {
-  "id": "97299a91f0b5",
-  "titre": "Heurts meurtriers en Guinée: l'opposition accuse les autorités de \"dérive autoritaire\"",
-  "lien": "https://www.seneweb.com/fr/news/Afrique/heurts-meurtriers-en-guinee-lopposition-accuse-les-autorites-de-derive-autoritaire_n_999003643.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-14T19:10:40+00:00",
-  "rubrique": "Afrique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Un collectif regroupant les principaux partis d'opposition et des organisations de la société civile dénonce samedi une \"dérive autoritaire\" en Guinée et le recours à la force \"érigé en méthode de gou…"
- },
- {
-  "id": "6d5c55da9689",
-  "titre": "Décès à l’étranger : le Sénégal lance une assurance dédiée au rapatriement des corps",
-  "lien": "https://senego.com/deces-a-letranger-le-senegal-lance-une-assurance-dediee-au-rapatriement-des-corps_2023999.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-14T19:09:38+00:00",
-  "rubrique": "Diaspora",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Baptisée « SUTURA DIASPORA », une nouvelle offre d’assurance prendra en charge, sur les plans financier et logistique, le rapatriement vers le Sénégal des dépouilles de ressortissants décédés à l’étranger, avec à la clé une assistance juridique et un soutien financier aux familles endeuillées. Le…"
- },
- {
-  "id": "7eccafb140ec",
-  "titre": "Soudan du Sud: les élections générales à nouveau reportées au 11 février 2027",
-  "lien": "https://www.dakaractu.com/Soudan-du-Sud-les-elections-generales-a-nouveau-reportees-au-11-fevrier-2027_a278189.html",
-  "source": "Dakaractu",
-  "site_source": "https://www.dakaractu.com",
-  "date": "2026-11-14T19:09:00+00:00",
-  "rubrique": "Afrique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Au Soudan du Sud, la nouvelle est tombée tôt, ce samedi 14 novembre 2026. Les élections prévues pour le 22 décembre sont finalement repoussées au 11 février 2027. Ce scrutin, qui est le premier de l'histoire de ce pays devenu indépendant en 2011, avait déjà été reporté à deux reprises, en 2022 et…"
  }
 ]
