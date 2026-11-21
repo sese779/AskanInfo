@@ -26,7 +26,7 @@ sources:
       N’oublie pas à qui tu as affaire »"
     url: https://www.seneweb.com/fr/news/Sport/choc-franc-ndiago-reug-reug-je-le-terrasse-en-30-secondes-noublie-pas-a-qui-tu-as-affaire_n_999004276.html
 photo: /static/images/IMG_5987.jpeg
-credit_photo: "Photo : jambaar"
+credit_photo: "Photo : ."
 ---
 Le premier face-à-face entre Franc, surnommé « Ndiago Or », et Reug Reug s'est tenu ce vendredi, rapporte Wiwsport. Les deux hommes doivent s'affronter le 7 février 2027, selon Seneweb ; le lieu n'est pas précisé. Franc, de son vrai nom François Emile Gomis, a repris une formule déjà utilisée face à Ama Baldé et Eumeu Sène : il affirme, d'après Wiwsport, qu'il battra son adversaire « en 30 secondes ». Reug Reug lui a répondu en rappelant qu'il l'a déjà dominé et qu'il entend le refaire en lutte avec frappe. « Il me connaît parfaitement », a-t-il déclaré, selon le même site. Parmi les phrases échangées, Seneweb retient aussi : « N'oublie pas à qui tu as affaire ».
 
