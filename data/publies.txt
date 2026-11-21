@@ -129,3 +129,8 @@ content/syntheses/2026-11-20-incendie-immeuble-vdn-dakar.md
 content/syntheses/2026-11-20-ismaila-sarr-trophees-conference-league.md
 content/syntheses/2026-11-20-mondial-u17-senegal-croatie.md
 content/syntheses/2026-11-20-navire-aguene-dakar-banjul.md
+content/syntheses/2026-11-21-bp-retrait-projet-gazier-gta.md
+content/syntheses/2026-11-21-elimane-lam-bracelet-electronique.md
+content/syntheses/2026-11-21-incendie-vdn-bilan-un-mort.md
+content/syntheses/2026-11-21-joj-heritage-emplois-jeunes.md
+content/syntheses/2026-11-21-migrations-cooperation-regionale-oim.md
