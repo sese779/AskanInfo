@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block contenu %}
+<article class="article">
+  <p class="retour"><a href="{{ racine }}index.html">← Retour à l'accueil</a></p>
+  <h1>Vidéo du jour</h1>
+  <p class="meta">Vidéo verticale prête pour TikTok, Instagram (Reels) et YouTube Shorts. Téléchargez-la, puis copiez la légende et collez-la au moment de publier.</p>
+  {% for v in videos %}
+  <section class="video-jour">
+    <h2>{{ v.titre }}</h2>
+    <video controls preload="none" playsinline src="{{ v.video.url }}"></video>
+    <p class="boutons-partage">
+      <a class="bouton-wa" href="{{ v.video.url }}" download="askaninfo-{{ v.slug }}.mp4">Télécharger la vidéo</a>
+      <button type="button" class="bouton-fb" data-copier="legende-{{ v.slug }}" data-copie="Légende copiée ✓">Copier la légende</button>
+    </p>
+    <pre class="message" id="legende-{{ v.slug }}">{{ v.legende }}</pre>
+  </section>
+  {% else %}
+  <p>Aucune vidéo pour le moment : la vidéo du jour est fabriquée chaque soir après la revue de presse.</p>
+  {% endfor %}
+</article>
+{% endblock %}

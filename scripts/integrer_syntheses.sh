@@ -19,7 +19,7 @@ for branche in $(git for-each-ref --format='%(refname:short)' refs/remotes/origi
   if [ -z "$fichiers" ]; then
     continue
   fi
-  if echo "$fichiers" | grep -qvE '^content/(syntheses|podcast)/[A-Za-z0-9][A-Za-z0-9._-]*\.md$'; then
+  if echo "$fichiers" | grep -qvE '^content/(syntheses|podcast|video)/[A-Za-z0-9][A-Za-z0-9._-]*\.md$'; then
     echo "::notice::$branche modifie d'autres fichiers que des synthèses ou scripts de podcast : ignorée (relecture humaine nécessaire)."
     continue
   fi
