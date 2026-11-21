@@ -1,5 +1,128 @@
 [
  {
+  "id": "4b2c283e9370",
+  "titre": "La Matinale Senego : Patrick Vieira rencontre la France, Diomaye défend la LFR",
+  "lien": "https://senego.com/la-matinale-senego-patrick-vieira-rencontre-la-france-diomaye-defend-la-lfr_2026332.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-21T06:03:25+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Bonjour et bienvenue dans la matinale de Senego du samedi 21 novembre 2026. Au menu de cette nuit : Patrick Vieira échange avec l’ambassade de France, la mise en vigueur de la LFR 2026 continue d’alimenter les débats, et Alioune Tine appelle les institutions au dialogue. Sadio Mané, le Mondial U17…",
+  "categories": [
+   "Actualités",
+   "La Matinale",
+   "Sénégal",
+   "Vedette",
+   "LFR 2026"
+  ]
+ },
+ {
+  "id": "a32fb0c5676d",
+  "titre": "«Le supplément du samedi» du 21 novembre 2026",
+  "lien": "https://www.rfi.fr/fr/podcasts/grand-reportage/20261121-le-suppl%C3%A9ment-du-samedi-du-21-novembre-2026",
+  "source": "RFI Monde",
+  "site_source": "https://www.rfi.fr/fr/monde/",
+  "date": "2026-11-21T06:00:32+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Faut-il partir avant qu'il ne soit trop tard ? C'est la question que se posent les civils démunis dans chacun des reportages que vous allez écouter aujourd'hui. Au Burundi, sur les rives du lac Tanganyika, la menace est écologique. Les crues monstres provoquées par le réchauffement du climat…",
+  "categories": [
+   "Grand reportage"
+  ]
+ },
+ {
+  "id": "22552ee354db",
+  "titre": "«Resurrection Hill», à New York, le flic, le fric et le ciment",
+  "lien": "https://www.rfi.fr/fr/podcasts/l-art-de-raconter-le-monde/20261121-resurrection-hill-%C3%A0-new-york-le-flic-le-fric-et-le-ciment",
+  "source": "RFI Monde",
+  "site_source": "https://www.rfi.fr/fr/monde/",
+  "date": "2026-11-21T06:00:31+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le grand final de la trilogie new-yorkaise de François Boucq et Jerome Charyn met en scène la violence autour de la spéculation immobilière à New York.",
+  "categories": [
+   "L'art de raconter le monde"
+  ]
+ },
+ {
+  "id": "57c7bd7ffe5e",
+  "titre": "Voyage dans les cuisines des Arméniens et de la diaspora à travers le monde",
+  "lien": "https://www.rfi.fr/fr/podcasts/le-go%C3%BBt-du-monde/20261121-voyage-dans-les-cuisines-des-arm%C3%A9niens-et-de-la-diaspora-%C3%A0-travers-le-monde",
+  "source": "RFI Monde",
+  "site_source": "https://www.rfi.fr/fr/monde/",
+  "date": "2026-11-21T06:00:29+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Diaspora : le mot vient du grec ancien, il signifie « dispersion » ou « semer au loin » en l'occurrence des peuples que les tourments de l'histoire ont forcé à quitter leur terre natale pour se construire une vie ailleurs. Où que se trouve cet ailleurs, tous portent en eux les traditions, la…",
+  "categories": [
+   "Le goût du monde"
+  ]
+ },
+ {
+  "id": "9cdc34c0acfb",
+  "titre": "Les Suds racontent leurs indépendances",
+  "lien": "https://www.rfi.fr/fr/podcasts/carrefour-du-maghreb/20261121-les-suds-racontent-leurs-ind%C3%A9pendances",
+  "source": "RFI Monde",
+  "site_source": "https://www.rfi.fr/fr/monde/",
+  "date": "2026-11-21T06:00:25+00:00",
+  "rubrique": "Culture",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Avec le philosophe sénégalais Souleymane Bachir Diagne et l'autrice tunisienne Amira Ghenim, rencontrés à l'occasion du festival Kotouf de Djerba, en octobre 2026.",
+  "categories": [
+   "Carrefour du Maghreb"
+  ]
+ },
+ {
+  "id": "a20560d8d8a5",
+  "titre": "EN DIRECT, guerre en Ukraine : deux morts et 47 blessés dans des frappes russes sur Kryvy Rih, ville natale de Volodymyr Zelensky",
+  "lien": "https://www.lemonde.fr/international/live/2026/11/21/en-direct-guerre-en-ukraine-deux-morts-et-47-blesses-dans-des-frappes-russes-sur-kryvy-rih-ville-natale-de-volodymyr-zelensky_6810982_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-21T05:38:14+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Un enfant de 7 ans et une infirmière âgée de 20 ans ont été tués lors de cette série d’attaques dans le sud-est de l’Ukraine. « Une soirée et une nuit tragiques », déplore Oleksandr Vilkoul, chef du conseil de défense de Kryvy Rih."
+ },
+ {
+  "id": "2565b06a4fd5",
+  "titre": "En Corée du Sud, la paranoïa autour de la triche à l’IA déclenche une chasse aux fraudeurs d’examens",
+  "lien": "https://www.lemonde.fr/campus/article/2026/11/21/en-coree-du-sud-la-paranoia-autour-de-la-triche-a-l-ia-declenche-une-chasse-aux-fraudeurs-d-examens_6813944_4401467.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-21T05:30:03+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Alors que la pression s’accentue sur les élèves passant le fameux « Suneung », de nouvelles méthodes de triche à l’IA, plus efficaces et dures à détecter, mettent le gouvernement sud-coréen en alerte. Les fouilles et les demandes d’aveux publics se multiplient, parfois jusqu’au drame."
+ },
+ {
+  "id": "03e7b41a0ef1",
+  "titre": "En Italie, de nouvelles manifestations massives, signe d’une grogne sociale qui ne faiblit pas",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/21/en-italie-de-nouvelles-manifestations-massives-signe-d-une-grogne-sociale-qui-ne-faiblit-pas_6813926_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-21T05:05:41+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "A l’appel de la CGIL, premier syndicat du pays, des cortèges ont défilé, vendredi, dans une centaine de villes pour dénoncer le coût de la vie, la précarité étudiante et les dépenses militaires, en particulier pour aider l’Ukraine."
+ },
+ {
   "id": "72e4257b5855",
   "titre": "Israël : qui sont les haredim, ces juifs ultraorthodoxes qui suscitent tant de débats dans le pays ? Comprendre en trois minutes",
   "lien": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/11/21/israel-qui-sont-les-haredim-ces-juifs-ultraorthodoxes-qui-suscitent-tant-de-debats-dans-le-pays-comprendre-en-trois-minutes_6813925_6176282.html",
@@ -66160,122 +66283,5 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Les Jeux olympiques de la jeunesse se sont achevés ce vendredi 13 novembre après quinze jours de compétition. Mana Ishikawa, Yahya Sawab, Rosemary Nwankwo, Julian Jeang-Agliardi ou Marie Sarr figurent parmi les noms à retenir. À l’image de Noah Lyles, Julien Alfred, Emma McKeon ou Ulugbek Rashitov,…"
- },
- {
-  "id": "a1d190e8fe70",
-  "titre": "Rajery, avec «Mandry Ve?»: «Le flamenco peut rencontrer la musique vivante de Madagascar»",
-  "lien": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-afrique/20261114-rajery-avec-mandry-ve-le-flamenco-peut-rencontrer-la-musique-vivante-de-madagascar",
-  "source": "RFI Afrique",
-  "site_source": "https://www.rfi.fr/fr/afrique/",
-  "date": "2026-11-14T06:04:13+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Notre Grand invité Afrique du jour nous emmène à Madagascar. Rajery est un maitre absolu de la valiha, la harpe de la grande île. Depuis trois décennies, l’artiste parcourt le monde à la recherche de musiciens qui pratiquent les cordes comme lui. Dernier projet en date : un duo avec un guitariste…"
- },
- {
-  "id": "8bdf33a13816",
-  "titre": "La Matinale Senego : Abdoul Aziz Ndiaye alerte, le CIO salue le Sénégal et Pape Gueye surprend",
-  "lien": "https://senego.com/la-matinale-senego-abdoul-aziz-ndiaye-alerte-le-cio-salue-le-senegal-et-pape-gueye-surprend_2023794.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-14T06:03:35+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Bonjour et bienvenue dans la matinale de Senego du samedi 14 novembre 2026. Au menu de cette nuit : les déclarations du professeur Abdoul Aziz Ndiaye sur la dette, le bilan des Jeux olympiques de la jeunesse à Dakar et la visite remarquée de Pape Gueye chez Boucher Ketchup. Le sport et plusieurs…"
- },
- {
-  "id": "721d0fdddd0b",
-  "titre": "«Le supplément du samedi» du 14 novembre 2026",
-  "lien": "https://www.rfi.fr/fr/podcasts/grand-reportage/20261114-le-suppl%C3%A9ment-du-samedi-du-14-novembre-2026",
-  "source": "RFI Monde",
-  "site_source": "https://www.rfi.fr/fr/monde/",
-  "date": "2026-11-14T06:00:26+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Direction l'Amérique du Sud dans la communauté afro-argentine. Les descendants des esclaves amenés de force sur les rives du Rio de la Plata au XVIIIè siècle commencent à se réapproprier leur mémoire et à retrouver leur fierté. Ils se souviennent du rôle joué par leurs ancêtres dans la construction…"
- },
- {
-  "id": "928591a02fe1",
-  "titre": "J’ai bien mangé, j’ai bien lu ! Recettes et bonnes histoires",
-  "lien": "https://www.rfi.fr/fr/podcasts/le-go%C3%BBt-du-monde/20261114-j-ai-bien-mang%C3%A9-j-ai-bien-lu-recettes-et-bonnes-histoires",
-  "source": "RFI Monde",
-  "site_source": "https://www.rfi.fr/fr/monde/",
-  "date": "2026-11-14T06:00:20+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Connaissez-vous beaucoup des contes dont les histoires se mitonnent et se fredonnent en passant aux fourneaux ? Les paroles sont des histoires, elles racontent l’origine des fruits, le goût du citron, l’origine du vinaigre ou de la tomate. Dans une ritournelle, récits et recettes se répondent, se…"
- },
- {
-  "id": "f302f5b1d909",
-  "titre": "Comment faire face à la haine",
-  "lien": "https://www.rfi.fr/fr/podcasts/carrefour-du-maghreb/20261114-comment-faire-face-%C3%A0-la-haine",
-  "source": "RFI Monde",
-  "site_source": "https://www.rfi.fr/fr/monde/",
-  "date": "2026-11-14T06:00:18+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Retour sur les répercussions de l'attentat raciste de Trappes, commis le 23 octobre dernier dans une France polarisée à l'extrême. Marocains, Tunisiens, Algériens de nationalité ou d'origine, comment vivre face à une parole raciste qui se banalise et face au récit du grand remplacement ? C'est un…"
- },
- {
-  "id": "f4fbb2979180",
-  "titre": "Revue de la presse SenePlus du samedi 14 novembre 2026",
-  "lien": "https://www.seneplus.com/article/revue-de-la-presse-seneplus-du-samedi-14-novembre-2026",
-  "source": "SenePlus",
-  "site_source": "https://www.seneplus.com",
-  "date": "2026-11-14T05:56:51+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Revue de la presse SenePlus du samedi 14 novembre 2026 Daouda Toumbou Sat, 11/14/2026 - 05:56"
- },
- {
-  "id": "9d45c039cdc8",
-  "titre": "Ouganda: la succession de Museveni évoquée à huis clos par la direction du NRM, le parti au pouvoir",
-  "lien": "https://www.rfi.fr/fr/afrique/20261114-ouganda-la-succession-de-museveni-%C3%A9voqu%C3%A9e-%C3%A0-huis-clos-par-la-direction-du-nrm-le-parti-au-pouvoir",
-  "source": "RFI Afrique",
-  "site_source": "https://www.rfi.fr/fr/afrique/",
-  "date": "2026-11-14T05:51:42+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "En Ouganda, la succession de Yoweri Museveni fait débat jusque dans les rangs du parti au pouvoir, le NRM. La question a été évoquée, mardi, lors d’une réunion à huis clos, selon cinq participants interrogés par l’AFP. Plusieurs cadres ont alors exprimé des réserves à l’idée de voir son fils,…"
- },
- {
-  "id": "7308cb182ce5",
-  "titre": "Coupe de bois",
-  "lien": "https://www.seneplus.com/article/coupe-de-bois",
-  "source": "SenePlus",
-  "site_source": "https://www.seneplus.com",
-  "date": "2026-11-14T05:46:07+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Coupe de bois Daouda Toumbou Sat, 11/14/2026 - 05:46"
- },
- {
-  "id": "243e92423ecf",
-  "titre": "Ministère de la Justice du Sénégal : Me Moussa Sarr reçoit le nouveau Directeur général du GIABA et réaffirme",
-  "lien": "https://www.leral.net/Ministere-de-la-Justice-du-Senegal-Me-Moussa-Sarr-recoit-le-nouveau-Directeur-general-du-GIABA-et-reaffirme_a411120.html",
-  "source": "Leral",
-  "site_source": "https://www.leral.net",
-  "date": "2026-11-14T05:31:00+00:00",
-  "rubrique": "Faits divers",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Document publié par Ministère de la Justice du Sénégal, daté du vendredi 13 novembre 2026."
  }
 ]
