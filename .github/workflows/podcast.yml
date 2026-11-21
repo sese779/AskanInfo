@@ -47,6 +47,11 @@ jobs:
             nom=$(basename "$f" .md)
             [ -e "data/audio/$nom.json" ] || nouveau=oui
           done
+          for f in content/video/[!_]*.md; do
+            [ -e "$f" ] || continue
+            nom=$(basename "$f" .md)
+            [ -e "data/video/$nom.json" ] || nouveau=oui
+          done
           echo "nouveau=$nouveau" >> "$GITHUB_OUTPUT"
           echo "Nouvel épisode : $nouveau"
 
@@ -58,7 +63,7 @@ jobs:
       - name: Installer Piper et ffmpeg
         if: steps.verif.outputs.nouveau == 'oui'
         run: |
-          pip install -q piper-tts==1.8.0 PyYAML==6.0.3
+          pip install -q piper-tts==1.8.0 PyYAML==6.0.3 Pillow==12.3.0
           command -v ffmpeg || (sudo apt-get update -q && sudo apt-get install -y -q ffmpeg)
 
       - uses: actions/cache@v4
@@ -81,12 +86,13 @@ jobs:
         run: |
           python scripts/podcast.py "voix/$VOIX.onnx"
           python scripts/audio_articles.py "voix/$VOIX.onnx"
+          python scripts/video_jour.py "voix/$VOIX.onnx" --lot
           git config user.name "askaninfo-bot"
           git config user.email "askaninfo-bot@users.noreply.github.com"
-          mkdir -p data/podcast data/audio
-          git add data/podcast data/audio
+          mkdir -p data/podcast data/audio data/video
+          git add data/podcast data/audio data/video
           git diff --cached --quiet && exit 0
-          git commit -q -m "Audio : podcast et synthèses lues"
+          git commit -q -m "Audio et vidéo : podcast, synthèses lues, vidéo du jour"
           for essai in 1 2 3; do
             git pull -q --rebase origin main && git push -q origin HEAD:main && break
             sleep 5

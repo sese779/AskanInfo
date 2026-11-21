@@ -245,6 +245,38 @@ def lire_episodes(contenus):
 JOURS = ["lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"]
 
 
+def ecrire_videos(env, contenus, commun):
+    """Page « Vidéo du jour » (non indexée) : les vidéos récentes à télécharger,
+    avec une légende prête à copier pour TikTok et Instagram."""
+    videos = []
+    for f in sorted((ROOT / "content" / "video").glob("[!_]*.md"), reverse=True)[:7]:
+        meta_f = ROOT / "data" / "video" / f"{f.stem}.json"
+        m = re.match(r"^---\n(.*?)\n---", f.read_text(encoding="utf-8"), re.S)
+        if not m or not meta_f.exists():
+            continue
+        spec = yaml.safe_load(m.group(1)) or {}
+        video = json.loads(meta_f.read_text(encoding="utf-8"))
+        if not lien_valide(video.get("url")):
+            continue
+        local = ROOT / "cache-podcast" / Path(video["url"]).name
+        if local.exists() and local.stat().st_size == video.get("taille"):
+            (OUT / "video").mkdir(exist_ok=True)
+            shutil.copy(local, OUT / "video" / local.name)
+            video = dict(video, url=f"/video/{local.name}")
+        titres = [contenus[s["synthese"]]["titre"] for s in spec.get("sujets", [])
+                  if s.get("synthese") in contenus]
+        legende = "\n".join([f"📰 {spec.get('titre', 'L’essentiel du jour')}", ""]
+                            + [f"▪️ {t}" for t in titres]
+                            + ["", "Toutes les sources sur askaninfo.com (lien dans la bio)",
+                               "Voix de synthèse.", "",
+                               "#Sénégal #ActualitéSénégal #Dakar #AskanInfo #Kebetu"])
+        videos.append({"slug": f.stem, "titre": spec.get("titre", f.stem), "video": video,
+                       "legende": legende})
+    (OUT / "video.html").write_text(env.get_template("video.html").render(
+        racine="", chemin="video.html", titre_page="Vidéo du jour", videos=videos, **commun),
+        encoding="utf-8")
+
+
 def ecrire_message_du_jour(env, contenus, episodes, commun):
     """Page « Message du jour » : un texte prêt à copier dans WhatsApp, avec les
     titres du jour le plus récent et le dernier épisode du podcast."""
@@ -422,6 +454,7 @@ def main():
     episodes = lire_episodes({c["slug"]: c for c in a_la_une})
     ecrire("podcast.html", "podcast.html", "", titre_page="Podcast – La revue de presse", episodes=episodes)
     ecrire_message_du_jour(env, a_la_une, episodes, commun)
+    ecrire_videos(env, {c["slug"]: c for c in a_la_une}, commun)
     ecrire("application.html", "application.html", "", titre_page="L'application", nb_hors_ligne=PAGES_HORS_LIGNE)
     (OUT / "hors-ligne.html").write_text(env.get_template("hors-ligne.html").render(
         racine="/", chemin="hors-ligne.html", titre_page="Hors connexion", **commun), encoding="utf-8")
