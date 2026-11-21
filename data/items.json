@@ -1,5 +1,103 @@
 [
  {
+  "id": "77f185fe4cb1",
+  "titre": "Khalifa Rappeur : ses deux procès renvoyés d’office, dates divergentes",
+  "lien": "https://senego.com/khalifa-rappeur-ses-deux-proces-renvoyes-doffice-dates-divergentes_2026395.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-21T10:04:14+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Les deux affaires visant Khalifa Rappeur ont été renvoyées d’office le 19 novembre à Dakar. Les dates de reprise divergent selon les indications rapportées.",
+  "categories": [
+   "Justice",
+   "People",
+   "Sénégal",
+   "Aby Ndour",
+   "Khalifa Rappeur"
+  ]
+ },
+ {
+  "id": "14b130d07b54",
+  "titre": "États-Unis : Le FBI visé par un nouveau piratage, ses bases de données criminelles en question",
+  "lien": "https://www.senenews.com/actualites/societe/etats-unis-le-fbi-vise-par-un-nouveau-piratage-ses-bases-de-donnees-criminelles-en-question_607147.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-21T10:02:36+00:00",
+  "rubrique": "Monde",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le ministère de l'Agriculture et de la police fédérale (FBI) des États-Unis ont été victimes de piratages informatiques, ont rapporté les médias américains vendredi, quelques jours après des pannes technologiques dans des secteurs stratégiques du pays. Les incidents ont été initialement relatés par…",
+  "categories": [
+   "International",
+   "Société",
+   "FBI"
+  ]
+ },
+ {
+  "id": "2dbcd6fba4b7",
+  "titre": "Ismaila Sarr se concentre sur un retour à Crystal Palace après l'intérêt de Liverpool",
+  "lien": "https://www.bbc.com/afrique/articles/ckvg2n9z8qwxo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Afrique",
+  "site_source": "https://www.bbc.com/afrique",
+  "date": "2026-11-21T10:00:44+00:00",
+  "rubrique": "Sport",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L'attaquant de Crystal Palace, Ismaila Sarr, affirme avoir tourné la page sur l'intérêt de Liverpool pour sa signature et souhaite un « nouveau départ » sous les ordres de Thomas Frank."
+ },
+ {
+  "id": "d6576c2d9652",
+  "titre": "Thomas Piketty : « Le projet de convention fiscale de l’ONU a le potentiel de changer la face du monde »",
+  "lien": "https://www.lemonde.fr/la-chronique-de-thomas-piketty/article/2026/11/21/thomas-piketty-le-projet-de-convention-fiscale-de-l-onu-a-le-potentiel-de-changer-la-face-du-monde_6813978_6649149.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-21T10:00:13+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Les négociations aux Nations unies autour d’une convention-cadre sur la coopération fiscale reprennent à Nairobi le 30 novembre. Les Occidentaux seraient bien inspirés de s’y intéresser, faute de quoi ils risquent de passer à côté de l’histoire, explique l’économiste dans sa chronique."
+ },
+ {
+  "id": "621238bd4442",
+  "titre": "Birima Ndiaye et le secret sur l’affaire qui peut « ruiner l’avenir politique de Macky Sall »",
+  "lien": "https://www.senenews.com/actualites/birima-ndiaye-et-le-secret-sur-laffaire-qui-peut-ruiner-lavenir-politique-de-macky-sall_607146.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-21T09:57:36+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Birima Ndiaye assure détenir des informations capables de ruiner l'avenir politique de l'ancien chef de l'État. Lors d'un entretien accordé ces derniers jours, il a livré des confidences sur les coulisses de l'ancien régime et sur les fractures apparues dans son camp après son départ du pouvoir.…",
+  "categories": [
+   "Politique",
+   "Sénégal - Actualités",
+   "Birima Ndiaye"
+  ]
+ },
+ {
+  "id": "df3445f1efbd",
+  "titre": "Incendie d’un immeuble sur la Vdn : Une femme tuée, des dégâts importants",
+  "lien": "https://lequotidien.sn/incendie-dun-immeuble-sur-la-vdn-une-femme-tuee-des-degats-importants/",
+  "source": "Le Quotidien",
+  "site_source": "https://lequotidien.sn",
+  "date": "2026-11-21T09:56:58+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Un violent feu d’appartement, survenu à hauteur du supermarché Exclusive, a fait un mort et d’importants dégâts. Plus de vingt personnes ont été évacuées...",
+  "categories": [
+   "Actualités"
+  ]
+ },
+ {
   "id": "987ec9089f6b",
   "titre": "Real Sociedad : Mamadou Sarr a déjà repris l’entraînement collectif",
   "lien": "https://wiwsport.com/2026/11/21/real-sociedad-mamadou-sarr-a-deja-repris-lentrainement-collectif/",
@@ -29,6 +127,39 @@
   "extrait": "Le Dr Abdou Cissé est décédé le vendredi 20 novembre à l’hôpital Cheikhoul Khadim de Touba. Le directeur du Centre hospitalier régional de Ourossogui y était soigné depuis l’accident qui avait déjà coûté la vie au Dr Ibrahima Sow, directeur de l’hôpital régional de Matam. Les deux responsables de…",
   "categories": [
    "Télévision"
+  ]
+ },
+ {
+  "id": "e0c7e340b023",
+  "titre": "Khalifa Rappeur face à Nabou Dash et Aby Ndour — Deux procès renvoyés, une divergence sur les dates",
+  "lien": "https://www.dakaractu.com/Khalifa-Rappeur-face-a-Nabou-Dash-et-Aby-Ndour-—-Deux-proces-renvoyes-une-divergence-sur-les-dates_a278445.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-21T09:55:00+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La première chambre correctionnelle du tribunal de Dakar a renvoyé d’office, le 19 novembre, les deux affaires visant Khalifa Ababacar Khoureichi Ba. Aucune partie ne s’est présentée. Les Échos cite les dates du 7 janvier et du 4 février 2027 Dans la première procédure, Seynabou Diop Kébé, connue…",
+  "categories": [
+   "Texto"
+  ]
+ },
+ {
+  "id": "c496c3e3b738",
+  "titre": "« Ce qui compte le plus, c’est que le Ballon d’Or africain revienne au Sénégal » : Ismaïla Sarr veut faire barrage à Hakimi",
+  "lien": "https://www.afrik-foot.com/ce-qui-compte-le-plus-cest-que-le-ballon-dor-africain-revienne-au-senegal-ismaila-sarr-veut-faire-barrage-a-hakimi",
+  "source": "Afrik-Foot",
+  "site_source": "https://www.afrik-foot.com",
+  "date": "2026-11-21T09:55:00+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Ismaïla Sarr ne cache pas ses préférences. Nommé parmi les dix prétendants au Ballon d’Or africain 2026, l’ailier de Crystal Palace espère surtout voir la prestigieuse récompense revenir au Sénégal. Une déclaration qui place indirectement le tenant du titre, Achraf Hakimi, sur sa route, alors que…",
+  "categories": [
+   "News",
+   "Sénégal"
   ]
  },
  {
@@ -966,6 +1097,22 @@
   ]
  },
  {
+  "id": "3997092b9245",
+  "titre": "Drame sur la VDN : une femme perd la vie dans un violent incendie, plus de 20 personnes secourues",
+  "lien": "https://www.leral.net/Drame-sur-la-VDN-une-femme-perd-la-vie-dans-un-violent-incendie-plus-de-20-personnes-secourues_a411856.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-21T08:56:00+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "",
+  "categories": [
+   "Fait divers"
+  ]
+ },
+ {
   "id": "b28be4bd71c8",
   "titre": "Chine : le marché florissant des smartphones d’occasion attire le monde entier",
   "lien": "http://fr.africanews.com/2026/11/21/chine-le-marche-florissant-des-smartphones-doccasion-attire-le-monde-entier/",
@@ -1191,6 +1338,22 @@
    "Birame Diop",
    "Cedeao",
    "Côte d'Ivoire"
+  ]
+ },
+ {
+  "id": "90ef92156af1",
+  "titre": "Dakar : la Brigade de Recherches saisit 30 kg de drogues et interpelle deux individus",
+  "lien": "https://www.leral.net/Dakar-la-Brigade-de-Recherches-saisit-30-kg-de-drogues-et-interpelle-deux-individus_a411855.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-21T08:42:00+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "",
+  "categories": [
+   "Fait divers"
   ]
  },
  {
@@ -66880,187 +67043,5 @@
   "diaspora": false,
   "secondaire": true,
   "extrait": "À Pointe-Sarène, le riz Nérica gagne du terrain sur les anciennes parcelles d’arachide et de maïs. Les producteurs sont accompagnés, mais la pause des pluies a pesé sur les cultures."
- },
- {
-  "id": "258937cca713",
-  "titre": "Dakar : Ousmane Sonko reçoit la star du reggae Tiken Jah Fakoly (photo)",
-  "lien": "https://senego.com/dakar-ousmane-sonko-recoit-la-star-du-reggae-tiken-jah-fakoly-photo_2023829.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-14T10:04:16+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Le chanteur ivoirien de reggae Tiken Jah Fakoly a été reçu par le Président de l’assemblée nationale, Ousmane Sonko, à l’occasion de son séjour au Sénégal. Arrivé à Dakar depuis hier, l’artiste est dans la capitale sénégalaise pour participer au concert d’ouverture prévu ce samedi à la Place de la…"
- },
- {
-  "id": "c95a2ecd1524",
-  "titre": "Manifestations en France : pouvoir d'achat, climat et \"permis de tuer\" au cœur de l'acte V",
-  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261114-manifestations-en-france-pouvoir-d-achat-climat-et-permis-de-tuer-au-c%C5%93ur-de-l-acte-v",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-14T10:04:07+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Nouvelle journée de mobilisation contre la vie chère ce samedi en France : une cinquantaine de cortèges sont attendus à travers le pays, à l'appel d'organisations de jeunesse et de \"gilets jaunes\". Le mouvement agrège plusieurs revendications, du pouvoir d'achat au climat, en passant par…"
- },
- {
-  "id": "0c0de1e6dd37",
-  "titre": "Présumé rapt d'enfants à Kaolack : Le conducteur d'une fourgonnette victime de publications mensongères sur Tik-Tok",
-  "lien": "https://www.dakaractu.com/Presume-rapt-d-enfants-a-Kaolack-Le-conducteur-d-une-fourgonnette-victime-de-publications-mensongeres-sur-Tik-Tok_a278160.html",
-  "source": "Dakaractu",
-  "site_source": "https://www.dakaractu.com",
-  "date": "2026-11-14T10:04:00+00:00",
-  "rubrique": "Société",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Des publications virales ont associé une fourgonnette noire à de présumés enlèvements d’enfants à Kaolack. Le conducteur s’est présenté au commissariat de Ndorong avec son véhicule et a contesté les accusations. Le 11 novembre 2026, vers 20 heures, un chauffeur s’est présenté au commissariat de…"
- },
- {
-  "id": "5ca56028cb04",
-  "titre": "États-Unis : reprise du trafic aérien après une panne du contrôle aérien",
-  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261114-%C3%A9tats-unis-reprise-du-trafic-a%C3%A9rien-apr%C3%A8s-une-panne-du-contr%C3%B4le-a%C3%A9rien",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-14T10:02:55+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Tous les avions ont été temporairement cloués au sol aux États-Unis après une panne de communication affectant le contrôle aérien. L'autorité de l'aviation a ordonné la suspension des décollages pendant plusieurs heures. Le trafic a depuis repris. Les précisions de Thibault Franceschet."
- },
- {
-  "id": "3902f040387a",
-  "titre": "Argentine : l’après-Messi débute par un revers face à l’Uruguay",
-  "lien": "https://www.seneweb.com/fr/news/Sport/argentine-lapres-messi-debute-par-un-revers-face-a-luruguay_n_999003607.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-14T10:02:50+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "L’Argentine a connu une entrée en matière difficile dans l’après-Lionel Messi. Privée de son capitaine emblématique, qui a pris sa retraite internationale, l’Albiceleste s’est inclinée face à l’Urugua…"
- },
- {
-  "id": "8b9a6e559998",
-  "titre": "Groupe scolaire Etienne et Monique de Mbour : Un élève de Terminale L2 propage la vidéo nue de sa petite-amie de 15 ans dans l'école",
-  "lien": "https://www.dakaractu.com/Groupe-scolaire-Etienne-et-Monique-de-Mbour-Un-eleve-de-Terminale-L2-propage-la-video-nue-de-sa-petite-amie-de-15-ans_a278159.html",
-  "source": "Dakaractu",
-  "site_source": "https://www.dakaractu.com",
-  "date": "2026-11-14T10:02:00+00:00",
-  "rubrique": "Société",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "La plainte du père d’une adolescente de 15 ans a déclenché une enquête de la Division spéciale de cybersécurité. Un élève de terminale du même établissement a été présenté au parquet après avoir reconnu, lors d’une seconde audition, avoir transmis la vidéo à un ami. L’enquête a commencé par une…"
- },
- {
-  "id": "5c9e5c5ee66a",
-  "titre": "L’administration Trump percutée par l’onde de choc Nvidia",
-  "lien": "https://www.lemonde.fr/idees/article/2026/11/14/l-administration-trump-percutee-par-l-onde-de-choc-nvidia_6809983_3232.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-14T10:01:14+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "La démission de Jensen Huang, qui a quitté la direction du géant des puces électroniques après des révélations sur des relations extraconjugales, fragilise le moteur de la révolution de l’intelligence artificielle. L’équipe du président américain va aussi devoir expliquer la latitude dont la firme…"
- },
- {
-  "id": "27d8194a199c",
-  "titre": "Reprise des vols aux États-Unis après une suspension rarissime de plusieurs heures",
-  "lien": "https://www.seneweb.com/fr/news/International/reprise-des-vols-aux-etats-unis-apres-une-suspension-rarissime-de-plusieurs-heures_n_999003606.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-14T10:01:09+00:00",
-  "rubrique": "Monde",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Les vols aux États-Unis reprenaient samedi après plusieurs heures d'une suspension de tous les décollages en raison d'une importante panne de communication, mais les autorités ont indiqué qu'il \"faudr…"
- },
- {
-  "id": "17d20ed6cd91",
-  "titre": "JOJ Dakar 2026 : Mankeur Ndiaye salue un succès historique et félicite les acteurs de l’organisation",
-  "lien": "https://www.xibaaru.sn/joj-dakar-2026-mankeur-ndiaye-salue-un-succes-historique-et-felicite-les-acteurs-de-lorganisation/",
-  "source": "Xibaaru",
-  "site_source": "https://www.xibaaru.sn",
-  "date": "2026-11-14T10:00:35+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Mankeur Ndiaye a salué le succès des Jeux olympiques de la jeunesse (JOJ) Dakar 2026, les premiers organisés sur le continent africain. Dans une publication, l’ancien ministre des Affaires étrangères a mis…"
- },
- {
-  "id": "34a5f1bc5c70",
-  "titre": "Espagne : Après la mort de Jesús de Miguel, Jesús Owono écope de la sanction maximale",
-  "lien": "https://www.senenews.com/actualites/sport/espagne-apres-la-mort-de-jesus-de-miguel-jesus-owono-ecope-de-la-sanction-maximale_606379.html",
-  "source": "Senenews",
-  "site_source": "https://www.senenews.com",
-  "date": "2026-11-14T10:00:03+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "La Fédération espagnole de football (RFEF) a frappé fort : Jesús Owono, gardien international équato-guinéen du FC Andorre, âgé de 25 ans, écope de douze matchs de suspension. Cette sanction fait suite à son expulsion lors de la rencontre face à Tenerife, un match endeuillé par la mort de Jesús de…"
- },
- {
-  "id": "8167c96ffb83",
-  "titre": "RDC : au moins 44 civils tués dans de nouvelles attaques attribuées aux ADF dans le nord-est",
-  "lien": "https://www.leral.net/RDC-au-moins-44-civils-tues-dans-de-nouvelles-attaques-attribuees-aux-ADF-dans-le-nord-est_a411146.html",
-  "source": "Leral",
-  "site_source": "https://www.leral.net",
-  "date": "2026-11-14T09:58:00+00:00",
-  "rubrique": "Afrique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Selon RFI, qui cite Africa CDC, de nouvelles incursions attribuées au mouvement jihadiste ADF ont fait au moins 44 morts civil..."
- },
- {
-  "id": "50c4c894584b",
-  "titre": "Difficultés d’accès au stade Léopold Sédar Senghor",
-  "lien": "https://www.enqueteplus.com/content/difficult%C3%A9s-d%E2%80%99acc%C3%A8s-au-stade-l%C3%A9opold-s%C3%A9dar-senghor",
-  "source": "EnQuête",
-  "site_source": "https://www.enqueteplus.com",
-  "date": "2026-11-14T09:57:35+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Difficultés d’accès au stade Léopold Sédar Senghor Le succès de la billetterie n’a pas empêché les difficultés aux portes du stade. Dans un communiqué daté du 13 novembre, la Fédération sénégalaise de football (FSF) présente ses excuses aux supporters qui ont peiné à accéder à Léopold Sédar…"
- },
- {
-  "id": "69c6c43ef3b0",
-  "titre": "Riziculture à Pointe-Sarène : de l’appétit pour la variété Nérica",
-  "lien": "https://lesoleil.sn/agriculture/riziculture-a-pointe-sarene-de-lappetit-pour-la-variete-nerica/",
-  "source": "Le Soleil",
-  "site_source": "https://lesoleil.sn",
-  "date": "2026-11-14T09:57:33+00:00",
-  "rubrique": "Économie",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "À Pointe-Sarène, dans le département de Mbour, le riz pousse là où on ne l’attendait pas. Sur des terres longtemps réservées à l’arachide, au mil et au maïs, le riz Nérica s’impose en quelques années comme la nouvelle culture du village. Il est issu du croisement entre le riz asiatique (Oryza…"
- },
- {
-  "id": "96113835c7f6",
-  "titre": "Drame au large de Lompoul, le bilan provisoire atteint 45 morts",
-  "lien": "https://www.dakaractu.com/Drame-au-large-de-Lompoul-le-bilan-provisoire-atteint-45-morts_a278158.html",
-  "source": "Dakaractu",
-  "site_source": "https://www.dakaractu.com",
-  "date": "2026-11-14T09:57:00+00:00",
-  "rubrique": "Diaspora",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le bilan provisoire du chavirement d’une embarcation au large de Lompoul s’élève à 45 morts. La DNLT a ouvert une enquête et identifié le vendeur de la pirogue, qui affirme avoir ignoré l’usage auquel elle était destinée. Quarante-cinq corps ont été repêchés après le chavirement d’une embarcation…"
  }
 ]
