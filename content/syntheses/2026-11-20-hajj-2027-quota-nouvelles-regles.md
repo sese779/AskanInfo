@@ -21,6 +21,7 @@ sources:
     titre: "Hajj 2027 : à la demande du Sénégal, les bus resteront à Mouzdalifa"
     url: https://senego.com/hajj-2027-a-la-demande-du-senegal-les-bus-resteront-a-mouzdalifa_2026052.html
 photo: /static/images/IMG_5995.jpeg
+credit_photo: "Photo : ."
 ---
 Le Sénégal enverra 12 860 fidèles à La Mecque pour le Hajj 2027, selon Senenews et Rewmi. Ce chiffre a été donné par Mamadou Gaye, général et délégué général au pèlerinage, dans un entretien publié par le quotidien L'Observateur et repris par ces deux sites.
 
