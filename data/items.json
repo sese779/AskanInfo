@@ -1,5 +1,304 @@
 [
  {
+  "id": "cdf721bcaa34",
+  "titre": "Tribune de Samba Kara NDIAYE- \"Le Sénégal n'a pas le droit de se payer de mots",
+  "lien": "https://www.igfm.sn/tribune-de-samba-kara-ndiaye-le-senegal-n-a-pas-le-droit-de-se-payer-de-mots",
+  "source": "L'Observateur (iGFM)",
+  "site_source": "https://www.igfm.sn",
+  "date": "2026-11-22T17:49:38+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": ""
+ },
+ {
+  "id": "0400e99bf84b",
+  "titre": "SOWCLEAN attributaire définitif d’un avis à 2,5 milliards, distinct du marché de Diamniadio",
+  "lien": "https://senego.com/sowclean-attributaire-definitif-dun-avis-a-25-milliards-distinct-du-marche-de-diamniadio_2026776.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-22T17:38:54+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Deux avis d’attribution définitive affichent des attributaires et des références différents pour des marchés liés à Diamniadio : CABINET MIC puis SOWCLEAN.",
+  "categories": [
+   "Administration",
+   "Économie",
+   "Sénégal",
+   "BTP",
+   "CABINET MIC"
+  ]
+ },
+ {
+  "id": "df22b6681edb",
+  "titre": "Budget 2027 : Transformer le mur de la dette en levier de relance économique, sociale et territoriale(Mamadou NDIONE)",
+  "lien": "https://lesoleil.sn/opinions/budget-2027-transformer-le-mur-de-la-dette-en-levier-de-relance-economique-sociale-et-territorialemamadou-ndione/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-22T17:38:37+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "En 2027, l’équation budgétaire du Sénégal tient en une image frappante. Pour 100 francs de recettes attendues, le service de la dette représente près de 97 francs. Avec 5 855,9 milliards de FCFA de service de la dette pour 6 012,1 milliards de recettes, les marges de manœuvre de l’État sont…",
+  "categories": [
+   "Opinions",
+   "Contribution"
+  ]
+ },
+ {
+  "id": "ebf007c963dc",
+  "titre": "Énergie renouvelable : le GIE « Kanda Vert » mise sur le biodigesteur pour produire du biogaz et du digestat",
+  "lien": "https://lesoleil.sn/actualites/economie/energie-renouvelable-le-gie-kanda-vert-mise-sur-le-biodigesteur-pour-produire-du-biogaz-et-du-digestat/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-22T17:34:22+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Créé en 2020, le GIE Kanda Vert, basé à Linguère, s’est lancé dans la production de biogaz grâce au biodigesteur. Une initiative qui vise à fournir aux ménages une énergie renouvelable pour la cuisson, tout en valorisant les déchets organiques sous forme d’engrais naturel. LINGUÈRE – Transformer…",
+  "categories": [
+   "Économie",
+   "Environnement",
+   "Énergie renouvelable",
+   "Linguère"
+  ]
+ },
+ {
+  "id": "004635876a21",
+  "titre": "À Oussouye, le préfet reçoit les championnes et transmet leurs doléances sportives",
+  "lien": "https://senego.com/a-oussouye-le-prefet-recoit-les-championnes-et-transmet-leurs-doleances-sportives_2026775.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-22T17:32:25+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Élisabeth et Ndèye Khady Anna Diatta ont été reçues à Oussouye. Le préfet s’est engagé à transmettre au ministre les demandes liées au manque d’infrastructures sportives.",
+  "categories": [
+   "Lutte sénégalaise",
+   "Sénégal",
+   "Sports",
+   "Elisabeth Diatta",
+   "Kassa"
+  ]
+ },
+ {
+  "id": "229c0afc2f10",
+  "titre": "Forces armées sénégalaises : plus de 4 000 participants à la 2e randonnée",
+  "lien": "https://senego.com/forces-armees-senegalaises-plus-de-4-000-participants-a-la-2e-randonnee_2026773.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-22T17:32:18+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "La deuxième randonnée pédestre des Forces armées sénégalaises a rassemblé plus de 4 000 participants, dont le président Bassirou Diomaye Faye et plusieurs membres du gouvernement.",
+  "categories": [
+   "Défense",
+   "Évènement",
+   "Sénégal",
+   "Bassirou diomaye Faye",
+   "Forces armées sénégalaises"
+  ]
+ },
+ {
+  "id": "ef3e2562e98c",
+  "titre": "Radiation de 29 élèves policiers : La réponse du ministre de l’Intérieur à Guy Marius Sagna",
+  "lien": "https://www.seneweb.com/fr/news/Reactions/radiation-de-29-eleves-policiers-la-reponse-du-ministre-de-linterieur-a-guy-marius-sagna_n_999004351.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-22T17:31:02+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le ministre de l’Intérieur, Mouhamadou Makhtar Cissé, a apporté des explications à la question écrite du député Guy Marius Sagna concernant la radiation de 29 élèves stagiaires de la 49e promotion de…"
+ },
+ {
+  "id": "b4b779220331",
+  "titre": "Oussouye : Élisabeth et Ndèye Khady Anna Diatta présentent leurs médailles olympiques",
+  "lien": "https://lesoleil.sn/regions/oussouye-elisabeth-et-ndeye-khady-anna-diatta-presentent-leurs-medailles-olympiques/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-22T17:28:25+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le département d’Oussouye a eu l’honneur d’accueillir ses deux championnes, fraîchement médaillées aux Jeux olympiques de la jeunesse (JOJ) en lutte de plage. Des chefs coutumiers aux autorités administratives et locales, tous ont exprimé leur fierté devant les performances d’Élisabeth Diatta et de…",
+  "categories": [
+   "Régions",
+   "JOJ Dakar 2026",
+   "Oussouye"
+  ]
+ },
+ {
+  "id": "005b101b770f",
+  "titre": "L’Angola veut acquérir 10% du géant du diamant De Beers",
+  "lien": "https://www.rfi.fr/fr/afrique/20261122-l-angola-veut-acqu%C3%A9rir-10-du-g%C3%A9ant-du-diamant-de-beers",
+  "source": "RFI Afrique",
+  "site_source": "https://www.rfi.fr/fr/afrique/",
+  "date": "2026-11-22T17:24:16+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L'Angola veut entrer au capital du géant du diamant De Beers et acquérir 10 %. Pour cela, il est prêt à débourser une grosse somme, 180 millions d'euros. Une décision qui peut paraître surprenante alors que le marché du diamant rencontre des difficultés. Cependant, le pays a l'ambition de devenir…",
+  "categories": [
+   "Afrique"
+  ]
+ },
+ {
+  "id": "ee446545661d",
+  "titre": "Insécurité à Richard-Toll : trois individus armés de carabine et de machettes arrêtés après une course-poursuite",
+  "lien": "https://www.pressafrik.com/Insecurite-a-Richard-Toll-trois-individus-armes-de-carabine-et-de-machettes-arretes-apres-une-course-poursuite_a314949.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-22T17:24:00+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Les policiers du commissariat urbain de Richard-Toll ont interpellé trois individus le 2... www.pressafrik.com",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "264426c62259",
+  "titre": "Tensions au sommet de l’État : Daouda Ibrahima Ba appelle à préserver la stabilité et la continuité de l’État",
+  "lien": "https://senego.com/tensions-au-sommet-de-letat-daouda-ibrahima-ba-appelle-a-preserver-la-stabilite-et-la-continuite-de-letat_2026760.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-22T17:23:07+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Dans un contexte marqué par les tensions au sommet de l’État, Daouda Ibrahima Ba, chargé de la vie politique de la République des valeurs à Thiès, invite les acteurs politiques à placer l’intérêt général au-dessus des querelles de pouvoir. Dans une déclaration, il insiste sur la solidité des…",
+  "categories": [
+   "Actualités"
+  ]
+ },
+ {
+  "id": "f7f5d12a14a5",
+  "titre": "VIDÉO | Manifestations de la « gen z » et contre la vie chère : retour sur un week-end de mobilisation en Europe",
+  "lien": "https://www.lemonde.fr/international/video/2026/11/22/video-manifestations-de-la-gen-z-et-contre-la-vie-chere-retour-sur-un-week-end-de-mobilisation-en-europe_6814237_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-22T17:20:32+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Depuis vendredi 20 novembre, partout en Europe, des syndicats, associations et organisations de jeunesse ont lancé des appels à la mobilisation. Deux grandes revendications sont au centre du mouvement : avenir meilleur pour la jeunesse et contre la vie chère."
+ },
+ {
+  "id": "67fbe5d66aee",
+  "titre": "Cambriolage chez Marie Louise Diaw: bijoux, téléphones et effets personnels emportés",
+  "lien": "https://senego.com/cambriolage-chez-marie-louise-diaw-bijoux-telephones-et-effets-personnels-emportes_2026765.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-22T17:20:01+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "L’ex-mannequin sénégalaise Marie Louise Diaw, épouse de l’ancien international sénégalais Pape Abdou Cissé, a annoncé ce dimanche avoir été victime d’un cambriolage à son domicile. C’est via un message publié sur ses réseaux sociaux que l’ex miss de Dakar a révélé les faits, visiblement encore sous…",
+  "categories": [
+   "Buzz",
+   "Marie Louise Diaw"
+  ]
+ },
+ {
+  "id": "8f531465caaf",
+  "titre": "Santé à Kédougou : l’armée installe un hôpital mobile gratuit à Saraya jusqu’en janvier 2027",
+  "lien": "https://www.pressafrik.com/Sante-a-Kedougou-l-armee-installe-un-hopital-mobile-gratuit-a-Saraya-jusqu-en-janvier-2027_a314948.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-22T17:20:00+00:00",
+  "rubrique": "Société",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le ministère des Forces armées et le ministère de la Santé et de l’Hygiène publique ont déployé u... www.pressafrik.com",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "02b42e8302db",
+  "titre": "Richard-Toll : des présumés malfaiteurs armés interpellés après une course-poursuite",
+  "lien": "https://senego.com/richard-toll-des-presumes-malfaiteurs-armes-interpelles-apres-une-course-poursuite_2026756.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-22T17:17:42+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Le Commissariat urbain de Richard-Toll a interpellé, le 21 novembre 2026, des individus soupçonnés d’association de malfaiteurs et de détention illégale d’arme à feu. Une carabine, des machettes et plusieurs téléphones ont été saisis lors d’une patrouille nocturne. Le Commissariat urbain de…",
+  "categories": [
+   "Actualités",
+   "Sécurité",
+   "Société",
+   "malfaiteurs",
+   "Richard-Toll"
+  ]
+ },
+ {
+  "id": "06cd2f344c4d",
+  "titre": "ÉMIGRATION CLANDESTINE : LES PASSEURS S'ENRICHISSENT, NOS ENFANTS MEURENT ! Il est temps de s'attaquer aux véritables organisateurs de ces voyages de la mort (Par Mamadou BAAL)",
+  "lien": "https://www.seneweb.com/fr/news/Contribution/emigration-clandestine-les-passeurs-senrichissent-nos-enfants-meurent-il-est-temps-de-sattaquer-aux-veritables-organisateurs-de-ces-voyages-de-la-mort-par-mamadou-baal_n_999004350.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-22T17:14:50+00:00",
+  "rubrique": "Diaspora",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "ÉMIGRATION CLANDESTINE : LES PASSEURS S'ENRICHISSENT, NOS ENFANTS MEURENT ! Il est temps de s'attaquer aux véritables organisateurs de ces voyages de la mort"
+ },
+ {
+  "id": "267aa3d237f7",
+  "titre": "Le capitaine de Rennes Valentin Rongier sort sur blessure dès la 29e minute à Lorient en Ligue 1",
+  "lien": "https://www.lequipe.fr/Football/Actualites/Le-capitaine-de-rennes-valentin-rongier-sort-sur-blessure-des-la-29e-minute-a-lorient-en-ligue-1/1745423#at_medium=RSS_feeds",
+  "source": "L'Équipe",
+  "site_source": "https://www.lequipe.fr",
+  "date": "2026-11-22T17:14:13+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Visiblement touché à une cuisse, le milieu et capitaine de Rennes Valentin Rongier a été contraint de céder sa place à Djaoui Cissé dès la 29e minute à Lorient, ce dimanche. Et ce, juste après avoir été à l'origine de l'ouverture du score rennaise (Boulaye Dia, 27e), ici en vidéo tout comme…",
+  "categories": [
+   "Foot, Ligue 1, Rennes"
+  ]
+ },
+ {
+  "id": "35839886b876",
+  "titre": "Mauritanie: saisie record de 1,7 tonne de cocaïne dans l'est du pays",
+  "lien": "https://www.rfi.fr/fr/afrique/20261122-mauritanie-saisie-record-de-1-7-tonne-de-coca%C3%AFne-dans-l-est-du-pays",
+  "source": "RFI Afrique",
+  "site_source": "https://www.rfi.fr/fr/afrique/",
+  "date": "2026-11-22T17:12:45+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La police mauritanienne a réalisé récemment une saisie record de 1,7 tonne de cocaïne dans l'est du pays, lors d'une opération qui a permis l'arrestation de deux étrangers, selon un communiqué publié sur ses réseaux sociaux.",
+  "categories": [
+   "Afrique"
+  ]
+ },
+ {
   "id": "a890b6831408",
   "titre": "Richard Toll : trois suspects arrêtés avec une carabine et 32 cartouches après une course-poursuite",
   "lien": "http://www.ndarinfo.com/Richard-Toll-trois-suspects-arretes-avec-une-carabine-et-32-cartouches-apres-une-course-poursuite_a47307.html",
@@ -154,6 +453,22 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Le ministre de l'Éducation sud-coréen a démissionné dimanche 22 novembre, emporté par un scandale de triche à l'intelligence artificielle qui a semé le doute quant à la bonne tenue des sacro-saints examens d'entrée à l'université."
+ },
+ {
+  "id": "a45ee23ac89d",
+  "titre": "DGPU Diamniadio : SOWCLEAN cité dans un avis d'attribution définitive",
+  "lien": "https://www.leral.net/DGPU-Diamniadio-SOWCLEAN-cite-dans-un-avis-d-attribution-definitive_a411987.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-22T16:40:23+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Un nouvel avis d'attribution définitive désigne SOWCLEAN comme attributaire. Il est publié sur le portail des marchés publics,...",
+  "categories": [
+   "Economie"
+  ]
  },
  {
   "id": "11211a0add5b",
@@ -322,6 +637,19 @@
   ]
  },
  {
+  "id": "fd92bf32adf4",
+  "titre": "COP31 : pas d'accord et des questions en suspens au terme des négociations",
+  "lien": "http://fr.africanews.com/2026/11/22/cop31-pas-daccord-et-des-questions-en-suspens-au-terme-des-negociations/",
+  "source": "Africanews",
+  "site_source": "https://fr.africanews.com",
+  "date": "2026-11-22T16:18:47+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Pendant deux semaines, les délégations ont tenté de rapprocher leurs positions sur les engagements climatiques et les financements nécessaires"
+ },
+ {
   "id": "6451d4d40ae8",
   "titre": "Saraya : quatre orpailleurs déférés pour dégradation de câbles de fibre optique de Sonatel",
   "lien": "https://senego.com/saraya-quatre-orpailleurs-deferes-pour-degradation-de-cables-de-fibre-optique-de-sonatel_2026741.html",
@@ -387,6 +715,22 @@
   "categories": [
    "Actualités",
    "Arts et culture"
+  ]
+ },
+ {
+  "id": "f292b8027a13",
+  "titre": "Kaolack - Sécurité routière : Fallou Kébé offre des gilets aux conducteurs de moto Jakarta",
+  "lien": "https://www.dakaractu.com/Kaolack-Securite-routiere-Fallou-Kebe-offre-des-gilets-aux-conducteurs-de-moto-Jakarta_a278473.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-22T16:10:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le Président de l’ASC Saloum, Fallou Kébé, a gracieusement remis, ce samedi 21 novembre 2026, quelques 300 gilets aux conducteurs de moto Jakarta de la commune de Kaolack. Selon lui, cette action vise à contribuer à la sécurité routière dans la ville de Mbossé, mais c'est également une manière pour…",
+  "categories": [
+   "Télévision"
   ]
  },
  {
@@ -4456,6 +4800,22 @@
   "extrait": "L'Agence spatiale européenne a annoncé dimanche qu'au terme de huit années de voyage vers Mercure, la double-sonde européo-japonaise BepiColombo était parvenue à s'insérer sur l'orbite de la plus petite et la plus méconnue des planètes du Système solaire.",
   "categories": [
    "Europe"
+  ]
+ },
+ {
+  "id": "2072e49f940e",
+  "titre": "TGI de Dakar – Audience de répartition : Me Guedel Ndiaye parmi les 16 dossiers",
+  "lien": "https://www.leral.net/TGI-de-Dakar-Audience-de-repartition-Me-Guedel-Ndiaye-parmi-les-16-dossiers_a411918.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-22T05:32:00+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "16 affaires sont inscrites au rôle de l'audience (audience de répartition) du lundi 23 novembre 2026 devant le Tribunal d...",
+  "categories": [
+   "Au Tribunal ..."
   ]
  },
  {
@@ -67801,265 +68161,5 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Le député Guy Marius Sagna porte le débat sur la restitution et la dignité des restes humains jusque dans les institutions nationales."
- },
- {
-  "id": "8ab6c10c4cba",
-  "titre": "Mamadou Manizor Thiam redoute un chaos budgétaire dès le début de 2027",
-  "lien": "https://senego.com/mamadou-manizor-thiam-redoute-un-chaos-budgetaire-des-le-debut-de-2027_2024202.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-15T17:47:42+00:00",
-  "rubrique": "Économie",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "L’expert financier redoute une impasse budgétaire au début de 2027 et pointe les risques pour le programme du FMI, les entreprises et les PME."
- },
- {
-  "id": "3d068faec39e",
-  "titre": "El Hierro : 900 des 1 606 migrants présents sur l’île transférés ce dimanche",
-  "lien": "http://www.ndarinfo.com/El-Hierro-900-des-1-606-migrants-presents-sur-l-ile-transferes-ce-dimanche_a47236.html",
-  "source": "Ndarinfo (Saint-Louis)",
-  "site_source": "https://www.ndarinfo.com",
-  "date": "2026-11-15T17:47:00+00:00",
-  "rubrique": "Diaspora",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le président de l'île canarienne d'El Hierro, Alpidio Armas, a annoncé ce dimanche 15 novembre 2026 le transfert hors de l'îl..."
- },
- {
-  "id": "82797467122a",
-  "titre": "Justice : le ministre Moussa Sarr veut relancer l'informatisation de la chaîne pénale",
-  "lien": "https://www.leral.net/Justice-le-ministre-Moussa-Sarr-veut-relancer-l-informatisation-de-la-chaine-penale_a411034.html",
-  "source": "Leral",
-  "site_source": "https://www.leral.net",
-  "date": "2026-11-15T17:45:00+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Le ministre de la Justice, Garde des Sceaux Me Moussa Sarr, a accordé une audience, lundi 9 novembre 2026, à une délégatio..."
- },
- {
-  "id": "736efb72148a",
-  "titre": "El Hierro : 2 355 migrants en 48 heures sur 22 pirogues",
-  "lien": "https://senego.com/el-hierro-2-355-migrants-en-48-heures-sur-22-pirogues_2024199.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-15T17:44:02+00:00",
-  "rubrique": "Diaspora",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Les départs de pirogues de migrants vers l’archipel espagnol des îles Canaries, plus précisément sur l’île d’El Hierro, deviennent de plus en plus nombreux. En l’espace de 48 heures, 2.355 personnes ont débarqué sur l’île à bord de 22 pirogues selon Dakaractu. Les deux dernières embarcations en…"
- },
- {
-  "id": "cebee1a33e90",
-  "titre": "Accident mortel : la Police nationale endeuillée par le décès d’Assane Tamba",
-  "lien": "https://senego.com/accident-mortel-la-police-nationale-endeuillee-par-le-deces-dassane-tamba_2024195.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-15T17:39:21+00:00",
-  "rubrique": "Faits divers",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "La Police nationale est en deuil après le décès du policier adjoint volontaire Assane Tamba, issu de la 5e génération. Il servait au sein du Groupe opérationnel de Sédhiou, rattaché au Groupement mobile d’intervention (GMI). Selon la Police nationale, le décès du jeune policier est survenu à la…"
- },
- {
-  "id": "1ac1888c3d9b",
-  "titre": "Migration irrégulière : « Quand l’espoir n’est plus là, c’est très difficile de retenir les gens », alerte Mamadou Manizor Thiam",
-  "lien": "https://www.pressafrik.com/Migration-irreguliere-Quand-l-espoir-n-est-plus-la-c-est-tres-difficile-de-retenir-les-gens--alerte-Mamadou-Manizor_a314639.html",
-  "source": "PressAfrik",
-  "site_source": "https://www.pressafrik.com",
-  "date": "2026-11-15T17:38:00+00:00",
-  "rubrique": "Diaspora",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "L’expert financier Mamadou Manizor Thiam a estimé lors d'un entretien que « les réponses ne peuven... www.pressafrik.com"
- },
- {
-  "id": "4e3d4bb6d5e9",
-  "titre": "Une juge ordonne qu’un parc de Washington dont Donald Trump souhaite faire un golf de luxe reste ouvert",
-  "lien": "https://www.lemonde.fr/international/article/2026/11/15/une-juge-ordonne-qu-un-parc-de-washington-dont-donald-trump-souhaite-faire-un-golf-de-luxe-reste-ouvert_6811041_3210.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-15T17:36:44+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le président américain souhaite réaménager le parc East Potomac pour en faire un site pouvant accueillir des compétitions de golf de très haut niveau. Son administration avait demandé la fermeture, dimanche, de cet espace vert de 160 hectares."
- },
- {
-  "id": "13f4a954c75f",
-  "titre": "En Israël, la formation d'un gouvernement piétine",
-  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261115-en-isra%C3%ABl-la-formation-d-un-gouvernement-pi%C3%A9tine",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-15T17:31:25+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Les tractations s'intensifient en Israël pour tenter de former un nouveau gouvernement. Les équipes de négociation du Likoud et de Yashar se réunissent pour discuter des conditions d'un éventuel accord et des contours d'une future coalition. Explications d'Antoine Mariotti, chroniqueur…"
- },
- {
-  "id": "288920143c3b",
-  "titre": "Bras de fer Exécutif-Assemblée : L'expert financier Mamadou Manizor Thiam redoute une facture économique lourde pour le Sénégal",
-  "lien": "https://www.seneweb.com/fr/news/Politique/bras-de-fer-executif-assemblee-lexpert-financier-mamadou-manizor-thiam-redoute-une-facture-economique-lourde-pour-le-senegal_n_999003703.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-15T17:31:19+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le Sénégal ne peut pas se permettre un enlisement de la crise institutionnelle actuelle."
- },
- {
-  "id": "061ae9dd8500",
-  "titre": "Sadatou : un nouveau-né meurt après une excision clandestine, deux femmes arrêtées",
-  "lien": "https://senego.com/sadatou-un-nouveau-ne-meurt-apres-une-excision-clandestine-deux-femmes-arretees_2024191.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-15T17:23:27+00:00",
-  "rubrique": "Faits divers",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "À Sadatou, une fillette née le 11 novembre est morte après une excision et une infibulation clandestines. Deux femmes ont été placées en garde à vue."
- },
- {
-  "id": "00c17a325a0b",
-  "titre": "Immigration : près de 1 500 migrants sont arrivés aux îles Canaries en une seule journée",
-  "lien": "https://www.lemonde.fr/international/video/2026/11/15/immigration-pres-de-1-500-migrants-sont-arrives-aux-iles-canaries-en-une-seule-journee_6811039_3210.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-15T17:20:25+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Samedi, 1 488 personnes, à bord de 14 embarcations, ont été secourues par les gardes-côtes de l’archipel espagnol. Un record d’arrivées en une seule journée depuis 2020, selon l’agence de presse espagnole EFE."
- },
- {
-  "id": "4ab39780ac45",
-  "titre": "Me Moussa Sarr reçoit l'Association des femmes magistrates du Sénégal",
-  "lien": "https://www.leral.net/Me-Moussa-Sarr-recoit-l-Association-des-femmes-magistrates-du-Senegal_a411033.html",
-  "source": "Leral",
-  "site_source": "https://www.leral.net",
-  "date": "2026-11-15T17:20:00+00:00",
-  "rubrique": "Société",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Le ministre de la Justice, Garde des Sceaux, Me Moussa Sarr, a accordé une audience le mardi 10 novembre 2026 à une délégatio..."
- },
- {
-  "id": "ff8528ed6e3e",
-  "titre": "Ligue des champions féminine CAF: l'AS FAR remporte le titre et venge son équipe masculine contre le Mamelodi Sundowns",
-  "lien": "https://www.rfi.fr/fr/afrique-foot/20261115-ligue-des-champions-f%C3%A9minine-caf-l-as-far-remporte-le-titre-et-venge-son-%C3%A9quipe-masculine-contre-le-mamelodi-sundowns",
-  "source": "RFI Afrique",
-  "site_source": "https://www.rfi.fr/fr/afrique/",
-  "date": "2026-11-15T17:18:06+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "L'AS FAR est officiellement le club le plus titré du continent africain chez les femmes. Avec un troisième titre remporté en Ligue des champions contre le Mamelodi Sundowns (3-1) ce dimanche 15 novembre, elle sont montées sur le toit du continent et ont vengé leurs homologues masculins."
- },
- {
-  "id": "465952ae197a",
-  "titre": "Impasse budgétaire: Mamadou Manizor Thiam redoute « un chaos à l’entrée de l’année prochaine »",
-  "lien": "https://www.pressafrik.com/Impasse-budgetaire-Mamadou-Manizor-Thiam-redoute-un-chaos-a-l-entree-de-l-annee-prochaine_a314638.html",
-  "source": "PressAfrik",
-  "site_source": "https://www.pressafrik.com",
-  "date": "2026-11-15T17:17:00+00:00",
-  "rubrique": "Économie",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Mamadou Manizor Thiam s’est exprimé ce dimanche sur la question portant LFR 2027. L’exper... www.pressafrik.com"
- },
- {
-  "id": "e3d0aae8a2a5",
-  "titre": "La Santa School de Londres forme les Pères Noël avant les fêtes",
-  "lien": "http://fr.africanews.com/2026/11/15/la-santa-school-de-londres-forme-les-peres-noel-avant-les-fetes/",
-  "source": "Africanews",
-  "site_source": "https://fr.africanews.com",
-  "date": "2026-11-15T17:14:17+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le père Noël retourne à l'école à Londres. Des professionnels apprennent la langue des signes, révisent les tendances des jouets et se préparent aux questions délicates des enfants pour Noël."
- },
- {
-  "id": "cf80958e203b",
-  "titre": "Suivi des jeunes talents : Djireye Clotilde Coly annoncé un programme spécifique de suivi et un dispositif d'accompagnement individuel",
-  "lien": "https://www.pressafrik.com/Suivi-des-jeunes-talents-Djireye-Clotilde-Coly-annonce-un-programme-specifique-de-suivi-et-un-dispositif-d_a314637.html",
-  "source": "PressAfrik",
-  "site_source": "https://www.pressafrik.com",
-  "date": "2026-11-15T17:14:00+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Djireye Clotilde Coly a annoncé un programme spécifique de suivi et un dispositif d'accompagnemen... www.pressafrik.com"
- },
- {
-  "id": "759fd0622a7f",
-  "titre": "MMA : Ciryl Gane conserve sa ceinture de champion des poids lourds de l'UFC",
-  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261115-mma-ciryl-gane-conserve-sa-ceinture-de-champion-des-poids-lourds-de-l-ufc",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-15T17:13:55+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Ciryl Gane a conservé son titre de champion incontesté des poids lourds de l'UFC après un combat très disputé face à l'Américain Josh Hokit au Madison Square Garden. Bousculé lors des premiers rounds, le Français a fait la différence en fin de combat pour s'imposer au terme de cinq reprises…"
- },
- {
-  "id": "aad82c68b537",
-  "titre": "L'Estonie accuse Moscou de tentative de sabotage et décide de fermer sa frontière",
-  "lien": "https://www.france24.com/fr/europe/20261115-estonie-accuse-russie-tentative-sabotage-et-d%C3%A9cide-de-fermer-fronti%C3%A8re",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-15T17:12:20+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "⁠L'Estonie fermera tous ⁠ses postes-frontières avec ​la Russie à compter du 1ᵉʳ décembre, a déclaré ​dimanche le ministre estonien des Affaires étrangères, à la suite d'une tentative d'incendie d'une entreprise du secteur de la défense ​imputée ‌par Tallinn à Moscou."
- },
- {
-  "id": "7c337a858d86",
-  "titre": "Adama Barrow brigue un troisième mandat face à quatre adversaires en Gambie",
-  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261115-adama-barrow-brigue-un-troisi%C3%A8me-mandat-face-%C3%A0-quatre-adversaires-en-gambie",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-15T17:11:04+00:00",
-  "rubrique": "Afrique",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "La Gambie se prépare à une nouvelle élection présidentielle avec cinq candidats en lice. Le président sortant Adama Barrow brigue un troisième mandat, face à quatre adversaires qui espèrent lui ravir le pouvoir. Un scrutin suivi de près dans un pays encore marqué par les années de régime de Yahya…"
- },
- {
-  "id": "31128b52fe7f",
-  "titre": "Peuls de Tierno Monénembo ou le romanesque épique du récit africain",
-  "lien": "https://www.seneplus.com/article/peuls-de-tierno-monenembo-ou-le-romanesque-epique-du-recit-africain",
-  "source": "SenePlus",
-  "site_source": "https://www.seneplus.com",
-  "date": "2026-11-15T17:09:52+00:00",
-  "rubrique": "Afrique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Peuls de Tierno Monénembo ou le romanesque épique du récit africain Farid Akele Sun, 11/15/2026 - 17:09"
  }
 ]
