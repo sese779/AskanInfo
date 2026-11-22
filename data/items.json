@@ -1,5 +1,114 @@
 [
  {
+  "id": "c0c78b4bbc23",
+  "titre": "Casamance : l’évêque de Ziguinchor appelle à la réconciliation et au développement dans une lettre pastorale",
+  "lien": "https://emedia.sn/casamance-leveque-de-ziguinchor-appelle-a-la-reconciliation-et-au-developpement-dans-une-lettre-pastorale/",
+  "source": "Emedia",
+  "site_source": "https://emedia.sn",
+  "date": "2026-11-22T09:21:13+00:00",
+  "rubrique": "Société",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "À l’occasion du deuxième anniversaire de son ordination épiscopale, célébré le 23 novembre 2026, Monseigneur Jean-Baptiste Valter Manga, évêque de Ziguinchor, a présenté une lettre pastorale adressée au peuple de Dieu ainsi qu’à tous les hommes et femmes de bonne volonté. À travers ce document, le…",
+  "categories": [
+   "A L'INSTANT",
+   "ACTUALITÉS",
+   "UNE",
+   "Casamance",
+   "évêque de Ziguinchor"
+  ]
+ },
+ {
+  "id": "563b23ac02e6",
+  "titre": "Une \"autoroute minière\" soutenue par les États-Unis peut-elle apporter la paix et la prospérité en RDC ?",
+  "lien": "https://www.bbc.com/afrique/articles/c6174enwe7rvo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Afrique",
+  "site_source": "https://www.bbc.com/afrique",
+  "date": "2026-11-22T09:14:35+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le corridor de Lobito est au cœur d'un effort soutenu par les États-Unis pour garantir l'accès aux minéraux critiques de l'Afrique."
+ },
+ {
+  "id": "9799e581dced",
+  "titre": "Après l’agression à Gandiaye, le SADEF décrète une journée morte le 23 novembre",
+  "lien": "https://senego.com/apres-lagression-a-gandiaye-le-sadef-decrete-une-journee-morte-le-23-novembre_2026638.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-22T09:13:21+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Après l’agression d’un enseignant au CEM 2 de Gandiaye, le SADEF appelle les enseignants de l’académie de Kaolack à une journée sans cours le 23 novembre.",
+  "categories": [
+   "Éducation",
+   "Sénégal",
+   "Société",
+   "éducation",
+   "gandiaye"
+  ]
+ },
+ {
+  "id": "d1a323078c79",
+  "titre": "Écoles de Kaolack privées d’eau : Mbaye Sarr demande au maire d’agir",
+  "lien": "https://senego.com/ecoles-de-kaolack-privees-deau-mbaye-sarr-demande-au-maire-dagir_2026636.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-22T09:13:17+00:00",
+  "rubrique": "Société",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "À Kaolack, Mbaye Sarr affirme que les écoles sont privées d’eau depuis trois mois après une coupure de la SDE liée, selon lui, aux factures municipales impayées.",
+  "categories": [
+   "Éducation",
+   "Sénégal",
+   "Société",
+   "eau",
+   "Ecoles"
+  ]
+ },
+ {
+  "id": "3800c35fb582",
+  "titre": "A la Une: quelles sont les raisons d’espérer dans un monde aussi menaçant?",
+  "lien": "https://www.rfi.fr/fr/podcasts/revue-de-presse-des-hebdomadaires-fran%C3%A7ais/20261122-a-la-une-quelles-sont-les-raisons-d-esp%C3%A9rer-dans-un-monde-aussi-mena%C3%A7ant",
+  "source": "RFI Monde",
+  "site_source": "https://www.rfi.fr/fr/monde/",
+  "date": "2026-11-22T09:11:17+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "",
+  "categories": [
+   "Revue de presse des hebdomadaires frança"
+  ]
+ },
+ {
+  "id": "7174e901484c",
+  "titre": "Safiétou Dramé extraite de prison après une remise présumée de 500 000 FCFA",
+  "lien": "https://senego.com/safietou-drame-extraite-de-prison-apres-une-remise-presumee-de-500-000-fcfa_2026634.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-22T09:06:38+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Extraite de prison, Safiétou Dramé est visée par une nouvelle enquête sur 500 000 FCFA remis par le frère, à Dakar, d’un homme vivant aux États-Unis.",
+  "categories": [
+   "Dakar",
+   "Faits Divers",
+   "Justice",
+   "Sénégal",
+   "500 000 FCFA"
+  ]
+ },
+ {
   "id": "725f56454b63",
   "titre": "Ancien du parti, Hannibal Djim se paie Pastef avec une remarque surprenante",
   "lien": "https://www.senenews.com/actualites/ancien-du-parti-hannibal-djim-se-paie-pastef-avec-une-remarque-surprenante_607214.html",
@@ -67327,109 +67436,5 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "L’École supérieure de technologie et de management (ESTM) a organisé, ce samedi 14 novembre 2026 à Dakar, un Open Campus placé sous le thème « Viens tester ton futur métier »."
- },
- {
-  "id": "0879b2cac294",
-  "titre": "SOTIGUI Awards 2026 : Souleymane Sèye Ndiaye sacré meilleur acteur d’Afrique de l’Ouest",
-  "lien": "https://www.seneweb.com/fr/news/Culture/sotigui-awards-2026-souleymane-seye-ndiaye-sacre-meilleur-acteur-dafrique-de-louest_n_999003665.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-15T09:20:19+00:00",
-  "rubrique": "Culture",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "L’acteur sénégalais Souleymane Sèye Ndiaye a remporté le Sotigui du meilleur acteur d’Afrique de l’Ouest lors de la 11ᵉ édition des SOTIGUI Awards."
- },
- {
-  "id": "60516b034810",
-  "titre": "Francophonie: le XXe sommet de Phnom Penh s'ouvre sur fond de tensions",
-  "lien": "https://www.pressafrik.com/Francophonie-le-XXe-sommet-de-Phnom-Penh-s-ouvre-sur-fond-de-tensions_a314617.html",
-  "source": "PressAfrik",
-  "site_source": "https://www.pressafrik.com",
-  "date": "2026-11-15T09:19:00+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le XXe sommet de la Francophonie s'est ouvert ce matin à Phnom Penh, sur fond de tensions autour d... www.pressafrik.com"
- },
- {
-  "id": "c3667296406b",
-  "titre": "JOJ Dakar 2026 : 104 élèves-athlètes bénéficient d’un accompagnement scolaire spécialisé",
-  "lien": "https://lesoleil.sn/actualites/education/joj-dakar-2026-104-eleves-athletes-beneficient-dun-accompagnement-scolaire-specialise/",
-  "source": "Le Soleil",
-  "site_source": "https://lesoleil.sn",
-  "date": "2026-11-15T09:18:13+00:00",
-  "rubrique": "Société",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Au lendemain des Jeux olympiques de la jeunesse (JOJ) Dakar 2026, le ministère de l’Éducation nationale entend éviter que l’engagement sportif des jeunes athlètes ne se fasse au détriment de leur parcours scolaire. À cet effet, Moustapha Mamba Guirassy a annoncé un dispositif d’accompagnement…"
- },
- {
-  "id": "d368dbaa7807",
-  "titre": "Dérapage sur la TFM : Ce que risque Me Moussa Diop face à la famille du lutteur Gris Bordeaux",
-  "lien": "https://www.senenews.com/actualites/derapage-sur-la-tfm-ce-que-risque-me-moussa-diop-face-a-la-famille-du-lutteur-gris-bordeaux_606516.html",
-  "source": "Senenews",
-  "site_source": "https://www.senenews.com",
-  "date": "2026-11-15T09:18:03+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Les propos tenus sur la TFM par Me Moussa Diop à propos de la députée Awa Dione ont suscité l'indignation. Au-delà de la polémique politique, la question d'éventuelles suites judiciaires se pose. Une phrase prononcée sur le plateau de l'émission Jakaarlo de la TFM a déclenché une vive polémique. Me…"
- },
- {
-  "id": "abbf4ec0bedc",
-  "titre": "Saint-Louis : Le diabète quatre fois plus élevé que la moyenne nationale",
-  "lien": "https://www.seneweb.com/fr/news/Sante/saint-louis-le-diabete-quatre-fois-plus-eleve-que-la-moyenne-nationale_n_999003664.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-15T09:17:26+00:00",
-  "rubrique": "Société",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "À l'occasion de la Journée mondiale du diabète, célébrée ce samedi 14 novembre 2026, les professionnels de santé et les associations de patients tirent la sonnette d'alarme à Saint-Louis."
- },
- {
-  "id": "05787c4938e0",
-  "titre": "Clôture des foires des JOJ 2026 : Treize jours de brassage culinaire et culturel à Dakar",
-  "lien": "https://www.seneweb.com/fr/news/Video/cloture-des-foires-des-joj-2026-treize-jours-de-brassage-culinaire-et-culturel-a-dakar_n_999003663.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-15T09:14:42+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Après près de deux semaines d'effervescence autour des saveurs et du savoir-faire du continent, les foires artisanale, culinaire et institutionnelle organisées par la mairie de Dakar en marge des Jeux…"
- },
- {
-  "id": "b5b871e581f2",
-  "titre": "Dissolution de l’Assemblée : le ministre Serigne Guèye Diop appelle à agir avant le 2 décembre",
-  "lien": "https://www.senenews.com/actualites/dissolution-de-lassemblee-plus-que-17-jours-le-president-bassirou-diomaye-faye-encore-saisi_606515.html",
-  "source": "Senenews",
-  "site_source": "https://www.senenews.com",
-  "date": "2026-11-15T09:11:04+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Au meeting de Kiiraay à Mbour, le ministre Serigne Guèye Diop a réclamé « la dissolution immédiate » du Parlement. Son appel s'inscrit dans un compte à rebours institutionnel qui s'achève le 2 décembre. La date n'a rien d'anodin. L'article 87 de la Constitution interdit de dissoudre l'Assemblée…"
- },
- {
-  "id": "02306388f3b9",
-  "titre": "Didactikos : une mère de cinq enfants dénonce le coût et les livres jetables",
-  "lien": "https://senego.com/didactikos-une-mere-de-cinq-enfants-denonce-le-cout-et-les-livres-jetables_2024077.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-15T09:09:55+00:00",
-  "rubrique": "Culture",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Une mère de cinq enfants décrit le poids des cahiers Didactikos et leur usage limité à une année. Un enseignant de Thiès critique aussi leur adaptation aux élèves."
  }
 ]
