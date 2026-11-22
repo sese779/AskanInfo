@@ -165,6 +165,32 @@ format, titre « Le rendez-vous sport du lundi 23 novembre » (s'il existe déj�
 - Mêmes règles : faits des synthèses, sources citées à l'oral, aucun pronostic, prudence sur
   les violences entre supporters et les affaires judiciaires.
 
+### La vidéo en wolof (chaque soir)
+
+Juste après la vidéo du jour, écris `content/video/AAAA-MM-JJ-wolof.md` (s'il existe déjà, ne
+le refais pas). Beaucoup de Sénégalais ne lisent pas : cette vidéo est **lue en wolof** par
+une voix de synthèse. Le propriétaire l'écoute avant de la publier.
+
+```
+---
+titre: "L'essentiel du lundi 23 novembre, en wolof"
+accroche: "Accroche en wolof, 10 mots au plus"
+signature: "Xibaar yu am solo ci bés bi, ak AskanInfo."
+outro: "Xoolleen xibaar yépp ak fu ñu jóge, ci askaninfo point com."
+sujets:
+  - synthese: AAAA-MM-JJ-nom-de-la-synthese
+    texte: "Deux phrases courtes en wolof."
+---
+```
+
+- **2 ou 3 sujets**, les plus importants de la vidéo du jour, mêmes règles de choix et de prudence.
+- Chaque `texte` : 15 à 30 mots, en wolof courant, orthographe officielle (CLAD : ë, é, ñ, ŋ,
+  à…), phrases courtes séparées par des virgules ou des points (la voix lit morceau par
+  morceau). Au moins une source citée (« ci li Le Soleil wax »).
+- **Nombres en toutes lettres en wolof** (la voix ne lit pas les chiffres) ; pas de sigle,
+  pas d'adresse web ; les noms propres et les noms des médias tels quels.
+- Uniquement les faits des synthèses, rien d'ajouté. Garde `signature` et `outro` tels quels.
+
 ## Règles de rédaction (obligatoires)
 
 - **Uniquement des faits présents dans les sources.** N'invente rien : ni chiffre,

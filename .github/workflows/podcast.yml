@@ -27,7 +27,7 @@ env:
 jobs:
   episode:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 35
     steps:
       - uses: actions/checkout@v5
         with:
@@ -52,7 +52,13 @@ jobs:
             nom=$(basename "$f" .md)
             [ -e "data/video/$nom.json" ] || nouveau=oui
           done
+          wolof=non
+          for f in content/video/[!_]*-wolof.md; do
+            [ -e "$f" ] || continue
+            [ -e "data/video/$(basename "$f" .md).json" ] || wolof=oui
+          done
           echo "nouveau=$nouveau" >> "$GITHUB_OUTPUT"
+          echo "wolof=$wolof" >> "$GITHUB_OUTPUT"
           echo "Nouvel épisode : $nouveau"
 
       - uses: actions/setup-python@v6
@@ -78,6 +84,21 @@ jobs:
           mkdir -p voix
           [ -s "voix/$VOIX.onnx" ] || curl -sSfL -o "voix/$VOIX.onnx" "$VOIX_URL/$VOIX.onnx"
           [ -s "voix/$VOIX.onnx.json" ] || curl -sSfL -o "voix/$VOIX.onnx.json" "$VOIX_URL/$VOIX.onnx.json"
+
+      # Voix wolof (vidéo wolof du soir) : installée seulement si une vidéo wolof est à faire.
+      # En cas d'échec, le reste continue ; la vidéo wolof sera retentée au passage suivant.
+      - uses: actions/cache@v4
+        if: steps.verif.outputs.wolof == 'oui'
+        with:
+          path: ~/.cache/huggingface
+          key: voix-wolof-speecht5-v02
+
+      - name: Installer la voix wolof
+        if: steps.verif.outputs.wolof == 'oui'
+        continue-on-error: true
+        run: |
+          pip install -q torch==2.15.0 --index-url https://download.pytorch.org/whl/cpu
+          pip install -q transformers==4.46.1 sentencepiece==0.2.3 soundfile==0.14.0 protobuf==7.36.2
 
       - name: Fabriquer et publier l'épisode
         if: steps.verif.outputs.nouveau == 'oui'
