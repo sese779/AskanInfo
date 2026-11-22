@@ -25,6 +25,7 @@ sources:
   - nom: Senego
     titre: Face à Abass Fall, l’ONAS dénonce des accusations répétées et infondées
     url: https://senego.com/face-a-abass-fall-lonas-denonce-des-accusations-repetees-et-infondees_2026588.html
+photo: /static/images/IMG_5994.jpeg
 credit_photo: "Photo : fb"
 ---
 L'ONAS, l'office chargé de l'assainissement au Sénégal, a répliqué publiquement à Abass Fall, maire de Dakar. Selon Seneweb, l'office a choisi de « briser le silence » après des mises en cause venues de la municipalité. D'après Dakaractu, l'édile reproche à la structure, dirigée par Seni Diène, d'être responsable des retards observés dans les travaux ; l'ONAS rejette ce reproche.
