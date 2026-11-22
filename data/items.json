@@ -13,6 +13,26 @@
   "extrait": "Banque, mines, agro-industrie ou mobile money : au Mali, des femmes s’imposent à la tête d’entreprises et dans des secteurs stratégiques. Portraits."
  },
  {
+  "id": "cac43aad4e96",
+  "titre": "Verdict du TAS : Le nouveau coup de pouce de la CAF pour le Sénégal",
+  "lien": "https://www.senenews.com/premium/verdict-du-tas-le-nouveau-coup-de-pouce-de-la-caf-pour-le-senegal_607215.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-22T09:30:45+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le fait est notable : une instance ne remet pas en cause son propre comité d'arbitrage sans reconnaître, au moins implicitement, des défaillances. Article SeneNews Premium — contenu intégral réservé aux abonnés. S'abonner",
+  "categories": [
+   "Articles Premium",
+   "Football",
+   "International",
+   "Sénégal - Actualités",
+   "CAF"
+  ]
+ },
+ {
   "id": "9cccf8da055a",
   "titre": "Au Japon, la pauvreté des jeunes occultée par la société : « Parfois, je n’avais qu’une tranche de pain de mie par jour »",
   "lien": "https://www.lemonde.fr/international/article/2026/11/22/au-japon-la-pauvrete-des-jeunes-occultee-par-la-societe-parfois-je-n-avais-qu-une-tranche-de-pain-de-mie-par-jour_6814203_3210.html",
@@ -865,6 +885,22 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Quelques jours avant le « Suneung », un examen décisif pour les lycéens, qui conditionne l’accès à l’université, les révélations sur la tricherie d’un candidat à un concours des finances publiques avaient conduit le gouvernement sud-coréen à lancer une vaste chasse aux fraudeurs."
+ },
+ {
+  "id": "4ac82b50ea12",
+  "titre": "TGI de Dakar – Référés : Me G. Ndiaye parmi les 51 dossiers",
+  "lien": "https://www.leral.net/TGI-de-Dakar-Referes-Me-G-Ndiaye-parmi-les-51-dossiers_a411915.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-22T05:31:00+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "51 affaires sont inscrites au rôle de l'audience (référés) du lundi 23 novembre 2026 devant le Tribunal de Grande Instance Hor...",
+  "categories": [
+   "Au Tribunal ..."
+  ]
  },
  {
   "id": "c4e743229bfa",
@@ -67423,31 +67459,5 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Le candidat tout juste déclaré Teddy Riner est crédité de 4,5 % des intentions de vote dans un sondage pour BFMTV et La Tribune Dimanche. Selon cette enquête, le maire de Cannes, David Lisnard, fait un bon de quatre points au détriment de Bruno Retailleau. Marine Le Pen reste en tête des intentions…"
- },
- {
-  "id": "0f5787ca053b",
-  "titre": "Pérou : à Zaña, la visite de Léon XIV a mis en lumière la traite négrière",
-  "lien": "http://fr.africanews.com/2026/11/15/perou-a-zana-la-visite-de-leon-xiv-a-mis-en-lumiere-la-traite-negriere/",
-  "source": "Africanews",
-  "site_source": "https://fr.africanews.com",
-  "date": "2026-11-15T09:33:12+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le recensement national de 2017 a révélé que 1 311 personnes résidant à Zaña s’identifient comme afro-péruviennes."
- },
- {
-  "id": "8bfccff744fd",
-  "titre": "Marché du riz : Ce que le président Bassirou Diomaye Faye a accepté à Phnom Penh",
-  "lien": "https://www.senenews.com/actualites/marche-du-riz-ce-que-le-president-bassirou-diomaye-faye-a-accepte-a-phnom-penh_606517.html",
-  "source": "Senenews",
-  "site_source": "https://www.senenews.com",
-  "date": "2026-11-15T09:32:05+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "En marge du 20e Sommet de la Francophonie, le chef de l'État sénégalais a donné son aval aux propositions du Vietnam pour faire avancer la filière du riz. Un dossier sensible pour un pays qui dépend largement des importations. C'est dans la capitale cambodgienne, où il est arrivé le 13 novembre…"
  }
 ]
