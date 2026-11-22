@@ -11,7 +11,7 @@ ROOT = Path(__file__).resolve().parent.parent
 CACHE = ROOT / "cache-podcast"
 NOMBRE = 14          # épisodes du podcast
 NOMBRE_ARTICLES = 80 # synthèses lues
-NOMBRE_VIDEOS = 7    # vidéos « L'essentiel du jour »
+NOMBRE_VIDEOS = 10   # vidéos du jour, wolof et sport
 
 metas = (sorted((ROOT / "data" / "podcast").glob("*.json"), reverse=True)[:NOMBRE]
          + sorted((ROOT / "data" / "audio").glob("*.json"), reverse=True)[:NOMBRE_ARTICLES]
