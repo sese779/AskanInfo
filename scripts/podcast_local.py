@@ -16,9 +16,12 @@ NOMBRE_VIDEOS = 7    # vidéos « L'essentiel du jour »
 metas = (sorted((ROOT / "data" / "podcast").glob("*.json"), reverse=True)[:NOMBRE]
          + sorted((ROOT / "data" / "audio").glob("*.json"), reverse=True)[:NOMBRE_ARTICLES]
          + sorted((ROOT / "data" / "video").glob("*.json"), reverse=True)[:NOMBRE_VIDEOS])
-CACHE.mkdir(exist_ok=True)
+fichiers = []
 for m in metas:
-    audio = json.loads(m.read_text(encoding="utf-8"))
+    meta = json.loads(m.read_text(encoding="utf-8"))
+    fichiers += [meta] + meta.get("sujets", [])   # vidéos : aussi les courtes vidéos par sujet
+CACHE.mkdir(exist_ok=True)
+for audio in fichiers:
     cible = CACHE / Path(audio["url"]).name
     if cible.exists() and cible.stat().st_size == audio["taille"]:
         continue

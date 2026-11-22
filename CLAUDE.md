@@ -130,18 +130,27 @@ existe déjà, ne le refais pas ; pas de synthèse du jour = pas de vidéo). La 
 ```
 ---
 titre: "L'essentiel du samedi 21 novembre"
-intro: "Bonsoir. Voici l'essentiel de l'actualité de ce samedi 21 novembre, avec AskanInfo."
+accroche: "1 007 migrants secourus en mer en trois jours"
 sujets:
   - synthese: AAAA-MM-JJ-nom-de-la-synthese
+    accroche: "1 007 migrants secourus en trois jours"
     texte: "Deux ou trois phrases courtes, lues par la voix de synthèse."
 ---
 ```
 
+La vidéo complète est fabriquée, plus **une courte vidéo par sujet** (15 à 25 secondes).
+
 - **3 ou 4 sujets** parmi les synthèses du jour, les plus importants et les plus visuels ;
   de préférence des sujets qui ont une photo. Évite les affaires judiciaires visant une
   personne nommée et les drames avec victimes : la vidéo circule hors du site, sans contexte.
+- **Accroches** (les 2 premières secondes décident si l'on regarde la suite) : `accroche`
+  générale = le fait le plus fort de la journée, 12 mots au plus ; `accroche` de chaque
+  sujet = son fait le plus fort, 10 mots au plus. Un fait précis de la synthèse (chiffre,
+  décision, nom d'une compétition), affiché en grand et lu en premier. Pas de « Bonsoir »,
+  pas de question racoleuse, pas d'exagération, pas de sigle non expliqué.
 - Chaque `texte` : 20 à 35 mots, écrit pour l'oreille, uniquement des faits de la synthèse,
-  avec au moins une source citée à l'oral. Pas de sigle non expliqué, pas d'adresse web.
+  avec au moins une source citée à l'oral. Il suit l'accroche : ne la répète pas mot pour mot.
+  Pas de sigle non expliqué, pas d'adresse web.
 - Ton neutre ; mêmes règles de prudence que les synthèses.
 
 ## Règles de rédaction (obligatoires)

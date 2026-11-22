@@ -3,7 +3,7 @@
 <article class="article">
   <p class="retour"><a href="{{ racine }}index.html">← Retour à l'accueil</a></p>
   <h1>Vidéo du jour</h1>
-  <p class="meta">Vidéo verticale prête pour TikTok, Instagram (Reels) et YouTube Shorts. Téléchargez-la, puis copiez la légende et collez-la au moment de publier.</p>
+  <p class="meta">Vidéos verticales prêtes pour TikTok, Instagram (Reels) et YouTube Shorts. Téléchargez-les, puis copiez la légende et collez-la au moment de publier.</p>
   {% for v in videos %}
   <section class="video-jour">
     <h2>{{ v.titre }}</h2>
@@ -13,6 +13,23 @@
       <button type="button" class="bouton-fb" data-copier="legende-{{ v.slug }}" data-copie="Légende copiée ✓">Copier la légende</button>
     </p>
     <pre class="message" id="legende-{{ v.slug }}">{{ v.legende }}</pre>
+    {% if v.sujets %}
+    <h3>Une vidéo par sujet</h3>
+    <p class="meta">Plus courtes (15 à 25 secondes) : à publier une par une, au fil de la journée.</p>
+    <div class="videos-sujets">
+      {% for s in v.sujets %}
+      <div class="video-sujet">
+        <p><strong>{{ s.titre }}</strong></p>
+        <video controls preload="none" playsinline src="{{ s.video.url }}"></video>
+        <p class="boutons-partage">
+          <a class="bouton-wa" href="{{ s.video.url }}" download="askaninfo-{{ s.id }}.mp4">Télécharger</a>
+          <button type="button" class="bouton-fb" data-copier="legende-{{ s.id }}" data-copie="Légende copiée ✓">Copier la légende</button>
+        </p>
+        <pre class="message" id="legende-{{ s.id }}">{{ s.legende }}</pre>
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
   </section>
   {% else %}
   <p>Aucune vidéo pour le moment : la vidéo du jour est fabriquée chaque soir après la revue de presse.</p>
