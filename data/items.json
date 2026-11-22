@@ -1,5 +1,186 @@
 [
  {
+  "id": "0d0c2f284b2b",
+  "titre": "Le Groupe Castel, empire discret de la bière et du vin, secoué par une guerre de pouvoir",
+  "lien": "https://www.lemonde.fr/economie/article/2026/11/22/le-groupe-castel-empire-discret-de-la-biere-et-du-vin-secoue-par-une-guerre-de-pouvoir_6814179_3234.html",
+  "source": "Le Monde Afrique",
+  "site_source": "https://www.lemonde.fr/afrique/",
+  "date": "2026-11-22T05:00:31+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Un âpre conflit de gouvernance tourmente le géant des boissons, où l’on se dispute l’héritage, spirituel comme financier, de son charismatique fondateur, Pierre Castel. La 11ᵉ fortune française vient d’avoir 100 ans."
+ },
+ {
+  "id": "0cb85d689d51",
+  "titre": "« J’avais des pensées suicidaires, j’ai été délaissée par les médecins » : aux Etats-Unis, la mauvaise prise en charge du post-partum fait de nombreuses victimes chez les mères",
+  "lien": "https://www.lemonde.fr/sante/article/2026/11/22/j-avais-des-pensees-suicidaires-j-ai-ete-delaissee-par-les-medecins-aux-etats-unis-la-mauvaise-prise-en-charge-du-post-partum-fait-de-nombreuses-victimes-chez-les-meres_6814178_1651302.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-22T05:00:28+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Darons d’ailleurs. Deux fois par mois, un de nos journalistes à l’étranger explore la parentalité hors de nos frontières. Outre-Atlantique, le taux de mortalité maternelle est l’un des plus élevés des pays riches, avec des causes de décès largement évitables comme les troubles psychologiques après…"
+ },
+ {
+  "id": "4143483f9ae3",
+  "titre": "A Londres, une église éthiopienne orthodoxe devenue le refuge d’une communauté exilée par la guerre",
+  "lien": "https://www.lemonde.fr/le-monde-des-religions/article/2026/11/22/a-londres-une-eglise-ethiopienne-orthodoxe-devenue-le-refuge-d-une-communaute-exilee-par-la-guerre_6814174_6038514.html",
+  "source": "Le Monde Afrique",
+  "site_source": "https://www.lemonde.fr/afrique/",
+  "date": "2026-11-22T05:00:11+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Après dix-neuf ans de lieux d’accueil temporaires et d’incertitudes, la paroisse qui constitue un point d’ancrage pour les exilés de la guerre vient de trouver dans la capitale britannique un bâtiment permanent pour sa communauté."
+ },
+ {
+  "id": "aab3107d6c97",
+  "titre": "Sénégal: une excision clandestine sur une jeune fille tourne au drame",
+  "lien": "https://www.rfi.fr/fr/podcasts/l-accent-des-autres/20261122-s%C3%A9n%C3%A9gal-une-excision-clandestine-sur-une-jeune-fille-tourne-au-drame",
+  "source": "RFI Monde",
+  "site_source": "https://www.rfi.fr/fr/monde/",
+  "date": "2026-11-22T04:54:04+00:00",
+  "rubrique": "Faits divers",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L'actualité des médias francophones de ces derniers jours, c'est avec RFI, la Radio télévision suisse, Radio Canada, la RTBF et Ici en France. Sur la manchette, indignation au Sénégal avec le décès d'une jeune fille à la suite d'une excision clandestine, pourtant interdite. Bref entretien cette…",
+  "categories": [
+   "L'accent des autres"
+  ]
+ },
+ {
+  "id": "2e27bda117b9",
+  "titre": "Le Gabon augmente ses capacités de production d'électricité avec un nouveau barrage hydroélectrique",
+  "lien": "https://www.rfi.fr/fr/afrique/20261122-le-gabon-augmente-ses-capacit%C3%A9s-de-production-d-%C3%A9lectricit%C3%A9-avec-un-nouveau-barrage-hydro%C3%A9lectrique",
+  "source": "RFI Afrique",
+  "site_source": "https://www.rfi.fr/fr/afrique/",
+  "date": "2026-11-22T04:50:33+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Au Gabon, plusieurs quartiers de Libreville seront plongés dans le noir pendant trois jours successifs du 27 au 29 novembre prochain, a prévenu le gouvernement. Il ne s’agira pas d’une panne mais des travaux de maintenance d’un pipeline qui achemine le gaz de Port-Gentil à Libreville. Bonne…",
+  "categories": [
+   "Afrique"
+  ]
+ },
+ {
+  "id": "110c5c7ac980",
+  "titre": "Sénégal : la coalition réclame une refonte et interroge les centres pour migrants secourus",
+  "lien": "https://senego.com/senegal-la-coalition-reclame-une-refonte-et-interroge-les-centres-pour-migrants-secourus_2026602.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-22T04:31:33+00:00",
+  "rubrique": "Diaspora",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "À Dakar, la Coalition pour la bonne gouvernance migratoire demande une refonte de la politique migratoire et s’interroge sur quatre centres prévus avec l’Union européenne.",
+  "categories": [
+   "Justice",
+   "Politique",
+   "Sénégal",
+   "Société",
+   "ADHA"
+  ]
+ },
+ {
+  "id": "d1f958f110cb",
+  "titre": "Au sein du géant des boissons Castel, une crise de gouvernance amplifiée par une architecture complexe de holdings, de fonds et de trusts",
+  "lien": "https://www.lemonde.fr/economie/article/2026/11/22/au-sein-du-geant-des-boissons-castel-une-crise-de-gouvernance-amplifiee-par-une-architecture-complexe-de-holdings-de-fonds-et-de-trusts_6814144_3234.html",
+  "source": "Le Monde Afrique",
+  "site_source": "https://www.lemonde.fr/afrique/",
+  "date": "2026-11-22T04:30:07+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La fille du fondateur de l’empire de la bière et du vin, Romy Castel, s’efforce d’évincer le directeur général opérationnel, protégé par une structure juridique et capitalistique complexe. Elle a remporté, en octobre, une importante victoire judiciaire."
+ },
+ {
+  "id": "9809e0e14263",
+  "titre": "Au Portugal, des manifestations contre les faibles salaires et l’explosion du prix des logements",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/22/au-portugal-des-manifestations-contre-les-faibles-salaires-et-l-explosion-du-prix-des-logements_6814143_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-22T04:15:11+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Dans un contexte de fort mécontentement économique, deux cortèges se sont succédé sous la pluie à Lisbonne, samedi 21 novembre, à trois jours du vote du budget 2027."
+ },
+ {
+  "id": "6f8aaf24938a",
+  "titre": "RDC-Kenya: les présidents Tshisekedi et Ruto attendus au Congo-Brazzaville pour tenter de renouer le dialogue",
+  "lien": "https://www.rfi.fr/fr/afrique/20261122-rdc-kenya-les-pr%C3%A9sidents-tshisekedi-et-ruto-attendus-au-congo-brazzaville-pour-tenter-de-renouer-le-dialogue",
+  "source": "RFI Afrique",
+  "site_source": "https://www.rfi.fr/fr/afrique/",
+  "date": "2026-11-22T04:09:09+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Les présidents de la RDC et du Kenya, Félix Tshisekedi et William Ruto, sont attendus ce dimanche 22 novembre à Oyo, dans le nord de la République du Congo. Le président du Congo-Brazzaville, Denis Sassou-Nguesso, doit les recevoir, avec le président du Conseil togolais et médiateur de l'Union…",
+  "categories": [
+   "Afrique"
+  ]
+ },
+ {
+  "id": "95db9b383db4",
+  "titre": "Après le Sahel, l'Algérie noue des partenariats énergétiques en Côte d'Ivoire et au Congo-Brazzaville",
+  "lien": "https://www.rfi.fr/fr/afrique/20261122-apr%C3%A8s-le-sahel-l-alg%C3%A9rie-noue-des-partenariats-%C3%A9nerg%C3%A9tiques-en-c%C3%B4te-d-ivoire-et-au-congo-brazzaville",
+  "source": "RFI Afrique",
+  "site_source": "https://www.rfi.fr/fr/afrique/",
+  "date": "2026-11-22T04:08:56+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Après le Sahel, notamment au Niger et au Tchad où elle est en train d'implanter plusieurs projets, l'Algérie poursuit la signature de nouveaux accords énergétiques avec des pays africains. Alger a précisé cette semaine les contours de nouveaux partenariats dans le domaine de l'énergie, notamment en…",
+  "categories": [
+   "Afrique"
+  ]
+ },
+ {
+  "id": "5278d3828860",
+  "titre": "Mali: des jihadistes du JNIM attaquent l’armée et ses supplétifs dans la région de Ségou",
+  "lien": "https://www.rfi.fr/fr/afrique/20261122-mali-des-jihadistes-du-jnim-attaquent-l-arm%C3%A9e-et-ses-suppl%C3%A9tifs-dans-la-r%C3%A9gion-de-s%C3%A9gou",
+  "source": "RFI Afrique",
+  "site_source": "https://www.rfi.fr/fr/afrique/",
+  "date": "2026-11-22T04:06:48+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Au moins deux positions de l’armée malienne et de ses partenaires russes d’Africa Corps ont été attaquées samedi 21 novembre 2026 dans le centre du pays. Le groupe de soutien à l’islam et aux musulmans (Jnim) a revendiqué ces attaques qui ont fait plusieurs victimes dans les rangs de l’armée.",
+  "categories": [
+   "Afrique"
+  ]
+ },
+ {
+  "id": "c8854d28342f",
+  "titre": "Sénégal: des ONG réclament une remise à plat de la politique migratoire",
+  "lien": "https://www.rfi.fr/fr/afrique/20261122-s%C3%A9n%C3%A9gal-des-ong-r%C3%A9clament-une-remise-%C3%A0-plat-de-la-politique-migratoire",
+  "source": "RFI Afrique",
+  "site_source": "https://www.rfi.fr/fr/afrique/",
+  "date": "2026-11-22T04:04:52+00:00",
+  "rubrique": "Diaspora",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Une coalition d'organisations de la société civile sénégalaise réclament une mise à plat de la politique migratoire ce samedi 22 novembre 2026 à Dakar. Elle demande aussi plus de transparence sur les financements de la coopération. Cette conférence de presse intervient après les naufrages de…",
+  "categories": [
+   "Afrique"
+  ]
+ },
+ {
   "id": "1f5a5cfb66ef",
   "titre": "Édouard Cortès, Robinson funambule",
   "lien": "https://www.rfi.fr/fr/podcasts/si-loin-si-proche/20261122-%C3%A9douard-cort%C3%A8s-robinson-funambule",
@@ -67389,70 +67570,5 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Si les récentes campagnes électorales ont vu la multiplication d’attaques en ligne et de contenus générés par IA, les résultats électoraux ont démontré que tout l’activisme du monde sur les réseaux ne compense pas un mauvais programme ou un bilan catastrophique, observe, dans sa chronique, Damien…"
- },
- {
-  "id": "0ced0a6cb780",
-  "titre": "EN DIRECT, guerre en Ukraine : Jared Kushner regrette la diffusion de « positions maximalistes » après l’évocation par Volodymyr Zelensky des propositions américaines",
-  "lien": "https://www.lemonde.fr/international/live/2026/11/15/en-direct-guerre-en-ukraine-le-point-sur-la-situation_6810982_3210.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-15T05:00:44+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Les Etats-Unis ont pour la première fois soumis l’hypothèse à l’Ukraine de céder des territoires – le Donbass – en échange de son adhésion à l’OTAN, a affirmé, samedi, Volodymyr Zelensky. Mais l’émissaire américain Jared Kushner a semblé vouloir atténuer la portée de certaines déclarations."
- },
- {
-  "id": "b6d4cb65274c",
-  "titre": "Midterms 2026 : « La vague des chrétiens sociaux est autant un défi pour les démocrates qu’une opportunité pour J. D. Vance »",
-  "lien": "https://www.lemonde.fr/le-monde-des-religions/article/2026/11/15/midterms-2026-la-vague-des-chretiens-sociaux-est-autant-un-defi-pour-les-democrates-qu-une-opportunite-pour-j-d-vance_6810981_6038514.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-15T05:00:33+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Si les élections de mi-mandat aux Etats-Unis ont mis en évidence le poids d’un électorat social-chrétien que l’on pensait moribond, il ne signifie pas pour autant une adhésion durable au progressisme, relève l’historienne Blandine Chelini-Pont, dans une tribune au « Monde »."
- },
- {
-  "id": "7ab0603e925b",
-  "titre": "Menacée de disparition, l’UNRWA fait profil bas et prépare des coupes drastiques",
-  "lien": "https://www.lemonde.fr/international/article/2026/11/15/menacee-de-disparition-l-unrwa-fait-profil-bas-et-prepare-des-coupes-drastiques_6810977_3210.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-15T05:00:12+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "L’agence de l’ONU chargée des réfugiés palestiniens, que l’administration Trump et Israël veulent supprimer, s’apprête à effectuer des coupes censées assainir ses finances, alors que la résolution politique de la question palestinienne est délaissée par la communauté internationale."
- },
- {
-  "id": "abab25cd46a2",
-  "titre": "Présidentielle au Cap-Vert: six candidats en lice, le PAICV espère rester au pouvoir",
-  "lien": "https://www.rfi.fr/fr/afrique/20261115-pr%C3%A9sidentielle-au-cap-vert-cinq-candidats-en-lice-le-paicv-esp%C3%A8re-rester-au-pouvoir",
-  "source": "RFI Afrique",
-  "site_source": "https://www.rfi.fr/fr/afrique/",
-  "date": "2026-11-15T04:57:11+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Ce 15 novembre, les Cap-Verdiens choisissent leur président. Six mois après des législatives marquées par la victoire et le retour du PAICV à la tête du gouvernement, le chef de l’État, cadre du parti, espère l’emporter à nouveau et rempiler pour cinq ans. Face à lui, cinq candidats, dont la…"
- },
- {
-  "id": "22bbe59638c6",
-  "titre": "Nigeria: à deux mois des élections générales, la Commission électorale sous un feu roulant de critiques",
-  "lien": "https://www.rfi.fr/fr/afrique/20261115-nigeria-%C3%A0-deux-mois-des-%C3%A9lections-g%C3%A9n%C3%A9rales-la-commission-%C3%A9lectorale-sous-un-feu-roulant-de-critiques",
-  "source": "RFI Afrique",
-  "site_source": "https://www.rfi.fr/fr/afrique/",
-  "date": "2026-11-15T04:11:26+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "À deux mois des élections générales qui se tiendront le 16 janvier prochain, la Commission électorale nationale indépendante (Inec) du Nigeria se retrouve dans l'obligation de défendre son impartialité et son professionnalisme alors que la campagne est marquée par de nombreux sujets de dissensions…"
  }
 ]
