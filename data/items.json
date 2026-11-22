@@ -1,5 +1,31 @@
 [
  {
+  "id": "2889acf0182e",
+  "titre": "Mali : ces femmes qui font l’économie",
+  "lien": "https://www.jeuneafrique.com/1861811/economie-entreprises/mali-ces-femmes-qui-font-leconomie/",
+  "source": "Jeune Afrique",
+  "site_source": "https://www.jeuneafrique.com",
+  "date": "2026-11-22T10:28:09+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Banque, mines, agro-industrie ou mobile money : au Mali, des femmes s’imposent à la tête d’entreprises et dans des secteurs stratégiques. Portraits."
+ },
+ {
+  "id": "9cccf8da055a",
+  "titre": "Au Japon, la pauvreté des jeunes occultée par la société : « Parfois, je n’avais qu’une tranche de pain de mie par jour »",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/22/au-japon-la-pauvrete-des-jeunes-occultee-par-la-societe-parfois-je-n-avais-qu-une-tranche-de-pain-de-mie-par-jour_6814203_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-22T09:30:06+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Malgré un taux d’emploi élevé, la pauvreté reste forte au Japon, avec des conséquences graves pour les jeunes. Trop limitées, les aides sociales ne leur permettent pas de s’en sortir. Souvent leur dernier recours, les ONG sont de plus en plus sollicitées."
+ },
+ {
   "id": "c0c78b4bbc23",
   "titre": "Casamance : l’évêque de Ziguinchor appelle à la réconciliation et au développement dans une lettre pastorale",
   "lien": "https://emedia.sn/casamance-leveque-de-ziguinchor-appelle-a-la-reconciliation-et-au-developpement-dans-une-lettre-pastorale/",
@@ -107,6 +133,19 @@
    "Sénégal",
    "500 000 FCFA"
   ]
+ },
+ {
+  "id": "3eb6cdc3a3f5",
+  "titre": "Au Cameroun, Nourane Foster et le PSG peuvent-ils être la surprise des législatives et locales ?",
+  "lien": "https://www.jeuneafrique.com/1863620/politique/au-cameroun-nourane-foster-et-le-psg-peuvent-ils-etre-la-surprise-des-legislatives-et-locales/",
+  "source": "Jeune Afrique",
+  "site_source": "https://www.jeuneafrique.com",
+  "date": "2026-11-22T09:01:00+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Après sa rupture avec Cabral Libii, la députée du Wouri mise sur le Pacte social pour la gouvernance pour poursuivre son parcours politique. Avec son époux, elle s’emploie à attirer les déçus du PCRN et du MRC en vue des législatives et des locales du 7 février."
  },
  {
   "id": "725f56454b63",
