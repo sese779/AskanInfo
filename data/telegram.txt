@@ -160,3 +160,4 @@ syntheses/2026-11-22-caf-creation-can-u17-feminine
 syntheses/2026-11-22-diomaye-randonnee-forces-armees
 syntheses/2026-11-22-marine-1007-migrants-secourus-el-hierro
 syntheses/2026-11-22-agropole-sud-adeane-cinq-usines
+podcast/2026-11-22
