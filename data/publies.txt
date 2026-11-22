@@ -141,3 +141,8 @@ content/syntheses/2026-11-21-gambie-interceptions-senegalais.md
 content/syntheses/2026-11-21-lutte-franc-reug-reug-gris-bordeaux-diop-2.md
 content/syntheses/2026-11-21-rts-retransmission-senegal-soudan-pape-ale-niang.md
 content/video/2026-11-21.md
+content/syntheses/2026-11-22-lfr-decret-alioune-ndao-critiques.md
+content/syntheses/2026-11-22-mauritanie-fin-protocole-peche-ue.md
+content/syntheses/2026-11-22-onas-reponse-abass-fall-assainissement.md
+content/syntheses/2026-11-22-ong-refonte-politique-migratoire.md
+content/syntheses/2026-11-22-tony-sylva-salaires-guy-marius-sagna.md
