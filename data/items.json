@@ -13,6 +13,19 @@
   "extrait": "Banque, mines, agro-industrie ou mobile money : au Mali, des femmes s’imposent à la tête d’entreprises et dans des secteurs stratégiques. Portraits."
  },
  {
+  "id": "5f298a463fa0",
+  "titre": "De Dakar à Abidjan : comment des filières organisées exploitent des femmes et enfants nigériens",
+  "lien": "https://www.seneweb.com/fr/news/Reportage/de-dakar-a-abidjan-comment-des-filieres-organisees-exploitent-des-femmes-et-enfants-nigeriens_n_999004318.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-22T09:31:38+00:00",
+  "rubrique": "Société",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "De Dakar à Abidjan en passant par Accra ou Alger, des milliers de femmes et d'enfants nigériens ayant fui la misère et l'insécurité peuplent les carrefours urbains."
+ },
+ {
   "id": "cac43aad4e96",
   "titre": "Verdict du TAS : Le nouveau coup de pouce de la CAF pour le Sénégal",
   "lien": "https://www.senenews.com/premium/verdict-du-tas-le-nouveau-coup-de-pouce-de-la-caf-pour-le-senegal_607215.html",
@@ -67446,18 +67459,5 @@
   "diaspora": false,
   "secondaire": true,
   "extrait": "Souleymane Sèye Ndiaye a remporté le Sotigui du meilleur acteur d’Afrique de l’Ouest pour son interprétation de Valdiodio Ndiaye dans le film d’Amina Ndiaye Leclerc."
- },
- {
-  "id": "dd8bd3044025",
-  "titre": "Présidentielle 2027 : Teddy Riner affronte son premier sondage, David Lisnard gagne des points",
-  "lien": "https://www.france24.com/fr/france/20261115-pr%C3%A9sidentielle-2027-teddy-riner-cr%C3%A9dit%C3%A9-de-4-5-dans-un-sondage-david-lisnard-gagne-des-points",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-15T09:35:16+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le candidat tout juste déclaré Teddy Riner est crédité de 4,5 % des intentions de vote dans un sondage pour BFMTV et La Tribune Dimanche. Selon cette enquête, le maire de Cannes, David Lisnard, fait un bon de quatre points au détriment de Bruno Retailleau. Marine Le Pen reste en tête des intentions…"
  }
 ]
