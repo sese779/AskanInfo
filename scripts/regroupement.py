@@ -134,20 +134,24 @@ def lire_images(racine):
         cles = r.get("mots_cles") or []
         cles = [cles] if isinstance(cles, str) else cles
         cles = [normaliser(c).strip() for c in cles if str(c).strip()]
+        secours = str(r.get("secours_rubrique") or "").strip()
         img = illustration(racine, r.get("image"), r.get("credit"), r.get("type"))
-        if not (img and cles):
+        if not (img and (cles or secours)):
             print(f"  ! images.yaml : règle ignorée (image absente, crédit ou mots-clés manquants) : {r.get('image') or r}")
             continue
-        regles.append({"mots": cles, **img})
+        regles.append({"mots": cles, "secours": secours, **img})
     return regles
 
 
-def image_pour(titres, regles):
+def image_pour(titres, regles, rubrique=None):
+    """Image du premier mot-clé trouvé ; à défaut, la photo de secours de la rubrique."""
     texte = " " + " ".join(re.sub(r"[^a-z0-9]+", " ", normaliser(t)) for t in titres) + " "
     for r in regles:
         for c in r["mots"]:
             if f" {re.sub(r'[^a-z0-9]+', ' ', c).strip()} " in texte:
                 return r
+    if rubrique:
+        return next((r for r in regles if r.get("secours") == rubrique), None)
     return None
 
 
@@ -175,7 +179,7 @@ def sujets(items, contenus, regles, maintenant, nb_une=5, heures=36):
         return {"tete": un_par_media[0], "autres": un_par_media[1:], "tous": g, "nb_medias": len(un_par_media),
                 "nb_principaux": len(principaux), "secondaire": not principaux,
                 "rubrique": g[0]["rubrique"], "synthese": synthese,
-                "image": (synthese or {}).get("photo") or image_pour(titres, regles)}
+                "image": (synthese or {}).get("photo") or image_pour(titres, regles, g[0]["rubrique"])}
 
     groupes = [habiller(g) for g in grouper(dedoublonner(items))]
     limite = (maintenant - timedelta(hours=heures)).isoformat()
