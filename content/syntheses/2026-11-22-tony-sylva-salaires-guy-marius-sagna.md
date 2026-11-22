@@ -31,6 +31,7 @@ sources:
     titre: "« Six mois sans salaire » : Guy Marius Sagna interpelle la ministre des
       Sports sur le cas Tony Sylva"
     url: https://www.leral.net/Six-mois-sans-salaire-Guy-Marius-Sagna-interpelle-la-ministre-des-Sports-sur-le-cas-Tony-Sylva_a411872.html
+photo: /static/images/IMG_5993-1.jpeg
 credit_photo: "Photo : OA"
 ---
 Le parlementaire Guy Marius Sagna a choisi la voie de la question écrite pour interroger l'exécutif sur le sort réservé à Tony Sylva, rapportent Wiwsport et PressAfrik. Selon Wiwsport, le député de la 15e législature a aussi adressé sa démarche à la ministre des Sports. Le texte vise le contrat de cet ex-gardien de but international, chargé d'encadrer les gardiens de l'équipe nationale à l'époque où Pape Thiaw dirigeait la sélection, précise le même site.
