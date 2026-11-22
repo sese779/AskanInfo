@@ -259,7 +259,7 @@ def ecrire_videos(env, contenus, commun):
     """Page « Vidéo du jour » (non indexée) : les vidéos récentes à télécharger,
     avec une légende prête à copier pour TikTok et Instagram."""
     videos = []
-    for f in sorted((ROOT / "content" / "video").glob("[!_]*.md"), reverse=True)[:7]:
+    for f in sorted((ROOT / "content" / "video").glob("[!_]*.md"), reverse=True)[:8]:
         meta_f = ROOT / "data" / "video" / f"{f.stem}.json"
         m = re.match(r"^---\n(.*?)\n---", f.read_text(encoding="utf-8"), re.S)
         if not m or not meta_f.exists():
@@ -275,7 +275,8 @@ def ecrire_videos(env, contenus, commun):
                             + [f"▪️ {t}" for t in titres]
                             + ["", "Toutes les sources sur askaninfo.com (lien dans la bio)",
                                "Voix de synthèse.", "",
-                               "#Sénégal #ActualitéSénégal #Dakar #AskanInfo"])
+                               "#Sénégal #Lions #Lamb #AskanInfo" if f.stem.endswith("-sport")
+                               else "#Sénégal #ActualitéSénégal #Dakar #AskanInfo"])
         # courtes vidéos, une par sujet
         sujets = []
         for i, court in enumerate(video.get("sujets", []), 1):
