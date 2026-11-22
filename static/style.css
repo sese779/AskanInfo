@@ -59,6 +59,9 @@ main { padding: 24px 16px 48px; }
 .hors-ecran { position: fixed; top: -1000px; left: 0; opacity: 0; }
 .boutons-partage { display: flex; flex-wrap: wrap; gap: 10px; }
 .video-jour video { display: block; width: 100%; max-width: 360px; aspect-ratio: 9 / 16; background: #000; border-radius: 10px; margin: 8px 0 12px; }
+.videos-sujets { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 260px), 1fr)); gap: 20px; }
+.video-sujet { min-width: 0; }
+.video-sujet video { display: block; width: 100%; max-width: 260px; aspect-ratio: 9 / 16; background: #000; border-radius: 10px; margin: 6px 0 10px; }
 .message { white-space: pre-wrap; word-break: break-word; background: var(--carte); border: 1px solid var(--bord); border-radius: 6px; padding: 14px; font: .95rem/1.5 system-ui, sans-serif; user-select: all; }
 .bouton-installer { background: var(--vert); color: #fff; border: 0; border-radius: 999px; padding: 12px 22px; font: 700 1.05rem system-ui, sans-serif; cursor: pointer; }
 .bandeau-appli { background: var(--vert); color: #fff; font: .92rem/1.3 system-ui, sans-serif; }

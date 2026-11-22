@@ -245,6 +245,16 @@ def lire_episodes(contenus):
 JOURS = ["lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"]
 
 
+def video_locale(video):
+    """Sert la vidéo depuis askaninfo.com quand elle a été récupérée (cache-podcast)."""
+    local = ROOT / "cache-podcast" / Path(video["url"]).name
+    if local.exists() and local.stat().st_size == video.get("taille"):
+        (OUT / "video").mkdir(exist_ok=True)
+        shutil.copy(local, OUT / "video" / local.name)
+        return dict(video, url=f"/video/{local.name}")
+    return video
+
+
 def ecrire_videos(env, contenus, commun):
     """Page « Vidéo du jour » (non indexée) : les vidéos récentes à télécharger,
     avec une légende prête à copier pour TikTok et Instagram."""
@@ -258,20 +268,28 @@ def ecrire_videos(env, contenus, commun):
         video = json.loads(meta_f.read_text(encoding="utf-8"))
         if not lien_valide(video.get("url")):
             continue
-        local = ROOT / "cache-podcast" / Path(video["url"]).name
-        if local.exists() and local.stat().st_size == video.get("taille"):
-            (OUT / "video").mkdir(exist_ok=True)
-            shutil.copy(local, OUT / "video" / local.name)
-            video = dict(video, url=f"/video/{local.name}")
+        video = video_locale(video)
         titres = [contenus[s["synthese"]]["titre"] for s in spec.get("sujets", [])
                   if s.get("synthese") in contenus]
-        legende = "\n".join([f"📰 {spec.get('titre', 'L’essentiel du jour')}", ""]
+        legende = "\n".join([f"📰 {spec.get('accroche') or spec.get('titre', 'L’essentiel du jour')}", ""]
                             + [f"▪️ {t}" for t in titres]
                             + ["", "Toutes les sources sur askaninfo.com (lien dans la bio)",
                                "Voix de synthèse.", "",
-                               "#Sénégal #ActualitéSénégal #Dakar #AskanInfo #Kebetu"])
+                               "#Sénégal #ActualitéSénégal #Dakar #AskanInfo"])
+        # courtes vidéos, une par sujet
+        sujets = []
+        for i, court in enumerate(video.get("sujets", []), 1):
+            c = contenus.get(court.get("synthese"))
+            if not c or not lien_valide(court.get("url")):
+                continue
+            rub = re.sub(r"[^\wÀ-ÿ]", "", c["rubrique"])
+            sujets.append({"id": f"{f.stem}-{i}", "titre": c["titre"], "video": video_locale(court),
+                           "legende": "\n".join([f"📰 {c['titre']}", "",
+                                                 "Toutes les sources sur askaninfo.com (lien dans la bio)",
+                                                 "Voix de synthèse.", "",
+                                                 f"#Sénégal #{rub} #AskanInfo"])})
         videos.append({"slug": f.stem, "titre": spec.get("titre", f.stem), "video": video,
-                       "legende": legende})
+                       "legende": legende, "sujets": sujets})
     (OUT / "video.html").write_text(env.get_template("video.html").render(
         racine="", chemin="video.html", titre_page="Vidéo du jour", videos=videos, **commun),
         encoding="utf-8")
