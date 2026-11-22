@@ -209,9 +209,20 @@ def morceaux(texte, n=7):
     return res
 
 
+WOLOF = False   # vidéo wolof (fichier …-wolof.md) : voix wolof au lieu de Piper
+
+
 def voix(modele, texte, wav):
-    subprocess.run([sys.executable, "-m", "piper", "-m", modele, "-f", str(wav)],
-                   input=texte.encode("utf-8"), check=True, capture_output=True)
+    if WOLOF:
+        import voix_wolof
+        brut = Path(wav).with_suffix(".16k.wav")
+        voix_wolof.dire(texte, brut)
+        # même format que la voix Piper, pour l'assemblage
+        subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-i", str(brut), "-ar", "22050",
+                        "-ac", "1", "-c:a", "pcm_s16le", str(wav)], check=True)
+    else:
+        subprocess.run([sys.executable, "-m", "piper", "-m", modele, "-f", str(wav)],
+                       input=texte.encode("utf-8"), check=True, capture_output=True)
     with wave.open(str(wav)) as w:
         return w.getnframes() / w.getframerate()
 
@@ -253,6 +264,8 @@ def encoder(tmp, plans, wavs, sortie):
 
 def main(modele, entree, sortie, numero=None):
     """Vidéo complète, ou (numero = 1, 2, …) courte vidéo d'un seul sujet."""
+    global WOLOF
+    WOLOF = Path(entree).stem.endswith("-wolof")
     brut = Path(entree).read_text(encoding="utf-8")
     spec = yaml.safe_load(brut.split("---")[1])
     regles = lire_images(ROOT)
@@ -282,7 +295,10 @@ def main(modele, entree, sortie, numero=None):
         if numero is None:
             accroche = spec.get("accroche")
             if accroche:
-                d = dire(f"{accroche.rstrip('.')}. L'essentiel du jour, avec AskanInfo.")
+                rdv = spec.get("signature") or (
+                    "Le rendez-vous sport, avec AskanInfo." if Path(entree).stem.endswith("-sport")
+                    else "L'essentiel du jour, avec AskanInfo.")
+                d = dire(f"{accroche.rstrip('.')}. {rdv}")
                 plan(carte_accroche(accroche, spec["titre"]), d + PAUSE)
             else:
                 d = dire(spec.get("intro") or "Voici l'essentiel de l'actualité, avec AskanInfo.")
@@ -326,13 +342,21 @@ def lot(modele):
     meta_dir = ROOT / "data" / "video"
     meta_dir.mkdir(parents=True, exist_ok=True)
     a_faire = [f for f in sorted((ROOT / "content" / "video").glob("[!_]*.md"), reverse=True)
-               if not (meta_dir / f"{f.stem}.json").exists()][:3]
+               if not (meta_dir / f"{f.stem}.json").exists()][:4]
     if not a_faire:
         return
     if subprocess.run(["gh", "release", "view", RELEASE, "-R", DEPOT], capture_output=True).returncode != 0:
         subprocess.run(["gh", "release", "create", RELEASE, "-R", DEPOT, "--title", "Vidéos AskanInfo",
                         "--notes", "Vidéos « L'essentiel du jour » d'AskanInfo."], check=True)
+    try:
+        import torch  # noqa: F401  (voix wolof)
+        wolof_possible = True
+    except ImportError:
+        wolof_possible = False
     for f in a_faire:
+        if f.stem.endswith("-wolof") and not wolof_possible:
+            print(f"  {f.name} : voix wolof non installée, vidéo laissée pour plus tard")
+            continue
         spec = yaml.safe_load(f.read_text(encoding="utf-8").split("---")[1]) or {}
         with tempfile.TemporaryDirectory() as tmp:
             mp4 = Path(tmp) / f"askaninfo-{f.stem}.mp4"
@@ -343,7 +367,8 @@ def lot(modele):
                 continue
             meta = publier(mp4)
             meta["sujets"] = []
-            for i, s in enumerate(spec.get("sujets") or [], 1):
+            # vidéo wolof : seulement la vidéo complète
+            for i, s in enumerate([] if f.stem.endswith("-wolof") else spec.get("sujets") or [], 1):
                 court = Path(tmp) / f"askaninfo-{f.stem}-{i}.mp4"
                 try:
                     main(modele, f, court, i)
