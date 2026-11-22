@@ -24,6 +24,7 @@ sources:
       Sénégalais"
     url: https://www.senenews.com/actualites/emigration-irreguliere-134-candidats-interceptes-en-gambie-dont-90-senegalais_607197.html
 photo: /static/images/IMG_5972-2.jpeg
+credit_photo: "Photo : ."
 ---
 Le Département gambien de l'immigration a fait état d'une vaste opération de sécurité conduite le jeudi 19 novembre 2026, au cours de laquelle 491 personnes soupçonnées de vouloir partir clandestinement ont été arrêtées, rapporte Emedia en s'appuyant sur un communiqué de ce service. Les Sénégalais représentent 210 d'entre elles, un chiffre également repris par SenePlus.
 
