@@ -282,7 +282,9 @@ def main(modele, entree, sortie, numero=None):
         if numero is None:
             accroche = spec.get("accroche")
             if accroche:
-                d = dire(f"{accroche.rstrip('.')}. L'essentiel du jour, avec AskanInfo.")
+                rdv = ("Le rendez-vous sport, avec AskanInfo." if Path(entree).stem.endswith("-sport")
+                       else "L'essentiel du jour, avec AskanInfo.")
+                d = dire(f"{accroche.rstrip('.')}. {rdv}")
                 plan(carte_accroche(accroche, spec["titre"]), d + PAUSE)
             else:
                 d = dire(spec.get("intro") or "Voici l'essentiel de l'actualité, avec AskanInfo.")

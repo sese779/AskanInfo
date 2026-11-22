@@ -153,6 +153,18 @@ La vidéo complète est fabriquée, plus **une courte vidéo par sujet** (15 à 
   Pas de sigle non expliqué, pas d'adresse web.
 - Ton neutre ; mêmes règles de prudence que les synthèses.
 
+### Le rendez-vous sport (lundi, dernier passage)
+
+Le lundi, en plus de la vidéo du jour, écris `content/video/AAAA-MM-JJ-sport.md`, même
+format, titre « Le rendez-vous sport du lundi 23 novembre » (s'il existe déjà, ne le refais pas).
+- **3 ou 4 sujets** tirés des synthèses de rubrique Sport des **7 derniers jours** : en
+  priorité « Les Sénégalais du week-end » (un sujet par joueur marquant, plusieurs sujets
+  peuvent renvoyer à cette même synthèse), les Lions et les sélections, la lutte (affiches,
+  résultats, décisions du CNG). Un sujet déjà présent dans une vidéo sport précédente ne revient pas.
+- Moins de 3 sujets possibles : pas de rendez-vous sport cette semaine.
+- Mêmes règles : faits des synthèses, sources citées à l'oral, aucun pronostic, prudence sur
+  les violences entre supporters et les affaires judiciaires.
+
 ## Règles de rédaction (obligatoires)
 
 - **Uniquement des faits présents dans les sources.** N'invente rien : ni chiffre,
