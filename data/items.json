@@ -1,5 +1,47 @@
 [
  {
+  "id": "1f5a5cfb66ef",
+  "titre": "Édouard Cortès, Robinson funambule",
+  "lien": "https://www.rfi.fr/fr/podcasts/si-loin-si-proche/20261122-%C3%A9douard-cort%C3%A8s-robinson-funambule",
+  "source": "RFI Monde",
+  "site_source": "https://www.rfi.fr/fr/monde/",
+  "date": "2026-11-22T02:10:23+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L’auteur nomade français nous invite dans son dernier récit à une échappée poétique sur la Loire, à fleur d’eau et de peau.",
+  "categories": [
+   "Si loin si proche"
+  ]
+ },
+ {
+  "id": "6c8d29c5cdc6",
+  "titre": "Émigration irrégulière : 1 007 migrants secourus en mer en 72 heures",
+  "lien": "https://www.seneweb.com/fr/news/Immigration/emigration-irreguliere-1-007-migrants-secourus-en-mer-en-72-heures_n_999004317.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-22T02:07:37+00:00",
+  "rubrique": "Diaspora",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La Marine nationale annonce avoir porté secours à 1 007 migrants impliqués dans des opérations d’émigration irrégulière par voie maritime."
+ },
+ {
+  "id": "b6fd766bc3d3",
+  "titre": "La Russie transforme la Libye en un important corridor aérien vers le Mali",
+  "lien": "https://www.seneweb.com/fr/news/International/la-russie-transforme-la-libye-en-un-important-corridor-aerien-vers-le-mali_n_999004316.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-22T02:04:42+00:00",
+  "rubrique": "Afrique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Une enquête qui a utilisé la reconstitution des itinéraires de vol de deux avions Ilyushin à partir de données de suivi de vol montre que la Russie a continué d’utiliser l’est de la Libye comme voie d…"
+ },
+ {
   "id": "8a1a338fbb32",
   "titre": "Une fillette de 11 ans écope de 7 ans de détention pour tentative de meurtre",
   "lien": "https://www.seneweb.com/fr/news/International/une-fillette-de-11-ans-ecope-de-7-ans-de-detention-pour-tentative-de-meurtre_n_999004315.html",
