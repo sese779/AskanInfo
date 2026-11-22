@@ -1,5 +1,37 @@
 [
  {
+  "id": "c30beb30ed57",
+  "titre": "Boulangerie : L'intersyndicale annonce un arrêt de production de pains les 23,24 et 25 novembre",
+  "lien": "https://www.dakaractu.com/Boulangerie-L-intersyndicale-annonce-un-arret-de-production-de-pains-les-2324-et-25-novembre_a278475.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-22T17:51:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L'Intersyndicale de la Boulangerie du Sénégal a exprimé sa déception face à la réponse du ministre, qu'elle estime ne pas répondre, à ce stade, aux attentes légitimes de la profession. Dans un communiqué, l'Intersyndicale affirme que ses membres sont tous d'accord sur un point :\" nous ne céderons…",
+  "categories": [
+   "Texto"
+  ]
+ },
+ {
+  "id": "d627b023c9a3",
+  "titre": "Mauritanie : La police saisit 1,7 tonne de cocaïne",
+  "lien": "https://www.dakaractu.com/Mauritanie-La-police-saisit-17-tonne-de-cocaine_a278474.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-22T17:50:00+00:00",
+  "rubrique": "Afrique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La police mauritanienne a saisi 1,7 tonne de cocaïne. Il s'agit de l'une des plus importantes saisies de cette drogue enregistrées en Afrique de l'Ouest. Sur la base d'une valeur hypothétique de 30000 dollars le kilogramme, la cargaison représenterait environ 51 millions de dollars. Cette…",
+  "categories": [
+   "Actu"
+  ]
+ },
+ {
   "id": "cdf721bcaa34",
   "titre": "Tribune de Samba Kara NDIAYE- \"Le Sénégal n'a pas le droit de se payer de mots",
   "lien": "https://www.igfm.sn/tribune-de-samba-kara-ndiaye-le-senegal-n-a-pas-le-droit-de-se-payer-de-mots",
@@ -1312,6 +1344,22 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Les enquêteurs s'intéressent de près à un mail susceptible d'éclairer le rôle du préfet Hugues Moutouh dans des soupçons de fuites d'informations confidentielles du ministère de l'Intérieur vers le Rassemblement national."
+ },
+ {
+  "id": "a36f13bee243",
+  "titre": "Fuites au ministère de l'Intérieur : un mail jette des soupçons sur l'implication du préfet Moutouh",
+  "lien": "https://www.france24.com/fr/france/20261122-fuites-au-minist%C3%A8re-de-l-int%C3%A9rieur-un-mail-jette-des-soup%C3%A7ons-sur-l-implication-du-pr%C3%A9fet-moutouh",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-22T14:28:27+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La justice française soupçonne des fuites d'informations confidentielles du ministère de l'Intérieur vers le Rassemblement national. Un mail pourrait apporter des éléments sur le rôle de l'ancien secrétaire général de Beauvau et actuel préfet du Loiret et de la région Centre-Val de Loire, Hugues…",
+  "categories": [
+   "France"
+  ]
  },
  {
   "id": "028c10fbcb19",
@@ -68135,31 +68183,5 @@
   "diaspora": false,
   "secondaire": true,
   "extrait": "À l’occasion de ses 99 ans, El Hadji Mansour Mbaye a reçu une délégation de l’Église catholique venue lui rendre hommage. Elle était représentée notamment par l’abbé Théodore Gomis, chargé de la communication du diocèse de Dakar, qui a porté la parole du Cardinal André Geuye En retour, El Hadji…"
- },
- {
-  "id": "9695e3eae068",
-  "titre": "Affaire des manuels scolaires : Guy Marius Sagna dénonce « dix mois de négligence » du ministre Moustapha Mamba Guirassy",
-  "lien": "https://www.pressafrik.com/Affaire-des-manuels-scolaires-Guy-Marius-Sagna-denonce-dix-mois-de-negligence-du-ministre-Moustapha-Mamba-Guirassy_a314640.html",
-  "source": "PressAfrik",
-  "site_source": "https://www.pressafrik.com",
-  "date": "2026-11-15T17:52:00+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le député Guy Marius Sagna a réagi après la publication d'un communiqué ministériel publié le 1... www.pressafrik.com"
- },
- {
-  "id": "92ab00708ef6",
-  "titre": "Guy Marius Sagna : « Des crânes volés après la profanation de tombes sont conservés par des institutions au Sénégal »",
-  "lien": "https://www.seneweb.com/fr/news/Reactions/guy-marius-sagna-des-cranes-voles-apres-la-profanation-de-tombes-sont-conserves-par-des-institutions-au-senegal_n_999003704.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-15T17:51:24+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le député Guy Marius Sagna porte le débat sur la restitution et la dignité des restes humains jusque dans les institutions nationales."
  }
 ]
