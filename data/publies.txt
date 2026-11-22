@@ -134,3 +134,10 @@ content/syntheses/2026-11-21-elimane-lam-bracelet-electronique.md
 content/syntheses/2026-11-21-incendie-vdn-bilan-un-mort.md
 content/syntheses/2026-11-21-joj-heritage-emplois-jeunes.md
 content/syntheses/2026-11-21-migrations-cooperation-regionale-oim.md
+content/podcast/2026-11-21.md
+content/syntheses/2026-11-21-caf-soutien-infantino-finances-arbitres.md
+content/syntheses/2026-11-21-declaration-de-dakar-migrations-seize-pays.md
+content/syntheses/2026-11-21-gambie-interceptions-senegalais.md
+content/syntheses/2026-11-21-lutte-franc-reug-reug-gris-bordeaux-diop-2.md
+content/syntheses/2026-11-21-rts-retransmission-senegal-soudan-pape-ale-niang.md
+content/video/2026-11-21.md
