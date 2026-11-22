@@ -1,5 +1,100 @@
 [
  {
+  "id": "8a1a338fbb32",
+  "titre": "Une fillette de 11 ans écope de 7 ans de détention pour tentative de meurtre",
+  "lien": "https://www.seneweb.com/fr/news/International/une-fillette-de-11-ans-ecope-de-7-ans-de-detention-pour-tentative-de-meurtre_n_999004315.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-22T02:02:04+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Une fillette de 10 ans au moment des faits, qui avait agressé une fillette de 5 ans et tenté de lui ôter la vie à Cleveland aux Etats-Unis , a été condamnée à au moins sept ans dans un établissement d…"
+ },
+ {
+  "id": "e6bbaa8002bc",
+  "titre": "Liberia: arrivée d'une nouvelle vague de 25 migrants expulsés des Etats-Unis",
+  "lien": "https://www.seneweb.com/fr/news/Afrique/liberia-arrivee-dune-nouvelle-vague-de-25-migrants-expulses-des-etats-unis_n_999004314.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-22T01:55:32+00:00",
+  "rubrique": "Diaspora",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Vingt-cinq migrants expulsés des États-Unis sont arrivés vendredi soir au Liberia, la troisième vague depuis août dans ce pays, a indiqué samedi à l'AFP un responsable de la Commission de rapatriement…"
+ },
+ {
+  "id": "be93832d8922",
+  "titre": "Sanoussi Diakhité mise sur un semis tardif de fonio à Kolda",
+  "lien": "https://senego.com/sanoussi-diakhite-mise-sur-un-semis-tardif-de-fonio-a-kolda_2026600.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-22T01:55:27+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "À Kolda, l’agronome Sanoussi Diakhité a semé son fonio le 3 septembre. Son expérience met en avant le cycle court de cette céréale et ses possibilités de récolte.",
+  "categories": [
+   "Agriculture",
+   "Économie",
+   "Sénégal",
+   "Fonio",
+   "kolda"
+  ]
+ },
+ {
+  "id": "c1c6ba06daf7",
+  "titre": "Mbacké : El Hadji Malick Ndiaye lève le voile sur son audience avec un proche du président Diomaye Faye",
+  "lien": "https://www.seneweb.com/fr/news/Video/mbacke-el-hadji-malick-ndiaye-leve-le-voile-sur-son-audience-avec-un-proche-du-president-diomaye-faye_n_999004313.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-22T01:47:44+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le premier vice-président de l'Assemblée nationale et vice-président de Pastef, El Hadji Malick Ndiaye, a révélé les coulisses d'un entretien avec un collaborateur du chef de l'État."
+ },
+ {
+  "id": "575b334c6b59",
+  "titre": "Conférence des jeunes journalistes africains : La CJRS ouvre le débat à Dakar les 23 et 24 novembre prochain autour du modèle économique des entreprises de presse",
+  "lien": "https://www.dakaractu.com/Conference-des-jeunes-journalistes-africains-La-CJRS-ouvre-le-debat-a-Dakar-les-23-et-24-novembre-prochain-autour-du_a278467.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-22T01:43:00+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La capitale sénégalaise accueillera, les 23 et 24 novembre 2026, la Conférence des jeunes journalistes africains. Cette rencontre continentale, organisée par la Convention des Jeunes Reporters du Sénégal (CJRS) en partenariat avec la Fondation Konrad Adenauer, réunira des professionnels des médias…",
+  "categories": [
+   "Texto"
+  ]
+ },
+ {
+  "id": "47b37258ce02",
+  "titre": "Abdoulaye Touré : la chambre d’accusation renvoie l’affaire au 10 décembre",
+  "lien": "https://senego.com/abdoulaye-toure-la-chambre-daccusation-renvoie-laffaire-au-10-decembre_2026598.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-22T01:32:29+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "La chambre d’accusation de Dakar a reporté au 10 décembre 2026 les plaidoiries dans l’affaire Abdoulaye Touré, où le procureur conteste des mises en liberté provisoire.",
+  "categories": [
+   "Dakar",
+   "Justice",
+   "Sénégal",
+   "Abdoulaye Touré",
+   "Chambre d'accusation"
+  ]
+ },
+ {
   "id": "de5b251fd2c3",
   "titre": "Saint-Louis : Modou Diagne Fada « Le pays traverse des moments difficiles. C'est un pays qui risque de... »",
   "lien": "https://www.seneweb.com/fr/news/Politique/saint-louis-modou-diagne-fada-le-pays-traverse-des-moments-difficiles-cest-un-pays-qui-risque-de_n_999004312.html",
@@ -67343,31 +67438,5 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "La Maison Blanche a annoncé, vendredi, que les discussions des trois chefs d’Etat, en marge du sommet de l’APEC à Shenzhen, porteraient sur le désarmement nucléaire. Selon un responsable américain, s’exprimant sous couvert d’anonymat, l’Iran sera aussi au menu de la rencontre, mais pas l’Ukraine."
- },
- {
-  "id": "f49be85f4dbf",
-  "titre": "Au Cap-Vert, modèle de stabilité démocratique, le président sortant José Maria Neves vise un second mandat",
-  "lien": "https://www.lemonde.fr/afrique/article/2026/11/15/au-cap-vert-modele-de-stabilite-democratique-le-president-sortant-jose-maria-neves-vise-un-second-mandat_6810808_3212.html",
-  "source": "Le Monde Afrique",
-  "site_source": "https://www.lemonde.fr/afrique/",
-  "date": "2026-11-15T01:53:33+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Parmi les six candidats en lice pour le premier tour, dimanche, le chef de l’Etat part favori face à sa principale rivale, l’ancienne ministre de la justice Joana Rosa Amado, première femme candidate à la présidence de la République du pays."
- },
- {
-  "id": "315b459cc247",
-  "titre": "SAINT-LOUIS : ACCÈS AUX SERVICES DE SANTÉ : Les jeunes se mobilisent pour lever les tabous et les préjugés",
-  "lien": "https://www.enqueteplus.com/content/saint-louis-acc%C3%A8s-aux-services-de-sant%C3%A9-les-jeunes-se-mobilisent-pour-lever-les-tabous-et",
-  "source": "EnQuête",
-  "site_source": "https://www.enqueteplus.com",
-  "date": "2026-11-15T01:33:15+00:00",
-  "rubrique": "Société",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "SAINT-LOUIS : ACCÈS AUX SERVICES DE SANTÉ Les jeunes se mobilisent pour lever les tabous et les préjugés Un audit social réalisé par les auditrices du projet Jeune Vigie 2 met en lumière les obstacles à l’accès des jeunes aux services de santé sexuelle et reproductive dans le département de…"
  }
 ]
