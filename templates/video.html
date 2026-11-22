@@ -3,12 +3,13 @@
 <article class="article">
   <p class="retour"><a href="{{ racine }}index.html">← Retour à l'accueil</a></p>
   <h1>Vidéo du jour</h1>
-  <p class="meta">Vidéos verticales prêtes pour TikTok, Instagram (Reels) et YouTube Shorts. Téléchargez-les, puis copiez la légende et collez-la au moment de publier.</p>
+  <p class="meta">Vidéos verticales prêtes pour TikTok, Instagram (Reels) et YouTube Shorts. Sur téléphone, « Partager » copie la légende et ouvre directement TikTok, Instagram ou WhatsApp : collez la légende au moment de publier. Sinon, téléchargez la vidéo puis copiez la légende.</p>
   {% for v in videos %}
   <section class="video-jour">
     <h2>{{ v.titre }}</h2>
     <video controls preload="none" playsinline src="{{ v.video.url }}"></video>
     <p class="boutons-partage">
+      <button type="button" class="bouton-partager" hidden data-partager="{{ v.video.url }}" data-nom="askaninfo-{{ v.slug }}.mp4" data-legende="legende-{{ v.slug }}">Partager</button>
       <a class="bouton-wa" href="{{ v.video.url }}" download="askaninfo-{{ v.slug }}.mp4">Télécharger la vidéo</a>
       <button type="button" class="bouton-fb" data-copier="legende-{{ v.slug }}" data-copie="Légende copiée ✓">Copier la légende</button>
     </p>
@@ -22,6 +23,7 @@
         <p><strong>{{ s.titre }}</strong></p>
         <video controls preload="none" playsinline src="{{ s.video.url }}"></video>
         <p class="boutons-partage">
+          <button type="button" class="bouton-partager" hidden data-partager="{{ s.video.url }}" data-nom="askaninfo-{{ s.id }}.mp4" data-legende="legende-{{ s.id }}">Partager</button>
           <a class="bouton-wa" href="{{ s.video.url }}" download="askaninfo-{{ s.id }}.mp4">Télécharger</a>
           <button type="button" class="bouton-fb" data-copier="legende-{{ s.id }}" data-copie="Légende copiée ✓">Copier la légende</button>
         </p>

@@ -55,6 +55,8 @@ main { padding: 24px 16px 48px; }
 .partage .wa { background: #1e9e55; } .partage .fb { background: #1877f2; }
 .partage .x { background: #111; } .partage .tg { background: #229ed9; }
 .bouton-wa { display: inline-block; background: #1e9e55; color: #fff; text-decoration: none; padding: 10px 18px; border-radius: 999px; font: 700 1rem system-ui, sans-serif; }
+.bouton-partager { display: inline-block; background: #111; color: #fff; border: 0; cursor: pointer; padding: 10px 18px; border-radius: 999px; font: 700 1rem system-ui, sans-serif; }
+.bouton-partager[disabled] { opacity: .6; cursor: progress; }
 .bouton-fb { display: inline-block; background: #1877f2; color: #fff; border: 0; cursor: pointer; padding: 10px 18px; border-radius: 999px; font: 700 1rem system-ui, sans-serif; }
 .hors-ecran { position: fixed; top: -1000px; left: 0; opacity: 0; }
 .boutons-partage { display: flex; flex-wrap: wrap; gap: 10px; }
