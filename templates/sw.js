@@ -23,7 +23,7 @@ self.addEventListener("fetch", (e) => {
   const req = e.request;
   const url = new URL(req.url);
   if (req.method !== "GET" || url.origin !== self.location.origin) return;  // MP3, stats, liens externes : pas touchés
-  if (url.pathname.endsWith(".mp3")) return;
+  if (url.pathname.endsWith(".mp3") || url.pathname.endsWith(".mp4")) return;   // sons et vidéos : directement au réseau
 
   if (req.mode === "navigate") {
     // pages : toujours la version en ligne d'abord, la copie enregistrée si pas de réseau

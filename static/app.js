@@ -151,3 +151,54 @@ document.querySelectorAll("[data-copier]").forEach((bouton) => {
     }
   });
 });
+
+// Page « Vidéo du jour » : bouton « Partager » (téléphones). Il copie la légende, puis
+// ouvre le menu de partage du téléphone avec le fichier vidéo (TikTok, Instagram,
+// WhatsApp…), sans passer par la galerie. Seulement pour les vidéos servies par le site.
+const videosPretes = new Map();   // adresse → fichier déjà chargé
+function partagePossible() {
+  try {
+    const essai = new File([new Blob([""], { type: "video/mp4" })], "essai.mp4", { type: "video/mp4" });
+    return !!(navigator.share && navigator.canShare && navigator.canShare({ files: [essai] }));
+  } catch (e) { return false; }
+}
+document.addEventListener("DOMContentLoaded", () => {
+  if (!partagePossible()) return;
+  document.querySelectorAll("[data-partager]").forEach((b) => {
+    if (b.dataset.partager.startsWith("/")) b.hidden = false;
+  });
+});
+document.addEventListener("click", async (e) => {
+  const b = e.target.closest("[data-partager]");
+  if (!b) return;
+  const legende = document.getElementById(b.dataset.legende);
+  if (legende && navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(legende.textContent).catch(() => {});
+  }
+  let fichier = videosPretes.get(b.dataset.partager);
+  if (!fichier) {
+    b.disabled = true;
+    b.textContent = "Préparation…";
+    try {
+      const r = await fetch(b.dataset.partager);
+      if (!r.ok) throw new Error(String(r.status));
+      fichier = new File([await r.blob()], b.dataset.nom, { type: "video/mp4" });
+      videosPretes.set(b.dataset.partager, fichier);
+    } catch (err) {
+      b.disabled = false;
+      b.textContent = "Partager";
+      const lien = b.parentElement.querySelector("a[download]");
+      if (lien) lien.click();            // secours : téléchargement classique
+      return;
+    }
+    b.disabled = false;
+  }
+  try {
+    await navigator.share({ files: [fichier] });
+    b.textContent = "Partager";
+    evenement("video-partage");
+  } catch (err) {
+    // Le chargement a pris trop de temps : le téléphone demande un second appui.
+    b.textContent = err && err.name === "NotAllowedError" ? "Toucher à nouveau pour partager" : "Partager";
+  }
+});
