@@ -1,5 +1,51 @@
 [
  {
+  "id": "7d2265f6be1f",
+  "titre": "Sénégal 2027 : quand la crise budgétaire rencontre le mur du financement",
+  "lien": "https://www.seneplus.com/article/senegal-2027-quand-la-crise-budgetaire-rencontre-le-mur-du-financement",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-23T00:21:55+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Sénégal 2027 : quand la crise budgétaire rencontre le mur du financement Farid Akele Mon, 11/23/2026 - 00:21"
+ },
+ {
+  "id": "d60ef7df3351",
+  "titre": "Gadaye : le sac à dos qui cachait 140.000 FCFA de faux billets",
+  "lien": "https://www.seneweb.com/fr/news/Societe/gadaye-le-sac-a-dos-qui-cachait-140000-fcfa-de-faux-billets_n_999004375.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-23T00:12:28+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Dans la nuit du 21 au 22 novembre 2026, vers 02h du matin, les éléments du commissariat d'arrondissement de Yeumbeul ont interpellé un individu soupçonné de détention et de mise en circulation de bill…"
+ },
+ {
+  "id": "2ebd16611adc",
+  "titre": "Trois organisations africaines demandent à Diomaye Faye et Ousmane Sonko de renouer le dialogue",
+  "lien": "https://senego.com/trois-organisations-africaines-demandent-a-diomaye-faye-et-ousmane-sonko-de-renouer-le-dialogue_2026864.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-23T00:09:21+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Le 22 novembre 2026, l’UJPLA, Afrikajom Center et GERDDES-AFRIQUE ont appelé Bassirou Diomaye Faye et Ousmane Sonko à privilégier le dialogue.",
+  "categories": [
+   "Afrique",
+   "Politique",
+   "Sénégal",
+   "Alioune Tine",
+   "Bassirou diomaye Faye"
+  ]
+ },
+ {
   "id": "ad058806e563",
   "titre": "Risque d'affrontements entre deux communautés à Thiès : comment la police a désamorcé la bombe",
   "lien": "https://www.seneweb.com/fr/news/Societe/risque-daffrontements-entre-deux-communautes-a-thies-comment-la-police-a-desamorce-la-bombe_n_999004374.html",
@@ -11,6 +57,19 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "ne intervention rapide de la police a permis d'empêcher un affrontement entre bergers et cultivateurs à Diassap, le samedi 21 novembre 2026."
+ },
+ {
+  "id": "bc10222fc523",
+  "titre": "Un projet peut en cacher un autre",
+  "lien": "https://www.seneplus.com/article/un-projet-peut-en-cacher-un-autre-0",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-22T23:59:53+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Un projet peut en cacher un autre Farid Akele Sun, 11/22/2026 - 23:59"
  },
  {
   "id": "40c5f55aaa3f",
@@ -206,6 +265,19 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Air Sénégal, l’addition et le silence Farid Akele Sun, 11/22/2026 - 22:55"
+ },
+ {
+  "id": "faf11b089437",
+  "titre": "Présidentielle 2027 : \"La dynamique de vote utile s'exprime de manière très anticipée\"",
+  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261122-pr%C3%A9sidentielle-2027-la-dynamique-de-vote-utile-s-exprime-de-mani%C3%A8re-tr%C3%A8s-anticip%C3%A9e",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-22T22:54:49+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Au menu de Présidentielle 2027 : Jean-Luc Mélenchon continue de rallier à gauche, Dominique de Villepin et David Lisnard bousculent le jeu à droite, et le RN fragilisé par les affaires. Avec Frédéric Micheau, Directeur général adjoint de l'institut de sondages OpinionWay, et Richard Werly,…"
  },
  {
   "id": "f339956b4be2",
@@ -1395,6 +1467,22 @@
    "Énergie",
    "Sénégal",
    "bourses de sécurité familiale"
+  ]
+ },
+ {
+  "id": "3aef63cee4c1",
+  "titre": "Des milliers de manifestants mobilisés à Istanbul contre la fermeture de médias d'opposition",
+  "lien": "https://www.france24.com/fr/asie-pacifique/20261122-des-milliers-de-personnes-manifestent-%C3%A0-istanbul-contre-la-fermeture-de-m%C3%A9dias-d-opposition",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-22T19:02:24+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Répondant à l'appel du principal parti d'opposition, le Nouveau Parti, des milliers de personnes sont descendues dans les rues d'Istanbul, dimanche, afin de défendre les médias d'opposition face à la répression croissante en Turquie. Cette manifestation intervient après une descente de police mardi…",
+  "categories": [
+   "Asie-Pacifique"
   ]
  },
  {
@@ -67911,135 +67999,5 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "« Le cri de la terre et le cri des pauvres s’élèvent ensemble », a déclaré, dimanche, le souverain pontife, lors d’une nouvelle étape de sa tournée en Amérique latine. Il a notamment dénoncé « l’exploitation » des ressources et l’assassinat de chefs autochtones qui défendent leurs terres."
- },
- {
-  "id": "c2cacc7ab0ba",
-  "titre": "LOMPOUL ET LES JOJ Le Sénégal entre deuil et projecteurs (Par Abdou Loum )",
-  "lien": "https://www.seneweb.com/fr/news/Contribution/lompoul-et-les-joj-le-senegal-entre-deuil-et-projecteurs-par-abdou-loum_n_999003734.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-16T01:03:18+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "LOMPOUL ET LES JOJ Le Sénégal entre deuil et projecteurs"
- },
- {
-  "id": "561adbdc91bb",
-  "titre": "Touba : un trafiquant présumé arrêté avec 41 boulettes de crack lors d'un contrôle routier",
-  "lien": "https://www.seneweb.com/fr/news/Societe/touba-un-trafiquant-presume-arrete-avec-41-boulettes-de-crack-lors-dun-controle-routier_n_999003733.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-16T00:50:28+00:00",
-  "rubrique": "Faits divers",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Un homme de 36 ans a été placé en garde à vue au commissariat spécial de Touba pour des faits présumés de trafic de drogue."
- },
- {
-  "id": "766cc0ae8769",
-  "titre": "Ousmane Sonko révèle un complot contre sa personne : « Ils avaient tout planifié pour m'écarter! Mais ce qui leur a échappé... »",
-  "lien": "https://www.dakaractu.com/Ousmane-Sonko-revele-un-complot-contre-sa-personne-Ils-avaient-tout-planifie-pour-m-ecarter-Mais-ce-qui-leur-a-echappe_a278226.html",
-  "source": "Dakaractu",
-  "site_source": "https://www.dakaractu.com",
-  "date": "2026-11-16T00:49:00+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le président de Pastef-Les Patriotes, lors de la réunion à huis clos tenue hier, affirme avoir déjoué une manœuvre destinée à l'écarter de la scène politique. « Ils avaient tout planifié pour m'écarter. Mais ce qu'ils n'avaient pas calculé, c'est ma prise de fonction rapide à la présidence de…"
- },
- {
-  "id": "33300c61a56b",
-  "titre": "Touba : menacé d'être envoyé dans un daara où il craignait d'être enchaîné, un adolescent tente de se suicider",
-  "lien": "https://www.seneweb.com/fr/news/Societe/touba-menace-detre-envoye-dans-un-daara-ou-il-craignait-detre-enchaine-un-adolescent-tente-de-se-suicider_n_999003732.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-16T00:35:10+00:00",
-  "rubrique": "Société",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le samedi 14 novembre 2026, vers 16 heures, le commissariat d'arrondissement de Touba-Tawfékh a été avisé par un appel téléphonique de l'hôpital Diémoul d'une tentative de suicide."
- },
- {
-  "id": "4cd7ed945a4e",
-  "titre": "Sénégal-Espagne : le recyclage des déchets figure parmi les axes de coopération",
-  "lien": "https://senego.com/senegal-espagne-le-recyclage-des-dechets-figure-parmi-les-axes-de-cooperation_2024296.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-16T00:32:42+00:00",
-  "rubrique": "Économie",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "À Rufisque, le Sénégal et l’Espagne préparent une convention-cadre sur l’économie solidaire, avec des projets autour des coopératives agricoles et du recyclage."
- },
- {
-  "id": "017366f55d6f",
-  "titre": "Dakar 2026 : après la flamme, la gouvernance",
-  "lien": "https://www.seneplus.com/article/dakar-2026-apres-la-flamme-la-gouvernance",
-  "source": "SenePlus",
-  "site_source": "https://www.seneplus.com",
-  "date": "2026-11-16T00:28:32+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Dakar 2026 : après la flamme, la gouvernance Farid Akele Mon, 11/16/2026 - 00:28"
- },
- {
-  "id": "e1441c9e70fc",
-  "titre": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky annonce la préparation d’une réunion de la coalition des volontaires, « qui pourrait s’avérer historique »",
-  "lien": "https://www.lemonde.fr/international/live/2026/11/16/en-direct-guerre-en-ukraine-volodymyr-zelensky-annonce-la-preparation-d-une-reunion-de-la-coalition-des-volontaires-qui-pourrait-s-averer-historique_6810982_3210.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-16T00:20:00+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "L’objectif présenté par le président ukrainien est de définir la position européenne dans de futurs pourparlers avec Moscou. Par ailleurs, l’Estonie a annoncé la fermeture de ses frontières avec la Russie à compter du 1er décembre, après une nouvelle tentative de sabotage."
- },
- {
-  "id": "e941a4fd3e0b",
-  "titre": "Faut-il dégraisser la fonction publique sénégalaise ?",
-  "lien": "https://www.seneplus.com/article/faut-il-degraisser-la-fonction-publique-senegalaise",
-  "source": "SenePlus",
-  "site_source": "https://www.seneplus.com",
-  "date": "2026-11-16T00:19:00+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Faut-il dégraisser la fonction publique sénégalaise ? Farid Akele Mon, 11/16/2026 - 00:19"
- },
- {
-  "id": "74f6998301e8",
-  "titre": "Reprendre le wolof à l'âge adulte : ce que cherchent vraiment les enfants de la diaspora",
-  "lien": "https://www.seneplus.com/article/reprendre-le-wolof-lage-adulte-ce-que-cherchent-vraiment-les-enfants-de-la-diaspora",
-  "source": "SenePlus",
-  "site_source": "https://www.seneplus.com",
-  "date": "2026-11-16T00:12:04+00:00",
-  "rubrique": "Diaspora",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Reprendre le wolof à l'âge adulte : ce que cherchent vraiment les enfants de la diaspora Farid Akele Mon, 11/16/2026 - 00:12"
- },
- {
-  "id": "f324cb621cf2",
-  "titre": "Elon Musk et plus de 157 000 signataires réclament le retour de Jensen Huang à la tête de Nvidia",
-  "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261116-elon-musk-uber-spacex-epic-games-157000-signataires-reclament-retour-jensen-huang-tete-nvidia-intelligence-artificielle-lettre-ouverte-enquete-independante",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-16T00:11:15+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Plusieurs patrons de la Silicon Valley, dont Elon Musk et Tim Sweeney, font partie des 157 000 signataires d'une lettre ouverte qui demande le retour de Jensen Huang à la tête de Nvidia, \"pendant qu'une enquête indépendante établit les faits\". Selon eux, il \"mérite une procédure équitable, pas un…"
  }
 ]
