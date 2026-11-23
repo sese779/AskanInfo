@@ -198,4 +198,5 @@ images:
     image: /static/images/5c1df6cc-873d-48e8-b3ff-a57c2936b8d5.jpeg
     type: photo
     credit: TAS
+    source: https://fr.wikipedia.org/wiki/Tribunal_arbitral_du_sport
     actif: true
