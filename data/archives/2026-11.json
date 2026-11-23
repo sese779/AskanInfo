@@ -1,5 +1,31 @@
 [
  {
+  "id": "23d87a07a04c",
+  "titre": "Au Cap-Vert, José Maria Neves réélu président dès le premier tour",
+  "lien": "https://www.lemonde.fr/afrique/article/2026/11/16/au-cap-vert-jose-maria-neves-reelu-president-des-le-premier-tour_6811072_3212.html",
+  "source": "Le Monde Afrique",
+  "site_source": "https://www.lemonde.fr/afrique/",
+  "date": "2026-11-16T00:03:59+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le président sortant, favori pour un deuxième mandat de suite, l’a emporté dès le premier tour, dimanche, avec plus de 63 % des voix dans cet archipel lusophone réputé pour sa stabilité démocratique."
+ },
+ {
+  "id": "1b0796f28bdf",
+  "titre": "Décès d'Abdou Tidiane Diop et d'Adama Salif Diallo : l'hypothèse d'une intoxication évoquée",
+  "lien": "https://www.leral.net/deces-abdou-tidiane-diop-adama-diallo/",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-15T23:56:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Deuil dans deux familles en vue. Abdou Tidiane Diop, petit-fils de l'ancien président Abdou Diouf, et Adama Salif Diallo, fil..."
+ },
+ {
   "id": "d873b0e8dceb",
   "titre": "Accident mortel à Pikine : un couple à vélomoteur percuté par un autocar, l'épouse meurt sur le coup et son mari est blessé",
   "lien": "https://www.seneweb.com/fr/news/Societe/accident-mortel-a-pikine-un-couple-a-velomoteur-percute-par-un-autocar-lepouse-meurt-sur-le-coup-et-son-mari-est-blesse_n_999003730.html",

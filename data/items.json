@@ -1,5 +1,31 @@
 [
  {
+  "id": "ad058806e563",
+  "titre": "Risque d'affrontements entre deux communautés à Thiès : comment la police a désamorcé la bombe",
+  "lien": "https://www.seneweb.com/fr/news/Societe/risque-daffrontements-entre-deux-communautes-a-thies-comment-la-police-a-desamorce-la-bombe_n_999004374.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-23T00:01:53+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "ne intervention rapide de la police a permis d'empêcher un affrontement entre bergers et cultivateurs à Diassap, le samedi 21 novembre 2026."
+ },
+ {
+  "id": "40c5f55aaa3f",
+  "titre": "Les passeurs nouveaux seraient des smartphones offerts par les familles des migrants",
+  "lien": "https://www.seneplus.com/article/les-passeurs-nouveaux-seraient-des-smartphones-offerts-par-les-familles-des-migrants",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-22T23:52:55+00:00",
+  "rubrique": "Diaspora",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Les passeurs nouveaux seraient des smartphones offerts par les familles des migrants Farid Akele Sun, 11/22/2026 - 23:52"
+ },
+ {
   "id": "02040e9c9395",
   "titre": "À Kaolack, Amy Mara Dièye appelle à la transparence et au dialogue dans la pêche",
   "lien": "https://senego.com/a-kaolack-amy-mara-dieye-appelle-a-la-transparence-et-au-dialogue-dans-la-peche_2026862.html",
@@ -68015,31 +68041,5 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Plusieurs patrons de la Silicon Valley, dont Elon Musk et Tim Sweeney, font partie des 157 000 signataires d'une lettre ouverte qui demande le retour de Jensen Huang à la tête de Nvidia, \"pendant qu'une enquête indépendante établit les faits\". Selon eux, il \"mérite une procédure équitable, pas un…"
- },
- {
-  "id": "23d87a07a04c",
-  "titre": "Au Cap-Vert, José Maria Neves réélu président dès le premier tour",
-  "lien": "https://www.lemonde.fr/afrique/article/2026/11/16/au-cap-vert-jose-maria-neves-reelu-president-des-le-premier-tour_6811072_3212.html",
-  "source": "Le Monde Afrique",
-  "site_source": "https://www.lemonde.fr/afrique/",
-  "date": "2026-11-16T00:03:59+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le président sortant, favori pour un deuxième mandat de suite, l’a emporté dès le premier tour, dimanche, avec plus de 63 % des voix dans cet archipel lusophone réputé pour sa stabilité démocratique."
- },
- {
-  "id": "1b0796f28bdf",
-  "titre": "Décès d'Abdou Tidiane Diop et d'Adama Salif Diallo : l'hypothèse d'une intoxication évoquée",
-  "lien": "https://www.leral.net/deces-abdou-tidiane-diop-adama-diallo/",
-  "source": "Leral",
-  "site_source": "https://www.leral.net",
-  "date": "2026-11-15T23:56:00+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Deuil dans deux familles en vue. Abdou Tidiane Diop, petit-fils de l'ancien président Abdou Diouf, et Adama Salif Diallo, fil..."
  }
 ]
