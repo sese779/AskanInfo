@@ -16,8 +16,7 @@ sources:
   - nom: Seneweb
     titre: "Football : la CAF annonce la création d'une nouvelle compétition"
     url: https://www.seneweb.com/fr/news/Sport/football-la-caf-annonce-la-creation-dune-nouvelle-competition_n_999004324.html
-photo: /static/images/IMG_5997.jpeg
-credit_photo: "Photo : caf "
+credit_photo: "Photo : Af"
 ---
 Le football féminin africain aura bientôt une nouvelle compétition continentale réservée aux jeunes. Selon Le Soleil, la décision a été prise par l'exécutif de la CAF, réuni ce samedi 21 novembre 2026 à Abuja, au Nigeria : une Coupe d'Afrique des nations va voir le jour pour les joueuses de moins de 17 ans.
 
