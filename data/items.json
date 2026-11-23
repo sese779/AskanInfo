@@ -1,5 +1,21 @@
 [
  {
+  "id": "6e19fb64c645",
+  "titre": "Mali : Amnesty va lancer une campagne pour exiger la libération de l'influenceuse Rokiatou Doumbia",
+  "lien": "https://www.france24.com/fr/afrique/20261123-amnesty-international-lance-campagne-liberation-influenceuse-rokiatou-doumbia-mali-junte-prison-association-malfaiteurs",
+  "source": "France 24 Afrique",
+  "site_source": "https://www.france24.com/fr/afrique/",
+  "date": "2026-11-23T04:05:23+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Amnesty se mobilise pour l'influenceuse Rokiatou Doumbia, alias \"Rose, la vie chère\", en lançant la campagne Écrire pour les droits pour réclamer sa libération dès le 10 décembre. Voix critique de la junte, elle a été condamnée en août dernier à 10 ans de prison, dont trois avec sursis, pour…",
+  "categories": [
+   "Afrique"
+  ]
+ },
+ {
   "id": "e04dca125618",
   "titre": "Découvrez les Unes des journaux sénégalais du lundi 23 novembre 2026",
   "lien": "https://senego.com/decouvrez-les-unes-des-journaux-senegalais-du-lundi-23-novembre-2026_2026869.html",
@@ -67883,57 +67899,5 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "La chaîne 12 a diffusé un reportage révélant que, la veille des législatives, le chef de cabinet de Benjamin Netanyahu avait transmis au chef de la police une plainte concernant des militants du parti arabe Raam. Appelant à \"l'ouverture immédiate d'une enquête\", Gadi Eisenkot a estimé, dimanche,…"
- },
- {
-  "id": "1b59b786b023",
-  "titre": "Patrimoine mondial: la Chine propose à l'Afrique de l'aider à classer ses sites sur la liste de l'Unesco",
-  "lien": "https://www.rfi.fr/fr/afrique/20261116-patrimoine-mondial-la-chine-propose-%C3%A0-l-afrique-de-l-aider-%C3%A0-classer-ses-sites-sur-la-liste-de-l-unesco",
-  "source": "RFI Afrique",
-  "site_source": "https://www.rfi.fr/fr/afrique/",
-  "date": "2026-11-16T04:03:18+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Alors que moins de 10 % des sites actuellement inscrits sur la liste du patrimoine mondial de l'Unesco se trouvent en Afrique, Pékin offre aux pays du continent de les accompagner et de financer les candidatures des biens qu'ils entendent déposer auprès de l'organisation. Un investissement dans la…"
- },
- {
-  "id": "7864803608d7",
-  "titre": "Présidentielle au Cap-Vert: José María Neves rempile pour un second mandat de cinq ans",
-  "lien": "https://www.rfi.fr/fr/afrique/20261116-pr%C3%A9sidentielle-au-cap-vert-jos%C3%A9-mar%C3%ADa-neves-rempile-pour-un-second-mandat-de-cinq-ans",
-  "source": "RFI Afrique",
-  "site_source": "https://www.rfi.fr/fr/afrique/",
-  "date": "2026-11-16T04:02:42+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Les résultats provisoires de la présidentielle organisée dimanche 15 novembre au Cap-Vert donnent la victoire au chef de l'État sortant dès le premier tour. Considéré comme le favori du scrutin, le candidat du PAICV a recueilli plus de 63% des suffrages, selon des résultats provisoires. Arrivée en…"
- },
- {
-  "id": "019332dc3923",
-  "titre": "Faire la guerre avec l’IA ? Pour l’Ukraine, un cas de conscience moral et politique",
-  "lien": "https://www.lemonde.fr/international/article/2026/11/16/faire-la-guerre-avec-l-ia-pour-l-ukraine-un-cas-de-conscience-moral-et-politique_6811239_3210.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-16T04:00:14+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Alors que la 7ᵉ Conférence d’examen de la Convention sur certaines armes classiques doit commencer lundi à Genève, des soldats et des spécialistes de l’IA ukrainiens s’interrogent sur les responsabilités liées à son usage. Une réflexion difficile à tenir en temps de guerre tandis que l’ennemi russe…"
- },
- {
-  "id": "84f64b2db0fd",
-  "titre": "Coup dur pour Amazon avec la perte de 40 satellites due à l’échec de la fusée Vulcan",
-  "lien": "https://www.lemonde.fr/sciences/article/2026/11/16/coup-dur-pour-amazon-avec-la-perte-de-40-satellites-due-a-l-echec-de-la-fusee-vulcan_6811204_1650684.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-16T03:11:01+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le lanceur a subi une anomalie ⁠environ dix minutes après le décollage, perdant les satellites qu’il transportait. Il s’agissait du premier de plusieurs dizaines de vols achetés au groupe United Launch Alliance par la société de Jeff Bezos pour le développement de son réseau Internet."
  }
 ]
