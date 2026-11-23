@@ -45,6 +45,24 @@
   "extrait": "Arrivés au pouvoir par les armes, les deux militaires ont pourtant des approches bien différentes : quand le Burkinabè prône la rupture avec l’ordre international, le Guinéen mise au contraire sur le pragmatisme économique et le refus de tourner le dos à des partenaires historiques."
  },
  {
+  "id": "4bcf8baebba3",
+  "titre": "Ndèye Fatou Mbodj Diattara, une consécration africaine à Nairobi",
+  "lien": "https://lesoleil.sn/non-classe/117721/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-23T12:04:33+00:00",
+  "rubrique": "Afrique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L’Administrateur général du FONGIP, Mme Ndèye Fatou MBODJ Diattara, a été honorée ce vendredi à Nairobi, au Kenya, parmi les 100 femmes les plus influentes d’Afrique en 2026. Cette distinction, décernée dans le cadre des African Women Awards, salue son parcours, son leadership et son engagement en…",
+  "categories": [
+   "Non classé",
+   "distinction",
+   "FONGIP"
+  ]
+ },
+ {
   "id": "72831c80e66d",
   "titre": "Délégation guinéenne au Sénégal : une mission d’échanges riche en enseignements",
   "lien": "https://lesoleil.sn/actualites/societe-fait-divers/delegation-guineenne-au-senegal-une-mission-dechanges-riche-en-enseignements/",
@@ -68843,31 +68861,5 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Le gouvernement du Sénégal a procédé au déguerpissement de 1 636 mendiants des lieux qu’ils occupaient, dont 636 étrangers et 383 Sénégalais interpellés."
- },
- {
-  "id": "ac2be4505b75",
-  "titre": "En Algérie, le casse-tête de la composition des listes du scrutin local du 28 novembre",
-  "lien": "https://www.jeuneafrique.com/1861813/politique/en-algerie-le-casse-tete-de-la-composition-des-listes-en-vue-du-scrutin-local-du-28-novembre/",
-  "source": "Jeune Afrique",
-  "site_source": "https://www.jeuneafrique.com",
-  "date": "2026-11-16T12:05:22+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Nouvelles règles pour la composition des listes électorales, pression sur les partis d’opposition tentés par le boycott : comme les dernières législatives, les élections locales prévues fin novembre en Algérie s’organisent sous tension, sous les yeux d’électeurs lassés."
- },
- {
-  "id": "04427b1157f5",
-  "titre": "Equipe Nationale : La compo des Lions face au Soudan avec Malang Sarr et Pape Matar Sarr",
-  "lien": "https://wiwsport.com/2026/11/16/equipe-nationale-la-compo-des-lions-face-au-soudan-avec-malang-sarr-et-pape-matar-sarr/",
-  "source": "Wiwsport",
-  "site_source": "https://www.wiwsport.com",
-  "date": "2026-11-16T12:05:08+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "( wiwsport ) - Pour affronter le Soudan lundi à Djouba pour la 4e journée des qualifications à la CAN 2027, Patrick Vieira titularise Malang Sarr et Pape Matar Sarr. Suspendu lors du dernier match.Pape Gueye retrouve egalement sa place au milieu. Cinq jours après sa victoire 4-1 à Dakar face au…"
  }
 ]
