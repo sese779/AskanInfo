@@ -40,6 +40,7 @@ sources:
       stratégique aux multiples enjeux"
     url: https://lesoleil.sn/actualites/sports/fouzi-lekjaa-quitte-la-commission-des-finances-de-la-caf-un-retrait-strategique-aux-multiples-enjeux/
 photo: /static/images/IMG_6006.jpeg
+credit_photo: "Photo : foo"
 ---
 La Confédération africaine de football (CAF) a choisi son camp pour la prochaine élection à la tête de la FIFA. Lors de son Assemblée générale tenue ce samedi 21 novembre à Abuja, son président Patrice Motsepe a demandé aux 54 fédérations du continent d'appuyer Gianni Infantino, actuel patron de la FIFA, rapporte PressAfrik. Selon Le Soleil, qui cite L'Équipe, cette prise de position intervient au lendemain de celle de la Conmebol, la confédération sud-américaine. Elle complique la tâche de Philippe Diallo, président de la Fédération française de football et lui aussi candidat, qui assistait à la réunion, note Seneweb.
 
