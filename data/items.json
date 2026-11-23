@@ -1,5 +1,25 @@
 [
  {
+  "id": "77725e6569d7",
+  "titre": "Revue Presse : La LFR 2026 refuse de quitter les Unes",
+  "lien": "https://senego.com/revue-presse-la-lfr-2026-refuse-de-quitter-les-unes_2027016.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-23T11:22:52+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Les quotidiens parvenus lundi à l’APS reviennent notamment sur le décret de mise en œuvre de la loi de finances rectificative (LFR) 2026, se faisant largement l’écho du débat se rapportant à ce sujet. Le président de la République, Bassirou Diomaye Faye, a décidé de l’entrée en vigueur, par décret,…",
+  "categories": [
+   "Actualités",
+   "Politique",
+   "Revue de presse",
+   "Sénégal",
+   "LFR 2026"
+  ]
+ },
+ {
   "id": "6f520d8af9d3",
   "titre": "Climat : l’échec de la COP31 suscite une vague d’indignation et des appels aux réformes",
   "lien": "https://www.jeuneafrique.com/1864025/societe/climat-lechec-de-la-cop31-suscite-une-vague-dindignation-et-des-appels-aux-reformes/",
@@ -11,6 +31,165 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Le président turc de la COP31, Murat Kurum, a été contraint de reconnaître son échec à faire adopter la proposition de déclaration politique, au terme d’une édition marquée par le blocage des mesures sur les énergies fossiles par les pays pétroliers."
+ },
+ {
+  "id": "16c88127a068",
+  "titre": "Le Sénégal paie une échéance de près de 19 milliards FCFA sur sa dette extérieure",
+  "lien": "https://senego.com/le-senegal-paie-une-echeance-de-pres-de-19-milliards-fcfa-sur-sa-dette-exterieure_2027014.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-23T11:21:12+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Le Sénégal poursuit le remboursement de sa dette extérieure, malgré un contexte budgétaire tendu et les incertitudes entourant la conclusion d’un nouveau programme de financement avec le Fonds monétaire international (FMI). Selon Bloomberg, l’État a réglé un coupon de 31,25 millions de dollars,…",
+  "categories": [
+   "Actualités",
+   "Économie",
+   "International",
+   "Sénégal",
+   "dette extérieure du sénégal"
+  ]
+ },
+ {
+  "id": "613fc2d869eb",
+  "titre": "Enquête de l’UE sur Coca-Cola Europacific Partners pour pratiques anticoncurrentielles",
+  "lien": "https://www.senenews.com/actualites/societe/concurrence-le-principal-producteur-europeen-de-coca-cola-dans-le-collimateur-de-lue_607317.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-23T11:17:55+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L'Union européenne a annoncé lundi l'ouverture d'une enquête approfondie sur le principal producteur et embouteilleur de Coca-Cola en Europe, Coca-Cola Europacific Partners (CCEP), qu'elle soupçonne de mener des pratiques anticoncurrentielles. CCEP, dont le géant américain des sodas Coca-Cola…",
+  "categories": [
+   "International",
+   "Société",
+   "Coca Cola"
+  ]
+ },
+ {
+  "id": "33fcb1b797df",
+  "titre": "Nvidia : la maîtresse chinoise de Jensen Huang était en contact avec Pékin, selon le New York Times",
+  "lien": "https://www.france24.com/fr/am%C3%A9riques/20261123-nvidia-la-ma%C3%AEtresse-chinoise-de-jensen-huang-%C3%A9tait-en-contact-avec-p%C3%A9kin-selon-le-new-york-times",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-23T11:16:52+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Alice Huang, la maîtresse chinoise du patron déchu de Nvidia, Jensen Huang, est restée en contact pendant plus d'un an durant cette liaison avec un responsable du principal service de renseignement de Pékin, rapporte le New York Times.",
+  "categories": [
+   "Amériques"
+  ]
+ },
+ {
+  "id": "8759a000cc12",
+  "titre": "Transformation de produits locaux : une unité industrielle de 37 milliards de FCFA lancée en Casamance",
+  "lien": "https://www.pressafrik.com/Transformation-de-produits-locaux-une-unite-industrielle-de-37-milliards-de-FCFA-lancee-en-Casamance_a314977.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-23T11:13:00+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La Casamance veut désormais transformer ses richesses en emplois. À Adéane, dans le département d... www.pressafrik.com",
+  "categories": [
+   "Politique"
+  ]
+ },
+ {
+  "id": "3cb7b3ef4d2d",
+  "titre": "OIF : le nom de Macky Sall circule de nouveau, sans candidature déclarée",
+  "lien": "https://senego.com/oif-le-nom-de-macky-sall-circule-de-nouveau-sans-candidature-declaree_2027013.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-23T11:12:35+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Après le report de l’élection à novembre 2027, le nom de Macky Sall circule de nouveau pour la tête de l’OIF, sans qu’aucune candidature soit déclarée.",
+  "categories": [
+   "Afrique",
+   "Diplomatie",
+   "Politique",
+   "Sénégal",
+   "Bassirou diomaye Faye"
+  ]
+ },
+ {
+  "id": "eec4a77b2207",
+  "titre": "La DSME rectifie les rumeurs sur la fertilité, le poids et les implants contraceptifs",
+  "lien": "https://senego.com/la-dsme-rectifie-les-rumeurs-sur-la-fertilite-le-poids-et-les-implants-contraceptifs_2027011.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-23T11:12:31+00:00",
+  "rubrique": "Société",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "La DSME rappelle que les méthodes contraceptives réversibles n’entraînent généralement pas de stérilité permanente et que les implants restent habituellement dans le bras.",
+  "categories": [
+   "Femme",
+   "Santé",
+   "Sénégal",
+   "Société",
+   "bajenu gox"
+  ]
+ },
+ {
+  "id": "3b1684a31e21",
+  "titre": "Mariage de sa fille : Aziz Ndiaye lui offre un terrain d’une valeur de 160 millions de FCFA",
+  "lien": "https://www.senenews.com/senenews-people/mariage-de-sa-fille-aziz-ndiaye-lui-offre-un-terrain-dune-valeur-de-160-millions-de-fcfa_607315.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-23T11:11:08+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "À l'occasion du mariage de sa fille, le célèbre promoteur sénégalais Aziz Ndiaye a marqué les esprits avec un cadeau de grande valeur. Il lui a offert un terrain estimé à 160 millions de FCFA, un geste qui témoigne de l'affection et de la reconnaissance qu'il lui porte. Mais au-delà de ce présent…",
+  "categories": [
+   "SeneNews People",
+   "Sénégal - Actualités",
+   "aziz ndiaye"
+  ]
+ },
+ {
+  "id": "1d55d0a728da",
+  "titre": "15/20 au BFEM, orienté en Seconde S, puis poussé vers la sortie : l'injustice vécue par un élève malentendant à Rufisque",
+  "lien": "https://www.seneweb.com/fr/news/Reportage/1520-au-bfem-oriente-en-seconde-s-puis-pousse-vers-la-sortie-linjustice-vecue-par-un-eleve-malentendant-a-rufisque_n_999004402.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-23T11:11:06+00:00",
+  "rubrique": "Société",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Brillant élève malentendant admis en seconde scientifique au lycée Abdoulaye Sadji de Rufisque avec 15/20 de moyenne au BFEM, Mouhamed Ndiaye a dû interrompre sa scolarité au bout d’un mois, faute d’a…"
+ },
+ {
+  "id": "1bfd2bb40512",
+  "titre": "En déplacement à Bamako : le ministre Idrissa Samb bat campagne pour le président Diomaye",
+  "lien": "https://actusen.sn/en-deplacement-a-bamako-le-ministre-idrissa-samb-bat-campagne-pour-le-president-diomaye/",
+  "source": "Actusen",
+  "site_source": "https://actusen.sn",
+  "date": "2026-11-23T11:10:49+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "En marge de son déplacement à Bamako, le ministre Idrissa Samb a accordé une audience à une importante délégation de KIIRAAY Mali, conduite par son Coordonnateur, Saliou Dione. La rencontre a réuni les doyens, les délégués des six communes de la capitale malienne, ainsi que les représentants des…",
+  "categories": [
+   "News",
+   "Politique",
+   "UNE"
+  ]
  },
  {
   "id": "8c1d7377d4df",
@@ -221,6 +400,38 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Mise en vigueur par décret de la loi de finances rectificative (LFR) 2026, fracture au sommet de l’état Daouda Toumbou Mon, 11/23/2026 - 10:53"
+ },
+ {
+  "id": "293f5e41427c",
+  "titre": "​Grand-Yoff : un homme de 57 ans arrêté pour des abus sexuels présumés sur une fille de 13 ans",
+  "lien": "https://www.pressafrik.com/​Grand-Yoff-un-homme-de-57-ans-arrete-pour-des-abus-sexuels-presumes-sur-une-fille-de-13-ans_a314976.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-23T10:50:00+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "A Dakar, un homme âgé de 57 ans, identifié sous le nom de M. Thioune, a été interpellé le 2... www.pressafrik.com",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "0ac40e8bb91c",
+  "titre": "Migration irrégulière : huit Sénégalais et deux Gambiens interpellés à Kabrousse",
+  "lien": "https://www.pressafrik.com/Migration-irreguliere-huit-Senegalais-et-deux-Gambiens-interpelles-a-Kabrousse_a314975.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-23T10:49:00+00:00",
+  "rubrique": "Diaspora",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Dix candidats à la Migration irrégulière, dont huit Sénégalais et deux Gambiens, ont ét... www.pressafrik.com",
+  "categories": [
+   "Société"
+  ]
  },
  {
   "id": "c41aa20c9f3c",
@@ -520,6 +731,22 @@
   "extrait": "Dix mois après la finale de la CAN 2025, le Tribunal arbitral du sport (TAS) annoncera sa décision ce mardi 24 novembre concernant le vainqueur de la finale entre le Maroc et le Sénégal.",
   "categories": [
    "Foot, Justice"
+  ]
+ },
+ {
+  "id": "5389355c52fa",
+  "titre": "\"Ce décret, lui, restera. Et le prochain président saura s'en servir' (Tidiane Sall, RV)",
+  "lien": "https://www.pressafrik.com/Ce-decret-lui-restera-Et-le-prochain-president-saura-s-en-servir-Tidiane-Sall-RV_a314973.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-23T10:17:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le 3 novembre, 126 députés ont rejeté le budget rectificatif sans même l'examiner. Le 19, Bassiro... www.pressafrik.com",
+  "categories": [
+   "Opinion"
   ]
  },
  {
@@ -68616,109 +68843,5 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Gadi Eisenkot, le rival de Benjamin Netanyahu, a affirmé dimanche 15 novembre que ce dernier \"ne pouvait pas rester à la tête du gouvernement une minute de plus\". Une déclaration qui fait suite à un reportage à charge impliquant des proches du Premier ministre à propos d'une manipulation à…"
- },
- {
-  "id": "2b095fac3493",
-  "titre": "Le Sénégal prépare l’exploitation à long terme des infrastructures sportives",
-  "lien": "https://www.seneplus.com/article/le-senegal-prepare-lexploitation-long-terme-des-infrastructures-sportives",
-  "source": "SenePlus",
-  "site_source": "https://www.seneplus.com",
-  "date": "2026-11-16T11:22:47+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le Sénégal prépare l’exploitation à long terme des infrastructures sportives Paap Seen Mon, 11/16/2026 - 11:22"
- },
- {
-  "id": "74842ec0af0c",
-  "titre": "GTA VI : Miami se métamorphose en « Vice City »",
-  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-gta-vi-miami-se-m%C3%A9tamorphose-en-vice-city",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-16T11:18:26+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "À moins d'une semaine du lancement de Grand Theft Auto VI, l'attente se fait ressentir à Miami, ville qui a servi de modèle à la \"Vice City\" du jeu. Avec un budget estimé entre 1 et 1,5 milliard de dollars, ce jeu vidéo est en passe de devenir l'œuvre de divertissement la plus coûteuse de…"
- },
- {
-  "id": "a3c3493d18c1",
-  "titre": "Nouveau drame sur un terrain de football, un joueur argentin de 18 ans est mort après avoir reçu un ballon dans la tête",
-  "lien": "https://www.seneweb.com/fr/news/Sport/nouveau-drame-sur-un-terrain-de-football-un-joueur-argentin-de-18-ans-est-mort-apres-avoir-recu-un-ballon-dans-la-tete_n_999003764.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-16T11:15:39+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Un jeune joueur argentin de 18 ans est mort lors d'un match de football après avoir reçu un ballon dans la tête, jeudi."
- },
- {
-  "id": "cf2ead571b3b",
-  "titre": "Jeux vidéo : sortie de GTA VI, treize ans que les fans l'attendent",
-  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-jeux-vid%C3%A9o-sortie-de-gta-vi-treize-ans-que-les-fans-l-attende",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-16T11:14:29+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le très attendu \"Grand Theft Auto VI\", nouvel opus de la série à succès de Rockstar, sort officiellement ce jeudi 19 novembre. Une saga dont les chiffres affolent les compteurs de l'industrie du jeu vidéo depuis ses débuts en 1997 : lors de la sortie du dernier GTA, le V, il y a 13 ans, le jeu n'a…"
- },
- {
-  "id": "eb7723600ee7",
-  "titre": "La méthode Bukele peut-elle vraiment fonctionner contre les gangs haïtiens?",
-  "lien": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20261116-la-m%C3%A9thode-bukele-peut-elle-vraiment-fonctionner-contre-les-gangs-ha%C3%AFtiens",
-  "source": "RFI Monde",
-  "site_source": "https://www.rfi.fr/fr/monde/",
-  "date": "2026-11-16T11:14:01+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "C'est un déplacement qui va marquer un peu plus le soutien des autorités haïtiennes à l'intervention militaire du Salvador en Haïti : le Premier ministre haïtien, Alix Didier Fils-Aimé, est attendu ce lundi 16 novembre au Salvador, où il doit rencontrer le président Nayib Bukele. Saluée par les…"
- },
- {
-  "id": "5d8b20d9ace8",
-  "titre": "Kiiraay Thiès - Lamine Sène sans gants : \"Certains ont voulu s'accrocher à leurs responsabilités dans la coalition Diomaye Président et les transposer dans le Kiiraay\" (Lamine Sène)",
-  "lien": "https://www.dakaractu.com/Kiiraay-Thies-Lamine-Sene-sans-gants-Certains-ont-voulu-s-accrocher-a-leurs-responsabilites-dans-la-coalition-Diomaye_a278246.html",
-  "source": "Dakaractu",
-  "site_source": "https://www.dakaractu.com",
-  "date": "2026-11-16T11:12:00+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Les femmes leaders du Parti Kiiraay dans le département de Thiès se sont donné rendez-vous ce dimanche à Thiès-centre dans le cadre de l'animation dudit parti. Ainsi, plusieurs responsables politiques qui ont fait le déplacement, se sont engagés à jouer leur partition dans la massification au…"
- },
- {
-  "id": "a3f8b156ae6d",
-  "titre": "​Kédougou : 17 dragues détruites dans la lutte contre l’orpaillage clandestin à Sansamba",
-  "lien": "https://www.pressafrik.com/​Kedougou-17-dragues-detruites-dans-la-lutte-contre-l-orpaillage-clandestin-a-Sansamba_a314666.html",
-  "source": "PressAfrik",
-  "site_source": "https://www.pressafrik.com",
-  "date": "2026-11-16T11:12:00+00:00",
-  "rubrique": "Faits divers",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le Groupe d’action rapide de surveillance et d’intervention (GARSI 2) de la Gendarmerie national... www.pressafrik.com"
- },
- {
-  "id": "1e9150ada8ce",
-  "titre": "Amadou Ba de retour à Dakar après plusieurs mois en France",
-  "lien": "https://www.senenews.com/actualites/amadou-ba-rentre-a-dakar-apres-plusieurs-mois-en-france_606584.html",
-  "source": "Senenews",
-  "site_source": "https://www.senenews.com",
-  "date": "2026-11-16T11:11:12+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Selon Les Échos, Amadou Ba, leader de Nouvelle Responsabilité, est de retour à Dakar depuis le milieu de la semaine dernière, après plusieurs mois passés en France. Ce retour vient confirmer une première prédiction de Cheikh Yérim Seck. Deux questions demeurent : prendra-t-il la parole pour…"
  }
 ]
