@@ -52,7 +52,6 @@ sources:
   - nom: Seneweb
     titre: "Ligue 1 sénégalaise : La Linguère chute à domicile face à l’AS Pikine"
     url: https://www.seneweb.com/fr/news/Sport/ligue-1-senegalaise-la-linguere-chute-a-domicile-face-a-las-pikine_n_999004360.html
-photo: /static/images/d9d0166a-d8b3-4d67-804f-8282340e5fb6.jpeg
 credit_photo: "Photo : f"
 ---
 Les Lions ont repris le chemin de leurs clubs après la trêve réservée aux qualifications pour la CAN 2027, rappelle Seneweb.
