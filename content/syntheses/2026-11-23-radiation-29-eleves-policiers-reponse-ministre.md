@@ -24,6 +24,7 @@ sources:
       signature"
     url: https://senego.com/eleves-policiers-radies-cisse-evoque-8-contestations-et-14-refus-de-signature_2026797.html
 photo: /static/images/IMG_6002.jpeg
+credit_photo: "Photo : Wiki"
 ---
 Mouhamadou Makhtar Cissé, ministre de l'Intérieur, a répondu par écrit au député Guy Marius Sagna, qui l'avait interpellé sur l'exclusion de 29 élèves policiers. Sa réponse a été relayée dimanche 22 novembre par Seneweb, Senenews et PressAfrik.
 
