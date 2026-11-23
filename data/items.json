@@ -1,5 +1,38 @@
 [
  {
+  "id": "72f09917e9c0",
+  "titre": "Boubacar Seye interpelle l’État et propose des Assises nationales des migrations",
+  "lien": "https://senego.com/boubacar-seye-interpelle-letat-et-propose-des-assises-nationales-des-migrations_2026868.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-23T01:50:28+00:00",
+  "rubrique": "Diaspora",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Face aux départs vers les Canaries, Boubacar Seye réclame une réponse gouvernementale structurée, avec des Assises nationales et une Commission indépendante.",
+  "categories": [
+   "Politique",
+   "Sénégal",
+   "Société",
+   "boubacar seye",
+   "canaries"
+  ]
+ },
+ {
+  "id": "0c1b5b5a1962",
+  "titre": "Arrestation spectaculaire d'un trafiquant mexicain",
+  "lien": "https://www.seneweb.com/fr/news/Video/arrestation-spectaculaire-dun-trafiquant-mexicain_n_999004376.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-23T01:14:56+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Arrestation spectaculaire d'un trafiquant mexicain"
+ },
+ {
   "id": "7d2265f6be1f",
   "titre": "Sénégal 2027 : quand la crise budgétaire rencontre le mur du financement",
   "lien": "https://www.seneplus.com/article/senegal-2027-quand-la-crise-budgetaire-rencontre-le-mur-du-financement",
@@ -67947,57 +67980,5 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Les rebelles Houthis revendiquent la prise de zones montagneuses, tout près du détroit stratégique de Bab el-Mandeb. Ils se trouvent à quelques dizaines de kilomètres de la ville d'Aden, faisant réagir les forces yéménites. Le camp gouvernemental redéploie des troupes dans le sud du pays, selon des…"
- },
- {
-  "id": "4294598eacc3",
-  "titre": "Sédhiou : un enseignant placé en garde à vue dans une affaire de vente d'une parcelle appartenant à autrui",
-  "lien": "https://www.seneweb.com/fr/news/Societe/sedhiou-un-enseignant-place-en-garde-a-vue-dans-une-affaire-de-vente-dune-parcelle-appartenant-a-autrui_n_999003737.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-16T01:56:38+00:00",
-  "rubrique": "Société",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le 14 novembre 2026, M. M. Fall, enseignant à l'école élémentaire El Hadj Dembo Coly, a été placé en garde à vue dans les locaux de la police de Sédhiou."
- },
- {
-  "id": "178c5ade7349",
-  "titre": "Grand Yoff : trois individus interpellés pour offre ou cession de chanvre indien, 1 kg et 16 cornets saisis entre la Cité Sonatel et Arafat",
-  "lien": "https://www.seneweb.com/fr/news/Societe/grand-yoff-trois-individus-interpelles-pour-offre-ou-cession-de-chanvre-indien-1-kg-et-16-cornets-saisis-entre-la-cite-sonatel-et-arafat_n_999003736.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-16T01:37:41+00:00",
-  "rubrique": "Économie",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le commissariat d'arrondissement de Grand Yoff a procédé, le 13 novembre 2026, à l'interpellation de trois individus soupçonnés d'offre ou de cession de chanvre indien."
- },
- {
-  "id": "fcbe38813632",
-  "titre": "Incendie au marché de Mbacké : l'enquête policière détermine la cause, Gallo Ba sur les lieux du sinistre",
-  "lien": "https://www.seneweb.com/fr/news/Societe/incendie-au-marche-de-mbacke-lenquete-policiere-determine-la-cause-gallo-ba-sur-les-lieux-du-sinistre_n_999003735.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-16T01:35:31+00:00",
-  "rubrique": "Économie",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le commissariat urbain de Mbacké a ouvert une enquête à la suite de l'incendie survenu le 11 novembre 2026, aux environs de 3h 30, au marché central de Mbacké."
- },
- {
-  "id": "b3c44ab6e60b",
-  "titre": "En Amazonie péruvienne, Léon XIV alerte sur la déforestation et dénonce l’abandon des peuples autochtones",
-  "lien": "https://www.lemonde.fr/international/article/2026/11/16/en-amazonie-peruvienne-leon-xiv-alerte-sur-la-deforestation-et-denonce-l-abandon-des-peuples-autochtones_6811105_3210.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-16T01:23:44+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "« Le cri de la terre et le cri des pauvres s’élèvent ensemble », a déclaré, dimanche, le souverain pontife, lors d’une nouvelle étape de sa tournée en Amérique latine. Il a notamment dénoncé « l’exploitation » des ressources et l’assassinat de chefs autochtones qui défendent leurs terres."
  }
 ]
