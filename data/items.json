@@ -26,6 +26,26 @@
   "extrait": "Libreville prépare la scission de la Société d’énergie et d’eau du Gabon (SEEG) en deux sociétés distinctes. La réforme prévoit également le traitement d’une dette de 149 milliards de F CFA et l’ouverture au privé. Coulisses."
  },
  {
+  "id": "d9eb01663b4c",
+  "titre": "Trois mois ferme pour une jeune femme jugée coupable de vols à Thiès",
+  "lien": "https://senego.com/trois-mois-ferme-pour-une-jeune-femme-jugee-coupable-de-vols-a-thies_2027145.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-23T18:05:25+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "À Thiès, une femme de 26 ans a été condamnée à trois mois ferme pour des vols commis chez trois victimes. Elle devra leur rembourser 598 500 FCFA.",
+  "categories": [
+   "Faits Divers",
+   "Justice",
+   "Sénégal",
+   "A. Diop",
+   "souss"
+  ]
+ },
+ {
   "id": "46bff67a006b",
   "titre": "Yenne : neuf nouveaux corps retrouvés, le naufrage d'une pirogue partie de Saint-Louis fait 13 morts",
   "lien": "http://www.ndarinfo.com/Yenne-neuf-nouveaux-corps-retrouves-le-naufrage-d-une-pirogue-partie-de-Saint-Louis-fait-13-morts_a47314.html",
@@ -42,6 +62,74 @@
   ]
  },
  {
+  "id": "ce943e9bfd72",
+  "titre": "Salon des Métiers et des Associations : Auchan mise sur l’employabilité des jeunes",
+  "lien": "https://www.seneweb.com/fr/news/Video/salon-des-metiers-et-des-associations-auchan-mise-sur-lemployabilite-des-jeunes_n_999004440.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-23T18:00:57+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Face aux défis de l’insertion professionnelle des jeunes au Sénégal, Auchan entend jouer sa partition"
+ },
+ {
+  "id": "6e6d10ce1cf4",
+  "titre": "Richard-Toll : Trois individus arrêtés avec une carabine et 32 munitions",
+  "lien": "https://www.xibaaru.sn/richard-toll-trois-individus-arretes-avec-une-carabine-et-32-munitions/",
+  "source": "Xibaaru",
+  "site_source": "https://www.xibaaru.sn",
+  "date": "2026-11-23T18:00:43+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Le Commissariat urbain de Richard-Toll a procédé, le 21 novembre 2026, à l’interpellation de trois individus pour association de malfaiteurs et détention illégale d’arme à feu. L’opération a également permis la saisie…",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "f67fe13fa993",
+  "titre": "Mise en vigueur de la LFR, les enjeux d’une procédure inédite",
+  "lien": "https://www.seneplus.com/article/mise-en-vigueur-de-la-lfr-les-enjeux-dune-procedure-inedite",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-23T18:00:30+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Mise en vigueur de la LFR, les enjeux d’une procédure inédite Farid Akele Mon, 11/23/2026 - 18:00"
+ },
+ {
+  "id": "570d51e27c6e",
+  "titre": "L’Ukraine sous le joug soviétique est au cœur du second tome du puissant « Amadoca », de Sofia Andrukhovych",
+  "lien": "https://www.lemonde.fr/livres/article/2026/11/23/l-ukraine-sous-le-joug-sovietique-est-au-c-ur-du-second-tome-du-puissant-amadoca-de-sofia-andrukhovych_6814437_3260.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-23T18:00:08+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Avec le deuxième volume de sa fresque, l’écrivaine panse les plaies de la falsification coloniale russe et montre la naissance de la conscience nationale ukrainienne."
+ },
+ {
+  "id": "e550f0f0d16f",
+  "titre": "Vols en série : comment une jeune femme accro au souss piégeait ses voisines pour leur voler leur argent",
+  "lien": "https://www.seneweb.com/fr/news/Societe/vols-en-serie-comment-une-jeune-femme-accro-au-souss-piegeait-ses-voisines-pour-leur-voler-leur-argent_n_999004439.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-23T17:57:00+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La jeune femme de 26 ans, A. Diop, a été condamnée à trois mois de prison ferme par le tribunal d’instance de Thiès pour plusieurs faits de vol commis dans les quartiers de Thialy et de Diakhao"
+ },
+ {
   "id": "a3ceacaaabd1",
   "titre": "« Je ne suis pas intéressé par l’OIF » : toujours opposant, Macky Sall garde la main sur son parti",
   "lien": "https://www.jeuneafrique.com/1863554/politique/je-ne-suis-pas-interesse-par-loif-toujours-opposant-macky-sall-garde-la-main-sur-son-parti/",
@@ -53,6 +141,19 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Alors que certains de ses proches l’appellent à rentrer au Sénégal, l’ancien président assume de diriger sa formation depuis l’étranger. Avenir de son parti, échec à l’ONU, rumeurs autour d’une candidature à l’OIF… Macky Sall a répondu à Jeune Afrique."
+ },
+ {
+  "id": "ffce553090a9",
+  "titre": "La BERD conditionne ses investissements sénégalais à la clarté budgétaire",
+  "lien": "https://www.seneplus.com/article/la-berd-conditionne-ses-investissements-senegalais-la-clarte-budgetaire",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-23T17:54:02+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La BERD conditionne ses investissements sénégalais à la clarté budgétaire Farid Akele Mon, 11/23/2026 - 17:54"
  },
  {
   "id": "09d6b94d569d",
@@ -102,6 +203,19 @@
   "categories": [
    "+ D'ACTU"
   ]
+ },
+ {
+  "id": "7e7fa5b4b7d4",
+  "titre": "Le « racisme anti-Blancs », un concept né à l'extrême droite qui gagne du terrain en France",
+  "lien": "https://www.seneplus.com/article/le-racisme-anti-blancs-un-concept-ne-lextreme-droite-qui-gagne-du-terrain-en-france",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-23T17:50:55+00:00",
+  "rubrique": "Monde",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le « racisme anti-Blancs », un concept né à l'extrême droite qui gagne du terrain en France Farid Akele Mon, 11/23/2026 - 17:50"
  },
  {
   "id": "1a8ff39d4c7c",
@@ -291,6 +405,22 @@
    "SeneNews Sport",
    "Senegal",
    "TAS"
+  ]
+ },
+ {
+  "id": "eefa16139f47",
+  "titre": "​Euro-obligations 2033 : le Sénégal règle une échéance de 17,6 milliards de FCFA",
+  "lien": "https://www.pressafrik.com/​Euro-obligations-2033-le-Senegal-regle-une-echeance-de-176-milliards-de-FCFA_a314996.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-23T17:32:00+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Dans un contexte budgétaire particulièrement tendu, le Sénéga... www.pressafrik.com",
+  "categories": [
+   "Economie"
   ]
  },
  {
@@ -9784,26 +9914,6 @@
   "extrait": "BÉTÉ BÉTÉ – Saison 4 – Episode 19",
   "categories": [
    "Actualités"
-  ]
- },
- {
-  "id": "e3b30f77637c",
-  "titre": "Richard-Toll : trois individus arrêtés avec une carabine et 32 munitions",
-  "lien": "https://senego.com/richard-toll-trois-individus-arretes-avec-une-carabine-et-32-munitions_2026835.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-22T21:13:44+00:00",
-  "rubrique": "Faits divers",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Le Commissariat urbain de Richard-Toll a procédé, le 21 novembre 2026, à l’interpellation de trois individus pour association de malfaiteurs et détention illégale d’arme à feu. L’opération a permis la saisie d’une carabine, de 32 munitions de calibre 12 et de plusieurs autres objets. Selon les…",
-  "categories": [
-   "Actualités",
-   "Sénégal",
-   "Société",
-   "Arrestations",
-   "Police"
   ]
  },
  {
@@ -69161,44 +69271,5 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Par-delà la surprise, c'est l'indignation qui domine"
- },
- {
-  "id": "8183b70c79f0",
-  "titre": "CAN 2027 : la Guinée fait le travail, le Ghana met la pression, le Bénin quasi qualifié",
-  "lien": "https://www.france24.com/fr/sports/20261116-can-2027-guinee-ghana-met-la-pression-benin",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-16T18:01:12+00:00",
-  "rubrique": "Afrique",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le Ghana et la Guinée terminent cette série de matches de qualifications pour la CAN 2027 dans une meilleure position grâce à des victoires contre la Somalie et l'Érythrée. Quant au Bénin, il a déjà un pied en Afrique de l'Est et pourrait être qualifié par le résultat de Mauritanie - Burkina Faso…"
- },
- {
-  "id": "8f52c0faff72",
-  "titre": "CAN 2027: Après sa victoire face au Soudan, le Sénégal peut valider son ticket dès ce mardi",
-  "lien": "https://senego.com/can-2027-apres-sa-victoire-face-au-soudan-le-senegal-peut-valider-son-ticket-des-ce-mardi_2024623.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-16T18:00:58+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Le Sénégal a fait un pas supplémentaire vers la qualification à la Coupe d’Afrique des Nations 2027. Les Lions de la Teranga ont dominé le Soudan (4-2), ce lundi 16 novembre 2026, lors de la quatrième journée des éliminatoires. Avec 10 points, les hommes de Patrick Vieira conservent la première…"
- },
- {
-  "id": "a1dd1fa014b8",
-  "titre": "FIFA : Philippe Diallo se lance à l’assaut de la présidence face à Infantino",
-  "lien": "https://www.seneweb.com/fr/news/Sport/fifa-philippe-diallo-se-lance-a-lassaut-de-la-presidence-face-a-infantino_n_999003818.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-16T17:58:51+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Philippe Diallo a officiellement décidé de briguer le fauteuil de président de l’instance mondiale du football"
  }
 ]

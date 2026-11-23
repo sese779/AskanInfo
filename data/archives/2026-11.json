@@ -1,5 +1,44 @@
 [
  {
+  "id": "8183b70c79f0",
+  "titre": "CAN 2027 : la Guinée fait le travail, le Ghana met la pression, le Bénin quasi qualifié",
+  "lien": "https://www.france24.com/fr/sports/20261116-can-2027-guinee-ghana-met-la-pression-benin",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-16T18:01:12+00:00",
+  "rubrique": "Afrique",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le Ghana et la Guinée terminent cette série de matches de qualifications pour la CAN 2027 dans une meilleure position grâce à des victoires contre la Somalie et l'Érythrée. Quant au Bénin, il a déjà un pied en Afrique de l'Est et pourrait être qualifié par le résultat de Mauritanie - Burkina Faso…"
+ },
+ {
+  "id": "8f52c0faff72",
+  "titre": "CAN 2027: Après sa victoire face au Soudan, le Sénégal peut valider son ticket dès ce mardi",
+  "lien": "https://senego.com/can-2027-apres-sa-victoire-face-au-soudan-le-senegal-peut-valider-son-ticket-des-ce-mardi_2024623.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-16T18:00:58+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Le Sénégal a fait un pas supplémentaire vers la qualification à la Coupe d’Afrique des Nations 2027. Les Lions de la Teranga ont dominé le Soudan (4-2), ce lundi 16 novembre 2026, lors de la quatrième journée des éliminatoires. Avec 10 points, les hommes de Patrick Vieira conservent la première…"
+ },
+ {
+  "id": "a1dd1fa014b8",
+  "titre": "FIFA : Philippe Diallo se lance à l’assaut de la présidence face à Infantino",
+  "lien": "https://www.seneweb.com/fr/news/Sport/fifa-philippe-diallo-se-lance-a-lassaut-de-la-presidence-face-a-infantino_n_999003818.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-16T17:58:51+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Philippe Diallo a officiellement décidé de briguer le fauteuil de président de l’instance mondiale du football"
+ },
+ {
   "id": "9824933a1f2a",
   "titre": "La primaire de la droite, \"un aveu d’échec\" pour Gabriel Attal et Bruno Retailleau",
   "lien": "https://www.france24.com/fr/france/20261116-france-presidentielle-2027-primaire-de-la-droite-un-aveu-dechec-pour-gabriel-attal-et-bruno-retailleau",
