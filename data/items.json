@@ -1,5 +1,21 @@
 [
  {
+  "id": "705ce44cc9d7",
+  "titre": "Angola: des brigades mobiles pour inciter les habitants à s’inscrire sur les listes électorales",
+  "lien": "https://www.rfi.fr/fr/afrique/20261123-angola-des-brigades-mobiles-pour-inciter-les-habitants-%C3%A0-s-inscrire-sur-les-listes-%C3%A9lectorales",
+  "source": "RFI Afrique",
+  "site_source": "https://www.rfi.fr/fr/afrique/",
+  "date": "2026-11-23T06:11:34+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Les élections générales en Angola sont prévues en août 2027. Mais déjà des brigades mobiles s’activent dans les rues de la capitale, pour inciter les habitants à s’inscrire sur les listes électorales. Le but est de lutter contre l'abstention qui s’élevait à 54 % en 2022. Alors en 2027 les autorités…",
+  "categories": [
+   "Afrique"
+  ]
+ },
+ {
   "id": "703249ce724c",
   "titre": "La Matinale Senego : Mbodj conteste le décret, Bocoum interpelle Diomaye",
   "lien": "https://senego.com/la-matinale-senego-mbodj-conteste-le-decret-bocoum-interpelle-diomaye_2026921.html",
@@ -17,6 +33,22 @@
    "Photos",
    "Sénégal",
    "Vedette"
+  ]
+ },
+ {
+  "id": "8986dda14994",
+  "titre": "Ukraine en direct : au moins 15 morts dans des frappes russes près de Kiev",
+  "lien": "https://www.france24.com/fr/europe/20261123-ukraine-en-direct-au-moins-15-morts-dans-des-frappes-russes-pr%C3%A8s-de-kiev",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-23T06:01:52+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Au moins 15 personnes ont été tuées dans des frappes russes dans la région de Kiev, dont 11 dans l'effondrement partiel d'un immeuble résidentiel, selon le dernier bilan des autorités lundi. Une réunion de l'Otan est prévue lundi à Bruxelles au sujet du conflit et ses répercussions en Europe.…",
+  "categories": [
+   "Europe"
   ]
  },
  {
@@ -68024,31 +68056,5 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Suivez sur notre site les reprises de l’essentiel de l’actualité traitée par les quotidiens d’information ce lundi 16 novembre.1."
- },
- {
-  "id": "d41da432ce2e",
-  "titre": "La collégienne et le vendeur de « Keur Serigne Bi » en prison : le secret qui a tout basculé",
-  "lien": "https://www.seneweb.com/fr/news/Societe/la-collegienne-et-le-vendeur-de-keur-serigne-bi-en-prison-le-secret-qui-a-tout-bascule_n_999003738.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-16T06:14:11+00:00",
-  "rubrique": "Faits divers",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Admise dans une structure sanitaire, la collégienne finit en prison après les résultats du médecin légiste."
- },
- {
-  "id": "e22119c97b30",
-  "titre": "À Matam, 113 grossesses scolaires au cœur d’une campagne contre les violences",
-  "lien": "https://senego.com/a-matam-113-grossesses-scolaires-au-coeur-dune-campagne-contre-les-violences_2024322.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-16T06:07:45+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "À Matam, une campagne contre les violences en milieu scolaire a mis en avant 113 grossesses recensées dans l’académie et les risques liés aux violences en ligne."
  }
 ]
