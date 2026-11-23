@@ -1,5 +1,25 @@
 [
  {
+  "id": "e04dca125618",
+  "titre": "Découvrez les Unes des journaux sénégalais du lundi 23 novembre 2026",
+  "lien": "https://senego.com/decouvrez-les-unes-des-journaux-senegalais-du-lundi-23-novembre-2026_2026869.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-23T02:55:03+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Découvrez les Unes des journaux sénégalais du lundi 23 novembre 2026",
+  "categories": [
+   "Actualités",
+   "Revue de presse",
+   "Sénégal",
+   "lundi 23 novembre 2026",
+   "revue de presse sénégalaise"
+  ]
+ },
+ {
   "id": "72f09917e9c0",
   "titre": "Boubacar Seye interpelle l’État et propose des Assises nationales des migrations",
   "lien": "https://senego.com/boubacar-seye-interpelle-letat-et-propose-des-assises-nationales-des-migrations_2026868.html",
@@ -67915,70 +67935,5 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Le lanceur a subi une anomalie ⁠environ dix minutes après le décollage, perdant les satellites qu’il transportait. Il s’agissait du premier de plusieurs dizaines de vols achetés au groupe United Launch Alliance par la société de Jeff Bezos pour le développement de son réseau Internet."
- },
- {
-  "id": "718bf4350c23",
-  "titre": "Au Maroc, Casablanca, sous pression immobilière, veut préserver ses immeubles Art déco",
-  "lien": "https://www.lemonde.fr/afrique/article/2026/11/16/au-maroc-casablanca-sous-pression-immobiliere-veut-preserver-ses-immeubles-art-deco_6811171_3212.html",
-  "source": "Le Monde Afrique",
-  "site_source": "https://www.lemonde.fr/afrique/",
-  "date": "2026-11-16T03:00:10+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "L’Etat marocain accélère depuis ces dernières années sa politique de protection du patrimoine architectural hérité du protectorat français mais aussi des années qui ont suivi l’indépendance."
- },
- {
-  "id": "ce3be4bd55d1",
-  "titre": "Les Tchèques manifestent massivement contre la réforme du financement des médias publics",
-  "lien": "https://www.france24.com/fr/europe/20261116-tcheques-manifestent-en-masse-contre-reforme-financement-medias-publics-redevance-andrej-babis-liberte-presse",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-16T02:34:27+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Des centaines de milliers de Tchèques se sont rassemblés dimanche à Prague contre le projet du gouvernement visant à réduire la redevance des médias publics et à transférer les fonds vers le budget de l'État. L'initiative du gouvernement d'Andrej Babis est dénoncée par ses opposants comme une…"
- },
- {
-  "id": "ba09bc614ee5",
-  "titre": "Dakar 2026 : pour Oumou Wane, l'Afrique n'attend plus son tour",
-  "lien": "https://www.leral.net/Dakar-2026-pour-Oumou-Wane-l-Afrique-n-attend-plus-son-tour_a411327.html",
-  "source": "Leral",
-  "site_source": "https://www.leral.net",
-  "date": "2026-11-16T02:17:00+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Dans une tribune publiée par SenePlus le 15 novembre 2026, Oumou Wane estime que l'Afrique a montré ses capacités à Dakar 2026..."
- },
- {
-  "id": "817332448aef",
-  "titre": "Réforme du financement des médias publics : les Tchèques manifestent en masse",
-  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-r%C3%A9forme-du-financement-des-m%C3%A9dias-publics-les-tch%C3%A8ques-manifestent-en-masse",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-16T02:09:48+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Des manifestants à perte de vue au parc Letna de Prague. Ce lieu de contestation historique de la capitale tchèque accueille, dimanche, son plus grand rassemblement depuis la Révolution de velours en 1989. Le motif : la défense de l'audiovisuel public. L'exécutif souhaite remplacer l'actuel système…"
- },
- {
-  "id": "13673c8ce870",
-  "titre": "Aden, au Yémen, se barricade face à l'offensive des Houthis",
-  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-aden-au-y%C3%A9men-se-barricade-face-%C3%A0-l-offensive-des-houthis",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-16T02:06:20+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Les rebelles Houthis revendiquent la prise de zones montagneuses, tout près du détroit stratégique de Bab el-Mandeb. Ils se trouvent à quelques dizaines de kilomètres de la ville d'Aden, faisant réagir les forces yéménites. Le camp gouvernemental redéploie des troupes dans le sud du pays, selon des…"
  }
 ]
