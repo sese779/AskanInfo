@@ -1,0 +1,40 @@
+titre: "Mamadou Dia (1/3) : l'instituteur devenu chef du gouvernement"
+serie: "Mamadou Dia"
+partie: 1
+sources:
+  - "Wikipédia, « Mamadou Dia »"
+  - "Encyclopædia Universalis, « Dia Mamadou (1910-2009) »"
+  - "SenePlus, « Mamadou Dia, héros malgré lui »"
+  - "Le Soleil, « Souvenirs : Mamadou Dia, héros de l'indépendance »"
+  - "APA, « Sénégal : le 20 août 1960, l'indépendance après la rupture avec la Fédération du Mali »"
+plans:
+  - grand: "Il a dirigé le premier gouvernement du Sénégal indépendant. Puis il a passé onze ans en prison."
+    haut: "Mamadou Dia · partie 1 sur 3"
+    voix: "Il a dirigé le premier gouvernement du Sénégal indépendant. Puis il a passé plus de onze ans en prison. Voici l'histoire de Mamadou Dia. Partie un : l'instituteur devenu chef du gouvernement."
+    photo: dia-zouerat
+    sans_sous_titres: true
+  - date: "18 juillet 1910"
+    voix: "Mamadou Dia naît le 18 juillet 1910 à Khombole, dans la région de Thiès. Son père, un Toucouleur venu de Kanel, est cheminot, puis policier. Sa mère est sérère, originaire du Baol."
+  - haut: "Khombole, 1962"
+    voix: "L'enfant passe d'abord par l'école coranique. Puis il entre à l'école française. En 1924, il rejoint l'école primaire supérieure Blanchot, à Saint-Louis."
+    photo: khombole
+  - date: "1927"
+    voix: "Il vise l'École normale William-Ponty, à Gorée, qui forme les instituteurs de toute l'Afrique occidentale française. On raconte qu'un maître l'a vieilli d'un an pour qu'il puisse passer le concours. En 1927, il est reçu premier."
+  - haut: "Fatick"
+    voix: "Il devient instituteur, à Saint-Louis puis à Fissel. En 1943, il dirige l'école régionale de Fatick. Dans la presse, il décrit la misère des paysans et défend les coopératives agricoles."
+    photo: fatick
+  - voix: "Après la guerre, il entre en politique aux côtés de Léopold Sédar Senghor. En 1948, les deux hommes rompent avec Lamine Guèye et fondent un nouveau parti, le Bloc démocratique sénégalais."
+    photo: 1962-senghor
+  - voix: "Mamadou Dia siège au Sénat français, puis il est élu député à Paris en 1956. En parallèle, il étudie l'économie. Il s'inspire du père Louis-Joseph Lebret et de l'économiste François Perroux."
+  - date: "1957"
+    voix: "En 1957, il devient vice-président du Conseil de gouvernement du Sénégal. Senghor et Dia forment alors un tandem à la tête du pays."
+  - date: "Août 1960"
+    voix: "En août 1960, la Fédération du Mali, qui unissait le Sénégal et le Soudan français, éclate. Face à Modibo Keïta, Mamadou Dia est en première ligne. Le 20 août, le Sénégal proclame son indépendance."
+  - haut: "Dakar, 24 novembre 1960"
+    voix: "Senghor devient président de la République. Mamadou Dia, président du Conseil, dirige le gouvernement."
+    photo: dia-1960
+  - voix: "Il lance le premier plan de développement du pays. Il mise sur les coopératives agricoles et sur la planification de l'économie."
+    photo: dia-1962-voiture
+  - grand: "Mais en décembre 1962, tout bascule."
+    voix: "Mais en décembre 1962, tout bascule. C'est la deuxième partie de cette histoire. Abonnez-vous pour ne pas la manquer."
+    sans_sous_titres: true

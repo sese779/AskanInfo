@@ -1,0 +1,37 @@
+titre: "Mamadou Dia (3/3) : Kédougou, la liberté, la mémoire"
+serie: "Mamadou Dia"
+partie: 3
+sources:
+  - "Wikipédia, « Mamadou Dia »"
+  - "Encyclopædia Universalis, « Dia Mamadou (1910-2009) »"
+  - "Mémoire en ligne, « L'alternance politique au Sénégal, 1980-2000 »"
+  - "SenePlus, « Pourquoi un nouveau procès s'impose d'urgence » et « Mamadou Dia avait déjà réglé la question de la révision de son procès »"
+  - "Le Soleil, « Souvenirs : Mamadou Dia, héros de l'indépendance »"
+plans:
+  - grand: "Condamné à perpétuité. Libéré onze ans plus tard."
+    haut: "Mamadou Dia · partie 3 sur 3"
+    voix: "Condamné à la détention à perpétuité, Mamadou Dia sort de prison plus de onze ans plus tard. Voici la troisième et dernière partie de son histoire."
+    photo: dia-zouerat
+    sans_sous_titres: true
+  - haut: "Kédougou"
+    voix: "Après le procès de mai 1963, il est enfermé dans un centre de détention spécial, à Kédougou, dans le Sénégal oriental. Loin de Dakar."
+    photo: kedougou-1981
+  - voix: "Pendant ce temps, le pays change. Le poste de président du Conseil a été supprimé. Senghor gouverne seul, dans un régime présidentiel."
+    photo: 1962-senghor
+  - date: "Mars 1974"
+    voix: "En mars 1974, après plus de onze ans de détention, Senghor décide de gracier Mamadou Dia et ses compagnons. Ils sont libérés."
+  - date: "Avril 1976"
+    voix: "En avril 1976, ils sont amnistiés. Un mois plus tard, le Sénégal rouvre la porte au multipartisme."
+  - date: "1981 · 1983"
+    voix: "Mamadou Dia revient en politique. En 1981, il fonde le Mouvement démocratique populaire. Candidat à l'élection présidentielle de 1983, il obtient environ un virgule quatre pour cent des voix."
+  - voix: "Il écrit beaucoup : sur l'économie africaine, sur l'islam, sur les coopératives. Au milieu des années 1980, il publie ses mémoires."
+    photo: dia-1962-voiture
+  - date: "25 janvier 2009"
+    voix: "Mamadou Dia meurt à Dakar le 25 janvier 2009, presque centenaire."
+  - voix: "Pour beaucoup de Sénégalais, il reste le premier chef de gouvernement du pays indépendant, et un homme intègre. Des voix réclament encore la révision de son procès de 1963."
+    photo: dia-1960
+  - voix: "Coup d'État, ou piège politique ? Plus de soixante ans après, les deux lectures s'opposent toujours."
+    photo: 1962-carrefour
+  - grand: "Abonnez-vous pour la prochaine histoire"
+    voix: "C'était Askan Histoires. Abonnez-vous pour ne pas manquer la prochaine histoire."
+    sans_sous_titres: true

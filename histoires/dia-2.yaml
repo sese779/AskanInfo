@@ -1,0 +1,37 @@
+titre: "Mamadou Dia (2/3) : décembre 1962, la crise qui a changé le Sénégal"
+serie: "Mamadou Dia"
+partie: 2
+sources:
+  - "Wikipédia, « Mamadou Dia »"
+  - "Jeune Afrique, « Mamadou Dia »"
+  - "Enquête Plus et Le Quotidien, « Mamadou Dia : retour sur la crise de décembre 1962 »"
+  - "Encyclopædia Universalis, « Dia Mamadou (1910-2009) »"
+  - "Dakaractu, « Relations entre Mamadou Dia et Senghor »"
+  - "Ndarinfo, « 17 décembre 1962 : Mamadou Dia accusé de coup d'État »"
+plans:
+  - grand: "Décembre 1962. Le chef du gouvernement du Sénégal est arrêté."
+    haut: "Mamadou Dia · partie 2 sur 3"
+    voix: "Décembre 1962. Le chef du gouvernement du Sénégal est arrêté. Voici la deuxième partie de l'histoire de Mamadou Dia."
+    photo: 1962-carrefour
+    sans_sous_titres: true
+  - haut: "Dakar, 4 avril 1962"
+    voix: "Nous sommes en 1962. Le Sénégal est indépendant depuis deux ans. Léopold Sédar Senghor est président de la République. Mamadou Dia dirige le gouvernement, comme président du Conseil."
+    photo: 1962-senghor
+  - voix: "Entre les deux hommes, les désaccords grandissent, notamment sur la politique économique. Mamadou Dia veut aussi que des députés remboursent les crédits qu'ils ont reçus. Il n'obtient pas gain de cause."
+    photo: dia-zouerat
+  - date: "8 déc. 1962"
+    voix: "Le 8 décembre, à Dakar, il prononce un discours sur les voies africaines du socialisme. Il y appelle à rompre avec les anciennes structures héritées de la colonisation."
+  - voix: "Six jours plus tard, le 14 décembre, une quarantaine de députés déposent une motion de censure contre son gouvernement."
+    photo: 1962-universite
+  - haut: "L'Assemblée nationale, aujourd'hui"
+    voix: "Le 17 décembre, Mamadou Dia fait évacuer l'Assemblée nationale par les forces de l'ordre. Les députés votent quand même la motion, le jour même, au domicile de l'un d'eux."
+    photo: assemblee
+  - date: "18 déc. 1962"
+    voix: "Le lendemain, Mamadou Dia est arrêté, avec plusieurs de ses ministres. Le pouvoir parle de tentative de coup d'État. Ses partisans, eux, dénoncent un piège."
+  - date: "Mai 1963"
+    voix: "Du 9 au 13 mai 1963, ils sont jugés par la Haute Cour de justice. Mamadou Dia est condamné à la détention à perpétuité. Ses ministres Valdiodio Ndiaye, Ibrahima Sarr et Joseph Mbaye sont condamnés à vingt ans."
+  - voix: "La même année, une nouvelle Constitution supprime le poste de chef du gouvernement. Le Sénégal passe à un régime présidentiel."
+    photo: 1962-senghor
+  - grand: "Que devient Mamadou Dia en prison ?"
+    voix: "Que devient Mamadou Dia, enfermé loin de Dakar ? Réponse dans la troisième et dernière partie. Abonnez-vous pour ne pas la manquer."
+    sans_sous_titres: true

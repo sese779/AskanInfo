@@ -115,6 +115,10 @@ def main(modele, episode, sortie):
             d = voix(modele, plan["voix"], w) + 0.35
             wavs.append((w, d))
             nom = plan.get("photo")
+            f = ICI / f"{nom}.jpg" if nom else None
+            if f and (not f.exists() or f.stat().st_size == 0):
+                print(f"Photo absente : {nom} (fond uni à la place)")
+                nom = None
             fond = fond_photo(nom) if nom else fond_uni()
             credit = f"Photo : {CREDITS[nom]}" if nom else None
             parts = [None] if plan.get("sans_sous_titres") else morceaux(plan["voix"])

@@ -11,6 +11,10 @@ sous-titres). Ce dossier n'est pas publié sur askaninfo.com.
 - Images : **photos d'archives libres** (Wikimedia Commons, domaine public ou CC BY / CC BY-SA),
   crédit affiché à l'écran et repris dans la légende ; cartes de dates fabriquées sinon.
 - Premier épisode prototype : la crise de décembre 1962 (Mamadou Dia), 1 min 25.
+- Retour du propriétaire : l'histoire de Mamadou Dia peut être **plus longue et découpée en
+  plusieurs parties** (jeunesse, ascension, crise, prison, après). D'où la série en 3 parties
+  `dia-1.yaml` (1910-1962), `dia-2.yaml` (crise de 1962, ancien `episode-1962.yaml`),
+  `dia-3.yaml` (Kédougou, libération, fin de vie).
 
 ## Règles
 - Uniquement des faits vérifiés et recoupés (au moins deux sources sérieuses) ; une
@@ -23,10 +27,15 @@ sous-titres). Ce dossier n'est pas publié sur askaninfo.com.
 
 ## Fabriquer l'épisode
 ```
-python histoires/histoire.py <voix Piper fr_FR-siwis-medium.onnx> histoires/episode-1962.yaml sortie.mp4
+python histoires/histoire.py <voix Piper fr_FR-siwis-medium.onnx> histoires/dia-1.yaml dia-1.mp4
 ```
 La voix Piper se télécharge comme dans `.github/workflows/podcast.yml`.
-Photos et crédits : `histoires/photos/` et `histoires/photos/credits.json`.
+Photos et crédits : `histoires/photos/` et `histoires/photos/credits.json`. Une photo absente
+est remplacée par un fond uni (message à l'écran). Ne pas ranger la voix dans le dépôt.
+
+Format d'un épisode (YAML) : `titre`, `serie`, `partie`, `sources`, puis `plans` ; chaque plan
+a une `voix` et, au choix, `photo`, `haut` (petit titre), `date` (grande date), `grand`
+(grand texte), `sans_sous_titres`.
 
 ## Réseau
 Wikimedia Commons (`commons.wikimedia.org`, `upload.wikimedia.org`) et `fr.wikipedia.org`
