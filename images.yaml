@@ -7,7 +7,7 @@ images:
       - loi de finances
       - budget 2027
       - LFR
-    image: /static/images/Sonko_President_Assemblee_Nationale.jpg
+    image: /static/images/IMG_5950-2.png
     type: photo
     credit: "Photo : assemblee nationale"
     source: https://api.assemblee.sn/storage/thumbnails/l4nQPTfvaUWrzRqGtxKFHz9fJEEnwcHl346KTVlI_500.jpg
@@ -190,4 +190,12 @@ images:
     image: /static/images/IMG_5974.jpeg
     type: photo
     credit: Fb
+    actif: true
+  - mots_cles:
+      - Tribunal arbitral du sport
+      - CAN 2025
+    image: /static/images/5c1df6cc-873d-48e8-b3ff-a57c2936b8d5.jpeg
+    type: photo
+    credit: TAS
+    source: https://fr.wikipedia.org/wiki/Tribunal_arbitral_du_sport
     actif: true
