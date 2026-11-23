@@ -1,5 +1,21 @@
 [
  {
+  "id": "522bd23f0ddf",
+  "titre": "Gendarmerie de Dakar : 51 interpellations en 24 heures, dont 42 candidats au départ à Yenne",
+  "lien": "http://www.ndarinfo.com/Gendarmerie-de-Dakar-51-interpellations-en-24-heures-dont-42-candidats-au-depart-a-Yenne_a47310.html",
+  "source": "Ndarinfo (Saint-Louis)",
+  "site_source": "https://www.ndarinfo.com",
+  "date": "2026-11-23T12:32:00+00:00",
+  "rubrique": "Diaspora",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La Légion de gendarmerie de Dakar a interpellé 51 personnes le 21 novembre lors d'opérations contre l'émigration irrégulière et l...",
+  "categories": [
+   "Faits divers"
+  ]
+ },
+ {
   "id": "cd1c2f0106f6",
   "titre": "Entre Ibrahim Traoré et Mamadi Doumbouya, deux visions de la souveraineté et du panafricanisme",
   "lien": "https://www.jeuneafrique.com/1862614/politique/entre-ibrahim-traore-et-mamadi-doumbouya-deux-visions-de-la-souverainete-et-du-panafricanisme/",
@@ -11,6 +27,52 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Arrivés au pouvoir par les armes, les deux militaires ont pourtant des approches bien différentes : quand le Burkinabè prône la rupture avec l’ordre international, le Guinéen mise au contraire sur le pragmatisme économique et le refus de tourner le dos à des partenaires historiques."
+ },
+ {
+  "id": "58959431731f",
+  "titre": "Grève générale : les boulangers paralysent la production du pain du 23 au 25 novembre",
+  "lien": "https://actusen.sn/greve-generale-les-boulangers-paralysent-la-production-du-pain-du-23-au-25-novembre/",
+  "source": "Actusen",
+  "site_source": "https://actusen.sn",
+  "date": "2026-11-23T11:33:36+00:00",
+  "rubrique": "Société",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Face à la réponse du ministère de la Santé et de l’Hygiène publique, jugée insuffisante, l’Intersyndicale de la boulangerie du Sénégal appelle les boulangers à se mobiliser. Elle annonce un arrêt de production les 23, 24 et 25 novembre (Aujourd’hui, demain et après-demain), en attendant une réponse…",
+  "categories": [
+   "Actualité",
+   "News"
+  ]
+ },
+ {
+  "id": "83f92fd59ccd",
+  "titre": "La paix ne passera pas par les armes selon Mgr Jean-Baptiste Valter Manga, « évêque de Ziguinchor",
+  "lien": "https://www.seneplus.com/article/la-paix-ne-passera-pas-par-les-armes-selon-mgr-jean-baptiste-valter-manga-eveque-de",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-23T11:30:24+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La paix ne passera pas par les armes selon Mgr Jean-Baptiste Valter Manga, « évêque de Ziguinchor Daouda Toumbou Mon, 11/23/2026 - 11:30"
+ },
+ {
+  "id": "9b879c399d42",
+  "titre": "“Nous voulons la liberté de la presse”: la colère monte à Istanbul face à la censure des médias",
+  "lien": "https://www.dakaractu.com/Nous-voulons-la-liberte-de-la-presse-la-colere-monte-a-Istanbul-face-a-la-censure-des-medias_a278503.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-23T11:29:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Plusieurs milliers de personnes ont manifesté dimanche à Istanbul pour dénoncer la répression croissante contre les médias d’opposition et indépendants en Turquie, a constaté un correspondant de l’AFP. La manifestation était organisée à l’appel du principal parti d’opposition, le Nouveau Parti,…",
+  "categories": [
+   "Texto"
+  ]
  },
  {
   "id": "77725e6569d7",
@@ -68703,31 +68765,5 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Le Sénégal conserve son fauteuil au Conseil de l’Union internationale des télécommunications (UIT). À l’issue du scrutin organisé ce lundi à Doha, au Qatar, notre pays figure parmi les 13 États africains élus pour le mandat 2027-2030. Une nouvelle réélection qui prolonge une présence ininterrompue…"
- },
- {
-  "id": "f914ef565e0f",
-  "titre": "Open africain d’Abidjan : le judoka sénégalais Mbagnick Ndiaye remporte la médaille d’or des plus de 100 km",
-  "lien": "https://www.pressafrik.com/Open-africain-d-Abidjan-le-judoka-senegalais-Mbagnick-Ndiaye-remporte-la-medaille-d-or-des-plus-de-100-km_a314669.html",
-  "source": "PressAfrik",
-  "site_source": "https://www.pressafrik.com",
-  "date": "2026-11-16T11:34:00+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le judoka sénégalais Mbagnick Ndiaye a remporté la médaille d'or dans la catégorie des plus de 10... www.pressafrik.com"
- },
- {
-  "id": "075d521cbd52",
-  "titre": "France : le lycée Neslon Mandela rouvre ses portes à Nantes",
-  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-france-le-lyc%C3%A9e-neslon-mandela-rouvre-ses-portes-%C3%A0-nantes",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-16T11:33:00+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le lycée Nelson-Mandela de Nantes, en partie incendié début octobre en marge de la mobilisation lycéenne, a rouvert ses portes lundi 16 novembre au matin pour une reprise partielle des cours, tandis que les travaux se poursuivent sur la partie des bâtiments encore endommagée. Le ministre de…"
  }
 ]
