@@ -1,5 +1,89 @@
 [
  {
+  "id": "e527e6cb3296",
+  "titre": "Actualité du Sénégal : l’essentiel de ce lundi 23 novembre 2026",
+  "lien": "https://www.senenews.com/essentiel-du-jour/actualite-senegal-23-novembre-2026_607264.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-23T08:05:53.070204+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "El Malick Ndiaye active les réunions de Pastef dans le Djolof Le responsable de Pastef, El Malick Ndiaye, a organisé plusieurs visites de proximité et une réunion de coordination départementale à Dahra après une conférence à Mbacké le 21 novembre. Cette démarche s'inscrit dans le cadre des 48…",
+  "categories": [
+   "L'essentiel du jour"
+  ]
+ },
+ {
+  "id": "59efecf51702",
+  "titre": "Abus sur mineure : Modou Thioune interpellé à Arafat pour faits présumés",
+  "lien": "https://www.senenews.com/actualites/modou-thioune-57-ans-et-la-fille-de-13-ans-de-sa-colocataire-laffaire-qui-secoue-arafat_607266.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-23T08:04:33+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le 21 novembre, le commissariat de Grand-Yoff a interpellé un individu pour des faits présumés d'abus sexuels sur mineure. Il s'agit du nommé Modou Thioune (57 ans), domicilié au quartier Arafat. Cette interpellation fait suite à une lettre-plainte en date du 15 septembre 2026, formulée par la Dame…",
+  "categories": [
+   "Sénégal - Actualités",
+   "Société",
+   "Modou Thioune"
+  ]
+ },
+ {
+  "id": "5819a47cfae0",
+  "titre": "Retour éventuel de Macky Sall L’Apr affûte ses armes entre Fatick et Saint-Louis",
+  "lien": "https://lequotidien.sn/retour-eventuel-de-macky-sall-lapr-affute-ses-armes-entre-fatick-et-saint-louis/",
+  "source": "Le Quotidien",
+  "site_source": "https://lequotidien.sn",
+  "date": "2026-11-23T08:04:18+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Après le retrait de l’ancien Président de la course à l’Onu, la remobilisation de l’Alliance pour la République (Apr) à Fatick, en prélude au...",
+  "categories": [
+   "Politique"
+  ]
+ },
+ {
+  "id": "b0d8c9cb5bde",
+  "titre": "Le Palais lance une contre-offensive juridique pour contrarier les plans du Pastef",
+  "lien": "https://www.senenews.com/actualites/le-palais-lance-une-contre-offensive-juridique-pour-contrarier-les-plans-du-pastef_607263.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-23T08:00:14+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Après le rejet de la LFR 2026 par l'Assemblée nationale, le décret présidentiel du 19 novembre, qui a mis en vigueur cette loi de finances, continue de susciter la controverse. Mais selon des sources proches de la Présidence, il n'y a eu ni « contournement » du Parlement ni « violation » de la…",
+  "categories": [
+   "Politique",
+   "Sénégal - Actualités",
+   "Pastef"
+  ]
+ },
+ {
+  "id": "81abe01fda00",
+  "titre": "Journée mondiale de la pêche: Les acteurs plaident pour une gouvernance plus transparente du secteur",
+  "lien": "https://lesoleil.sn/actualites/economie/journee-mondiale-de-la-peche-les-acteurs-plaident-pour-une-gouvernance-plus-transparente-du-secteur/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-23T08:00:08+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Transparence, bonne gouvernance et préservation des ressources halieutiques ont été au cœur de la célébration de la Journée mondiale de la pêche, organisée samedi 21 novembre 2026 à Kaolack. Les professionnels du secteur ont profité de cette tribune pour exposer leurs préoccupations et réclamer une…",
+  "categories": [
+   "Économie"
+  ]
+ },
+ {
   "id": "7709f062889f",
   "titre": "Saint-Louis : Babacar Abba Mbaye remobilise ses troupes et affiche son soutien à Diomaye Faye",
   "lien": "http://www.ndarinfo.com/Saint-Louis-Babacar-Abba-Mbaye-remobilise-ses-troupes-et-affiche-son-soutien-a-Diomaye-Faye_a47309.html",
@@ -16,6 +100,38 @@
   ]
  },
  {
+  "id": "bc6a399e1b4f",
+  "titre": "Dominique Soopin sur la cause chagossienne : «L’avenir du Peuple chagossien doit se construire avec le Peuple chagossien»",
+  "lien": "https://lequotidien.sn/dominique-soopin-sur-la-cause-chagossienne-lavenir-du-peuple-chagossien-doit-se-construire-avec-le-peuple-chagossien/",
+  "source": "Le Quotidien",
+  "site_source": "https://lequotidien.sn",
+  "date": "2026-11-23T07:58:17+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Réunis à Dakar le 21 novembre, la présidente du Gouvernement de transition chagossien et le président de l’Idia-Bg appellent les Africains à soutenir le...",
+  "categories": [
+   "Actualités"
+  ]
+ },
+ {
+  "id": "ea35e5f35883",
+  "titre": "Mesure – Application de la Loi de finances rectificative 2026 : Le décret sous toutes ses coutures",
+  "lien": "https://lequotidien.sn/mesure-application-de-la-loi-de-finances-rectificative-2026-le-decret-sous-toutes-ses-coutures/",
+  "source": "Le Quotidien",
+  "site_source": "https://lequotidien.sn",
+  "date": "2026-11-23T07:58:11+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Face aux critiques suscitées par la mise en vigueur par décret de la Loi de finances rectificative pour 2026, une source proche de l’Exécutif...",
+  "categories": [
+   "Actualités"
+  ]
+ },
+ {
   "id": "c8956c9fa7c2",
   "titre": "Législatives espagnoles : une victoire de la droite menacerait-elle le rapprochement avec le Maroc ?",
   "lien": "https://www.jeuneafrique.com/1862926/politique/legislatives-espagnoles-une-victoire-de-la-droite-menacerait-elle-le-rapprochement-avec-le-maroc/",
@@ -27,6 +143,70 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "À une semaine des élections législatives anticipées du 29 novembre, Alberto Núñez Feijóo et son Parti populaire (PP) espèrent succéder à Pedro Sánchez, avec le soutien éventuel de l’extrême droite de Vox. À Rabat, cette perspective ravive les interrogations sur l’avenir du rapprochement engagé en…"
+ },
+ {
+  "id": "ea88b238f1ed",
+  "titre": "Energie et impact social : Ndèye Anna Ndiaye distinguée Docteur Honoris Causa par l’Iarpa",
+  "lien": "https://lequotidien.sn/energie-et-impact-social-ndeye-anna-ndiaye-distinguee-docteur-honoris-causa-par-liarpa/",
+  "source": "Le Quotidien",
+  "site_source": "https://lequotidien.sn",
+  "date": "2026-11-23T07:56:46+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L’entrepreneuse sénégalaise Ndèye Anna Ndiaye recevra le titre de Docteur Honoris Causa (promotion 2026) de l’Institut africain de recherche pluridisciplinaire appliquée les 26 et...",
+  "categories": [
+   "Actualités"
+  ]
+ },
+ {
+  "id": "e5bec62f3614",
+  "titre": "Journée mondiale de la pêche : Les acteurs du secteur veulent sortir de la vague",
+  "lien": "https://lequotidien.sn/journee-mondiale-de-la-peche-les-acteurs-du-secteur-veulent-sortir-de-la-vague/",
+  "source": "Le Quotidien",
+  "site_source": "https://lequotidien.sn",
+  "date": "2026-11-23T07:50:21+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "A l’occasion de la Journée mondiale de la pêche célébrée à Kaolack, pêcheurs, mareyeurs et transformatrices ont massivement répondu à l’appel du ministère des...",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "9aa2ee2eea87",
+  "titre": "Pêche – Commerce intrarégional des produits halieutiques : La Caopa plaide pour un marché intégré",
+  "lien": "https://lequotidien.sn/peche-commerce-intraregional-des-produits-halieutiques-la-caopa-plaide-pour-un-marche-integre/",
+  "source": "Le Quotidien",
+  "site_source": "https://lequotidien.sn",
+  "date": "2026-11-23T07:50:05+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Les représentants des organisations professionnelles de la pêche artisanale, venus de 29 pays africains, ont posé les jalons d’une nouvelle feuille de route pour...",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "e665b6400f7f",
+  "titre": "Marine Le Pen a-t-elle bénéficié d’une “taupe” au ministère de l’Intérieur?",
+  "lien": "https://www.dakaractu.com/Marine-Le-Pen-a-t-elle-beneficie-d-une-taupe-au-ministere-de-l-Interieur_a278487.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-23T07:50:00+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L’enquête sur des fuites provenant de Beauvau, le ministère français de l’Intérieur, et incriminant le préfet Hugues Moutouh a été ouverte après la découverte en perquisition d’un mail du secrétariat général, alors dirigé par le haut-fonctionnaire, à propos d’enquêtes judiciaires concernant le RN,…",
+  "categories": [
+   "Texto"
+  ]
  },
  {
   "id": "60df4ffe9fda",
@@ -43,6 +223,296 @@
   "categories": [
    "Société"
   ]
+ },
+ {
+  "id": "21e5f85b1ee9",
+  "titre": "Revue des Titres Français du Lundi 23 Novembre 2026 avec Fabrice Nguema",
+  "lien": "https://www.seneweb.com/fr/news/Revue%20Presse/revue-des-titres-francais-du-lundi-23-novembre-2026-avec-fabrice-nguema_n_999004383.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-23T07:48:16+00:00",
+  "rubrique": "Monde",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Revue des Titres Français du Lundi 23 Novembre 2026 avec Fabrice Nguema"
+ },
+ {
+  "id": "9bcced6be14a",
+  "titre": "Malgré les interceptions, les arrivées en Espagne progressent de 39,1 %",
+  "lien": "https://senego.com/malgre-les-interceptions-les-arrivees-en-espagne-progressent-de-391_2026937.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-23T07:46:42+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "La Coalition pour la bonne gouvernance migratoire demande une évaluation des politiques conduites, alors que les arrivées maritimes en Espagne augmentent malgré les interceptions au Sénégal.",
+  "categories": [
+   "Communiqués",
+   "Dakar",
+   "Sénégal",
+   "Société",
+   "ADHA"
+  ]
+ },
+ {
+  "id": "5ef56bd9ef25",
+  "titre": "Les 10 pays qui abriteront les plus grandes populations musulmanes au monde d'ici 2050",
+  "lien": "https://www.bbc.com/afrique/articles/ck7v2ng063pno?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Afrique",
+  "site_source": "https://www.bbc.com/afrique",
+  "date": "2026-11-23T07:46:41+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Entre 2020 et 2070, la population musulmane devrait augmenter de 80 %, passant de 2,02 milliards à 3,64 milliards."
+ },
+ {
+  "id": "201bb57f55c7",
+  "titre": "Guinée : Atépa et le projet à 19 000 milliards F CFA",
+  "lien": "https://www.seneweb.com/fr/news/Economie/guinee-atepa-et-le-projet-a-19-000-milliards-f-cfa_n_999004382.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-23T07:43:15+00:00",
+  "rubrique": "Afrique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La Guinée projette de construire une nouvelle capitale administrative baptisée « Nimba », sur un périmètre de 30 000 hectares."
+ },
+ {
+  "id": "7569e9a2ae4f",
+  "titre": "Mbour – Journée mondiale de la pêche : Une célébration au goût amer",
+  "lien": "https://lequotidien.sn/mbour-journee-mondiale-de-la-peche-une-celebration-au-gout-amer/",
+  "source": "Le Quotidien",
+  "site_source": "https://lequotidien.sn",
+  "date": "2026-11-23T07:40:46+00:00",
+  "rubrique": "Monde",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L’heure n’était pas à la fête au quai de Tefess. Entre la raréfaction du poisson, la concurrence des navires industriels et l’insalubrité du site,...",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "6fc080a837b5",
+  "titre": "Caf – En Assemblée générale à Abuja : L’Afrique valide Infantino devant Diallo",
+  "lien": "https://lequotidien.sn/caf-en-assemblee-generale-a-abuja-lafrique-valide-infantino-devant-diallo/",
+  "source": "Le Quotidien",
+  "site_source": "https://lequotidien.sn",
+  "date": "2026-11-23T07:40:30+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "En marge de l’Assemblée générale ordinaire tenue ce samedi à Abuja, la Confédération africaine de football (Caf) s’est enorgueillie des prouesses financières réalisées sous...",
+  "categories": [
+   "Football",
+   "Sport"
+  ]
+ },
+ {
+  "id": "aaba8586a543",
+  "titre": "Can beach soccer 2026 : Le Sénégal termine sa préparation par une deuxième victoire face au Malawi",
+  "lien": "https://lequotidien.sn/can-beach-soccer-2026-le-senegal-termine-sa-preparation-par-une-deuxieme-victoire-face-au-malawi/",
+  "source": "Le Quotidien",
+  "site_source": "https://lequotidien.sn",
+  "date": "2026-11-23T07:36:37+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L’Equipe nationale du Sénégal a bouclé sa préparation à la Can beach soccer 2026 par une deuxième victoire en match amical face au Malawi...",
+  "categories": [
+   "Beach Soccer",
+   "Sport"
+  ]
+ },
+ {
+  "id": "a13218ca3977",
+  "titre": "Can 2027 : Les 6 villes hôtes annoncées !",
+  "lien": "https://lequotidien.sn/can-2027-les-6-villes-hotes-annoncees/",
+  "source": "Le Quotidien",
+  "site_source": "https://lequotidien.sn",
+  "date": "2026-11-23T07:36:23+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "A moins de sept mois du début de la 36e édition prévue du 19 juin au 17 juillet 2027 au Kenya, en Tanzanie et...",
+  "categories": [
+   "Football",
+   "Sport"
+  ]
+ },
+ {
+  "id": "c5e9b74c460e",
+  "titre": "Revue de la presse SenePlus du lundi 23 novembre 2026",
+  "lien": "https://www.seneplus.com/article/revue-de-la-presse-seneplus-du-lundi-23-novembre-2026",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-23T07:36:02+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Revue de la presse SenePlus du lundi 23 novembre 2026 Daouda Toumbou Mon, 11/23/2026 - 07:36"
+ },
+ {
+  "id": "be2dca4a286c",
+  "titre": "Mar Loth : 101 candidats à l’émigration irrégulière interpellés, dont deux enfants",
+  "lien": "https://senego.com/mar-loth-101-candidats-a-lemigration-irreguliere-interpelles-dont-deux-enfants_2026935.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-23T07:34:05+00:00",
+  "rubrique": "Diaspora",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "À Mar Loth, les gendarmes ont interpellé 101 candidats à l’émigration irrégulière, dont deux enfants, et saisi du carburant ainsi qu’une embarcation.",
+  "categories": [
+   "Faits Divers",
+   "Fatick",
+   "Sénégal",
+   "émigration irrégulière",
+   "Fimela"
+  ]
+ },
+ {
+  "id": "2f08f391afe5",
+  "titre": "l'ONU réclame une enquête après l'attaque contre un navire russe en Libye",
+  "lien": "http://fr.africanews.com/2026/11/23/lonu-reclame-une-enquete-apres-lattaque-contre-un-navire-russe-en-libye/",
+  "source": "Africanews",
+  "site_source": "https://fr.africanews.com",
+  "date": "2026-11-23T07:32:44+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "'' La Libye ne peut pas se permettre, et ne doit pas devenir, un champ de bataille pour des conflits étrangers '' ONU"
+ },
+ {
+  "id": "682db1f280b8",
+  "titre": "DIALOGUE SOCIAL : Le Haut Conseil à l’école de l’arbitrage et de la médiation sociale",
+  "lien": "https://emedia.sn/dialogue-social-le-haut-conseil-a-lecole-de-larbitrage-et-de-la-mediation-sociale/",
+  "source": "Emedia",
+  "site_source": "https://emedia.sn",
+  "date": "2026-11-23T07:30:52+00:00",
+  "rubrique": "Société",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Du 19 au 20 novembre, Dakar a abrité un atelier de renforcement des capacités consacré à l’arbitrage et à la médiation sociale, à l’intention des membres du Haut Conseil du Dialogue social (HCDS). Cette rencontre vise à renforcer les connaissances des participants sur le rôle et le fonctionnement…",
+  "categories": [
+   "A L'INSTANT",
+   "ACTUALITÉS",
+   "UNE",
+   "Dialogue social"
+  ]
+ },
+ {
+  "id": "80402cad4ba6",
+  "titre": "Ligue 1 : renversé par Le Mans, Marseille rechute après 5 victoires consécutives",
+  "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20261123-ligue-1-renvers%C3%A9-par-le-mans-marseille-rechute-apr%C3%A8s-5-victoires-cons%C3%A9cutives",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-23T07:30:26+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L’Olympique de Marseille s’est incliné à domicile face au Mans (3-2). Alors qu’il menait 2-0 après 40 minutes et des buts de Gouiri (33’) et Paixão (40’), l’OM s’est écroulé.",
+  "categories": [
+   "Sports"
+  ]
+ },
+ {
+  "id": "74d1ebec62f7",
+  "titre": "Dialogue interreligieux : le « modèle sénégalais » en débat à la Grande Mosquée de Paris",
+  "lien": "https://lesoleil.sn/societe/dialogue-interreligieux-le-modele-senegalais-en-debat-a-la-grande-mosquee-de-paris/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-23T07:30:12+00:00",
+  "rubrique": "Diaspora",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "À l’occasion du centenaire de l’édifice, une conférence internationale se tiendra le jeudi 26 novembre sur la coexistence religieuse au Sénégal et sa capacité à prévenir les extrémismes. PARIS – La Grande Mosquée de Paris accueillera le jeudi 26 novembre, à partir de 14h30, une conférence…",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "8895b3afbd24",
+  "titre": "Yoff : Une pirogue avec près de 175 candidats, en partance vers l’Espagne, portée disparue",
+  "lien": "https://www.senenews.com/actualites/yoff-une-pirogue-avec-pres-de-175-candidats-en-partance-vers-lespagne-portee-disparue_607261.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-23T07:30:02+00:00",
+  "rubrique": "Diaspora",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "À la suite d'informations faisant état de la disparition en mer, depuis plus de dix jours, d'une pirogue transportant près de 175 jeunes originaires de Yoff, Ngor, Ouakam et Cambérène, la mairie de Yoff a exprimé sa « profonde préoccupation face à cette situation particulièrement douloureuse ». En…",
+  "categories": [
+   "A-La-Une",
+   "Sénégal - Actualités",
+   "Société",
+   "yoff"
+  ]
+ },
+ {
+  "id": "00be953b612c",
+  "titre": "Docteur Honoris Causa : l’entrepreneuse Ndèye Anna Ndiaye distinguée à Bangui",
+  "lien": "https://emedia.sn/docteur-honoris-causa-lentrepreneuse-ndeye-anna-ndiaye-distinguee-a-bangui/",
+  "source": "Emedia",
+  "site_source": "https://emedia.sn",
+  "date": "2026-11-23T07:24:52+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L’entrepreneuse sénégalaise Ndèye Anna Ndiaye a été élevée au rang de Docteur Honoris Causa (promotion 2026) par l’Institut africain de recherche pluridisciplinaire appliquée (IARPA), selon un communiqué daté du 19 novembre.La distinction lui sera remise lors d’une cérémonie prévue les 26 et 27…",
+  "categories": [
+   "A L'INSTANT",
+   "ACTUALITÉS",
+   "UNE",
+   "Docteur honoris Causa"
+  ]
+ },
+ {
+  "id": "6327273dd454",
+  "titre": "COP31, le flop",
+  "lien": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261123-cop31-le-flop",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-23T07:22:31+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "A la une de la presse, ce lundi 23 novembre, l’échec de la COP31, à cause, notamment, de référence aux énergies fossiles, dans la proposition finale. Le choc, en Italie, après le suicide d’un ancien chef de la police, retrouvé mort, samedi, à son domicile. Les témoignages des sœurs de Pengo Bossio…",
+  "categories": [
+   "Dans la presse"
+  ]
+ },
+ {
+  "id": "9214f6031e9f",
+  "titre": "Fimela : 101 candidats à l’émigration irrégulière interceptés dans les bolongs de Mar Loth",
+  "lien": "https://www.seneweb.com/fr/news/Immigration/fimela-101-candidats-a-lemigration-irreguliere-interceptes-dans-les-bolongs-de-mar-loth_n_999004381.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-23T07:18:12+00:00",
+  "rubrique": "Diaspora",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La lutte contre l’émigration irrégulière se poursuit dans la région de Fatick. Une opération menée le par la brigade de gendarmerie de Fimela, avec le renfort de la section environnement et de l’Escad…"
  },
  {
   "id": "6cc9a8f2ca25",
@@ -181,6 +651,22 @@
   "extrait": "La Suissesse d’origine camerounaise s’est imposée comme l’une des voix du souverainisme africain. Conseillère des putschistes, ennemie déclarée de l’ancien colon mais aussi femme d’affaires, elle est aussi connectée que redoutée."
  },
  {
+  "id": "06ef11cb5f34",
+  "titre": "« DE LA FORMATION D’AL AMINE LO » Au-delà de la stupeur, je m’indigne ! (Mamadou Bamba Tall )",
+  "lien": "https://www.dakaractu.com/ DE-LA-FORMATION-D-AL-AMINE-LO -Au-dela-de-la-stupeur-je-m-indigne -Mamadou-Bamba-Tall_a278486.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-23T06:58:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "« L’actuel Premier ministre du Sénégal, Al Amine Lo, est un nullard. Il ne connaît rien. Ses diplômes sont du toc… » On croirait entendre un bateleur de marché ou un braillard de gargote. C’est un député qui parle. Un énergumène qui siège à l’Assemblée nationale du Sénégal. Il a suffi d’une vidéo…",
+  "categories": [
+   "Texto"
+  ]
+ },
+ {
   "id": "27e7ab9e468b",
   "titre": "Randonnée pédestre des Fds : L’Armée autour de Diomaye",
   "lien": "https://lequotidien.sn/randonnee-pedestre-des-fds-larmee-autour-de-diomaye/",
@@ -210,6 +696,19 @@
   "extrait": "Selon Libération, le Bureau central national (BCN) d’Interpol a retrouvé ce week-end, aux Maristes, à Dakar, un véhicule de marque Sport Equip CK2."
  },
  {
+  "id": "83742dde5b72",
+  "titre": "Soudan : la capitale ciblée par une attaque de drones, l'Éthiopie mise en cause",
+  "lien": "http://fr.africanews.com/2026/11/23/soudan-la-capitale-ciblee-par-une-attaque-de-drones-lethiopie-mise-en-cause/",
+  "source": "Africanews",
+  "site_source": "https://fr.africanews.com",
+  "date": "2026-11-23T06:39:58+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "'' L'attaque de drones à l'aube ce matin s'inscrit dans la continuité de l'agression éthiopienne contre le territoire soudanais'', source proche de l'armée."
+ },
+ {
   "id": "fdb494a891cd",
   "titre": "Administration pénitentiaire : 480 postes ouverts, dépôt des dossiers jusqu’au 4 janvier 2027",
   "lien": "https://senego.com/administration-penitentiaire-480-postes-ouverts-depot-des-dossiers-jusquau-4-janvier-2027_2026924.html",
@@ -227,6 +726,22 @@
    "Sénégal",
    "Administration pénitentiaire",
    "Concours"
+  ]
+ },
+ {
+  "id": "b17cb8134fb3",
+  "titre": "Guinaw Rail Nord : Le collectif des habitants demande le retrait de Valdiodio Ndiaye du Grand Prix des 25 meilleurs maires",
+  "lien": "https://www.dakaractu.com/Guinaw-Rail-Nord-Le-collectif-des-habitants-demande-le-retrait-de-Valdiodio-Ndiaye-du-Grand-Prix-des-25-meilleurs-maires_a278485.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-23T06:25:00+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le collectif citoyen des habitants de Guinaw Rail Nord conteste la nomination du maire Valdiodio Ndiaye au Grand Prix des 25 meilleurs maires du Sénégal, édition 2026. Lors d’une conférence de presse, son coordonnateur, Imam Assane Lo, a estimé que cette distinction ne reflète pas les réalités…",
+  "categories": [
+   "Texto"
   ]
  },
  {
@@ -438,6 +953,22 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Avec ce texte à visée générale, la Commission européenne veut légiférer sur des pratiques jugées piégeuses pour les joueurs. Dans son viseur : les monnaies virtuelles, les « loot boxes » et les mécanismes de « pay-to-win » ou « pay-to-progress »."
+ },
+ {
+  "id": "f52fc9c305fd",
+  "titre": "Ministère de la Justice du Sénégal : Forces Armées : Me Moussa SARR prend part à la grande randonnée aux côtés",
+  "lien": "https://www.leral.net/Ministere-de-la-Justice-du-Senegal-Forces-Armees-Me-Moussa-SARR-prend-part-a-la-grande-randonnee-aux-cotes_a412013.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-23T05:30:00+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Document publié par Ministère de la Justice du Sénégal, daté du dimanche 22 novembre 2026.",
+  "categories": [
+   "Société"
+  ]
  },
  {
   "id": "ca683a81c982",
@@ -2333,22 +2864,6 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": ""
- },
- {
-  "id": "018a4cf76060",
-  "titre": "CAN Beach Soccer 2026 – Le Sénégal termine sa préparation par une deuxième victoire face au Malawi !",
-  "lien": "https://wiwsport.com/2026/11/22/can-beach-soccer-2026-le-senegal-termine-sa-preparation-par-une-deuxieme-victoire-face-au-malawi/",
-  "source": "Wiwsport",
-  "site_source": "https://www.wiwsport.com",
-  "date": "2026-11-22T18:49:59+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "( wiwsport ) - L’équipe nationale du Sénégal a bouclé sa préparation à la CAN Beach Soccer 2026 par une deuxième victoire en match amical face au Malawi (6-4). Un dernier test qui permet aux Lions de prendre leurs marques avant le début de la compétition, prévu le 28 novembre prochain. Les deux…",
-  "categories": [
-   "Beach soccer"
-  ]
  },
  {
   "id": "0a53a1bc68a3",
@@ -67827,408 +68342,5 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Alors que le serial entrepreneur semblait tenir la corde pour le rachat d’un nouveau réseau de stations-service, la Société nationale burkinabè d’hydrocarbures pourrait rapidement compromettre ses ambitions. Coulisses."
- },
- {
-  "id": "7c338ca04e33",
-  "titre": "Mali : Abdoulaye Diop, le diplomate de carrière qui a épousé la cause des militaires",
-  "lien": "https://www.jeuneafrique.com/1861515/politique/mali-abdoulaye-diop-le-diplomate-de-carriere-qui-a-epouse-la-cause-des-militaires/",
-  "source": "Jeune Afrique",
-  "site_source": "https://www.jeuneafrique.com",
-  "date": "2026-11-16T08:05:03+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "D’Ibrahim Boubacar Keïta à Assimi Goïta, le ministre des Affaires étrangères a traversé les alternances et les ruptures politiques sans jamais s’éloigner des cercles du pouvoir. Diplomate de carrière devenu défenseur infatigable de la transition, il est aujourd’hui l’une des principales figures…"
- },
- {
-  "id": "b50f7f26f134",
-  "titre": "Découvrez les Unes des journaux sénégalais du lundi 16 novembre 2026",
-  "lien": "https://senego.com/decouvrez-les-unes-des-journaux-senegalais-du-lundi-16-novembre-2026_2024306.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-16T08:04:53+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Découvrez les Unes des journaux sénégalais du lundi 16 novembre 2026"
- },
- {
-  "id": "21aee0f26faa",
-  "titre": "De l’opposition au perchoir…Sonko toujours hanté par le spectre du complot",
-  "lien": "https://www.xibaaru.sn/de-lopposition-au-perchoir-sonko-toujours-hante-par-le-spectre-du-complot/",
-  "source": "Xibaaru",
-  "site_source": "https://www.xibaaru.sn",
-  "date": "2026-11-16T08:00:26+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Ousmane Sonko remet le spectre du complot au cœur de son discours politique. Lors d’une récente rencontre avec ses militants et responsables, le président de l’Assemblée nationale a évoqué des manœuvres qu’il…"
- },
- {
-  "id": "5cac7691e35a",
-  "titre": "La mer rejette quatre corps de femmes à Saint-Louis, un drame plus grave qu’annoncé",
-  "lien": "https://www.senenews.com/actualites/la-mer-rejette-quatre-corps-de-femmes-a-saint-louis-un-drame-plus-grave-quannonce_606560.html",
-  "source": "Senenews",
-  "site_source": "https://www.senenews.com",
-  "date": "2026-11-16T08:00:20+00:00",
-  "rubrique": "Diaspora",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Alors que les morgues de Lompoul saturent avec 16 cadavres anonymes, les secouristes suspectent une nouvelle hécatombe avec la découverte de quatre corps de femmes intacts à l’Hydrobase de Saint-Louis, au moment où une autre embarcation de 200 migrants s’échouait en catastrophe à Potou, entraînant…"
- },
- {
-  "id": "fb92feb2fe68",
-  "titre": "Interceptées à la frontière et âgées entre 11 et 12 ans, elles voulaient quitter le pays à cause de leur instituteur",
-  "lien": "https://www.senenews.com/actualites/interceptees-a-la-frontiere-et-agees-entre-11-et-12-ans-elles-voulaient-quitter-le-pays-a-cause-de-leur-instituteur_606553.html",
-  "source": "Senenews",
-  "site_source": "https://www.senenews.com",
-  "date": "2026-11-16T08:00:07+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Comme nous le révélions, le commissariat de Rosso avait bloqué à la sortie du territoire trois (03) fillettes de nationalité sénégalaise, pour défaut de documents de voyage et d’autorisation parentale. Il s’agit de S.K (11 ans), M.P.S (12 ans) et A.M.N.B (12 ans). Elles sont toutes les trois (03)…"
- },
- {
-  "id": "a310fb44e14c",
-  "titre": "CAN 2027 – Soudan vs Sénégal à 13h00 : Une victoire à Juba et les Lions pourraient valider leur billet",
-  "lien": "https://senego.com/can-2027-soudan-vs-senegal-a-13h00-une-victoire-a-juba-et-les-lions-pourraient-valider-leur-billet_2024336.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-16T07:59:58+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Le Sénégal joue gros ce lundi face au Soudan. Quatre jours après leur large succès (4-1) au stade Léopold Sédar Senghor, les Lions retrouvent les Crocodiles du Nil à Juba, au Soudan du Sud, à partir de 13 heures. Une nouvelle victoire pourrait leur ouvrir directement les portes de la CAN 2027, à…"
- },
- {
-  "id": "3debf18780c4",
-  "titre": "Éliminatoires CAN 2027 : Patrick Vieira exige rigueur et engagement pour éviter le piège de Juba",
-  "lien": "https://lesoleil.sn/actualites/sports/eliminatoires-can-2027-patrick-vieira-exige-rigueur-et-engagement-pour-eviter-le-piege-de-juba/",
-  "source": "Le Soleil",
-  "site_source": "https://lesoleil.sn",
-  "date": "2026-11-16T07:56:55+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "À la veille de la confrontation entre le Sénégal et le Soudan, prévue ce lundi à Juba, Patrick Vieira appelle ses joueurs à la vigilance. Les Lions ont pourtant dominé largement (4-1) le match aller, jeudi à Dakar. En conférence de presse, leur sélectionneur a toutefois prévenu qu’il faudrait de la…"
- },
- {
-  "id": "590a1df5b290",
-  "titre": "CAN 2027 : le Maroc se qualifie avec un nul, l’Égypte doit battre le Malawi",
-  "lien": "https://senego.com/can-2027-le-maroc-se-qualifie-avec-un-nul-legypte-doit-battre-le-malawi_2024338.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-16T07:56:40+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Maroc, Égypte, Côte d’Ivoire, RDC et Burkina Faso peuvent valider leur qualification dès la 4e journée, mais les résultats requis varient selon les groupes."
- },
- {
-  "id": "77f0228dadfd",
-  "titre": "À la Une: Ukraine, l’Europe à la traine…",
-  "lien": "https://www.rfi.fr/fr/podcasts/revue-de-presse-internationale/20261116-%C3%A0-la-une-ukraine-l-europe-%C3%A0-la-traine",
-  "source": "RFI Monde",
-  "site_source": "https://www.rfi.fr/fr/monde/",
-  "date": "2026-11-16T07:56:11+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": ""
- },
- {
-  "id": "3375bb487a48",
-  "titre": "Revue de Presse en Français du Lundi 16 Novembre 2026 avec Fabrice Nguema",
-  "lien": "https://www.seneweb.com/fr/news/Revue%20Presse/revue-de-presse-en-francais-du-lundi-16-novembre-2026-avec-fabrice-nguema_n_999003745.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-16T07:51:58+00:00",
-  "rubrique": "Monde",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Revue de Presse en Français du Lundi 16 Novembre 2026 avec Fabrice Nguema"
- },
- {
-  "id": "8fb3a85df5d9",
-  "titre": "Revue de presse Ahmed Aïdara du Lundi 16 Novembre 2026",
-  "lien": "https://www.seneweb.com/fr/news/Revue%20Presse/revue-de-presse-ahmed-aidara-du-lundi-16-novembre-2026_n_999003744.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-16T07:50:47+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Revue de presse Ahmed Aïdara du Lundi 16 Novembre 2026"
- },
- {
-  "id": "4619601b5845",
-  "titre": "Après le succès des JOJ: Dakar au défi des jeux de la Francophonie 2031",
-  "lien": "https://lesoleil.sn/actualites/sports/apres-le-succes-des-joj-dakar-au-defi-des-jeux-de-la-francophonie-2031/",
-  "source": "Le Soleil",
-  "site_source": "https://lesoleil.sn",
-  "date": "2026-11-16T07:50:12+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le 13 novembre 2026, la flamme des Joj s’est éteinte à Diamniadio, laissant le souvenir d’une « réussite à 100 % » saluée par le Cio. Le Sénégal a prouvé qu’il savait accueillir, organiser et rayonner. Ce succès appelle désormais un nouveau défi, puisque le pays accueillera dans cinq ans les XIes…"
- },
- {
-  "id": "538a132414ee",
-  "titre": "Franc CFA : Amath Ndiaye confronte compétitivité-prix et facteurs structurels",
-  "lien": "https://senego.com/franc-cfa-amath-ndiaye-confronte-competitivite-prix-et-facteurs-structurels_2024335.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-16T07:48:39+00:00",
-  "rubrique": "Économie",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "L’économiste sénégalais Amath Ndiaye compare les performances commerciales de l’UEMOA, de la CEMAC et d’autres économies africaines pour examiner le débat sur le franc CFA."
- },
- {
-  "id": "e0d001696afe",
-  "titre": "Revue de la presse SenePlus du lundi 16 novembre 2026",
-  "lien": "https://www.seneplus.com/article/revue-de-la-presse-seneplus-du-lundi-16-novembre-2026",
-  "source": "SenePlus",
-  "site_source": "https://www.seneplus.com",
-  "date": "2026-11-16T07:47:48+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Revue de la presse SenePlus du lundi 16 novembre 2026 Daouda Toumbou Mon, 11/16/2026 - 07:47"
- },
- {
-  "id": "c906037bffd2",
-  "titre": "Saint-Louis veut faire du cinéma et de la photographie un levier de développement",
-  "lien": "https://lesoleil.sn/actualites/arts-et-culture/saint-louis-veut-faire-du-cinema-et-de-la-photographie-un-levier-de-developpement/",
-  "source": "Le Soleil",
-  "site_source": "https://lesoleil.sn",
-  "date": "2026-11-16T07:45:33+00:00",
-  "rubrique": "Diaspora",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "La deuxième édition du Salon international Cinéma et Photographie de Saint-Louis se tiendra du 26 au 28 novembre 2026, autour du thème « Héritages en mouvement : Afrique, diasporas et fabrique du commun ». Plus de 2 000 participants sont attendus pour ce rendez-vous consacré aux industries…"
- },
- {
-  "id": "668dfe546d89",
-  "titre": "Lutte contre l’émigration irrégulière : un réseau de convoyage démantelé à Yenne, 14 personnes interpellées",
-  "lien": "https://www.dakaractu.com/Lutte-contre-l-emigration-irreguliere-un-reseau-de-convoyage-demantele-a-Yenne-14-personnes-interpellees_a278228.html",
-  "source": "Dakaractu",
-  "site_source": "https://www.dakaractu.com",
-  "date": "2026-11-16T07:42:00+00:00",
-  "rubrique": "Diaspora",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "La Gendarmerie nationale a porté un nouveau coup aux réseaux de convoyage de migrants. La brigade territoriale de Yenne a démantelé un réseau présumé impliqué dans l’organisation de départs clandestins par voie maritime. L’opération, menée à la suite d’un contrôle de patrouille et d’investigations,…"
- },
- {
-  "id": "357c039ad089",
-  "titre": "Sénégal – Soudan à 13h00: les Lions à 90 minutes d’une qualification à la CAN 2027",
-  "lien": "https://lesoleil.sn/actualites/sports/senegal-soudan-a-13h00-les-lions-a-90-minutes-dune-qualification-a-la-can-2027/",
-  "source": "Le Soleil",
-  "site_source": "https://lesoleil.sn",
-  "date": "2026-11-16T07:40:39+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Large vainqueur du Soudan (4-1) jeudi dernier, à Dakar, le Sénégal peut valider sa qualification à la Can 2027, en cas de nouvelle victoire face aux Crocodiles du Nil ce lundi, à Juba. Les Lions doivent gagner tout en comptant sur un succès du Mozambique sur l’Éthiopie. Quatre jours après avoir…"
- },
- {
-  "id": "d50ae843079c",
-  "titre": "Come-back : Idrissa Seck annoncé dans un…",
-  "lien": "https://www.seneweb.com/fr/news/Politique/come-back-idrissa-seck-annonce-dans-un_n_999003743.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-16T07:40:24+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Idrissa Seck redescend sur le terrain. Les Échos évoque son retour politique à travers plusieurs initiatives."
- },
- {
-  "id": "c7bb4cb1efe6",
-  "titre": "Soudan–Éthiopie : montée des tensions et risque de conflit régional",
-  "lien": "http://fr.africanews.com/2026/11/16/soudanethiopie-montee-des-tensions-et-risque-de-conflit-regional/",
-  "source": "Africanews",
-  "site_source": "https://fr.africanews.com",
-  "date": "2026-11-16T07:39:27+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Les tensions s'aggravent entre le Soudan et l'Éthiopie. Les deux pays voisins s'accusent mutuellement de soutenir des groupes armés opérant sur leurs territoires, faisant craindre une extension des conflits dans la Corne de l'Afrique."
- },
- {
-  "id": "064b95a2961b",
-  "titre": "Kahone - Meeting à Kanda : « Mobilisons nous pour dégager Ousseynou et Assane en 2029! » (Mbaye Dione, SG AFP)",
-  "lien": "https://www.dakaractu.com/Kahone-Meeting-a-Kanda-Mobilisons-nous-pour-degager-Ousseynou-et-Assane-en-2029-Mbaye-Dione-SG-AFP_a278227.html",
-  "source": "Dakaractu",
-  "site_source": "https://www.dakaractu.com",
-  "date": "2026-11-16T07:39:00+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le Secrétaire général de l’Alliance des forces de progrès (AFP), Mbaye Dione, a présidé ce samedi 14 novembre 2026 à Kanda, un meeting organisé par le responsable de l’AFP de la commune de Kahone, Mamadou Aliou Diallo. Cette rencontre a été une tribune pour le leader de l’AFP de mettre à nu les…"
- },
- {
-  "id": "d878b5f37d50",
-  "titre": "Hospitalisés après un repas collectif, la mort mystérieuse de Tidiane Diop et Salif Diallo",
-  "lien": "https://www.senenews.com/actualites/hospitalises-apres-un-repas-collectif-la-mort-mysterieuse-de-tidiane-diop-et-salif-diallo_606557.html",
-  "source": "Senenews",
-  "site_source": "https://www.senenews.com",
-  "date": "2026-11-16T07:35:30+00:00",
-  "rubrique": "Faits divers",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Abdou Tidiane Diop, petit-fils de l'ancien président Abdou Diouf, et Adama Salif Diallo, fils de Mamadou Lamine Diallo, président du mouvement Tekki, sont décédés dans des conditions troubles. Selon nos confrères de Libération, ces derniers étaient ensemble avec d’autres personnes et auraient pris…"
- },
- {
-  "id": "d2888aef3e85",
-  "titre": "Recettes fiscales: une hausse de près 500 milliards de FCfa à fin septembre 2026",
-  "lien": "https://lesoleil.sn/actualites/economie/recettes-fiscales-une-hausse-de-pres-500-milliards-de-fcfa-a-fin-septembre-2026/",
-  "source": "Le Soleil",
-  "site_source": "https://lesoleil.sn",
-  "date": "2026-11-16T07:32:36+00:00",
-  "rubrique": "Économie",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Selon le rapport d’exécution budgétaire du troisième trimestre 2026, publié samedi par le ministère de l’Économie, des Finances et du Plan, les recettes fiscales ont progressé de 496 milliards de FCfa. Au Sénégal, les recettes fiscales se sont élevées à 3.484,3 milliards de FCfa à fin septembre…"
- },
- {
-  "id": "4aa3ac4680f2",
-  "titre": "Centre-ville de Dakar : Le geste héroïque de ce policier pour neutraliser un agresseur",
-  "lien": "https://www.senenews.com/actualites/centre-ville-de-dakar-le-geste-heroique-de-ce-policier-pour-neutraliser-un-agresseur_606556.html",
-  "source": "Senenews",
-  "site_source": "https://www.senenews.com",
-  "date": "2026-11-16T07:32:27+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Dans le cadre d’une patrouille pédestre pour la sécurisation des Joj, un des éléments de la Sûreté urbaine (Su) de Dakar est tombé sur une scène de vol à l’arraché commis par deux individus à bord d’une moto Beverly, à hauteur de l’intersection de la mairie de Dakar. Il a réagi en faisant tomber…"
- },
- {
-  "id": "a4ece1901a5d",
-  "titre": "Émigration clandestine : Comment le réseau de Bineta Guèye a été cerné par les enquêteurs",
-  "lien": "https://www.senenews.com/actualites/emigration-clandestine-comment-le-reseau-de-bineta-gueye-a-ete-cerne-par-les-enqueteurs_606555.html",
-  "source": "Senenews",
-  "site_source": "https://www.senenews.com",
-  "date": "2026-11-16T07:32:02+00:00",
-  "rubrique": "Diaspora",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Dans la nuit du 10 au 11 novembre 2026, à la suite d’une information, le commissariat central de Rufisque a procédé, au terme d’une opération minutieusement planifiée depuis des jours, à l’interpellation du nommé Ousmane Seck (58 ans), connu comme étant un grand trafiquant de migrants, ainsi que de…"
- },
- {
-  "id": "9250aa90d0c4",
-  "titre": "Trois mineurs se relaient sur une déficiente mentale de 15 ans, le film de l’horreur",
-  "lien": "https://www.senenews.com/actualites/trois-mineurs-se-relaient-sur-une-deficiente-mentale-de-15-ans-le-film-de-lhorreur_606551.html",
-  "source": "Senenews",
-  "site_source": "https://www.senenews.com",
-  "date": "2026-11-16T07:29:15+00:00",
-  "rubrique": "Culture",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "C. Diagne (16 ans), apprenti tailleur demeurant à Ndiba (commune de Ndiebel) ; M. Diagne (15 ans), élève en classe de 5e demeurant à Ndiebel, et D. Samb (17 ans), cultivateur habitant la même localité, ont été arrêtés par la brigade territoriale de la gendarmerie de Kaolack pour viol collectif sur…"
- },
- {
-  "id": "df7a91bd23c1",
-  "titre": "Keur Massar : trois écolières disparues retrouvées à Rosso, elles accusent...",
-  "lien": "https://www.seneweb.com/fr/news/Societe/keur-massar-trois-ecolieres-disparues-retrouvees-a-rosso-elles-accusent_n_999003742.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-16T07:22:46+00:00",
-  "rubrique": "Afrique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Elles n’ont pas été enlevées. Selon Libération, trois écolières de 11 et 12 ans, en classe de CM2 dans un établissement privé de Keur Massar, ont fugué pour rejoindre Nouakchott, capitale de la Mauritanie."
- },
- {
-  "id": "c084e6748b55",
-  "titre": "Stephen Miller, nouveau « Roy Cohn » de Donald Trump ?",
-  "lien": "https://www.seneplus.com/article/stephen-miller-nouveau-roy-cohn-de-donald-trump",
-  "source": "SenePlus",
-  "site_source": "https://www.seneplus.com",
-  "date": "2026-11-16T07:15:28+00:00",
-  "rubrique": "Monde",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Stephen Miller, nouveau « Roy Cohn » de Donald Trump ? Farid Akele Mon, 11/16/2026 - 07:15"
- },
- {
-  "id": "e80adc358935",
-  "titre": "Film d’une chute : Les enquêteurs sénégalais ont fait tomber la sierra-Léonaise, Francess Massaquoi",
-  "lien": "https://www.senenews.com/actualites/film-dune-chute-les-enqueteurs-senegalais-ont-fait-tomber-la-sierra-leonaise-francess-massaquoi_606552.html",
-  "source": "Senenews",
-  "site_source": "https://www.senenews.com",
-  "date": "2026-11-16T07:13:37+00:00",
-  "rubrique": "Diaspora",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le 10 novembre 2026, aux environs de 23 h 45, les éléments de la Brigade régionale des stupéfiants de Dakar (Ocrtis) ont interpellé, en face du terminus Liberté 5, la ressortissante sierra-léonaise Francess Massaquoi en possession de trois cent douze (312) comprimés de substances psychotropes…"
- },
- {
-  "id": "124f7cad32d3",
-  "titre": "Ligue des nations : la France bat la Turquie et se qualifie pour les quarts",
-  "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20261116-ligue-des-nations-france-bat-turquie-se-qualifie-quarts",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-16T07:13:35+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "L’équipe de France n’a pas brillé mais a battu la Turquie (2-1) pour la dernière journée de Ligue des nations. Grâce à cette victoire difficile, les Bleus terminent en tête du groupe A1 et sont qualifiés en quarts de finale."
- },
- {
-  "id": "7128274e0881",
-  "titre": "JOJ Dakar 2026 : la ministre annonce une politique de maintenance durable des sites",
-  "lien": "https://senego.com/joj-dakar-2026-la-ministre-annonce-une-politique-de-maintenance-durable-des-sites_2024324.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-16T07:08:50+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "La ministre des Sports et de la Jeunesse annonce une politique de maintenance et d’exploitation des sites des JOJ, avec des compétitions pour les faire vivre."
- },
- {
-  "id": "1146606f3dc1",
-  "titre": "Pour Maimouna Mancou Ba",
-  "lien": "https://www.seneplus.com/article/pour-maimouna-mancou-ba",
-  "source": "SenePlus",
-  "site_source": "https://www.seneplus.com",
-  "date": "2026-11-16T07:08:05+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Pour Maimouna Mancou Ba Farid Akele Mon, 11/16/2026 - 07:08"
  }
 ]
