@@ -1,5 +1,21 @@
 [
  {
+  "id": "51337d0b582b",
+  "titre": "Assainissement – Erection d’ouvrages : 442 toilettes pour redonner dignité à 420 ménages",
+  "lien": "https://lequotidien.sn/assainissement-erection-douvrages-442-toilettes-pour-redonner-dignite-a-420-menages/",
+  "source": "Le Quotidien",
+  "site_source": "https://lequotidien.sn",
+  "date": "2026-11-23T08:55:01+00:00",
+  "rubrique": "Société",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "A Rufisque et Keur Massar, 442 ouvrages d’assainissement seront réalisés au profit de 420 ménages, soit au moins 4200 personnes concernées. Présidant la cérémonie...",
+  "categories": [
+   "Actualités"
+  ]
+ },
+ {
   "id": "b89422e009fb",
   "titre": "À la Une: une COP qui fait flop",
   "lien": "https://www.rfi.fr/fr/podcasts/revue-de-presse-internationale/20261123-%C3%A0-la-une-une-cop-qui-fait-flop",
@@ -13,6 +29,51 @@
   "extrait": "",
   "categories": [
    "Revue de presse internationale"
+  ]
+ },
+ {
+  "id": "354b1523a97b",
+  "titre": "Santé : And Gueusseum annonce 48 heures de grève et chiffre à 32 milliards le passif des contractuels",
+  "lien": "https://www.dakaractu.com/Sante-And-Gueusseum-annonce-48-heures-de-greve-et-chiffre-a-32-milliards-le-passif-des-contractuels_a278489.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-23T08:52:00+00:00",
+  "rubrique": "Société",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Pour son vingtième plan d’action, And Gueusseum annonce une grève les jeudi 26 et vendredi 27 novembre. Dans L’Observateur, son coordonnateur, Mballo Dia Thiam, explique pourquoi le syndicat envisage de reconduire le mouvement tous les quinze jours et demande à être reçu par le Premier ministre. Le…",
+  "categories": [
+   "Actu"
+  ]
+ },
+ {
+  "id": "361000e4b425",
+  "titre": "Avec 258 sièges remportés, les démocrates décrochent la plus large majorité depuis 1992 à la Chambre des représentants",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/23/avec-258-sieges-remportes-les-democrates-decrochent-la-plus-large-majorite-depuis-1992-a-la-chambre-des-representants_6814364_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-23T08:50:29+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Aucun des deux partis dominant la vie politique américaine n’avait obtenu une majorité aussi importante depuis la victoire démocrate, il y a trente-quatre ans."
+ },
+ {
+  "id": "cb2a77e1cd84",
+  "titre": "L’APR réclame son retour, mais quel rôle Macky Sall veut-il encore jouer ? Et si Macky Sall revenait pour soutenir Bassirou Diomaye Faye ?",
+  "lien": "https://www.dakaractu.com/L-APR-reclame-son-retour-mais-quel-role-Macky-Sall-veut-il-encore-jouer-Et-si-Macky-Sall-revenait-pour-soutenir_a278488.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-23T08:49:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Alors que plusieurs responsables de l’Alliance pour la République réclament son retour à la tête du parti, deux analystes interrogés par L’Observateur envisagent une autre trajectoire pour Macky Sall. L’ancien président pourrait mettre son influence au service d’un rapprochement avec Bassirou…",
+  "categories": [
+   "Actu"
   ]
  },
  {
@@ -68321,96 +68382,5 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Deux mots en wolof, et huit années se referment : «Jërëjëf Sénégal». Merci, Sénégal. Le 13 septembre 2026, c’est par cette formule dépouillée que..."
- },
- {
-  "id": "29328b2ebbaf",
-  "titre": "À Dakar, deux jeunes meurent après un repas à l’hôtel, d’autres convives hospitalisés",
-  "lien": "https://senego.com/a-dakar-deux-jeunes-meurent-apres-un-repas-a-lhotel-dautres-convives-hospitalises_2024421.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-16T08:55:12+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Abdou Tidiane Diop et Adama Salif Diallo sont morts après un repas collectif dans un hôtel de Dakar. D’autres convives ont été hospitalisés et des autopsies ordonnées."
- },
- {
-  "id": "b71e85ab44d7",
-  "titre": "Diomaye Faye et Mark Carney échangent sur le prochain sommet francophone au Canada",
-  "lien": "https://senego.com/diomaye-faye-et-mark-carney-echangent-sur-le-prochain-sommet-francophone-au-canada_2024419.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-16T08:55:07+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "En marge du 20e Sommet de la Francophonie, Bassirou Diomaye Faye et Mark Carney ont discuté du renforcement de la coopération économique, des investissements et de l’agriculture."
- },
- {
-  "id": "2d7aedc3a2e6",
-  "titre": "Un lutteur condamné après l’identification par les images de Google",
-  "lien": "https://senego.com/un-lutteur-condamne-apres-lidentification-par-les-images-de-google_2024417.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-16T08:55:02+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Le lutteur M. K. a été condamné à deux ans de prison après le cambriolage du domicile d’un journaliste. Les enquêteurs l’ont identifié grâce aux images d’un téléphone synchronisé."
- },
- {
-  "id": "598cc2af8bbf",
-  "titre": "Budgets des forces de sécurité : Mary Teuw Niane dénonce une contradiction de Pastef",
-  "lien": "https://senego.com/budgets-des-forces-de-securite-mary-teuw-niane-denonce-une-contradiction-de-pastef_2024415.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-16T08:54:57+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Mary Teuw Niane critique les rejets allégués des budgets des Forces armées et de l’Intérieur, qu’il juge contradictoires avec le patriotisme revendiqué par Pastef."
- },
- {
-  "id": "2e022e06b887",
-  "titre": "RDC: Grève contre l’interdiction des baleinières en bois et pour exiger une «décision concertée» avec Kinshasa",
-  "lien": "https://www.rfi.fr/fr/afrique/20261116-rdc-gr%C3%A8ve-contre-l-interdiction-des-baleini%C3%A8res-en-bois-et-pour-exiger-une-d%C3%A9cision-concert%C3%A9e-avec-kinshasa",
-  "source": "RFI Afrique",
-  "site_source": "https://www.rfi.fr/fr/afrique/",
-  "date": "2026-11-16T08:54:57+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "En RDC, les armateurs de baleinières en bois décrètent une grève générale de la navigation à partir de ce 16 novembre pour dénoncer leur interdiction à compter du 15 novembre. « C'est difficile d’avoir une embarcation métallique en deux mois ou trois mois », conteste un représentant de cette…"
- },
- {
-  "id": "832003e0d4bd",
-  "titre": "Revue de presse (Wolof) RFM du lundi 16 novembre 2026 | Par Mamadou Mouhamed Ndiaye",
-  "lien": "https://senego.com/revue-de-presse-wolof-rfm-du-lundi-16-novembre-2026-par-mamadou-mouhamed-ndiaye_2024312.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-16T08:53:37+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Revue de presse (Wolof) RFM du lundi 16 novembre 2026 | Par Mamadou Mouhamed Ndiaye"
- },
- {
-  "id": "8d3e8e3328b6",
-  "titre": "Actualité du Sénégal : l’essentiel de ce lundi 16 novembre 2026",
-  "lien": "https://www.senenews.com/essentiel-du-jour/actualite-senegal-16-novembre-2026_606561.html",
-  "source": "Senenews",
-  "site_source": "https://www.senenews.com",
-  "date": "2026-11-16T08:53:22.447659+00:00",
-  "rubrique": "Diaspora",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Ousmane Sonko accuse l'État sur l'immigration irrégulière Le président de Pastef-Les Patriotes, Ousmane Sonko, a dénoncé la gestion actuelle de l'État concernant l'immigration irrégulière. Il a appelé à donner de l'espoir aux jeunes pour contrecarrer ce phénomène qui pousse de nombreux jeunes à…"
  }
 ]
