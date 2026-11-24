@@ -183,3 +183,4 @@ syntheses/2026-11-24-code-de-la-presse-revision-atelier
 syntheses/2026-11-24-gabon-commercant-senegalais-tue-braquage
 syntheses/2026-11-24-lfr-resolution-pastef-pleniere-mercredi
 syntheses/2026-11-24-sante-contractuels-sans-salaire-octobre
+podcast/2026-11-24
