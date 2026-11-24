@@ -167,3 +167,8 @@ content/syntheses/2026-11-23-yenne-naufrage-neuf-corps-13-morts.md
 content/video/2026-11-23-sport.md
 content/video/2026-11-23-wolof.md
 content/video/2026-11-23.md
+content/syntheses/2026-11-24-anacim-pluies-hors-saison-26-28-novembre.md
+content/syntheses/2026-11-24-macky-sall-apr-kiiraay-oif.md
+content/syntheses/2026-11-24-pain-greve-boulangers-prix-210-refuse.md
+content/syntheses/2026-11-24-statistique-premier-ministre-fonds-formation.md
+content/syntheses/2026-11-24-sucre-importations-suspendues-css.md
