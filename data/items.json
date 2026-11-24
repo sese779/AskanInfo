@@ -13,6 +13,43 @@
   "extrait": "De la grande distribution à l’agro-industrie, le sénégalais EDK veut porter son réseau à 174 points de vente d’ici à 2029. Un changement d’échelle majeur qui se heurte à de vrais défis opérationnels."
  },
  {
+  "id": "9c85ec47610d",
+  "titre": "Et de deux !",
+  "lien": "https://lesoleil.sn/actualites/et-de-deux/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-24T18:03:53+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "«Ô temps, suspends ton vol, et vous, heures propices, suspendez votre cours !» Dans Le Lac, publié en 1820 dans ses Méditations poétiques, Alphonse de Lamartine exprime l’impuissance de l’homme face au temps qui emporte les instants heureux. Bouleversé par la disparition d’un bonheur qu’il voudrait…",
+  "categories": [
+   "Actualités",
+   "Sports"
+  ]
+ },
+ {
+  "id": "59eb7b1e46bd",
+  "titre": "« D’ici 2030, nous avons l’ambition d’aller vers 400 millions de flux vidéo annualisés en données agricoles »",
+  "lien": "https://lesoleil.sn/actualites/technologie/dici-2030-nous-avons-lambition-daller-vers-400-millions-de-flux-video-annualises-en-donnees-agricoles/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-24T18:03:01+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Aller vers 400 millions de flux vidéo annualisés en données agricoles et en données d’irrigation d’ici 2030, c’est ce que veulent les créateurs de Sotilma. Une startup sénégalaise qui propose des équipements digitalisés et une IA capable et accessible sur WhatsApp, en wolof et en français, qui…",
+  "categories": [
+   "Technologie",
+   "Adja Aminata Cissé Diop Sotilma",
+   "données agricoles",
+   "Le ministère des Télécommunications et d",
+   "programme d’incubation de la cohorte IA "
+  ]
+ },
+ {
   "id": "44089302066b",
   "titre": "Gazoduc Nigeria-Maroc : 26 ONG réclament une évaluation régionale indépendante des impacts",
   "lien": "https://senego.com/gazoduc-nigeria-maroc-26-ong-reclament-une-evaluation-regionale-independante-des-impacts_2027568.html",
@@ -73120,18 +73157,5 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Un joueur américain de basketball de 28 ans, identifié comme Greene Da’monte Khiree, a été arrêté à l’aéroport international de Lagos, au Nigeria..."
- },
- {
-  "id": "da9dc317f326",
-  "titre": "Malgré leur divorce, Obree daman fait une déclaration émouvante à son ex-femme Kya Loum : « Tu es une femme exceptionnelle »",
-  "lien": "https://senego.com/malgre-leur-divorce-obreedaman-fait-une-declaration-emouvante-a-son-ex-femme-kya-loum-tu-es-une-femme-exceptionnelle_2025026.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-17T18:03:45+00:00",
-  "rubrique": "Culture",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Le musicien Obreedaman a adressé un message empreint de reconnaissance et d’affection à son ex-épouse, la chanteuse Kya Loum. Malgré leur séparation, l’artiste souligne avoir préservé avec elle une relation amicale fondée sur le respect et la bienveillance. Dans son message, il salue notamment les…"
  }
 ]
