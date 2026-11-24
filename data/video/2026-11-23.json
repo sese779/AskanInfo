@@ -1,0 +1,31 @@
+{
+ "url": "https://github.com/sese779/AskanInfo/releases/download/video/askaninfo-2026-11-23.mp4",
+ "taille": 2012957,
+ "duree": 60,
+ "sujets": [
+  {
+   "url": "https://github.com/sese779/AskanInfo/releases/download/video/askaninfo-2026-11-23-1.mp4",
+   "taille": 464008,
+   "duree": 17,
+   "synthese": "2026-11-23-mondial-u17-senegal-cuba-9-0"
+  },
+  {
+   "url": "https://github.com/sese779/AskanInfo/releases/download/video/askaninfo-2026-11-23-2.mp4",
+   "taille": 750046,
+   "duree": 21,
+   "synthese": "2026-11-23-assemblee-intercommission-decret-lfr"
+  },
+  {
+   "url": "https://github.com/sese779/AskanInfo/releases/download/video/askaninfo-2026-11-23-3.mp4",
+   "taille": 630828,
+   "duree": 20,
+   "synthese": "2026-11-23-dette-coupon-eurobligations-2033"
+  },
+  {
+   "url": "https://github.com/sese779/AskanInfo/releases/download/video/askaninfo-2026-11-23-4.mp4",
+   "taille": 645345,
+   "duree": 16,
+   "synthese": "2026-11-23-senegalais-du-week-end"
+  }
+ ]
+}

@@ -158,3 +158,12 @@ content/syntheses/2026-11-23-pirogue-yoff-175-jeunes-disparue.md
 content/syntheses/2026-11-23-radiation-29-eleves-policiers-reponse-ministre.md
 content/syntheses/2026-11-23-senegalais-du-week-end.md
 content/syntheses/2026-11-23-yankhoba-dieme-lfr-dissolution.md
+content/podcast/2026-11-23.md
+content/syntheses/2026-11-23-assemblee-intercommission-decret-lfr.md
+content/syntheses/2026-11-23-dette-coupon-eurobligations-2033.md
+content/syntheses/2026-11-23-lutte-balla-gaye-2-ada-fass-discipline.md
+content/syntheses/2026-11-23-mondial-u17-senegal-cuba-9-0.md
+content/syntheses/2026-11-23-yenne-naufrage-neuf-corps-13-morts.md
+content/video/2026-11-23-sport.md
+content/video/2026-11-23-wolof.md
+content/video/2026-11-23.md
