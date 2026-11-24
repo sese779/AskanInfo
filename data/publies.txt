@@ -172,3 +172,4 @@ content/syntheses/2026-11-24-macky-sall-apr-kiiraay-oif.md
 content/syntheses/2026-11-24-pain-greve-boulangers-prix-210-refuse.md
 content/syntheses/2026-11-24-statistique-premier-ministre-fonds-formation.md
 content/syntheses/2026-11-24-sucre-importations-suspendues-css.md
+content/syntheses/2026-11-24-can-2025-tas-titre-senegal.md
