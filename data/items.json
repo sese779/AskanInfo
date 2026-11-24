@@ -13,6 +13,75 @@
   "extrait": "De la grande distribution à l’agro-industrie, le sénégalais EDK veut porter son réseau à 174 points de vente d’ici à 2029. Un changement d’échelle majeur qui se heurte à de vrais défis opérationnels."
  },
  {
+  "id": "44089302066b",
+  "titre": "Gazoduc Nigeria-Maroc : 26 ONG réclament une évaluation régionale indépendante des impacts",
+  "lien": "https://senego.com/gazoduc-nigeria-maroc-26-ong-reclament-une-evaluation-regionale-independante-des-impacts_2027568.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-24T18:01:59+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Vingt-six organisations ouest-africaines ont interpellé Bassirou Diomaye Faye sur le gazoduc Nigeria-Maroc et formulé cinq demandes, dont une évaluation indépendante.",
+  "categories": [
+   "Afrique",
+   "Diplomatie",
+   "Énergie",
+   "Environnement",
+   "Bassirou diomaye Faye"
+  ]
+ },
+ {
+  "id": "dd0ac607d797",
+  "titre": "CAN 2025 : La CAF prend acte de la décision du TAS et confirme le sacre du Sénégal",
+  "lien": "https://www.senenews.com/actualites/can-2025-la-caf-prend-acte-de-la-decision-du-tas-et-confirme-le-sacre-du-senegal_607530.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-24T17:59:55+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La Confédération africaine de football (CAF) a officiellement réagi à la décision du Tribunal arbitral du sport (TAS) dans le différend opposant la Fédération sénégalaise de football (FSF) à la Fédération royale marocaine de football (FRMF), concernant la finale de la CAN 2025. Dans son communiqué,…",
+  "categories": [
+   "Afrique - Actualité",
+   "Football",
+   "Sénégal - Actualités",
+   "SeneNews Sport",
+   "CAF"
+  ]
+ },
+ {
+  "id": "9e1573738a65",
+  "titre": "Décision du TAS : le Sénégal célèbre, le Maroc enrage... Toutes les réactions",
+  "lien": "https://www.france24.com/fr/sports/20261124-decision-tas-senegal-heureux-maroc-enrage-reactions",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-24T17:59:08+00:00",
+  "rubrique": "Sport",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le Tribunal arbitral du sport a finalement tranché : déboutant le jury d'appel de la CAF qui avait déchu le Sénégal du titre de la CAN 2025, l'instance suisse lui a rendu sa couronne. Du Maroc au siège de la confédération africaine, les réactions affluent à la suite de cette décision historique.",
+  "categories": [
+   "Sports"
+  ]
+ },
+ {
+  "id": "6e4a8125fc84",
+  "titre": "Can 2025 : Idy salue la décision du TAS et lance un appel d’unité à marocains et sénégalais",
+  "lien": "https://www.seneweb.com/fr/news/Reactions/can-2025-idy-salue-la-decision-du-tas-et-lance-un-appel-dunite-a-marocains-et-senegalais_n_999004540.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-24T17:57:02+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L’ancien premier ministre, Idrissa Seck se réjouit de la décision rendue par le Tribunal arbitral du sport (TAS)..."
+ },
+ {
   "id": "e1d0a6827357",
   "titre": "Côte d’Ivoire-Russie : à Moscou, Ahoua Don Mello, l’intermédiaire des délégations africaines",
   "lien": "https://www.jeuneafrique.com/1864516/politique/cote-divoire-russie-a-moscou-ahoua-don-mello-lintermediaire-des-delegations-africaines/",
@@ -46,6 +115,19 @@
   ]
  },
  {
+  "id": "3028869787d6",
+  "titre": "En Colombie, prise d’otages lors du braquage d’un supermarché à Carthagène, au lendemain d’un attentat à la voiture piégée à Villavicencio",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/24/en-colombie-prise-d-otages-lors-du-braquage-d-un-supermarche-a-carthagene-au-lendemain-d-un-attentat-a-la-voiture-piegee-a-villavicencio_6814815_3211.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-24T17:53:30+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Cette attaque intervient le jour du 10e anniversaire d’un accord de paix historique entre l’Etat colombien et la guérilla des Forces armées révolutionnaires de Colombie (FARC)."
+ },
+ {
   "id": "082fe982716b",
   "titre": "Diffusion de fausses nouvelles et injures, un tailleur sous mandat de dépôt",
   "lien": "https://senego.com/diffusion-de-fausses-nouvelles-et-injures-un-tailleur-sous-mandat-de-depot_2027559.html",
@@ -77,6 +159,22 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "La messe est dite. Le Tribunal arbitral du sport (TAS) a confirmé, ce mardi, la victoire du Sénégal à la dernière Coupe d’Afrique des nations (CAN)"
+ },
+ {
+  "id": "ac53c80d0693",
+  "titre": "Cap Manuel : Le Littoral sous le joug des promoteurs immobiliers, l'Etat regarde-t-il ailleurs?",
+  "lien": "https://www.dakaractu.com/Cap-Manuel-Le-Littoral-sous-le-joug-des-promoteurs-immobiliers-l-Etat-regarde-t-il-ailleurs_a278549.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-24T17:46:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Entre bétonisation sauvage, atteintes présumées aux règles environnementales et nuisances insupportables, la bande côtière du Cap Manuel est-elle devenue une zone de non-droit ? se passe des choses particulièrement préoccupantes sur la bande côtière du Cap Manuel. Ce qui devrait constituer un…",
+  "categories": [
+   "Texto"
+  ]
  },
  {
   "id": "10e47a1abb3b",
@@ -1065,6 +1163,22 @@
    "Politique",
    "Sénégal",
    "sport"
+  ]
+ },
+ {
+  "id": "70dbc1adceca",
+  "titre": "Gabon : coupures d'électricité programmées à Libreville avant la mise en service d'un nouveau barrage",
+  "lien": "https://www.leral.net/Gabon-coupures-d-electricite-programmees-a-Libreville-avant-la-mise-en-service-d-un-nouveau-barrage_a411928.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-24T16:23:00+00:00",
+  "rubrique": "Afrique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Le ministre gabonais de l'Énergie, Olivier Mouckocko, a annoncé que plusieurs quartiers de Libreville seraient privé...",
+  "categories": [
+   "International"
   ]
  },
  {
@@ -31335,19 +31449,6 @@
    "Société",
    "bourses de sécurité familiale"
   ]
- },
- {
-  "id": "54ebf93a71e9",
-  "titre": "Cap Manuel : Le littoral sous le joug des promoteurs immobiliers- L’Etat regarde-t-il ailleurs ?",
-  "lien": "https://www.igfm.sn/cap-manuel-le-littoral-sous-le-joug-des-promoteurs-immobiliers-l-etat-regarde-t-il-ailleurs",
-  "source": "L'Observateur (iGFM)",
-  "site_source": "https://www.igfm.sn",
-  "date": "2026-11-21T15:43:25+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": ""
  },
  {
   "id": "5b5ca034fab0",
@@ -73032,70 +73133,5 @@
   "diaspora": false,
   "secondaire": true,
   "extrait": "Le musicien Obreedaman a adressé un message empreint de reconnaissance et d’affection à son ex-épouse, la chanteuse Kya Loum. Malgré leur séparation, l’artiste souligne avoir préservé avec elle une relation amicale fondée sur le respect et la bienveillance. Dans son message, il salue notamment les…"
- },
- {
-  "id": "94eb41c4ebb6",
-  "titre": "Assemblée nationale : les députés convoqués en plénière pour l’examen du budget 2027",
-  "lien": "https://senego.com/assemblee-nationale-les-deputes-convoques-en-pleniere-pour-lexamen-du-budget-2027_2025028.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-17T18:03:23+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Les députés sont convoqués en séance plénière le mercredi 18 novembre 2026, à partir de 10 heures, pour examiner le projet de budget 2027. L’ordre du jour prévoit plusieurs points, notamment les considérations générales, l’examen des recettes ainsi que le plafond des autorisations de dépenses du…"
- },
- {
-  "id": "e1ba4e210d42",
-  "titre": "COP31 - TRANSITION ÉNERGÉTIQUE - Aliou Gori Diouf plaide pour une justice climatique en faveur de l’Afrique Le ministre de",
-  "lien": "https://www.igfm.sn/cop31-transition-energetique-aliou-gori-diouf-plaide-pour-une-justice-climatique-en-faveur-de-l-afrique-le-ministre-de",
-  "source": "L'Observateur (iGFM)",
-  "site_source": "https://www.igfm.sn",
-  "date": "2026-11-17T18:00:28+00:00",
-  "rubrique": "Afrique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": ""
- },
- {
-  "id": "77d27145615d",
-  "titre": "Comment les Ukrainiens ont réussi à détruire une partie du « pont de Poutine » reliant la Russie à la Crimée",
-  "lien": "https://www.lemonde.fr/international/article/2026/11/17/comment-les-ukrainiens-ont-reussi-a-detruire-une-partie-du-pont-de-poutine-reliant-la-russie-a-la-crimee_6813025_3210.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-17T18:00:02+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Des drones et des missiles ont ciblé, le 17 novembre, l’une des deux arches de cette mégastructure de 19 kilomètres, qui s’est effondrée dans les eaux du détroit de Kertch. Vital pour la péninsule ukrainienne, cet ouvrage inauguré en 2018 se veut aussi un symbole politique fort pour le Kremlin."
- },
- {
-  "id": "3673f80fb026",
-  "titre": "​Conférence de l’ONU sur l’eau 2026 : Youssou N’Dour et le Sénégal à l’honneur à Abou Dhabi",
-  "lien": "https://www.pressafrik.com/​Conference-de-l-ONU-sur-l-eau-2026-Youssou-N-Dour-et-le-Senegal-a-l-honneur-a-Abou-Dhabi_a314735.html",
-  "source": "PressAfrik",
-  "site_source": "https://www.pressafrik.com",
-  "date": "2026-11-17T18:00:00+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le forum Ideas Abu Dhabi a rejoint la Conférence des Nation... www.pressafrik.com"
- },
- {
-  "id": "9fcb735ba1c9",
-  "titre": "La République des idées, retisser le lien social",
-  "lien": "https://www.seneplus.com/article/la-republique-des-idees-retisser-le-lien-social",
-  "source": "SenePlus",
-  "site_source": "https://www.seneplus.com",
-  "date": "2026-11-17T17:59:25+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "La République des idées, retisser le lien social Alioune Diatta Tue, 11/17/2026 - 17:59"
  }
 ]
