@@ -1,5 +1,414 @@
 [
  {
+  "id": "ec4fa1bd4c7c",
+  "titre": "Me Seydou Diagne : « Nous avons rétabli le Sénégal dans ses droits, l’honneur de la nation est sauf »",
+  "lien": "https://senego.com/me-seydou-diagne-nous-avons-retabli-le-senegal-dans-ses-droits-lhonneur-de-la-nation-est-sauf_2027512.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-24T16:03:25+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Après la décision du Tribunal arbitral du sport (TAS), Me Seydou Diagne, membre de l’équipe internationale d’avocats ayant défendu les intérêts du Sénégal à Lausanne, exprime son soulagement. « Nous avons rétabli le Sénégal dans ses droits, l’honneur de la nation est sauf ». L’avocat revient sur…",
+  "categories": [
+   "Actualités",
+   "Football",
+   "Sénégal",
+   "sport",
+   "Me Seydou Diagne"
+  ]
+ },
+ {
+  "id": "1cf6614253c8",
+  "titre": "En Colombie, un attentat à la voiture piégée fait au moins 25 blessés, à la veille des dix ans de l’accord de paix avec les FARC",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/24/en-colombie-un-attentat-a-la-voiture-piegee-fait-au-moins-25-blesses-a-la-veille-des-dix-ans-de-l-accord-de-paix-avec-les-farc_6814815_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-24T16:02:16+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le président colombien a attribué l’attentat à des dissidents de l’ex-guérilla. Aucun groupe n’a pour l’heure revendiqué l’attaque de Villavicencio."
+ },
+ {
+  "id": "84fcb520312c",
+  "titre": "CAN 2025 : « Le Sénégal et le Maroc sont deux peuples frères », le message de Sadio Mané après le verdict du TAS",
+  "lien": "https://wiwsport.com/2026/11/24/can-2025-le-senegal-et-le-maroc-sont-deux-peuples-freres-le-message-de-sadio-mane-apres-le-verdict-du-tas/",
+  "source": "Wiwsport",
+  "site_source": "https://www.wiwsport.com",
+  "date": "2026-11-24T16:01:56+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "( wiwsport ) - Sadio Mané a réagi à la décision du Tribunal arbitral du sport (TAS), qui rétablit le Sénégal dans son titre de champion d’Afrique. Le capitaine des Lions a publié un message sur son compte Instagram pour remercier les Sénégalais, ses coéquipiers et le staff après cette décision. «…",
+  "categories": [
+   "CAN",
+   "Equipe nationale Football",
+   "Football"
+  ]
+ },
+ {
+  "id": "4b30ad63682d",
+  "titre": "« Félicitations à tous les Sénégalais » : Sadio Mané réagit au verdict du TAS confirmant le titre du Sénégal",
+  "lien": "https://www.senenews.com/actualites/can-2025-sadio-mane-prend-la-parole-apres-le-verdict-du-tas_607519.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-24T16:01:06+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Après la décision du Tribunal arbitral du sport (TAS), qui a confirmé la victoire du Sénégal en finale de la CAN 2025, Sadio Mané a exprimé sa joie et sa reconnaissance envers le peuple sénégalais. Dans un message empreint d'émotion, l'attaquant des Lions a également tenu à adresser un mot de…",
+  "categories": [
+   "Football",
+   "Sénégal - Actualités",
+   "SeneNews Sport",
+   "sadio mané"
+  ]
+ },
+ {
+  "id": "225fa322385c",
+  "titre": "Verdict du TAS : la réaction du ministre de la Justice, Moussa Sarr",
+  "lien": "https://www.seneweb.com/fr/news/Reactions/verdict-du-tas-la-reaction-du-ministre-de-la-justice-moussa-sarr_n_999004525.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-24T15:58:40+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le ministre de la Justice, Me Moussa Sarr, s’est réjoui dans une publication de cette issue et a salué la mobilisation des acteurs impliqués dans la défense du pays"
+ },
+ {
+  "id": "0fdddc29f519",
+  "titre": "Le Maroc conteste la décision du TAS et relance une nouvelle bataille juridique",
+  "lien": "https://www.senenews.com/actualites/le-maroc-conteste-la-decision-du-tas-et-relance-une-nouvelle-bataille-juridique_607516.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-24T15:58:14+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le feuilleton juridique autour de la finale de la CAN 2025 entre le Sénégal et le Maroc est loin de connaître son épilogue. Malgré la décision du Tribunal arbitral du sport (TAS), qui a confirmé la victoire des Lions de la Teranga (1-0) et rétabli le résultat acquis sur le terrain, la Fédération…",
+  "categories": [
+   "Afrique - Actualité",
+   "Football",
+   "Sénégal - Actualités",
+   "SeneNews Sport",
+   "maroc"
+  ]
+ },
+ {
+  "id": "5dbc0cf4b9cf",
+  "titre": "Sénégal-Maroc : Abdoulaye Fall salue une décision qui « rend justice au sport »",
+  "lien": "https://wiwsport.com/2026/11/24/senegal-maroc-abdoulaye-fall-salue-une-decision-qui-rend-justice-au-sport/",
+  "source": "Wiwsport",
+  "site_source": "https://www.wiwsport.com",
+  "date": "2026-11-24T15:57:48+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "( wiwsport ) - Le Sénégal récupère officiellement son titre de champion d’Afrique. Dans un communiqué publié ce mardi 24 novembre, la Fédération sénégalaise de football (FSF) annonce avoir reçu la notification de la sentence du Tribunal arbitral du sport (TAS), qui a annulé la décision du Jury…",
+  "categories": [
+   "Equipe nationale Football",
+   "Football"
+  ]
+ },
+ {
+  "id": "8cc75ea1a344",
+  "titre": "Après le verdict du TAS : le Maroc réagit et annonce la riposte…",
+  "lien": "https://senego.com/apres-le-verdict-du-tas-le-maroc-reagit-et-annonce-la-riposte_2027517.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-24T15:57:20+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "La Fédération royale marocaine de football (FRMF) ne compte pas en rester là après la décision du Tribunal arbitral du sport (TAS) consacrant le Sénégal vainqueur de la CAN 2025. Dans une prise de position, l’instance marocaine a exprimé son désaccord avec le verdict et annoncé sa volonté…",
+  "categories": [
+   "Football",
+   "Société",
+   "sport",
+   "Maroc",
+   "verdict du TAS"
+  ]
+ },
+ {
+  "id": "8f58805a8f03",
+  "titre": "Sénégal vainqueur de la CAN : fin du feuilleton ?",
+  "lien": "https://www.france24.com/fr/%C3%A9missions/le-rendez-vous-afrique/20261124-s%C3%A9n%C3%A9gal-vainqueur-de-la-can-fin-du-feuilleton",
+  "source": "France 24 Afrique",
+  "site_source": "https://www.france24.com/fr/afrique/",
+  "date": "2026-11-24T15:56:16+00:00",
+  "rubrique": "Sport",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le Tribunal arbitral du sport confirme le sacre du Sénégal lors de la Coupe d'Afrique des nations 2025, aux dépens du Maroc qui avait obtenu le titre sur tapis vert. La fédération marocaine indique qu'elle engagera \"toutes les procédures légales nécessaires\" contre la décision du TAS. Page spéciale.",
+  "categories": [
+   "Le rendez-vous Afrique"
+  ]
+ },
+ {
+  "id": "f1f911346ea9",
+  "titre": "CAN 2025 – Le Maroc conteste la décision du TAS et annonce de nouveaux recours !",
+  "lien": "https://wiwsport.com/2026/11/24/can-2025-le-maroc-conteste-la-decision-du-tas-et-annonce-de-nouveaux-recours/",
+  "source": "Wiwsport",
+  "site_source": "https://www.wiwsport.com",
+  "date": "2026-11-24T15:55:29+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "( wiwsport ) - La Fédération Royale Marocaine de Football (FRMF) ne compte pas en rester là après la décision du Tribunal Arbitral du Sport (TAS), rendue ce mardi 24 novembre 2026 à Lausanne, en faveur de la Fédération Sénégalaise de Football (FSF). Dans un communiqué officiel, l’instance marocaine…",
+  "categories": [
+   "Equipe nationale Football",
+   "Football"
+  ]
+ },
+ {
+  "id": "dc333bc6b38a",
+  "titre": "Chambre criminelle de Tambacounda : cinq meurtres et des crimes sexuels au menu d'une session de trois jours",
+  "lien": "https://www.seneweb.com/fr/news/Justice/chambre-criminelle-de-tambacounda-cinq-meurtres-et-des-crimes-sexuels-au-menu-dune-session-de-trois-jours_n_999004524.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-24T15:55:00+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L'audience de la Chambre criminelle du Tribunal de grande instance de Tambacounda est prévue le lundi 30 novembre"
+ },
+ {
+  "id": "5bc7276a22d1",
+  "titre": "Louga : Fatou Kiné Niang condamnée à 5 ans de prison pour avoir enterré son bébé",
+  "lien": "https://www.senenews.com/actualites/louga-fatou-kine-niang-condamnee-a-5-ans-de-prison-pour-infanticide_607518.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-24T15:54:09+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La chambre criminelle du tribunal de Louga a condamné, hier, la dame Fatou Kiné Niang pour infanticide. Les faits se sont déroulés dans la nuit du 5 au 6 janvier 2025, vers 2 heures, au cours du Gamou annuel de Yang-Yang. Âgée de 33 ans et en état de grossesse avancé, elle avait accouché d'un bébé…",
+  "categories": [
+   "Sénégal - Actualités",
+   "Société",
+   "Fatou Kiné Niang"
+  ]
+ },
+ {
+  "id": "7812ee673c87",
+  "titre": "CAN 2025 : La FRMF conteste la décision du TAS et annonce de nouveaux recours",
+  "lien": "https://emedia.sn/can-2025-la-frmf-conteste-la-decision-du-tas-et-annonce-de-nouveaux-recours/",
+  "source": "Emedia",
+  "site_source": "https://emedia.sn",
+  "date": "2026-11-24T15:52:20+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La Fédération royale marocaine de football (FRMF) a réagi, ce mardi 24 novembre 2026, à la décision du Tribunal arbitral du sport (TAS), basé à Lausanne, concernant le recours introduit par la Fédération sénégalaise de football (FSF) contre la décision de la commission d’appel de la Confédération…",
+  "categories": [
+   "A L'INSTANT",
+   "ACTUALITÉS",
+   "UNE",
+   "Maroc",
+   "TAS"
+  ]
+ },
+ {
+  "id": "a23c8e241f27",
+  "titre": "Décret sur la LFR 2026 : les députés convoqués en plénière ce mercredi à l'Assemblée",
+  "lien": "https://www.seneweb.com/fr/news/Politique/decret-sur-la-lfr-2026-les-deputes-convoques-en-pleniere-ce-mercredi-a-lassemblee_n_999004523.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-24T15:51:36+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Les députés de la XVe législature sont convoqués en séance plénière ce mercredi 25 novembre 2026 à 15 heures à l'Assemblée nationale"
+ },
+ {
+  "id": "94b26b518854",
+  "titre": "Nous devons réfléchir à un nouveau mode de gouvernance, selon Marième BA, secrétaire générale de la biennale de l’art africain contemporain de Dakar",
+  "lien": "https://www.seneplus.com/article/nous-devons-reflechir-un-nouveau-mode-de-gouvernance-selon-marieme-ba-secretaire-generale",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-24T15:51:02+00:00",
+  "rubrique": "Culture",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Nous devons réfléchir à un nouveau mode de gouvernance, selon Marième BA, secrétaire générale de la biennale de l’art africain contemporain de Dakar Daouda Toumbou Tue, 11/24/2026 - 15:51"
+ },
+ {
+  "id": "9285249c6b43",
+  "titre": "Derrière l’affaire Nvidia, un vaste réseau de détournement de puces d’IA au service de la Chine",
+  "lien": "https://www.lemonde.fr/economie/article/2026/11/24/derriere-l-affaire-nvidia-un-vaste-reseau-de-detournement-de-puces-d-ia-au-service-de-la-chine_6814811_3234.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-24T15:49:58+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Alors que Jensen Huang a repris la tête du géant des processeurs américain, lundi 23 novembre, la presse financière mondiale retrace les méthodes qui ont permis d’expédier les puces vers le territoire chinois, malgré les restrictions des Etats-Unis."
+ },
+ {
+  "id": "4834f1b66b5a",
+  "titre": "Thiès : Un enseignant tué dans une collision…",
+  "lien": "https://senego.com/thies-un-enseignant-tue-dans-une-collision_2027492.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-24T15:49:48+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Un grave accident de la circulation s’est produit ce mardi, aux environs de 10 heures, en plein centre-ville de Thiès, devant le magasin « Mon Parent », anciennement connu sous le nom de restaurant KAOSSARA. Le drame a impliqué un camion et une moto Jakarta. Le bilan est particulièrement lourd : le…",
+  "categories": [
+   "Actualités",
+   "Faits Divers",
+   "accident",
+   "Thies"
+  ]
+ },
+ {
+  "id": "4a4516fab7a9",
+  "titre": "TAS : avec “surprise” et “protestation”, le Maroc réagit à la décision et contre-attaque",
+  "lien": "https://www.afrik-foot.com/tas-surprise-et-protestation-le-maroc-reagit-a-la-decision-et-contre-attaque",
+  "source": "Afrik-Foot",
+  "site_source": "https://www.afrik-foot.com",
+  "date": "2026-11-24T15:48:56+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La Fédération marocaine de football (FRMF) ne compte pas en rester là. Quelques minutes après la décision du Tribunal arbitral du sport (TAS), qui a donné suite au recours du Sénégal, déclaré vainqueur de la finale de la CAN 2025, l’instance marocaine a publié un communiqué pour exprimer son…",
+  "categories": [
+   "News",
+   "Can",
+   "Maroc",
+   "Sénégal"
+  ]
+ },
+ {
+  "id": "b531b8ab7598",
+  "titre": "Dominique Zinkpè présente « Ascension » à la jeune génération de Dak’Art",
+  "lien": "https://senego.com/dominique-zinkpe-presente-ascension-a-la-jeune-generation-de-dakart_2027515.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-24T15:48:29+00:00",
+  "rubrique": "Culture",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "À la Biennale de Dakar, Dominique Zinkpè échange avec trois artistes qui exposent pour la première fois dans la sélection IN. L’émission donne aussi la parole à d’autres artistes.",
+  "categories": [
+   "Afrique",
+   "Audio",
+   "Culture",
+   "art contemporain",
+   "Biennale de Dakar"
+  ]
+ },
+ {
+  "id": "e925f28e5ef7",
+  "titre": "Tambacounda et Bakel : le gouverneur détaille la visite présidentielle des 28 et 29 novembre",
+  "lien": "https://senego.com/tambacounda-et-bakel-le-gouverneur-detaille-la-visite-presidentielle-des-28-et-29-novembre_2027514.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-24T15:48:19+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "À Tambacounda et Bakel, la visite présidentielle des 28 et 29 novembre prévoit des inaugurations, des premières pierres et des étapes sur des projets structurants.",
+  "categories": [
+   "Administration",
+   "Économie",
+   "Sénégal",
+   "abdourahmane ndiaye",
+   "Bakel"
+  ]
+ },
+ {
+  "id": "8843956700d4",
+  "titre": "Révision du Code de la Presse : le Synpics réclame une réforme concertée et adaptée aux réalités du secteur",
+  "lien": "https://senego.com/revision-du-code-de-la-presse-le-synpics-reclame-une-reforme-concertee-et-adaptee-aux-realites-du-secteur_2027453.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-24T15:44:18+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Le secrétaire général du Syndicat national des professionnels de l’information et de la communication du Sénégal (Synpics), Moustapha Cissé, plaide pour une révision approfondie du Code de la presse. Il appelle à intégrer les évolutions technologiques, les décisions du Conseil constitutionnel et…",
+  "categories": [
+   "Actualités",
+   "Société",
+   "Code presse",
+   "Synpics"
+  ]
+ },
+ {
+  "id": "c057425214ce",
+  "titre": "Appel avec un juge du TAS : Me Kabou annonce des poursuites contre les auteurs des accusations visant Abdoulaye Fall",
+  "lien": "https://senego.com/appel-avec-un-juge-du-tas-me-kabou-annonce-des-poursuites-contre-les-auteurs-des-accusations-visant-abdoulaye-fall_2027506.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-24T15:44:09+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Une heure après la décision du Tribunal arbitral du sport (TAS) en faveur du Sénégal dans le litige autour de la CAN 2025, Me Patrick Kabou annonce avoir reçu mandat pour engager des démarches judiciaires contre ceux qui ont relayé des accusations concernant un prétendu échange téléphonique entre…",
+  "categories": [
+   "Actualités",
+   "Football",
+   "Justice",
+   "Sports",
+   "Abdoulaye Fall"
+  ]
+ },
+ {
+  "id": "b55124e1747a",
+  "titre": "Sénégal champion d’Afrique : le tapis vert a cédé, la crédibilité de la CAF aussi",
+  "lien": "https://www.seneweb.com/fr/news/Sport/senegal-champion-dafrique-le-tapis-vert-a-cede-la-credibilite-de-la-caf-aussi_n_999004522.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-24T15:43:15+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le Tribunal arbitral du sport (TAS) a décidé « à l’unanimité » de rendre le titre de champion d’Afrique 2025 au Sénégal, vainqueur sur le terrain..."
+ },
+ {
+  "id": "f1a161d90c23",
+  "titre": "CAN 2025 : le Sénégal, malgré sa victoire au TAS, annonce une plainte contre des autorités sportives marocaines",
+  "lien": "https://www.pressafrik.com/CAN-2025-le-Senegal-malgre-sa-victoire-au-TAS-annonce-une-plainte-contre-des-autorites-sportives-marocaines_a315037.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-24T15:39:00+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le Tribunal arbitral du sport (TAS) a officiellement rétabli, ce mardi 24 novembre 2026, le Sénéga... www.pressafrik.com",
+  "categories": [
+   "Sport"
+  ]
+ },
+ {
   "id": "68041cda881b",
   "titre": "CAN 2025 : le Sénégal récupère son titre, le Maroc déchu",
   "lien": "https://www.jeuneafrique.com/1864770/politique/can-2025-le-senegal-recupere-son-titre-le-maroc-dechu/",
@@ -11,6 +420,276 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Le Tribunal arbitral du sport (TAS) a décidé ce 24 novembre « à l’unanimité » le sacre du Sénégal lors de la Coupe d’Afrique des nations 2025, aux dépens du Maroc qui avait obtenu le titre sur tapis vert."
+ },
+ {
+  "id": "13f49af005da",
+  "titre": "Diplomatie féministe à Dakar : « Les femmes ne sont pas que des victimes », le plaidoyer de la ministre Marie Angélique Diouf",
+  "lien": "https://www.seneweb.com/fr/news/Societe/diplomatie-feministe-a-dakar-les-femmes-ne-sont-pas-que-des-victimes-le-plaidoyer-de-la-ministre-marie-angelique-diouf_n_999004521.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-24T15:34:36+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La diplomatie féministe ne saurait se limiter à placer davantage de femmes dans les institutions"
+ },
+ {
+  "id": "782683d525e5",
+  "titre": "CAN 2025 réattribuée au Sénégal : La TAS justifie sa décision sur 54 pages",
+  "lien": "https://senego.com/can-2025-reattribuee-au-senegal-la-tas-justifie-sa-decision-sur-54-pages_2027493.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-24T15:34:20+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Le Tribunal arbitral du sport (TAS) a tranché en faveur du Sénégal dans le litige autour de la finale de la CAN 2025. Dans une décision motivée sur 54 pages, la juridiction arbitrale annule la décision du Jury d’appel de la Confédération africaine de football (CAF), rendue le 17 mars 2026, et…",
+  "categories": [
+   "Actualités",
+   "Football",
+   "Sports",
+   "Caf",
+   "can 2025"
+  ]
+ },
+ {
+  "id": "cc4c6e79ab04",
+  "titre": "Révision du Code de la Presse : la présidence plaide pour un équilibre entre liberté et régulation",
+  "lien": "https://senego.com/revision-du-code-de-la-presse-la-presidence-plaide-pour-un-equilibre-entre-liberte-et-regulation_2027445.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-24T15:32:06+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Me Abdoulaye Tine, ministre porte-parole de la Présidence de la République, appelle à une réforme équilibrée du Code de la presse, capable de préserver les libertés fondamentales tout en accompagnant les mutations du paysage médiatique sénégalais. La refonte du Code de la presse doit permettre de…",
+  "categories": [
+   "Actualités",
+   "Administration",
+   "Médias",
+   "Politique",
+   "Sénégal"
+  ]
+ },
+ {
+  "id": "1d52bc69c4e1",
+  "titre": "Midterms : une victoire démocrate historique, traduite par la conquête de lieux de pouvoir stratégiques",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/24/midterms-une-victoire-democrate-historique-traduite-par-la-conquete-de-lieux-de-pouvoir-strategiques_6814810_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-24T15:30:09+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Avec 56 sièges remportés au Sénat et au moins 258 à la Chambre des représentants, les démocrates remportent une victoire au moins égale à celle de Bill Clinton à l’élection présidentielle de 1992. Le rejet de Donald Trump a également fait basculer dans le camp démocrate la majorité des sièges de…"
+ },
+ {
+  "id": "408a449df545",
+  "titre": "EN DIRECT, guerre en Ukraine | Navires russes pris pour cibles en Libye : l’Italie exprime son inquiétude à l’Ukraine",
+  "lien": "https://www.lemonde.fr/international/live/2026/11/24/en-direct-guerre-en-ukraine-navires-russes-pris-pour-cibles-en-libye-l-italie-exprime-son-inquietude-a-l-ukraine_6814183_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-24T15:28:55+00:00",
+  "rubrique": "Afrique",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Antonio Tajani a souligné qu’il était « fondamental pour l’Italie de continuer à travailler pour éviter l’extension du conflit à la Méditerranée » et a souligné la nécessité de « respecter l’intégrité territoriale de la Libye »."
+ },
+ {
+  "id": "f9017e1369df",
+  "titre": "TAS - Le Sénégal exonéré des frais d’arbitrage, le Maroc et la CAF se partagent la facture",
+  "lien": "https://www.seneplus.com/article/tas-le-senegal-exonere-des-frais-darbitrage-le-maroc-et-la-caf-se-partagent-la-facture",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-24T15:26:40+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "TAS - Le Sénégal exonéré des frais d’arbitrage, le Maroc et la CAF se partagent la facture Daouda Toumbou Tue, 11/24/2026 - 15:26"
+ },
+ {
+  "id": "95117bff4b59",
+  "titre": "​LFR 2026 : l’Assemblée nationale convoquée le 25 novembre pour examiner la résolution contre le décret de Diomaye",
+  "lien": "https://www.pressafrik.com/​LFR-2026-l-Assemblee-nationale-convoquee-le-25-novembre-pour-examiner-la-resolution-contre-le-decret-de-Diomaye_a315036.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-24T15:26:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L’Assemblée nationale a appelé les députés en séance plénière le mercredi 25 novembre 2026 à 15... www.pressafrik.com",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "4fc18a3c3a58",
+  "titre": "CAN 2025 : le Sénégal, vainqueur officiel selon le verdict du TAS",
+  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261124-can-2025-le-s%C3%A9n%C3%A9gal-vainqueur-officiel-selon-le-verdict-du-tas",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-24T15:23:26+00:00",
+  "rubrique": "Sport",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le Tribunal arbitral du sport (TAS) a décidé mardi \"à l'unanimité\" le sacre du Sénégal lors de la Coupe d'Afrique des nations 2025, aux dépens du Maroc qui avait obtenu le titre sur tapis vert. Le Maroc dispose de 30 jours pour faire appel de la décision devant le Tribunal fédéral suisse."
+ },
+ {
+  "id": "f01567fb035a",
+  "titre": "De leur salon aux pages de l'OM et de la Ligue 1 : le buzz mondial des enfants de Carlou D",
+  "lien": "https://www.seneweb.com/fr/news/Culture/de-leur-salon-aux-pages-de-lom-et-de-la-ligue-1-le-buzz-mondial-des-enfants-de-carlou-d_n_999004520.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-24T15:20:49+00:00",
+  "rubrique": "Culture",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Les enfants de Carlou D ont fait le tour du monde avec une simple vidéo et leurs voix"
+ },
+ {
+  "id": "ec03554cf3fd",
+  "titre": "TAS – Le Sénégal reste Champion d’Afrique ! Suivez notre live en direct !",
+  "lien": "https://wiwsport.com/2026/11/24/tas-le-senegal-reste-champion-dafrique-suivez-notre-live-en-direct/",
+  "source": "Wiwsport",
+  "site_source": "https://www.wiwsport.com",
+  "date": "2026-11-24T15:19:12+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "( wiwsport ) - Le Tribunal Arbitral du Sport (TAS) a rendu sa décision dans le litige opposant la Fédération Sénégalaise de Football (FSF) à la Confédération Africaine de Football (CAF). Le Sénégal conserve son titre de champion d’Afrique. Une décision majeure sur laquelle Wiwsport revient en…",
+  "categories": [
+   "Equipe nationale Football"
+  ]
+ },
+ {
+  "id": "3e9295293003",
+  "titre": "Microfinance – Opérationnalisation des produits de la finance islamique Le Fdmi vulgarise les contrats types",
+  "lien": "https://lequotidien.sn/microfinance-operationnalisation-des-produits-de-la-finance-islamique-le-fdmi-vulgarise-les-contrats-types/",
+  "source": "Le Quotidien",
+  "site_source": "https://lequotidien.sn",
+  "date": "2026-11-24T15:19:08+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le Fonds de développement de la finance islamique (Fdmi) vulgarise les différents contrats associés aux opérations de la finance islamique publiés au sein de...",
+  "categories": [
+   "Non classé"
+  ]
+ },
+ {
+  "id": "1761da9b6441",
+  "titre": "Boxe : la championne olympique Imane Khelif de retour sur le ring",
+  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261124-boxe-la-championne-olympique-imane-khelif-de-retour-sur-le-ring",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-24T15:18:06+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Depuis le 9 août 2024, date à laquelle Imane Khelif a remporté la médaille d'or en boxe féminine aux Jeux olympiques, la boxeuse s'était éloignée des rings. Et pour cause, l'athlète algérienne avait été la cible d'une virulente campagne de cyberharcèlement et d'attaques infondées remettant en cause…"
+ },
+ {
+  "id": "c27e91c14715",
+  "titre": "Le Sénégal revient à hauteur de l'Algérie : le palmarès de la Coupe d'Afrique des nations après le sacre des Lions de la Teranga accordé par le TAS",
+  "lien": "https://www.lequipe.fr/Football/Actualites/Le-senegal-revient-a-hauteur-de-l-algerie-le-palmares-de-la-coupe-d-afrique-des-nations-apres-le-sacre-des-lions-de-la-teranga-accorde-par-le-tas/1745824#at_medium=RSS_feeds",
+  "source": "L'Équipe",
+  "site_source": "https://www.lequipe.fr",
+  "date": "2026-11-24T15:18:04+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Sacré champion d'Afrique par le Tribunal arbitral du sport (TAS) ce mardi après un feuilleton complètement dingue, le Sénégal a décroché sa seconde étoile et en compte désormais autant que l'Algérie.",
+  "categories": [
+   "Foot, CAN"
+  ]
+ },
+ {
+  "id": "1f3ad6ea1522",
+  "titre": "CAF déboutée par le TAS : Quelle image l’Afrique donne-t-elle de son football au reste du monde ?",
+  "lien": "https://senego.com/caf-deboutee-par-le-tas-quelle-image-lafrique-donne-t-elle-de-son-football-au-reste-du-monde_2027489.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-24T15:17:46+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Le contentieux Sénégal-Maroc autour de la CAN 2025 aura laissé des traces bien au-delà du résultat d’une finale. En remettant en cause le verdict sportif du 18 janvier, puis en faisant l’objet d’un arbitrage international devant le Tribunal arbitral du sport (TAS), la Confédération africaine de…",
+  "categories": [
+   "Actualités",
+   "CAN 2025",
+   "Football",
+   "Sénégal",
+   "sport"
+  ]
+ },
+ {
+  "id": "949de8aecbd2",
+  "titre": "CEDEAO : Une force régionale à l’épreuve des fractures ouest-africaines",
+  "lien": "https://www.enqueteplus.com/content/cedeao-une-force-r%C3%A9gionale-%C3%A0-l%E2%80%99%C3%A9preuve-des-fractures-ouest-africaines",
+  "source": "EnQuête",
+  "site_source": "https://www.enqueteplus.com",
+  "date": "2026-11-24T15:12:35+00:00",
+  "rubrique": "Afrique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "CEDEAO Une force régionale à l’épreuve des fractures ouest-africaines Alors que l’organisation communautaire envisage le déploiement d’une force antiterroriste d’ici décembre 2027, les défis dépassent largement la mobilisation des contingents militaires. Entre terrorisme transfrontalier, coups…"
+ },
+ {
+  "id": "897c2bf3b3b2",
+  "titre": "​Amy Collé Dieng : un an après ses vidéos TikTok controversées, que devient la chanteuse ?",
+  "lien": "https://www.pressafrik.com/​Amy-Colle-Dieng-un-an-apres-ses-videos-TikTok-controversees-que-devient-la-chanteuse_a315035.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-24T15:10:00+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Un an après les vidéos TikTok qui avaient suscité de vives réactions autour de sa situation, Am... www.pressafrik.com",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "98f0d1f42228",
+  "titre": "CAN 2025 : le Sénégal officiellement champion d'Afrique",
+  "lien": "http://fr.africanews.com/2026/11/24/can-2025-le-senegal-officiellement-champion-dafrique/",
+  "source": "Africanews",
+  "site_source": "https://fr.africanews.com",
+  "date": "2026-11-24T15:07:22+00:00",
+  "rubrique": "Sport",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le Tribunal arbitral du sport (TAS) a rétabli le Sénégal dans son titre de champion d'Afrique 2025, annulant ainsi la décision de la Confédération africaine de football (CAF) qui avait attribué la victoire au Maroc. Une décision qui met fin à plusieurs mois de contestation."
+ },
+ {
+  "id": "86fc29bde842",
+  "titre": "Guinée : un financement de 425 millions de dollars du FMI",
+  "lien": "http://fr.africanews.com/2026/11/24/guinee-un-financement-de-425-millions-de-dollars-du-fmi/",
+  "source": "Africanews",
+  "site_source": "https://fr.africanews.com",
+  "date": "2026-11-24T15:06:24+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le Fonds monétaire international a approuvé un programme économique et financier de 425 millions de dollars en faveur de la Guinée. Cet accord, qui s'étend sur trois ans, vise à soutenir les réformes économiques, améliorer la gestion des finances publiques et accompagner les ambitions du pays."
  },
  {
   "id": "31408243d103",
@@ -26,6 +705,38 @@
   "extrait": "( wiwsport ) - La Fédération Sénégalaise de Football (FSF) n’aura aucun frais d’arbitrage à supporter dans la procédure devant le Tribunal Arbitral du Sport (TAS). Dans sa décision rendue ce mardi 24 novembre 2026, l’instance a réparti la totalité de ces frais entre la Fédération Royale Marocaine…",
   "categories": [
    "Equipe nationale Football"
+  ]
+ },
+ {
+  "id": "4ce299217f00",
+  "titre": "Litige CAN 2025 devant le TAS : le Maroc et la CAF condamnés à régler l'intégralité des frais d'arbitrage",
+  "lien": "https://www.pressafrik.com/Litige-CAN-2025-devant-le-TAS-le-Maroc-et-la-CAF-condamnes-a-regler-l-integralite-des-frais-d-arbitrage_a315034.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-24T15:03:00+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La bataille juridique autour de la Coupe d’Afrique des Nations (CAN) 2025 devant le Tribuna... www.pressafrik.com",
+  "categories": [
+   "Sport"
+  ]
+ },
+ {
+  "id": "04d47e053f03",
+  "titre": "Madagascar : le président de l'Assemblée nationale destitué par les députés",
+  "lien": "https://www.leral.net/Madagascar-le-president-de-l-Assemblee-nationale-destitue-par-les-deputes_a412185.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-24T15:03:00+00:00",
+  "rubrique": "Afrique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "À Madagascar, le président de l'Assemblée nationale a été écarté de ses fonctions au terme d'une séance nocturne tenue dans l...",
+  "categories": [
+   "International"
   ]
  },
  {
@@ -45,6 +756,48 @@
    "People",
    "Dakar",
    "sira vision"
+  ]
+ },
+ {
+  "id": "fc8e664e8bf1",
+  "titre": "Journée mondiale de lutte contre le sida : En 2026, l’accès aux soins devient le véritable combat",
+  "lien": "https://www.seneweb.com/fr/news/Sante/journee-mondiale-de-lutte-contre-le-sida-en-2026-lacces-aux-soins-devient-le-veritable-combat_n_999004519.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-24T15:01:15+00:00",
+  "rubrique": "Monde",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Prévention, dépistage et traitements. Les États sont appelés à rendre les innovations médicales dans la lutte contre le sida accessibles à tous."
+ },
+ {
+  "id": "bed94679d523",
+  "titre": "Sanction contre les joueurs sénégalais : ce que le TAS a décidé",
+  "lien": "https://www.seneweb.com/fr/news/Sport/sanction-contre-les-joueurs-senegalais-ce-que-le-tas-a-decide_n_999004518.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-24T15:01:12+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le Triunal arbitral du sport n'a pas seulement évoqué l'appel du Sénégal à faire valoir son titre de champion d'Afrique remporté sur la pelouse face au Maroc"
+ },
+ {
+  "id": "c4cf95d993c0",
+  "titre": "Côte d'Ivoire : le Sirexe d'Abidjan a mis l'accent sur les stocks stratégiques pétroliers",
+  "lien": "https://www.leral.net/Cote-d-Ivoire-le-Sirexe-d-Abidjan-a-mis-l-accent-sur-les-stocks-strategiques-petroliers_a412186.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-24T15:01:00+00:00",
+  "rubrique": "Afrique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Le Salon international des ressources extractives et de l'énergie (Sirexe) s'est tenu à Abidjan et a fermé ses portes dimanch...",
+  "categories": [
+   "International"
   ]
  },
  {
@@ -92,6 +845,22 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Le tailleur Cheikh Bèye, 47 ans, domicilié à Thiaroye, a été placé sous mandat de dépôt hier par le procureur du tribunal de Pikine-Guédiawaye pour diffusion de fausses nouvelles..."
+ },
+ {
+  "id": "92d036b68c15",
+  "titre": "L'Algérie étend sa diplomatie énergétique vers la Côte d'Ivoire et le Congo-Brazzaville",
+  "lien": "https://www.leral.net/L-Algerie-etend-sa-diplomatie-energetique-vers-la-Cote-d-Ivoire-et-le-Congo-Brazzaville_a411926.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-24T14:56:00+00:00",
+  "rubrique": "Afrique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Alger poursuit sa stratégie d'expansion énergétique sur le continent africain. Après le Sahel, où plusieurs projets sont déjà e...",
+  "categories": [
+   "International"
+  ]
  },
  {
   "id": "798a7c51292a",
@@ -147,6 +916,22 @@
   ]
  },
  {
+  "id": "72089d80d601",
+  "titre": "Nigeria : l'autosuffisance en riz s'éloigne faute de rizeries actives",
+  "lien": "https://www.leral.net/Nigeria-l-autosuffisance-en-riz-s-eloigne-faute-de-rizeries-actives_a412187.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-24T14:52:00+00:00",
+  "rubrique": "Afrique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Le Nigeria, qui ambitionnait d'atteindre l'autosuffisance en riz cette année, voit cet objectif s'éloigner. Selon la press...",
+  "categories": [
+   "International"
+  ]
+ },
+ {
   "id": "cf089b0fa1e7",
   "titre": "Document du TAS : Les condamnations contre le Maroc et la CAF dévoilées",
   "lien": "https://www.senenews.com/actualites/document-du-tas-les-condamnations-contre-le-maroc-et-la-caf-devoilees_607507.html",
@@ -165,6 +950,19 @@
    "SeneNews Sport",
    "TAS"
   ]
+ },
+ {
+  "id": "d73a9f206541",
+  "titre": "Mauritanie-UE : un nouvel accord pour relancer le partenariat dans la pêche",
+  "lien": "http://fr.africanews.com/2026/11/24/mauritanie-ue-un-nouvel-accord-pour-relancer-le-partenariat-dans-la-peche/",
+  "source": "Africanews",
+  "site_source": "https://fr.africanews.com",
+  "date": "2026-11-24T14:50:45+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La Mauritanie et l'Union européenne ont conclu un accord sur un nouveau protocole de pêche. Celui-ci doit permettre aux navires européens de poursuivre leurs activités dans les eaux mauritaniennes, tout en renforçant la coopération économique et la gestion durable des ressources marines."
  },
  {
   "id": "8ad118b24a2d",
@@ -225,6 +1023,35 @@
    "Sénégal - Actualités",
    "SeneNews Sport",
    "TAS"
+  ]
+ },
+ {
+  "id": "1ced599ecff7",
+  "titre": "La RDC suspend les exportations de cobalt à compter du 30 novembre 2026",
+  "lien": "http://fr.africanews.com/2026/11/24/rdc-les-exportations-de-cobalt-suspendues-a-compter-du-30-novembre-2026/",
+  "source": "Africanews",
+  "site_source": "https://fr.africanews.com",
+  "date": "2026-11-24T14:47:48+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le gouvernement a souhaité revoir son système de quotas d’exportation après la forte chute des prix du cobalt par rapport à leurs sommets atteints début 2026."
+ },
+ {
+  "id": "f438b5c6fd6d",
+  "titre": "Édouard Philippe visé par une enquête pour détournement de fonds publics au Havre",
+  "lien": "https://www.france24.com/fr/france/20261124-edouard-philippe-vis%C3%A9-par-une-enqu%C3%AAte-pour-d%C3%A9tournement-de-fonds-publics-au-havre",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-24T14:47:28+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Nouvelle péripétie judiciaire pour le candidat à l'élection présidentielle Édouard Philippe : une enquête a été ouverte à la suite d'un signalement à la justice pour détournement de fonds publics à la communauté urbaine du Havre, qu'il dirige. Également placé sous statut de témoin assisté dans une…",
+  "categories": [
+   "France"
   ]
  },
  {
@@ -292,6 +1119,22 @@
   "extrait": "Le Tribunal arbitral du sport basé à Lausanne, en Suisse, a déclaré mardi le Sénégal vainqueur de la CAN 2025. Après cette décision de justice, le Maroc a-t-il encore des recours ? France 24 fait le point.",
   "categories": [
    "Sports"
+  ]
+ },
+ {
+  "id": "9a9b1f65ba0d",
+  "titre": "CAN 2025 : le TAS désavoue la CAF et confirme le sacre du Sénégal face au Maroc",
+  "lien": "https://www.leral.net/CAN-2025-le-TAS-desavoue-la-CAF-et-confirme-le-sacre-du-Senegal-face-au-Maroc_a412190.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-24T14:43:00+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Le Sénégal conserve officiellement son titre de champion d’Afrique 2025 ! Le Tribunal arbitral du sport (TAS) a donné raison...",
+  "categories": [
+   "Actualités"
   ]
  },
  {
@@ -401,6 +1244,25 @@
   ]
  },
  {
+  "id": "975fc6ffa2f2",
+  "titre": "Bataille juridique : Le Sénégal sacré par le TAS, comment le Maroc veut encore contester",
+  "lien": "https://www.senenews.com/actualites/bataille-juridique-le-senegal-sacre-par-le-tas-comment-le-maroc-veut-encore-contester_607499.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-24T14:36:46+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le TAS a tranché, mais la FRMF n'a pas dit son dernier mot. Battu à Lausanne, le Maroc dispose encore d'une seule voie de recours, le Tribunal fédéral suisse, une porte étroite que la fédération marocaine a déjà évoquée après le verdict. Pour la FRMF, plus aucune instance sportive n'est accessible.…",
+  "categories": [
+   "Football",
+   "Sénégal - Actualités",
+   "SeneNews Sport",
+   "TAS"
+  ]
+ },
+ {
   "id": "abf002f81ec2",
   "titre": "CAN 2025 : le Tribunal arbitral du sport déclare le Sénégal champion d’Afrique de football, au détriment du Maroc",
   "lien": "https://www.lemonde.fr/football/article/2026/11/24/can-2025-le-tribunal-arbitral-du-sport-declare-le-senegal-champion-d-afrique-des-nations-au-detriment-du-maroc_6814779_1616938.html",
@@ -412,6 +1274,19 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Le 18 janvier 2026, la finale de la CAN entre les deux équipes s’était achevée dans le chaos et la tension, ouvrant la voie à près d’un an de batailles juridiques. Mardi, le TAS a déclaré le Sénégal vainqueur."
+ },
+ {
+  "id": "a93f66be883d",
+  "titre": "Hugo Riboulet remporte le championnat du monde d'œuf mayonnaise 2027",
+  "lien": "http://fr.africanews.com/2026/11/24/hugo-riboulet-remporte-le-championnat-du-monde-doeuf-mayonnaise-2026/",
+  "source": "Africanews",
+  "site_source": "https://fr.africanews.com",
+  "date": "2026-11-24T14:32:53+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Seize finalistes se sont réunis près de Paris pour disputer, à Saint-Ouen, le titre de champion du monde 2027 de l'œuf mayonnaise, ce lundi 23 novembre, un classique de bistrot demandant un savoir-faire considérable."
  },
  {
   "id": "a96b23d0594c",
@@ -691,6 +1566,22 @@
   ]
  },
  {
+  "id": "9b7f2be9a739",
+  "titre": "Côte d’Ivoire : L’École d’agriculture numérique ouvre les candidatures pour sa toute première promotion à l'INP-HB",
+  "lien": "https://www.leral.net/Cote-d-Ivoire-L-Ecole-d-agriculture-numerique-ouvre-les-candidatures-pour-sa-toute-premiere-promotion-a-l-INP-HB_a412189.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-24T14:21:00+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "La Digital Farming School (DFS), l'École d'agriculture numérique de Côte d'Ivoire incubée par le groupe marocain OCP...",
+  "categories": [
+   "Actualités"
+  ]
+ },
+ {
   "id": "53b484fb8d40",
   "titre": "Finale CAN 2025 : Le Sénégal déclaré Champion d'Afrique à l'unanimité (verdict TAS)",
   "lien": "https://www.seneweb.com/fr/news/Sport/finale-can-2025-le-senegal-declare-champion-dafrique-a-lunanimite-verdict-tas_n_999004512.html",
@@ -728,6 +1619,22 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "La Cour de Strasbourg était saisie par des groupes de migrants qui accusaient les Etats les ayant refoulés d’avoir porté atteinte à leurs droits fondamentaux en les renvoyant à la Biélorussie, lors de la crise migratoire de 2021, sans leur permettre de déposer une demande d’asile."
+ },
+ {
+  "id": "60b196a8ca61",
+  "titre": "Angola : le Parlement ouvre ses portes au public pour se rapprocher des citoyens",
+  "lien": "https://www.leral.net/Angola-le-Parlement-ouvre-ses-portes-au-public-pour-se-rapprocher-des-citoyens_a412188.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-24T14:09:00+00:00",
+  "rubrique": "Afrique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Dans le cadre de la Semaine du Parlement, l'Assemblée nationale angolaise a organisé une journée portes ouvertes destinée...",
+  "categories": [
+   "International"
+  ]
  },
  {
   "id": "73225b0cd8d3",
@@ -864,6 +1771,22 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Le 108e Congrès des maires de France s'est ouvert mardi à Paris sur fond de course à la présidentielle et de protestations autour de la double candidature du libéral David Lisnard, président de l'AMF, en lice pour l'Élysée et pour un nouveau mandat à la tête de l'association."
+ },
+ {
+  "id": "9d93253adb64",
+  "titre": "CAN 2025 : le TAS annule la décision de la CAF et rétablit le Sénégal dans son titre de champion d’Afrique",
+  "lien": "https://www.xibaaru.sn/can-2025-le-tas-annule-la-decision-de-la-caf-et-retablit-le-senegal-dans-son-titre-de-champion-dafrique/",
+  "source": "Xibaaru",
+  "site_source": "https://www.xibaaru.sn",
+  "date": "2026-11-24T14:00:32+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Le Tribunal arbitral du sport (TAS) a tranché en faveur du Sénégal dans le contentieux relatif à la finale de la Coupe d’Afrique des nations (CAN) 2025. Dans sa décision rendue ce…",
+  "categories": [
+   "Sports"
+  ]
  },
  {
   "id": "dd7ca734421a",
@@ -71795,746 +72718,5 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "L’accès sécurisé à la terre, aux financements et aux technologies demeure une difficulté majeure pour les femmes dans les pays de l’Union économique et monétaire ouest-africaine (UEMOA). Réunis lors d’une rencontre organisée à Saly ce mardi par le ministère de la Famille, de l’Action sociale et de…"
- },
- {
-  "id": "08cabb6d9a8d",
-  "titre": "Pont de Crimée : Zelensky évoque une opération \"sans précédent\" en réponse aux frappes russes",
-  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261117-pont-de-crim%C3%A9e-zelensky-%C3%A9voque-une-op%C3%A9ration-sans-pr%C3%A9c%C3%A9dent-en-r%C3%A9ponse-aux-frappes-russes",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-17T16:04:30+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "L'Ukraine a sévèrement endommagé le pont de Crimée dans la nuit, une attaque hautement symbolique avant une rencontre en Chine entre les chefs d'Etat russe, américain et chinois, tandis que Moscou a attaqué deux ponts majeurs à Kiev, provoquant mardi un chaos routier dans la capitale."
- },
- {
-  "id": "eb7707864129",
-  "titre": "Dahira Bi avec Oustaz Makhtar Sarr - Firi \"Al-Akhdari\" partie 69",
-  "lien": "https://www.seneweb.com/fr/news/EN%20DIRECT/dahira-bi-avec-oustaz-makhtar-sarr-firi-al-akhdari-partie-69_n_999003896.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-17T16:04:18+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Dahira Bi avec Oustaz Makhtar Sarr - Firi \"Al-Akhdari\" partie 69"
- },
- {
-  "id": "e394376747c7",
-  "titre": "Propagation de la diphtérie : Pr Abdoulaye Ndiaye appelle à la vaccination des enfants",
-  "lien": "https://www.seneweb.com/fr/news/Video/propagation-de-la-diphterie-pr-abdoulaye-ndiaye-appelle-a-la-vaccination-des-enfants_n_999003895.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-17T16:02:26+00:00",
-  "rubrique": "Société",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "La vaccination ne protège pas seulement l’enfant qui reçoit le vaccin, elle constitue aussi un rempart pour l’ensemble de la communauté"
- },
- {
-  "id": "0734f7e8394c",
-  "titre": "Gestion de la mairie de Dakar : Matar Diène interpelle Barthélémy Dias sur les conclusions des audits financiers",
-  "lien": "https://www.rewmi.com/gestion-de-la-mairie-de-dakar-matar-diene-interpelle-barthelemy-dias-sur-les-conclusions-des-audits-financiers/",
-  "source": "Rewmi",
-  "site_source": "https://www.rewmi.com",
-  "date": "2026-11-17T16:00:53+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le président du mouvement Initiative Citoyenne pour le Développement du Sénégal (ICDS), Matar Diène, demande à l’ancien maire de Dakar, Barthélémy Dias, de s’expliquer sur les anomalies relevées dans un rapport d’audit de la gestion municipale de 2023. Une interpellation qui intervient dans un…"
- },
- {
-  "id": "a375abe1b4e4",
-  "titre": "La présidentielle de 2027 et ses enjeux : l’immigration face à la réalité des chiffres",
-  "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/17/la-presidentielle-de-2027-et-ses-enjeux-l-immigration-face-a-la-realite-des-chiffres_6813002_6205049.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-17T16:00:07+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Les mouvements migratoires sont constitutifs de l’histoire de la France, mais restent au cœur des crispations. Qui arrive ? D’où vient-on ? Où travaille-t-on ? Comment s’intègre-t-on ? Une plongée dans les réalités de l’immigration, loin des seules perceptions."
- },
- {
-  "id": "629f36d3c7d4",
-  "titre": "Garçon de 3 ans égorgé par sa mère : Ansoumana DIONE évoque un problème de santé mentale",
-  "lien": "https://www.xibaaru.sn/mere-tue-mere-sante-mentale/",
-  "source": "Xibaaru",
-  "site_source": "https://www.xibaaru.sn",
-  "date": "2026-11-17T15:59:59+00:00",
-  "rubrique": "Société",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Ce n’est pas parce que la maman qui a égorgé son fils seulement âgé de trois ans à Touba était cohérente dans ses propos, qu’elle jouit de toutes ses facultés mentales. Divorcée,…"
- },
- {
-  "id": "247994d8f451",
-  "titre": "Nigeria et États-Unis : coopération militaire jugée « très fructueuse » par Abuja",
-  "lien": "https://www.senenews.com/actualites/politique/la-cooperation-militaire-entre-le-nigeria-et-les-etats-unis-tres-fructueuse-selon-abuja_606746.html",
-  "source": "Senenews",
-  "site_source": "https://www.senenews.com",
-  "date": "2026-11-17T15:52:42+00:00",
-  "rubrique": "Afrique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "La coopération militaire des États-Unis avec le Nigeria a été \"très fructueuse\", s'est félicité lundi le ministre nigérian de la Défense, dont le pays poursuit des réformes pour faire face aux conflits avec les groupes jihadistes et les gangs armés. Les relations entre les deux pays se sont…"
- },
- {
-  "id": "273029501549",
-  "titre": "Politique : Après le démenti d’Amdy Faye, Kiiraay riposte et livre sa version des faits",
-  "lien": "https://www.senenews.com/actualites/politique-apres-le-dementi-damdy-faye-kiiraay-riposte-et-livre-sa-version-des-faits_606747.html",
-  "source": "Senenews",
-  "site_source": "https://www.senenews.com",
-  "date": "2026-11-17T15:51:13+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "La polémique autour du supposé ralliement d’Amdy Moustapha Faye à Kiiraay prend une nouvelle tournure. Après le démenti catégorique de l’ancien international sénégalais dans les colonnes de Senego , la Coordination de Kiiraay est sortie du silence à travers un communiqué de mise au point. Dans le…"
- },
- {
-  "id": "102dde3902ca",
-  "titre": "Thiès en ferveur : Le Khalife général des Khadres accueilli chaleureusement",
-  "lien": "https://senego.com/thies-en-ferveur-le-khalife-general-des-khadres-accueilli-chaleureusement_2024952.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-17T15:50:50+00:00",
-  "rubrique": "Société",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "La ville de Thiès a vibré au rythme de la ferveur religieuse à l’occasion de l’arrivée du Khalife général des Khadres, Cheikhna Cheikh Sidyl Kheir Aidara. Accueil chaleureux, ferveur et mobilisation, la capitale du Rail honore le Saint-homme. En séjour dans la capitale du Rail depuis avant-hier, le…"
- },
- {
-  "id": "3a29a842c85a",
-  "titre": "ELIM. CAN 2027 - SOUDAN / SENEGAL (2-4) : Les Lions s’arrachent des griffes soudanaises",
-  "lien": "https://www.enqueteplus.com/content/elim-can-2027-soudan-senegal-2-4-les-lions-s%E2%80%99arrachent-des-griffes-soudanaises",
-  "source": "EnQuête",
-  "site_source": "https://www.enqueteplus.com",
-  "date": "2026-11-17T15:50:18+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "ELIM. CAN 2027 - SOUDAN / SENEGAL (2-4) Les Lions s’arrachent des griffes soudanaises Le Sénégal a battu le Soudan (2-4) à l’issue d’un match plein de rebondissements, ce lundi à Juba, dans le cadre de la quatrième journée des éliminatoires de la CAN 2027. Les Lions ont consolidé leur leadership…"
- },
- {
-  "id": "5251a9c29a6d",
-  "titre": "Rwanda : cinq pays européens veulent y regrouper les migrants expulsés",
-  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261117-rwanda-cinq-pays-europ%C3%A9ens-veulent-y-regrouper-les-migrants-expuls%C3%A9s",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-17T15:48:41+00:00",
-  "rubrique": "Afrique",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Cinq pays de l'UE, dont l'Allemagne et le Danemark, ont dévoilé lundi un projet inédit visant à transférer au Rwanda des migrants n'ayant plus le droit de séjourner en Europe."
- },
- {
-  "id": "7c5da5d0ea9d",
-  "titre": "L'Afrique du Sud veut être un acteur essentiel de l'intelligence artificielle",
-  "lien": "http://fr.africanews.com/2026/11/17/afrique-du-sud-numerique-pretoria-veut-se-positionner-comme-un-acteur-africain-essentiel/",
-  "source": "Africanews",
-  "site_source": "https://fr.africanews.com",
-  "date": "2026-11-17T15:46:38+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le président sud-africain Cyril Ramaphosa a entamé lundi une tournée d'une semaine en Californie dédiée à l'intelligence artificielle, cherchant à attirer les capitaux des géants technologiques américains malgré des relations politiques délicates avec Washington."
- },
- {
-  "id": "6da44fad5813",
-  "titre": "Jeux vidéos : GTA VI s'apprête enfin à sortir après 13 ans d'attente",
-  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261117-jeux-vid%C3%A9os-gta-vi-s-appr%C3%AAte-enfin-%C3%A0-sortir-apr%C3%A8s-13-ans-d-attente",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-17T15:46:38+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Les ⁠jours de congés ont ​été posés et des millions de copies du jeu vidéo pré-commandés ou pré-téléchargés. Un joueur a même demandé à son épouse de ne pas l'interrompre pour profiter pleinement ​de la sortie de GTA VI lancé en grande pompe jeudi."
- },
- {
-  "id": "7fa6a63b2707",
-  "titre": "Mozambique : le procès du principal opposant pour \"terrorisme\" ouvert",
-  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261117-mozambique-le-proc%C3%A8s-du-principal-opposant-pour-terrorisme-ouvert",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-17T15:45:45+00:00",
-  "rubrique": "Afrique",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le procès pour \"terrorisme\" du principal opposant mozambicain Venancio Mondlane s'est ouvert mardi à Maputo devant la plus haute juridiction du pays pour ses appels à contester dans la rue les résultats des élections d'octobre 2024."
- },
- {
-  "id": "721869792254",
-  "titre": "Coupe du monde 2030 : l’Espagne se montre catégorique sur le pays qui accueillera la finale",
-  "lien": "https://www.seneweb.com/fr/news/Sport/coupe-du-monde-2030-lespagne-se-montre-categorique-sur-le-pays-qui-accueillera-la-finale_n_999003893.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-17T15:45:08+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "La bataille pour accueillir la finale de la Coupe du monde 2030 est déjà lancée entre l’Espagne et le Maroc"
- },
- {
-  "id": "8fac342bf698",
-  "titre": "​Football : le Sénégal valide officiellement son ticket pour la CAN 2027 après la 4e journée des éliminatoires",
-  "lien": "https://www.pressafrik.com/​Football-le-Senegal-valide-officiellement-son-ticket-pour-la-CAN-2027-apres-la-4e-journee-des-eliminatoires_a314724.html",
-  "source": "PressAfrik",
-  "site_source": "https://www.pressafrik.com",
-  "date": "2026-11-17T15:45:00+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Avec dix (10) points au compteur, le Sénégal a officiellement validé, ce mardi 17 novembre, so... www.pressafrik.com"
- },
- {
-  "id": "f1e0734b265d",
-  "titre": "Le FICA promeut une logistique africaine souveraine",
-  "lien": "https://www.igfm.sn/le-fica-promeut-une-logistique-africaine-souveraine",
-  "source": "L'Observateur (iGFM)",
-  "site_source": "https://www.igfm.sn",
-  "date": "2026-11-17T15:44:12+00:00",
-  "rubrique": "Afrique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": ""
- },
- {
-  "id": "6a979b18ddcf",
-  "titre": "Mozambique : ouverture du procès pour « terrorisme » de l’opposant Venancio Mondlane",
-  "lien": "https://www.senenews.com/actualites/politique/mozambique-le-proces-du-principal-opposant-pour-terrorisme-ouvert_606743.html",
-  "source": "Senenews",
-  "site_source": "https://www.senenews.com",
-  "date": "2026-11-17T15:42:22+00:00",
-  "rubrique": "Afrique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le procès pour \"terrorisme\" du principal opposant mozambicain Venancio Mondlane s'est ouvert mardi à Maputo devant la plus haute juridiction du pays pour ses appels à contester dans la rue les résultats des élections d'octobre 2024. Cet ex-chroniqueur télé, âgé de 52 ans et désormais à la tête de…"
- },
- {
-  "id": "6bf3bf0ca865",
-  "titre": "MACRON-KAGAMÉ Collision, collusion et compromis (Par Babacar Justin Ndiaye)",
-  "lien": "https://www.seneweb.com/fr/news/Contribution/macron-kagame-collision-collusion-et-compromis-par-babacar-justin-ndiaye_n_999003892.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-17T15:41:52+00:00",
-  "rubrique": "Monde",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "À la veille du huis clos accoucheur du fameux compromis, le centre culturel franco-cambodgien de Phnom Penh a sponsorisé un spectacle prometteur et..."
- },
- {
-  "id": "733cfac4c236",
-  "titre": "Sierra Leone : les Pays-Bas réclament l’extradition du trafiquant Jos Leijdekkers",
-  "lien": "http://fr.africanews.com/2026/11/17/sierra-leone-la-haye-reclame-lextradition-du-trafiquant-jos-leijdekkers/",
-  "source": "Africanews",
-  "site_source": "https://fr.africanews.com",
-  "date": "2026-11-17T15:40:25+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Les Pays-Bas accentuent la pression sur la Sierra Leone pour obtenir l’extradition de Jos Leijdekkers, l’un des trafiquants de drogue les plus recherchés d’Europe."
- },
- {
-  "id": "cf5233279f62",
-  "titre": "Dialogue interreligieux : le modèle sénégalais à l’honneur à la Grande Mosquée de Paris…",
-  "lien": "https://senego.com/dialogue-interreligieux-le-modele-senegalais-a-lhonneur-a-la-grande-mosquee-de-paris_2024936.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-17T15:39:21+00:00",
-  "rubrique": "Diaspora",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "La Grande Mosquée de Paris accueillera, le jeudi 26 novembre 2026, une conférence internationale consacrée au modèle sénégalais de coexistence et de dialogue interreligieux. Organisée dans le cadre de son centenaire, la rencontre est initiée avec l’Ambassade du Sénégal en France et le Timbuktu…"
- },
- {
-  "id": "eb0de266fe55",
-  "titre": "À Abéné, deux mineurs parmi les candidats à l’émigration interpellés",
-  "lien": "https://senego.com/a-abene-deux-mineurs-parmi-les-candidats-a-lemigration-interpelles_2024959.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-17T15:39:19+00:00",
-  "rubrique": "Diaspora",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Vingt-six personnes ont été interpellées à Abéné lors d’une opération de la brigade de proximité de Kafountine. Deux mineurs figurent parmi elles, et des convoyeurs présumés sont recherchés."
- },
- {
-  "id": "1414b0a3dd74",
-  "titre": "À Saint-Louis, Amadou Bamba Ka lie le rejet du budget rectificatif aux hôpitaux et parle de « sabotage »",
-  "lien": "https://senego.com/a-saint-louis-amadou-bamba-ka-lie-le-rejet-du-budget-rectificatif-aux-hopitaux-et-parle-de-sabotage_2024957.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-17T15:39:10+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "À Saint-Louis, le responsable politique de Kiiraay critique le rejet de la loi de finances rectificative. Il évoque les hôpitaux, les bourses familiales et la dette privée."
- },
- {
-  "id": "6def6b33f885",
-  "titre": "​Pandémies : le Sénégal plaide pour le partage des données et l’anticipation des menaces sanitaires",
-  "lien": "https://www.pressafrik.com/​Pandemies-le-Senegal-plaide-pour-le-partage-des-donnees-et-l-anticipation-des-menaces-sanitaires_a314725.html",
-  "source": "PressAfrik",
-  "site_source": "https://www.pressafrik.com",
-  "date": "2026-11-17T15:37:00+00:00",
-  "rubrique": "Société",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "L’Institut Pasteur de Dakar a organisé, ce mardi, la 4e édition du Dakar Epidemics Forum, e... www.pressafrik.com"
- },
- {
-  "id": "90ff2086ee09",
-  "titre": "UCAD : dévoile les ambitions de la nouvelle Direction de l’Inclusion et du Bien-être",
-  "lien": "https://www.rewmi.com/ucad-devoile-les-ambitions-de-la-nouvelle-direction-de-linclusion-et-du-bien-etre/",
-  "source": "Rewmi",
-  "site_source": "https://www.rewmi.com",
-  "date": "2026-11-17T15:36:49+00:00",
-  "rubrique": "Société",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "L’Université Cheikh Anta Diop de Dakar (UCAD) veut franchir un nouveau cap dans la promotion de l’inclusion et de l’égalité des chances. La Direction de l’Inclusion, du Bien-être et du Développement humain (DIBDH) a été officiellement lancée ce mardi 17 novembre 2026, à l’occasion d’une cérémonie…"
- },
- {
-  "id": "3dd308eede95",
-  "titre": "CAN 2027 : le Sénégal valide officiellement son billet pour la phase finale, après la défaite de l’Ethiopie",
-  "lien": "https://senego.com/can-2027-le-senegal-valide-officiellement-son-billet-pour-la-phase-finale-apres-la-defaite-de-lethiopie_2024945.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-17T15:34:53+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Les Lions de la Teranga ont officiellement décroché leur qualification pour la Coupe d’Afrique des nations (CAN) 2027. Le Sénégal devient ainsi la première nation qualifiée pour la prochaine édition de la compétition, après la victoire du Mozambique face à l’Éthiopie dans le groupe J. Avec 10…"
- },
- {
-  "id": "f0deccc6793b",
-  "titre": "Dr Amadou Bamba Ka responsable politique de Kiiraay à Saint-Louis : « Le rejet de la loi de finances rectificative 2026 constitue un acte de sabotage »",
-  "lien": "https://www.rewmi.com/dr-amadou-bamba-ka-responsable-politique-de-kiiraay-a-saint-louis-le-rejet-de-la-loi-de-finances-rectificative-2026-constitue-un-acte-de-sabotage/",
-  "source": "Rewmi",
-  "site_source": "https://www.rewmi.com",
-  "date": "2026-11-17T15:33:31+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le Dr Amadou Bamba Ka responsable politique de Kiiraay à Saint-Louis n’a pas mis de gants pour asséner ses vérités suite au rejet de la LFR et de la LFI. Selon ce dernier, le rejet de la loi de finances rectificative 2026 constitue, « un acte de sabotage. Il faut le dire clairement, car … Cet…"
- },
- {
-  "id": "14f5cd5d9bd3",
-  "titre": "Réforme des retraites de Marine Le Pen : départ à 60 ou 62 ans, capitalisation et conditions durcies",
-  "lien": "https://www.france24.com/fr/france/20261117-france-presidentielle-2027-reforme-des-retraites-marine-le-pen-depart-a-60-ou-62-ans-capitalisation-conditions-durcies",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-17T15:31:35+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "La candidate du Rassemblement national à l’élection présidentielle de 2027, Marine Le Pen, a présenté mardi son projet de réforme du système de retraites, avec la promesse d'un retour aux 62 ans, voire 60 ans, financé par davantage de travail et une dose de capitalisation obligatoire. Mais sans…"
- },
- {
-  "id": "27a0a05516b3",
-  "titre": "Amdy Faye dément son ralliement à Kiiraay et recadre Abib Diop : « C’est malhonnête »",
-  "lien": "https://www.senenews.com/actualites/amdy-faye-dement-son-ralliement-a-kiiraay-et-recadre-abib-diop-cest-malhonnete_606740.html",
-  "source": "Senenews",
-  "site_source": "https://www.senenews.com",
-  "date": "2026-11-17T15:31:31+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Annoncé comme une nouvelle recrue de Kiiraay, Amdy Moustapha Faye a tenu à rétablir sa version des faits. L’ancien international sénégalais a formellement démenti, ce mardi dans un entretien accordé à Senego , toute adhésion à la formation politique du président Bassirou Diomaye Faye. Cette mise au…"
- },
- {
-  "id": "5dae91dcce46",
-  "titre": "Bignona – Kafountine : 26 candidats à l’émigration irrégulière interpellés à Abéné, des convoyeurs présumés recherchés",
-  "lien": "https://emedia.sn/bignona-kafountine-26-candidats-a-lemigration-irreguliere-interpelles-a-abene-des-convoyeurs-presumes-recherches/",
-  "source": "Emedia",
-  "site_source": "https://emedia.sn",
-  "date": "2026-11-17T15:31:06+00:00",
-  "rubrique": "Diaspora",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Vingt-six (26) candidats à l’émigration irrégulière ont été interpellés dans la nuit du 16 au 17 novembre 2026, aux environs de 4 heures du matin, au village d’Abéné, dans la commune de Kafountine, département de Bignona. L’opération a été menée par les éléments de la Brigade de proximité (BP) de…"
- },
- {
-  "id": "86df878acffe",
-  "titre": "Pastef et le pouvoir : l’étrange équation du gouvernant-opposant",
-  "lien": "https://www.seneweb.com/fr/news/Politique/pastef-et-le-pouvoir-letrange-equation-du-gouvernant-opposant_n_999003891.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-17T15:29:01+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Il y a des phrases qui en disent parfois plus long que de grands discours"
- },
- {
-  "id": "165900a476cb",
-  "titre": "Cocaïne : près de 11 kg saisis par la Gendarmerie entre Sangalkam et Guédiawaye",
-  "lien": "https://www.leral.net/Cocaine-pres-de-11-kg-saisis-par-la-Gendarmerie-entre-Sangalkam-et-Guediawaye_a411474.html",
-  "source": "Leral",
-  "site_source": "https://www.leral.net",
-  "date": "2026-11-17T15:29:00+00:00",
-  "rubrique": "Faits divers",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "La Gendarmerie nationale a mis la main sur près de 11 kilogrammes de cocaïne à l’issue de deux opérations conduites à Sangalka..."
- },
- {
-  "id": "d6cf56595785",
-  "titre": "MACRON-KAGAMÉ - Collision, collusion et compromis",
-  "lien": "https://www.igfm.sn/macron-kagame-collision-collusion-et-compromis",
-  "source": "L'Observateur (iGFM)",
-  "site_source": "https://www.igfm.sn",
-  "date": "2026-11-17T15:28:33+00:00",
-  "rubrique": "Monde",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": ""
- },
- {
-  "id": "9902419c0ece",
-  "titre": "Venancio Mondlane, chef de l’opposition mozambicaine, jugé à Maputo pour terrorisme",
-  "lien": "https://www.lemonde.fr/international/article/2026/11/17/venancio-mondlane-chef-de-l-opposition-mozambicaine-juge-a-maputo-pour-terrorisme_6812992_3210.html",
-  "source": "Le Monde Afrique",
-  "site_source": "https://www.lemonde.fr/afrique/",
-  "date": "2026-11-17T15:25:04+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Ce procès qui pourrait raviver les tensions qui ont traversé le pays lors de l’élection présidentielle de 2024, lors de laquelle M. Mondlane était arrivé deuxième."
- },
- {
-  "id": "f45e105f7d10",
-  "titre": "Bassirou Diomaye Faye s'entretient avec le Premier ministre canadien à Phnom Penh",
-  "lien": "https://www.leral.net/Bassirou-Diomaye-Faye-s-entretient-avec-le-Premier-ministre-canadien-a-Phnom-Penh_a411475.html",
-  "source": "Leral",
-  "site_source": "https://www.leral.net",
-  "date": "2026-11-17T15:25:00+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "En marge du 20e Sommet de la Francophonie qui se tient à Phnom Penh, au Cambodge, le chef de l'État Bassirou Diomaye Faye..."
- },
- {
-  "id": "637d7c89e2f9",
-  "titre": "CAN 2027 (Q) : le Sénégal premier qualifié, Egypte et Nigeria gâchent, le Gabon douché…",
-  "lien": "https://www.afrik-foot.com/can-2027-q-le-senegal-premier-qualifie-egypte-et-nigeria-gachent-le-gabon-douche",
-  "source": "Afrik-Foot",
-  "site_source": "https://www.afrik-foot.com",
-  "date": "2026-11-17T15:23:59+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "La quatrième journée des éliminatoires de la CAN 2027 se poursuivait ce mardi en début d’après-midi. Le Sénégal est devenu à cette occasion la première équipe qualifiée sur le terrain pour la phase finale. L’Egypte, le Nigeria et surtout le Gabon ont connu une journée moins fructueuse. Au lendemain…"
- },
- {
-  "id": "4d8e95e2cae1",
-  "titre": "Sommet de la Francophonie : Bassirou Diomaye Faye au cœur du compromis sur l'élection du Secrétaire général de l'Oif",
-  "lien": "https://www.leral.net/Sommet-de-la-Francophonie-Bassirou-Diomaye-Faye-au-coeur-du-compromis-sur-l-election-du-Secretaire-general-de-l-Oif_a411476.html",
-  "source": "Leral",
-  "site_source": "https://www.leral.net",
-  "date": "2026-11-17T15:23:00+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "La question de l'élection du Secrétaire général de l'Organisation internationale de la Francophonie (Oif) s'est imposée comm..."
- },
- {
-  "id": "13eaa76ed8dc",
-  "titre": "APEC 2026 : Shenzhen accueille la 33ᵉ réunion des dirigeants économiques d’Asie-Pacifique",
-  "lien": "https://www.leral.net/APEC-2026-Shenzhen-accueille-la-33ᵉ-reunion-des-dirigeants-economiques-d-Asie-Pacifique_a411477.html",
-  "source": "Leral",
-  "site_source": "https://www.leral.net",
-  "date": "2026-11-17T15:22:00+00:00",
-  "rubrique": "Économie",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "La Coopération économique pour l’Asie-Pacifique (APEC) tient sa 33ᵉ réunion des dirigeants économiques les 18 et 19 novembr..."
- },
- {
-  "id": "eac44b9df6d6",
-  "titre": "Rwanda : un accord pour accueillir des migrants expulsés d'Europe suscite la controverse",
-  "lien": "https://www.leral.net/Rwanda-un-accord-pour-accueillir-des-migrants-expulses-d-Europe-suscite-la-controverse_a411479.html",
-  "source": "Leral",
-  "site_source": "https://www.leral.net",
-  "date": "2026-11-17T15:21:00+00:00",
-  "rubrique": "Diaspora",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Kigali s'apprête à devenir une destination pour des migrants renvoyés d'Europe. Un accord annoncé le 17 novembre 2026 prévoit l..."
- },
- {
-  "id": "cf04afb48f4d",
-  "titre": "Donald Trump dit \"prendre très au sérieux\" une possible menace d'attaque iranienne à Washington",
-  "lien": "https://www.france24.com/fr/am%C3%A9riques/20261117-donald-trump-dit-prendre-tr%C3%A8s-au-s%C3%A9rieux-une-possible-menace-d-attaque-iranienne-%C3%A0-washington",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-17T15:20:35+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "En déplacement à Manille, le président des États-Unis a déclaré \"prendre très au sérieux\" une information de la chaîne de télévision CNN, selon laquelle Téhéran projetait un attentat à la \"bombe sale\", c'est-à-dire composée de matériaux radioactifs, à Washington. Des accusations que nient la…"
- },
- {
-  "id": "e824199ed2e7",
-  "titre": "UCAD : Dr Ami Kébé Mané dévoile les ambitions de la nouvelle Direction de l’Inclusion et du Bien-être",
-  "lien": "https://www.seneweb.com/fr/news/Education/ucad-dr-ami-kebe-mane-devoile-les-ambitions-de-la-nouvelle-direction-de-linclusion-et-du-bien-etre_n_999003890.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-17T15:19:46+00:00",
-  "rubrique": "Société",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "L’Université Cheikh Anta Diop de Dakar (UCAD) veut franchir un nouveau cap dans la promotion de l’inclusion et de l’égalité des chances"
- },
- {
-  "id": "7b723dc48306",
-  "titre": "Valence : Mouhamadou Gueye réalise sa meilleure sortie offensive face à Leyma Coruña",
-  "lien": "https://www.leral.net/Valence-Mouhamadou-Gueye-realise-sa-meilleure-sortie-offensive-face-a-Leyma-Coruna_a411480.html",
-  "source": "Leral",
-  "site_source": "https://www.leral.net",
-  "date": "2026-11-17T15:19:00+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "L'intérieur sénégalais Mouhamadou Gueye a livré dimanche sa meilleure prestation offensive depuis son arrivée à Valence e..."
- },
- {
-  "id": "b4509cf775d5",
-  "titre": "Après sa retraite internationale, Chérif Ndiaye efface ses souvenirs avec les Lions sur Instagram",
-  "lien": "https://www.senenews.com/actualites/apres-sa-retraite-internationale-cherif-ndiaye-efface-ses-souvenirs-avec-les-lions-sur-instagram_606737.html",
-  "source": "Senenews",
-  "site_source": "https://www.senenews.com",
-  "date": "2026-11-17T15:18:49+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Chérif Ndiaye semble vouloir tourner la page de son aventure avec l’équipe nationale du Sénégal. Quelques jours après l’annonce de sa retraite internationale, l’attaquant a supprimé ou rendu privées les publications sur lesquelles il apparaissait sous le maillot des Lions. Les clichés de ses…"
- },
- {
-  "id": "cb76ffccb767",
-  "titre": "OJ Dakar 2026 : les athlètes sénégalais et leurs encadreurs touchent leur bourse de 500 000 FCFA",
-  "lien": "https://www.leral.net/OJ-Dakar-2026-les-athletes-senegalais-et-leurs-encadreurs-touchent-leur-bourse-de-500-000-FCFA_a411481.html",
-  "source": "Leral",
-  "site_source": "https://www.leral.net",
-  "date": "2026-11-17T15:17:00+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Les athlètes sénégalais et leurs encadreurs ayant participé aux Jeux olympiques de la jeunesse (JOJ) Dakar 2026 ont reçu leur..."
- },
- {
-  "id": "e3a07994bf64",
-  "titre": "Éliminatoires CAN 2027: Sénégal, Mali, Burkina Faso, Cameroun, Bénin et Maroc qualifiés, bilan de la 4e journée",
-  "lien": "https://www.rfi.fr/fr/afrique-foot/20261117-%C3%A9liminatoires-can-2027-le-s%C3%A9n%C3%A9gal-d%C3%A9j%C3%A0-qualifi%C3%A9-r%C3%A9sultats-et-bilan-%C3%A0-l-issue-de-la-quatri%C3%A8me-journ%C3%A9e",
-  "source": "RFI Afrique",
-  "site_source": "https://www.rfi.fr/fr/afrique/",
-  "date": "2026-11-17T15:16:48+00:00",
-  "rubrique": "Sport",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Les dernières rencontres de la quatrième journée se jouent ce mardi 17 novembre. Retrouvez les résultats et le bilan de ces éliminatoires après quatre journées."
- },
- {
-  "id": "dc60d5620858",
-  "titre": "Éliminatoires CAN 2027 : L’Angola de Aliou Cissé quasi qualifiée pour la CAN après sa victoire sur le Soudan du Sud (0-1)",
-  "lien": "https://wiwsport.com/2026/11/17/eliminatoires-can-2027-langola-de-aliou-cisse-quasi-qualifiee-pour-la-can-apres-sa-victoire-sur-le-soudan-du-sud-0-1/",
-  "source": "Wiwsport",
-  "site_source": "https://www.wiwsport.com",
-  "date": "2026-11-17T15:16:09+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "( wiwsport ) - Les Palancas Negras du sélectionneur sénégalais Aliou Cissé sont quasi qualifiés pour la Coupe d’Afrique des Nations 2027 après sa victoire ce mardi devant le Soudan du Sud (0-1). L’Angola d’Aliou Cissé va certainement disputer la CAN 2027, ce qui serait la onzième participation du…"
- },
- {
-  "id": "6207314e3724",
-  "titre": "Enseignants décisionnaires : Amadou Camara Diène appelle aux marches et aux sit-in",
-  "lien": "https://senego.com/enseignants-decisionnaires-amadou-camara-diene-appelle-aux-marches-et-aux-sit-in_2024941.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-17T15:13:53+00:00",
-  "rubrique": "Société",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Amadou Camara Diène reproche aux syndicats de délaisser le dossier des décisionnaires et annonce des actions de protestation. Malick Youm met en cause l’État."
- },
- {
-  "id": "cf89b94167d7",
-  "titre": "Gambie : Adama Barrow en tête, suivi de l’opposant Ousainou Darboe et de Talib Bensouda, crédité de 11,3 % des intentions de vote",
-  "lien": "https://kewoulo.info/gambie-adama-barrow-en-tete-suivi-de-lopposant-ousainou-darboe-et-de-talib-bensouda-credite-de-113-des-intentions-de-vote/",
-  "source": "Kewoulo",
-  "site_source": "https://www.kewoulo.info",
-  "date": "2026-11-17T15:12:56+00:00",
-  "rubrique": "Afrique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Gambie : Adama Barrow en tête, suivi de l’opposant Ousainou Darboe et de Talib Bensouda, crédité de 11,3 % des intentions de vote"
- },
- {
-  "id": "94c648a866ae",
-  "titre": "Phnom Penh, le rendez-vous manqué de la Francophonie",
-  "lien": "https://www.seneplus.com/article/phnom-penh-le-rendez-vous-manque-de-la-francophonie",
-  "source": "SenePlus",
-  "site_source": "https://www.seneplus.com",
-  "date": "2026-11-17T15:12:55+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Phnom Penh, le rendez-vous manqué de la Francophonie Farid Akele Tue, 11/17/2026 - 15:12"
- },
- {
-  "id": "ab726ef6f438",
-  "titre": "La BCEAO annonce une réunion ordinaire de son Comité de Politique Monétaire",
-  "lien": "https://www.leral.net/La-BCEAO-annonce-une-reunion-ordinaire-de-son-Comite-de-Politique-Monetaire_a411483.html",
-  "source": "Leral",
-  "site_source": "https://www.leral.net",
-  "date": "2026-11-17T15:12:00+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "La Banque Centrale des États de l'Afrique de l'Ouest (BCEAO) a fait savoir, via un communiqué publié sur son site officiel..."
- },
- {
-  "id": "00f9b1ac80c6",
-  "titre": "Lucky Luke, 80 ans et bien vivant sous la plume de Jul",
-  "lien": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20261117-lucky-luke-80-ans-et-bien-vivant-sous-la-plume-de-jul",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-17T15:11:21+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Depuis 80 ans, le cowboy solitaire enchante petits et grands. Figure emblématique du Far West inventée par Morris, ensuite rejoint par Goscinny, Lucky Luke nous embarque dans une nouvelle intrigue sur fond de fanatisme religieux : \"Saint Lucky Luke\", aux éditions Dargaud. Son auteur, Jul, a même…"
- },
- {
-  "id": "dd4877e011fa",
-  "titre": "Crise migratoire : Madrid prolonge ses avions de surveillance à Dakar et intensifie le dialogue avec Banjul et Nouakchott",
-  "lien": "https://www.rewmi.com/crise-migratoire-madrid-prolonge-ses-avions-de-surveillance-a-dakar-et-intensifie-le-dialogue-avec-banjul-et-nouakchott/",
-  "source": "Rewmi",
-  "site_source": "https://www.rewmi.com",
-  "date": "2026-11-17T15:11:08+00:00",
-  "rubrique": "Diaspora",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "L’archipel espagnol des Canaries est confronté à une crise migratoire. Le samedi 14 novembre 2026, en une seule journée de 1 488 à 1 580 migrants, portant à 3 684 le nombre d’arrivées sur l’ensemble du week-end. Principal épicentre de cet exode parti du Sénégal et de la Gambie, la petite île d’El…"
- },
- {
-  "id": "7e52e3e8e4b3",
-  "titre": "Grossesses en milieu scolaire : 1 193 cas au Sénégal en 2025, dont 113 à Matam",
-  "lien": "https://www.senenews.com/actualites/grossesses-en-milieu-scolaire-1-193-cas-recenses-au-senegal-en-2025-dont-113-a-matam_606735.html",
-  "source": "Senenews",
-  "site_source": "https://www.senenews.com",
-  "date": "2026-11-17T15:09:01+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Les grossesses en milieu scolaire demeurent une source de préoccupation au Sénégal. En 2025, 1 193 cas ont été recensés à l’échelle nationale, dont 113 dans l’académie de Matam, soit près de 10 % du total. Ces chiffres ont été évoqués lors d’une campagne de lutte contre les violences en milieu…"
- },
- {
-  "id": "c102e3d13e82",
-  "titre": "CAN 2027 : Les Lions officiellement qualifiés avant terme après la victoire du Mozambique face à l’Éthiopie",
-  "lien": "https://www.leral.net/CAN-2027-Les-Lions-officiellement-qualifies-avant-terme-apres-la-victoire-du-Mozambique-face-a-l-Ethiopie_a411484.html",
-  "source": "Leral",
-  "site_source": "https://www.leral.net",
-  "date": "2026-11-17T15:09:00+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": ""
- },
- {
-  "id": "e56e2ab701b4",
-  "titre": "Centre de migrants au Rwanda : Boubacar Sèye refuse que l’Afrique devienne « la décharge migratoire de l’Europe »",
-  "lien": "https://senego.com/centre-de-migrants-au-rwanda-boubacar-seye-refuse-que-lafrique-devienne-la-decharge-migratoire-de-leurope_2024935.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-17T15:08:26+00:00",
-  "rubrique": "Diaspora",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Le projet de cinq pays européens (l’Allemagne, l’Autriche, le Danemark, la Grèce et les Pays-Bas) de créer un centre de retour pour migrants au Rwanda suscite une vive réaction d’Horizon Sans Frontières (HSF). Son président, Boubacar Sèye, dénonce une externalisation des politiques migratoires…"
- },
- {
-  "id": "0ed3f175c7e7",
-  "titre": "« J'ai 96 ans et 15 millions d'abonnés » : les mamies qui envahissent TikTok",
-  "lien": "https://www.bbc.com/afrique/articles/c51kdp4x3xrko?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Afrique",
-  "site_source": "https://www.bbc.com/afrique",
-  "date": "2026-11-17T15:06:46+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Grandma Droniak, Nonna Gracie, Viv Truran et Barbara Costello sont toutes devenues célèbres sur les réseaux sociaux à un âge avancé."
- },
- {
-  "id": "7acc1efe7987",
-  "titre": "Le Français Philippe Diallo, l'inattendu challenger de Gianni Infantino à la tête de la Fifa",
-  "lien": "https://www.france24.com/fr/sports/20261117-phillippe-diallo-fifa-candidature-fff-infantino-portrait",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-17T15:06:10+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Avec le soutien des associations membres de l'UEFA, le président de la Fédération française de football, Philippe Diallo, a créé la surprise en se portant candidat à la présidence de la Fifa pour l'élection prévue en mars prochain. Un homme discret, encore peu connu du grand public, mais à la…"
  }
 ]
