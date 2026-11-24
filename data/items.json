@@ -1,5 +1,271 @@
 [
  {
+  "id": "77e84bf68901",
+  "titre": "Abus sexuels présumés sur une adolescente de 13 ans : un quinquagénaire déféré au parquet",
+  "lien": "https://www.igfm.sn/abus-sexuels-presumes-sur-une-adolescente-de-13-ans-un-quinquagenaire-defere-au-parquet",
+  "source": "L'Observateur (iGFM)",
+  "site_source": "https://www.igfm.sn",
+  "date": "2026-11-24T00:51:08+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": ""
+ },
+ {
+  "id": "a5d20b2b9a73",
+  "titre": "Dette extérieure : le Sénégal honore une échéance de 19 milliards de FCFA malgré l’impasse avec le FMI",
+  "lien": "https://www.igfm.sn/dette-exterieure-le-senegal-honore-une-echeance-de-19-milliards-de-fcfa-malgre-l-impasse-avec-le-fmi",
+  "source": "L'Observateur (iGFM)",
+  "site_source": "https://www.igfm.sn",
+  "date": "2026-11-24T00:41:45+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": ""
+ },
+ {
+  "id": "89c448c2ed77",
+  "titre": "Crise budgétaire : l'Assemblée nationale riposte au décret présidentiel de Bassirou Diomaye Faye",
+  "lien": "https://www.igfm.sn/crise-budgetaire-l-assemblee-nationale-riposte-au-decret-presidentiel-de-bassirou-diomaye-faye",
+  "source": "L'Observateur (iGFM)",
+  "site_source": "https://www.igfm.sn",
+  "date": "2026-11-24T00:38:30+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": ""
+ },
+ {
+  "id": "d75b2cdf1e12",
+  "titre": "Mondial U17 : Le Sénégal surclasse Cuba (9-0) et prend une sérieuse option sur les seizièmes de finale",
+  "lien": "https://www.igfm.sn/mondial-u17-le-senegal-surclasse-cuba-9-0-et-prend-une-serieuse-option-sur-les-seiziemes-de-finale",
+  "source": "L'Observateur (iGFM)",
+  "site_source": "https://www.igfm.sn",
+  "date": "2026-11-24T00:36:09+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": ""
+ },
+ {
+  "id": "404261633bf4",
+  "titre": "LFR 2026 : deux commissions de l’Assemblée nationale réunies pour examiner une proposition de résolution",
+  "lien": "https://www.leral.net/LFR-2026-deux-commissions-de-l-Assemblee-nationale-reunies-pour-examiner-une-proposition-de-resolution_a412114.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-24T00:34:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Dans le prolongement du rejet de la loi de finances rectificative 2026, une intercommission de l’Assemblée nationale es...",
+  "categories": [
+   "Politique"
+  ]
+ },
+ {
+  "id": "3b9d0487e4ba",
+  "titre": "Fleuve Gambie : à Mako, les riverains alertent sur les mines et réclament leur interdiction",
+  "lien": "https://senego.com/fleuve-gambie-a-mako-les-riverains-alertent-sur-les-mines-et-reclament-leur-interdiction_2027258.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-24T00:30:42+00:00",
+  "rubrique": "Afrique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "À Mako et dans d’autres localités de Kédougou, des lanceurs d’alerte et des riverains dénoncent les risques liés aux activités minières près du fleuve Gambie.",
+  "categories": [
+   "Environnement",
+   "Sénégal",
+   "Société",
+   "Fleuve Gambie",
+   "Kédougou"
+  ]
+ },
+ {
+  "id": "83bf00a0d807",
+  "titre": "Thiès : une jeune femme condamnée après avoir dépouillé trois voisines de plus de 500 000 FCFA",
+  "lien": "https://www.leral.net/Thies-une-jeune-femme-condamnee-apres-avoir-depouille-trois-voisines-de-plus-de-500-000-FCFA_a412113.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-24T00:29:00+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Le tribunal d’instance de Thiès a condamné A. Diop, âgée de 26 ans, à trois mois de prison ferme pour une série de vols commi...",
+  "categories": [
+   "Fait divers"
+  ]
+ },
+ {
+  "id": "4272cca2dbbd",
+  "titre": "UGB : quatre étudiants créent SanarView, l’application qui révolutionne l’orientation sur le campus",
+  "lien": "https://www.leral.net/UGB-quatre-etudiants-creent-SanarView-l-application-qui-revolutionne-l-orientation-sur-le-campus_a412112.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-24T00:27:00+00:00",
+  "rubrique": "Société",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Se déplacer sur le campus de l’Université Gaston Berger (UGB) de Saint-Louis devient plus facile grâce à SanarView. Développé...",
+  "categories": [
+   "Actualités"
+  ]
+ },
+ {
+  "id": "5a4d6b258862",
+  "titre": "Affaire Modou Ba Gawlo : six autres présumés homosexuels arrêtés entre Dakar, Thiès et Saly",
+  "lien": "https://www.seneweb.com/fr/news/Societe/affaire-modou-ba-gawlo-six-autres-presumes-homosexuels-arretes-entre-dakar-thies-et-saly_n_999004463.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-24T00:26:01+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La brigade de recherches (BR) de Keur Massar a réalisé un nouveau coup de filet le 21 novembre 2026."
+ },
+ {
+  "id": "7e249f56deb4",
+  "titre": "Au Sénégal, une fillette de deux jours meurt après une excision : Herzberger-Fofana condamne",
+  "lien": "https://senego.com/au-senegal-une-fillette-de-deux-jours-meurt-apres-une-excision-herzberger-fofana-condamne_2027256.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-24T00:24:15+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Après la mort d’une fillette de deux jours à Sadatou, Dr Pierrette Herzberger-Fofana réclame une enquête complète et l’application rigoureuse de la loi sur l’excision.",
+  "categories": [
+   "Faits Divers",
+   "Justice",
+   "Santé",
+   "Sénégal",
+   "excision"
+  ]
+ },
+ {
+  "id": "dc5a462b68a5",
+  "titre": "Thiaroye-Kao 5 : une dalle s’effondre sur un homme de 42 ans dans une maison en ruine",
+  "lien": "https://www.leral.net/Thiaroye-Kao-5-une-dalle-s-effondre-sur-un-homme-de-42-ans-dans-une-maison-en-ruine_a412110.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-24T00:20:00+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Un accident survenu dimanche soir à Thiaroye-Kao 5 a fait un blessé. Un homme de 42 ans, qui fréquentait une bâtisse familial...",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "479e1940d2fa",
+  "titre": "Gambie : 84 Sénégalais parmi 203 migrants interceptés lors d’une opération anti-départ",
+  "lien": "https://www.leral.net/Gambie-84-Senegalais-parmi-203-migrants-interceptes-lors-d-une-operation-anti-depart_a412109.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-24T00:17:00+00:00",
+  "rubrique": "Diaspora",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Une vaste opération contre l’émigration irrégulière a permis l’interception de 203 candidats au départ, dimanche 22 novembr...",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "eb6917df1c7e",
+  "titre": "Macky Sall clarifie ses discussions avec Diomaye Faye et écarte toute ambition à l’OIF",
+  "lien": "https://www.leral.net/Macky-Sall-clarifie-ses-discussions-avec-Diomaye-Faye-et-ecarte-toute-ambition-a-l-OIF_a412107.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-24T00:13:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Dans un entretien accordé à Jeune Afrique, l’ancien président sénégalais Macky Sall est revenu sur sa rencontre avec Bassiro...",
+  "categories": [
+   "Politique"
+  ]
+ },
+ {
+  "id": "7ba597246563",
+  "titre": "Maroc: un «mode d'emploi» remis aux entreprises pour exporter en Chine sans droits de douane",
+  "lien": "https://www.rfi.fr/fr/afrique/20261124-maroc-un-mode-d-emploi-remis-aux-entreprises-pour-exporter-en-chine-sans-droits-de-douane",
+  "source": "RFI Afrique",
+  "site_source": "https://www.rfi.fr/fr/afrique/",
+  "date": "2026-11-24T00:12:52+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Au Maroc, le ministre chargé du Commerce extérieur, Omar Hejira, a remis, le week-end dernier, aux entreprises marocaines le « mode d'emploi » pour profiter du régime de droits de douanes à 0 % appliqué par la Chine sur les exportations africaines, une mesure officialisée au mois de mai dernier par…",
+  "categories": [
+   "Afrique"
+  ]
+ },
+ {
+  "id": "c96bf6e32f9e",
+  "titre": "Touba : quatre jeunes arrêtés après des violences contre des policiers, un agent blessé",
+  "lien": "https://www.leral.net/Touba-quatre-jeunes-arretes-apres-des-violences-contre-des-policiers-un-agent-blesse_a412106.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-24T00:08:00+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Une opération de sécurisation menée tôt ce lundi 23 novembre à Touba, en marge d’un événement religieux annuel, a conduit...",
+  "categories": [
+   "Fait divers"
+  ]
+ },
+ {
+  "id": "e5a4efd635be",
+  "titre": "Aliou Gori Diouf et Cheikhou Oumar Ba lancent le processus agroécologique national",
+  "lien": "https://senego.com/aliou-gori-diouf-et-cheikhou-oumar-ba-lancent-le-processus-agroecologique-national_2027254.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-24T00:06:04+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "La formulation de la stratégie nationale de transition agroécologique a débuté le 23 novembre 2026. Les deux ministres coprésident le comité de pilotage.",
+  "categories": [
+   "Agriculture",
+   "Environnement",
+   "Sénégal",
+   "agroécologie",
+   "Aliou Gori Diouf"
+  ]
+ },
+ {
+  "id": "bc1646f02072",
+  "titre": "« DELUSSI » : Youart_221 fait parler les mémoires oubliées du Sénégal",
+  "lien": "https://www.enqueteplus.com/content/%C2%AB-delussi-%C2%BB-youart221-fait-parler-les-m%C3%A9moires-oubli%C3%A9es-du-s%C3%A9n%C3%A9gal",
+  "source": "EnQuête",
+  "site_source": "https://www.enqueteplus.com",
+  "date": "2026-11-24T00:01:17+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "« DELUSSI » Youart_221 fait parler les mémoires oubliées du Sénégal Avec « Delussi », Youssoupha Sy revisite les archives du Sénégal pour renouer avec les origines et questionner l’identité à travers une création où mémoire, histoire et expression artistique se rencontrent. Retour aux sources. À…"
+ },
+ {
   "id": "1425ad25ea7f",
   "titre": "TRANSITION AGROÉCOLOGIQUE : Aliou Gori Diouf et Cheikhou Oumar Ba lancent un processus national",
   "lien": "https://www.leral.net/TRANSITION-AGROECOLOGIQUE-Aliou-Gori-Diouf-et-Cheikhou-Oumar-Ba-lancent-un-processus-national_a412105.html",
@@ -69717,109 +69983,5 @@
   "diaspora": false,
   "secondaire": true,
   "extrait": "Dans une déclaration publiée dimanche, Ousmane Sonko estime que la crise dépasse sa personne et dénonce l’abandon des espoirs suscités par l’alternance."
- },
- {
-  "id": "b1cbcea45e6b",
-  "titre": "Cheikh Abdou Mbacké Bara Dolly accuse Pastef de bloquer le budget et réclame la dissolution",
-  "lien": "https://senego.com/cheikh-abdou-mbacke-bara-dolly-accuse-pastef-de-bloquer-le-budget-et-reclame-la-dissolution_2024727.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-17T00:53:03+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Cheikh Abdou Mbacké Bara Dolly accuse les députés de Pastef de bloquer le budget et réclame la dissolution de l’Assemblée nationale, ainsi que des sanctions pénales."
- },
- {
-  "id": "04d520a08e64",
-  "titre": "GFM : les salariés rejettent le paiement des arriérés d’ici mars 2027",
-  "lien": "https://senego.com/gfm-les-salaries-rejettent-le-paiement-des-arrieres-dici-mars-2027_2024725.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-17T00:33:31+00:00",
-  "rubrique": "Économie",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Les travailleurs du GFM ont manifesté à Dakar pour réclamer cinq mois de salaires impayés. Ils refusent le délai de mars 2027 et dénoncent le blocage de l’IPM."
- },
- {
-  "id": "8acebd78c017",
-  "titre": "Ukraine en direct : deux ponts de Kiev touchés par des frappes russes",
-  "lien": "https://www.france24.com/fr/europe/20261117-en-direct-ukraine-deux-ponts-kiev-touches-frappes-russes-zelensky-poutine",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-17T00:22:05+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Des frappes russes ont touché deux ponts importants de Kiev lundi soir, a déclaré le maire de la capitale ukrainienne, Vitali Klitschko, ajoutant que des \"systèmes d'infrastructures critiques\" avaient été endommagés. La Russie a de son côté confirmé que le pont de Crimée avait été frappé pour la…"
- },
- {
-  "id": "cb9580ec81db",
-  "titre": "EN DIRECT, guerre en Ukraine : des frappes russes ont touché deux importants ponts de Kiev, annonce le maire, Vitali Klitschko",
-  "lien": "https://www.lemonde.fr/international/live/2026/11/17/en-direct-guerre-en-ukraine-des-frappes-russes-ont-touche-deux-ponts-importants-de-kiev-annonce-le-maire-vitali-klitschko_6810982_3210.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-17T00:13:59+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "« A la suite de l’attaque ennemie, des systèmes d’infrastructures critiques ont été endommagés », a fait savoir, lundi soir, le maire de la capitale ukrainienne, faisant état de frappes russes ayant « touché les ponts Nord et Sud » de la ville."
- },
- {
-  "id": "3af1c1a0ab5b",
-  "titre": "Canal 4 : une vidéo virale montrant un homme aiguisant une machette provoque son interpellation par la police",
-  "lien": "https://www.seneweb.com/fr/news/Video/canal-4-une-video-virale-montrant-un-homme-aiguisant-une-machette-provoque-son-interpellation-par-la-police_n_999003848.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-17T00:12:32+00:00",
-  "rubrique": "Faits divers",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Ce lundi 16 novembre 2026, à 15 h 45, le commissariat d'arrondissement de la Médina a eu connaissance d'une vidéo devenue virale sur les réseaux sociaux."
- },
- {
-  "id": "819fd49c6182",
-  "titre": "Un Belge retrouvé mort à Saint-Louis après quatre jours sans nouvelles",
-  "lien": "https://senego.com/un-belge-retrouve-mort-a-saint-louis-apres-quatre-jours-sans-nouvelles_2024723.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-17T00:10:12+00:00",
-  "rubrique": "Faits divers",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "À Ndioloffène, des voisins ont découvert le corps d’E. Angelosante après quatre jours sans nouvelles. Une autopsie doit établir les circonstances du décès."
- },
- {
-  "id": "7bc986242b65",
-  "titre": "Jaraaf : Abdoulaye Oualy prend la tête des passeurs avec trois passes décisives",
-  "lien": "https://senego.com/jaraaf-abdoulaye-oualy-prend-la-tete-des-passeurs-avec-trois-passes-decisives_2024721.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-17T00:10:06+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "L’US Gorée prend la tête de la Ligue 1 avec 13 points. Diambars s’impose 4-1 face au Stade Mbour, porté par le triplé de Cheikh Chérif Gueye."
- },
- {
-  "id": "7a8164fc4ee9",
-  "titre": "DU SECTEUR PRIVÉ À LA PRIMATURE » : Idy se livre sur ses origines modestes et les secrets de son parcours exceptionnel",
-  "lien": "https://www.igfm.sn/du-secteur-prive-a-la-primature-idy-se-livre-sur-ses-origines-modestes-et-les-secrets-de-son-parcours-exceptionnel",
-  "source": "L'Observateur (iGFM)",
-  "site_source": "https://www.igfm.sn",
-  "date": "2026-11-17T00:08:53+00:00",
-  "rubrique": "Économie",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": ""
  }
 ]
