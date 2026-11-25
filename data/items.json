@@ -1,5 +1,150 @@
 [
  {
+  "id": "6fcaf44d2e12",
+  "titre": "Le Salvadorien Kilmar Abrego Garcia, symbole des expulsions sous Donald Trump, quitte les Etats-Unis",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/25/le-salvadorien-kilmar-abrego-garcia-symbole-des-expulsions-sous-trump-quitte-les-etats-unis_6814999_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-25T03:25:48+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Cet habitant du Maryland, marié à une Américaine, a pris un vol pour l’Espagne, mardi. Expulsé en mars 2025 vers le Salvador puis ramené aux Etats-Unis, il avait été inculpé par la justice fédérale américaine avant qu’un juge mette fin à ces poursuites, fin mai."
+ },
+ {
+  "id": "506d602e7e02",
+  "titre": "Au Yémen, l'Arabie saoudite attaque Hodeïda, les Houthis menacent de représailles",
+  "lien": "https://www.france24.com/fr/moyen-orient/20261125-yemen-arabie-saoudite-attaque-hodeida-houthis-menacent-represailles",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-25T03:22:42+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La coalition militaire dirigée par l'Arabie saoudite a confirmé mercredi avoir \"visé des capacités opérationnelles dans le port de Hodeïda\", au Yémen. Les Houthis menacent de représailles contre \"le port de Jeddah et tous les autres ports ennemis sur la mer Rouge\".",
+  "categories": [
+   "Moyen-Orient"
+  ]
+ },
+ {
+  "id": "2b487cf83e81",
+  "titre": "Trois journalistes de l’APS décorés chevaliers de l’Ordre national du Mérite",
+  "lien": "https://senego.com/trois-journalistes-de-laps-decores-chevaliers-de-lordre-national-du-merite_2027692.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-25T03:19:04+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Amadou Samba Gaye, Sokhna Bator Sarr et Boury Sock ont été élevés au grade de chevalier de l’Ordre national du Mérite lors d’une cérémonie au ministère.",
+  "categories": [
+   "Administration",
+   "Sénégal",
+   "Société",
+   "Amadou Samba Gaye",
+   "Aps"
+  ]
+ },
+ {
+  "id": "02a66a7aed7a",
+  "titre": "Mali: les jihadistes du Jnim lancent un ultimatum aux habitants de Tonka, dans la région de Tombouctou",
+  "lien": "https://www.rfi.fr/fr/afrique/20261125-mali-les-jihadistes-du-jnim-lancent-un-ultimatum-aux-habitants-de-tonka-dans-la-r%C3%A9gion-de-tombouctou",
+  "source": "RFI Afrique",
+  "site_source": "https://www.rfi.fr/fr/afrique/",
+  "date": "2026-11-25T03:13:46+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Au Mali, le Jnim, lié à al-Qaïda, laisse jusqu'à vendredi aux habitants de Tonka pour quitter la ville, après quoi cette localité de la région de Tombouctou sera placée sous blocus. Les jihadistes réagissent à l'installation dans la ville d'un détachement de l'armée malienne et de ses partenaires…",
+  "categories": [
+   "Afrique"
+  ]
+ },
+ {
+  "id": "40c79f36da54",
+  "titre": "Mali: près de 350 combattants russes tués en trois ans, selon une enquête du Guardian",
+  "lien": "https://www.rfi.fr/fr/afrique/20261125-mali-pr%C3%A8s-de-350-combattants-russes-tu%C3%A9s-en-trois-ans-selon-une-enqu%C3%AAte-du-guardian",
+  "source": "RFI Afrique",
+  "site_source": "https://www.rfi.fr/fr/afrique/",
+  "date": "2026-11-25T03:12:40+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Près de 350 combattants russes ont perdu la vie au Mali entre septembre 2023 et septembre 2026, selon des données de l'agence nationale russe des statistiques (Rosstat), obtenues par deux groupes de hackers, Cyber Partisans et Silent Crow, et analysées par le quotidien britannique The Guardian. Le…",
+  "categories": [
+   "Afrique"
+  ]
+ },
+ {
+  "id": "9bd3fae4021d",
+  "titre": "RDC: le gouvernement s'explique auprès du Vatican après les incidents visant l'Église catholique",
+  "lien": "https://www.rfi.fr/fr/afrique/20261125-rdc-le-gouvernement-s-explique-aupr%C3%A8s-du-vatican-apr%C3%A8s-les-incidents-visant-l-%C3%A9glise-catholique",
+  "source": "RFI Afrique",
+  "site_source": "https://www.rfi.fr/fr/afrique/",
+  "date": "2026-11-25T03:10:26+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "En République démocratique du Congo (RDC), le gouvernement clarifie auprès du Vatican les incidents survenus dimanche à Kinshasa et lundi à Lubumbashi, qui ont ravivé les tensions entre le pouvoir et l'Église catholique. Le vice-Premier ministre chargé de l'Intérieur et de la Sécurité, Jacquemain…",
+  "categories": [
+   "Afrique"
+  ]
+ },
+ {
+  "id": "bbe72ab7c6fc",
+  "titre": "Cameroun: le leader séparatiste anglophone Lucas Cho Ayaba plaide non coupable à son procès en Norvège",
+  "lien": "https://www.rfi.fr/fr/afrique/20261125-cameroun-le-leader-s%C3%A9paratiste-anglophone-lucas-cho-ayaba-plaide-non-coupable-%C3%A0-son-proc%C3%A8s-en-norv%C3%A8ge",
+  "source": "RFI Afrique",
+  "site_source": "https://www.rfi.fr/fr/afrique/",
+  "date": "2026-11-25T03:09:19+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le leader séparatiste anglophone camerounais Lucas Cho Ayaba a plaidé non coupable, mardi 24 novembre, à l'ouverture de son procès en Norvège, où il vit depuis 2008. Poursuivi pour complicité de crimes de guerre et d'actes de terrorisme, il est notamment accusé d'avoir participé à distance à la…",
+  "categories": [
+   "Afrique"
+  ]
+ },
+ {
+  "id": "2e5900a2f2b4",
+  "titre": "Sahara occidental: l'Agence française de développement annonce un prêt de 15 millions d'euros à Dakhla",
+  "lien": "https://www.rfi.fr/fr/afrique/20261125-sahara-occidental-l-agence-fran%C3%A7aise-de-d%C3%A9veloppement-annonce-un-pr%C3%AAt-de-15-millions-d-euros-%C3%A0-dakhla",
+  "source": "RFI Afrique",
+  "site_source": "https://www.rfi.fr/fr/afrique/",
+  "date": "2026-11-25T03:08:48+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L'ambassadeur français au Maroc, Philippe Lalliot, arrivé en mai dernier, a achevé mardi 24 novembre une visite de deux jours dans la ville de Dakhla, située au Sahara occidental. Parmi les temps forts de ce déplacement, la signature d'un nouveau financement de l'Agence française de développement…",
+  "categories": [
+   "Afrique"
+  ]
+ },
+ {
+  "id": "a6bcfc6b3dfc",
+  "titre": "RDC: la reprise des combats en Ituri fait craindre une nouvelle propagation d'Ebola",
+  "lien": "https://www.rfi.fr/fr/afrique/20261125-rdc-la-reprise-des-combats-en-ituri-fait-craindre-une-nouvelle-propagation-d-ebola",
+  "source": "RFI Afrique",
+  "site_source": "https://www.rfi.fr/fr/afrique/",
+  "date": "2026-11-25T03:05:32+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "En République démocratique du Congo (RDC), la situation sécuritaire s’est fortement dégradée ces derniers jours dans la province de l’Ituri. Depuis une semaine, des affrontements au nord de Bunia opposent l’armée congolaise à la Convention pour la révolution populaire (CRP), le groupe armé de…",
+  "categories": [
+   "Afrique"
+  ]
+ },
+ {
   "id": "45e67812d099",
   "titre": "El Malick, Barth, Mimi Touré…: Les politiques réagissent au verdict du TAS",
   "lien": "https://www.seneweb.com/fr/news/Politique/el-malick-barth-mimi-toure-les-politiques-reagissent-au-verdict-du-tas_n_999004579.html",
@@ -11,6 +156,22 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "La décision du Tribunal arbitral du sport (TAS), qui a confirmé le sacre du Sénégal à la CAN 2025 face au Maroc, continue de susciter des réactions au Sénégal."
+ },
+ {
+  "id": "13584c5725ee",
+  "titre": "Ukraine en direct : deux militaires libyens tués dans les attaques de navires russes à Benghazi",
+  "lien": "https://www.france24.com/fr/europe/20261125-en-direct-ukraine-russie-libye-benghazi-union-europeenne-zelensky-poutine",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-25T03:02:35+00:00",
+  "rubrique": "Afrique",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Deux militaires libyens ont succombé à leurs blessures à la suite des attaques contre des navires russes à Benghazi en Libye le 22 novembre, revendiquées par l'Ukraine, ont annoncé dans la nuit de mardi à mercredi les autorités de l'Est libyen. Suivez notre direct.",
+  "categories": [
+   "Europe"
+  ]
  },
  {
   "id": "814066863f4f",
@@ -73322,70 +73483,5 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Avec le sommet de la Coopération économique pour l’Asie-Pacifique, les 18 et 19 novembre, la Chine veut apparaître comme une puissance incontournable tout en limitant l’espace pour discuter des sujets de discorde."
- },
- {
-  "id": "f8656f1c1f25",
-  "titre": "Mozambique: le procès de l'opposant Venancio Mondlane s'est ouvert devant la Cour suprême de Maputo",
-  "lien": "https://www.rfi.fr/fr/afrique/20261118-mozambique-le-proc%C3%A8s-de-l-opposant-venancio-mondlane-s-est-ouvert-devant-la-cour-supr%C3%AAme-de-maputo",
-  "source": "RFI Afrique",
-  "site_source": "https://www.rfi.fr/fr/afrique/",
-  "date": "2026-11-18T04:00:10+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Poursuivi pour les violences survenues à la suite de la présidentielle de 2024 à laquelle il s'était porté candidat, le président du parti Anamola s'est montré confiant pour la suite des débats à l'issue de la première audience qui s'est déroulée mardi 17 novembre."
- },
- {
-  "id": "cdf14802ffb2",
-  "titre": "RDC: l'armée dément avoir bombardé une ferme appartenant à Joseph Kabila",
-  "lien": "https://www.rfi.fr/fr/afrique/20261118-rdc-l-arm%C3%A9e-d%C3%A9ment-avoir-bombard%C3%A9-une-ferme-appartenant-%C3%A0-joseph-kabila",
-  "source": "RFI Afrique",
-  "site_source": "https://www.rfi.fr/fr/afrique/",
-  "date": "2026-11-18T03:59:54+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Commandant de la 22e région militaire de RDC, le général Eddy Kapend a affirmé, mardi 17 novembre, que l'armée congolaise n'avait pas attaqué une ferme située à proximité de Lubumbashi appartenant à Joseph Kabila, contrairement à ce qu'affirme le Front pour la refondation de la nation (FRN) dirigé…"
- },
- {
-  "id": "fe767c871657",
-  "titre": "🔴 Sénat américain : en prenant l'Alaska, les démocrates étendent leur majorité à 56 sièges contre 44",
-  "lien": "https://www.france24.com/fr/am%C3%A9riques/20261118-etats-unis-midterms-senat-americain-alaska-peltola-victoire-democrates-etendent-leur-majorite-56-sieges",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-18T03:47:07+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": ""
- },
- {
-  "id": "411859081424",
-  "titre": "Aux Etats-Unis, un Pakistanais condamné à vingt-sept ans de prison pour tentative d’assassinat sur des personnalités politiques, dont Donald Trump",
-  "lien": "https://www.lemonde.fr/international/article/2026/11/18/etats-unis-un-pakistanais-condamne-a-plus-de-vingt-sept-ans-de-prison-pour-tentative-d-assassinat-sur-des-personnalites-politiques-dont-donald-trump_6813059_3210.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-18T03:45:21+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Selon l’enquête, Asif Merchant a été recruté par Téhéran pour venger la mort du général iranien Ghassem Soleimani, tué en 2020 dans une frappe ordonnée par le président américain."
- },
- {
-  "id": "8459a48b5751",
-  "titre": "Sommet de l'Apec : Xi Jinping reçoit Vladimir Poutine avant un sommet inédit avec Donald Trump",
-  "lien": "https://www.france24.com/fr/asie-pacifique/20261118-sommet-de-l-apec-xi-jinping-re%C3%A7oit-vladimir-poutine-avant-un-sommet-in%C3%A9dit-avec-donald-trump",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-18T03:27:31+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le président chinois Xi Jinping a reçu mercredi son homologue russe Vladimir Poutine, avant le sommet trilatéral de jeudi avec le président américain Donald Trump, qui vient d'arriver en Chine. Cette rencontre sans précédent, dont l’agenda reste obscur, suscite des comparaisons avec la conférence…"
  }
 ]
