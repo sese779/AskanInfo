@@ -16,6 +16,32 @@
   ]
  },
  {
+  "id": "14cd28bf48d0",
+  "titre": "Génocide des Tutsi au Rwanda : au procès de Madjaliwa Safari, l’ombre des barrières",
+  "lien": "https://www.jeuneafrique.com/1865211/politique/genocide-des-tutsi-au-rwanda-au-proces-de-madjaliwa-safari-lombre-des-barrieres/",
+  "source": "Jeune Afrique",
+  "site_source": "https://www.jeuneafrique.com",
+  "date": "2026-11-25T19:58:45+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Ce commerçant comparaît aux assises de Paris depuis le 17 novembre. Jugé après trois décennies pour son rôle joué sur une barrière de Bigega, dans le sud du pays, Safari a déjà été condamné au Rwanda en 2015."
+ },
+ {
+  "id": "20e335425916",
+  "titre": "Transformation minière : le mirage industriel ?",
+  "lien": "https://www.jeuneafrique.com/1864272/economie-entreprises/transformation-miniere-le-mirage-industriel/",
+  "source": "Jeune Afrique",
+  "site_source": "https://www.jeuneafrique.com",
+  "date": "2026-11-25T19:29:03+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L’Afrique a un rêve : raffineries, fonderies et autres usines de transformation de minerais doivent révolutionner les économies du continent et lui permettre de s’industrialiser. La réalité est plus nuancée. Décryptage en infographies."
+ },
+ {
   "id": "f2ccf51d469c",
   "titre": "Togo : pressé par la Cedeao, Faure Gnassingbé s’apprête-t-il à rejouer la carte des urnes ?",
   "lien": "https://www.jeuneafrique.com/1865276/politique/togo-presse-par-la-cedeao-faure-gnassingbe-sapprete-t-il-a-rejouer-la-carte-des-urnes/",
@@ -27,6 +53,608 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Le pouvoir togolais tente de rallier une opposition divisée au principe d’éventuelles élections législatives anticipées dès 2027. Faure Gnassingbé cherche ainsi à contrer la décision de la Cour de Justice de la Cedeao, qui a jugé que la Ve République constituait un « changement de gouvernement…"
+ },
+ {
+  "id": "2f54b57f30d8",
+  "titre": "Idrissa Seck, le retour du jardinier des rêves (Par Sidy DIOP)",
+  "lien": "https://lesoleil.sn/le-decodeur/chronique/idrissa-seck-le-retour-du-jardinier-des-reves-par-sidy-diop/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-25T19:00:29+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Idrissa Seck reprend du service. Le silence aura été long, presque interminable, depuis la déroute électorale du 2 avril 2024, lorsque l’ancien maire de Thiès a dû se contenter d’un maigre 0,90 % des suffrages. Une sanction politique qui ressemblait à un verdict personnel. L’homme qui avait…",
+  "categories": [
+   "Chronique"
+  ]
+ },
+ {
+  "id": "2dcdd5f6c65b",
+  "titre": "Le secret derrière les performances XXL à l’examen de sortie des élèves-maîtres",
+  "lien": "https://lesoleil.sn/actualites/education/le-secret-derriere-les-performances-xxl-a-lexamen-de-sortie-des-eleves-maitres/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-25T19:00:22+00:00",
+  "rubrique": "Société",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "‎Le Centre régional de formation des personnels de l’éducation (CRFPE) de Fatick a encore frappé fort cette année grâce à sa pensionnaire Mame Diarra Ndiane qui, au plan national, est sortie major de la 13e génération d’élèves-maîtres à l’examen de Certificat de fin de stage (CFS). En plus,…",
+  "categories": [
+   "Éducation"
+  ]
+ },
+ {
+  "id": "d7c53c552579",
+  "titre": "Sept personnes en garde à vue après le lynchage filmé de Tivaouane-Peulh",
+  "lien": "https://senego.com/sept-personnes-en-garde-a-vue-apres-le-lynchage-filme-de-tivaouane-peulh_2028000.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-25T19:00:11+00:00",
+  "rubrique": "Société",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Sept personnes ont été placées en garde à vue après le lynchage d’I. Diallo à Tivaouane-Peulh. La victime, blessée, a été évacuée au centre de santé de Keur Massar.",
+  "categories": [
+   "Dakar",
+   "Faits Divers",
+   "Justice",
+   "Sénégal",
+   "Garde à vue"
+  ]
+ },
+ {
+  "id": "a32498777f28",
+  "titre": "Sur la piste de Robert Surcouf et de son implication dans l’esclavage, une histoire française passée sous silence",
+  "lien": "https://www.lemonde.fr/histoire/article/2026/11/25/sur-la-piste-de-robert-surcouf-et-de-son-implication-dans-l-esclavage-une-histoire-francaise-passee-sous-silence_6815166_4655323.html",
+  "source": "Le Monde Afrique",
+  "site_source": "https://www.lemonde.fr/afrique/",
+  "date": "2026-11-25T19:00:06+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "« L’esclavage en héritage » (3/3). Après s’être rendue au Mozambique sur le site archéologique sous-marin de l’« Aurore », ce navire de traite à bord duquel plus de 300 Africains ont péri, notre journaliste, descendante de l’illustre navigateur Surcouf, présent lors du naufrage, revient en France…"
+ },
+ {
+  "id": "e66e8dfd3949",
+  "titre": "Migrations en Afrique : le Collectif Africain pour la Paix projette la création d’un Observatoire africain des migrants",
+  "lien": "https://emedia.sn/migrations-en-afrique-le-collectif-africain-pour-la-paix-projette-la-creation-dun-observatoire-africain-des-migrants/",
+  "source": "Emedia",
+  "site_source": "https://emedia.sn",
+  "date": "2026-11-25T18:59:27+00:00",
+  "rubrique": "Diaspora",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le Collectif Africain pour la Paix (CAP) envisage la mise en place d’un Observatoire africain des migrants afin de mieux documenter et analyser les dynamiques migratoires sur le continent. Cette perspective a été au centre d’une rencontre entre une délégation de l’organisation, conduite par son…",
+  "categories": [
+   "A L'INSTANT",
+   "ACTUALITÉS",
+   "UNE",
+   "Me Patrick Kabou",
+   "migration"
+  ]
+ },
+ {
+  "id": "b6badd90585c",
+  "titre": "« Le sauvetage de Nvidia est bien plus dangereux que celui des banques après la crise de 2008 »",
+  "lien": "https://www.lemonde.fr/idees/article/2026/11/25/le-sauvetage-de-nvidia-est-bien-plus-dangereux-que-celui-des-banques-apres-la-crise-de-2008_6815165_3232.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-25T18:58:15+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Que Donald Trump soit venu au secours de Jensen Huang pour éviter un krach constitue une forme très risquée d’interventionnisme, selon l’historien Harold James, qui rappelle, dans une tribune au « Monde », des précédents édifiants, comme la catastrophe causée par John Law au XVIIIᵉ siècle."
+ },
+ {
+  "id": "2d2ba88c3f23",
+  "titre": "Arrêtée pour injures contre Pendo Guissé : Nabou GP placée sous mandat de dépôt",
+  "lien": "https://www.seneweb.com/fr/news/Justice/arretee-pour-injures-contre-pendo-guisse-nabou-gp-placee-sous-mandat-de-depot_n_999004654.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-25T18:57:46+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La Division spéciale de cybersécurité (DSC) a déféré, ce mercredi, devant le parquet de Pikine-Guédiawaye, Seynabou Fall alias \"Nabou GP\", injures publiques."
+ },
+ {
+  "id": "ff589c383a2a",
+  "titre": "Teddy Riner affirme, à propos de la guerre en Ukraine, que la France doit « arrêter de donner de l’argent » qu’elle n’a pas",
+  "lien": "https://www.lemonde.fr/politique/article/2026/11/25/teddy-riner-affirme-a-propos-de-la-guerre-en-ukraine-que-la-france-doit-arreter-de-donner-de-l-argent-que-nous-n-avons-pas_6815137_823449.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-25T18:57:23+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Plus tôt, le candidat à l’élection présidentielle a critiqué le déploiement de soldats français en Ukraine pour des missions non combattantes, déclarant : « Je ne comprends pas qu’on envoie des troupes en Ukraine alors que ce n’est pas notre guerre »."
+ },
+ {
+  "id": "2219d06fe480",
+  "titre": "Assemblée nationale : Félicité Mbougane Sarr accuse Sonko d’avoir voulu faire de Diomaye Faye son « rat de laboratoire »",
+  "lien": "https://www.seneweb.com/fr/news/Politique/assemblee-nationale-felicite-mbougane-sarr-accuse-sonko-davoir-voulu-faire-de-diomaye-faye-son-rat-de-laboratoire_n_999004653.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-25T18:49:33+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "« Ils n’ont jamais voulu que Diomaye Faye réussisse », affirme la députée Félicité Mbougane Sarr pendant les débats en plénière portant examen de la résolution sur l'exécution du,,,"
+ },
+ {
+  "id": "b62372e1d57b",
+  "titre": "Abou Sy, premier lauréat du Prix Pulaar à Doha, de retour au Sénégal.",
+  "lien": "https://emedia.sn/abou-sy-premier-laureat-du-prix-pulaar-a-doha-de-retour-au-senegal/",
+  "source": "Emedia",
+  "site_source": "https://emedia.sn",
+  "date": "2026-11-25T18:49:19+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le Sénégal accueille ce mercredi 25 novembre 2026 l’un de ses nouveaux ambassadeurs culturels. Abou Sy, sacré Premier Prix Pulaar à la 12e édition du Prix Cheikh Hamad pour la Traduction et la Compréhension Internationale, organisée le 24 novembre à Doha, au Qatar, est attendu à l’aéroport…",
+  "categories": [
+   "A L'INSTANT",
+   "ACTUALITÉS",
+   "UNE",
+   "Abou Sy"
+  ]
+ },
+ {
+  "id": "bbf9ff72a0c9",
+  "titre": "Sécurité hydrique mondiale au xxiᵉ siècle : le Sénégal face à un rendez-vous historique à Abu Dhabi (Par Elimane Abdoul FALL)",
+  "lien": "https://lesoleil.sn/opinions/securite-hydrique-mondiale-au-xxi%e1%b5%89-siecle-le-senegal-face-a-un-rendez-vous-historique-a-abu-dhabi-par-elimane-abdoul-fall/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-25T18:46:11+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "De la gouvernance de l’eau à l’hydrodiplomatie : pour une nouvelle ambition mondiale fondée sur la science, la coopération et la résilience climatique La Conférence des Nations Unies sur l’eau, prévue du 8 au 10 décembre 2026 à Abu Dhabi et coorganisée par le Sénégal et les Émirats arabes unis,…",
+  "categories": [
+   "Opinions",
+   "Contribution"
+  ]
+ },
+ {
+  "id": "a4dfd3cfc2b3",
+  "titre": "« Gouverner contre la majorité, c’est impossible » : TAS livre ses vérités à Diomaye Faye",
+  "lien": "https://senego.com/gouverner-contre-la-majorite-cest-impossible-tas-livre-ses-verites-a-diomaye-faye_2027975.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-25T18:39:16+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Alors que l’Assemblée nationale examine la proposition de résolution relative au décret mettant en vigueur la LFR 2026, Thierno Alassane Sall a vivement critiqué la démarche du président Bassirou Diomaye Faye. Le leader de la République des Valeurs dénonce une violation de la Constitution et estime…",
+  "categories": [
+   "Assemblée nationale",
+   "Politique",
+   "Vedette"
+  ]
+ },
+ {
+  "id": "8bb8a6a6b30c",
+  "titre": "Organisation du Magal : les autorités de Diourbel et le comité d'organisation évaluent les failles de l'édition 2026",
+  "lien": "https://www.pressafrik.com/Organisation-du-Magal-les-autorites-de-Diourbel-et-le-comite-d-organisation-evaluent-les-failles-de-l-edition-2026_a315097.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-25T18:38:00+00:00",
+  "rubrique": "Société",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Un tableau de bord va encadrer l'exécution des engagements pris par les services publics pou... www.pressafrik.com",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "8a937f7dbf17",
+  "titre": "Groupe EDK : l’emprunt obligataire de 30 milliards de FCFA entièrement souscrit avant terme",
+  "lien": "https://emedia.sn/groupe-edk-lemprunt-obligataire-de-30-milliards-de-fcfa-entierement-souscrit-avant-terme/",
+  "source": "Emedia",
+  "site_source": "https://emedia.sn",
+  "date": "2026-11-25T18:37:36+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le Groupe EDK a réussi à mobiliser l’intégralité des 30 milliards de FCFA recherchés sur le marché financier de l’Union économique et monétaire ouest-africaine (UEMOA). Lancée le 10 novembre 2026, l’opération dénommée « GROUPE EDK 7,50 % 2026-2033 », dont la clôture était initialement prévue le 30…",
+  "categories": [
+   "A L'INSTANT",
+   "ACTUALITÉS",
+   "UNE",
+   "Emprunt obligataire",
+   "Groupe EDK"
+  ]
+ },
+ {
+  "id": "ee29597f4e2e",
+  "titre": "Armées : Trois colonels promus généraux de brigade",
+  "lien": "https://lesoleil.sn/actualites/armees-trois-colonels-promus-generaux-de-brigade/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-25T18:32:15+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Trois officiers supérieurs des Forces armées sénégalaises accèdent au grade de général de brigade à compter du 3 décembre 2026. Selon une information de la Direction de l’information et des relations publiques des Armées (DIRPA), il s’agit des colonels Amadou Makhtar Ndiaye, Directeur général du…",
+  "categories": [
+   "Actualités",
+   "Société"
+  ]
+ },
+ {
+  "id": "7a15f289c45a",
+  "titre": "A Madagacar, l’éviction du numéro deux de la junte, symptôme des divisions au sommet",
+  "lien": "https://www.lemonde.fr/afrique/article/2026/11/25/a-madagacar-l-eviction-du-numero-deux-de-la-junte-symptome-des-divisions-au-sommet_6815164_3212.html",
+  "source": "Le Monde Afrique",
+  "site_source": "https://www.lemonde.fr/afrique/",
+  "date": "2026-11-25T18:30:05+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le président de l’Assemblée nationale a été destitué mardi 24 novembre. Il avait joué un rôle de premier plan dans la chute du chef de l’Etat Andry Rajoelina en octobre 2025 et a été un élément central de l’alliance nouée entre Antananarivo et la Russie."
+ },
+ {
+  "id": "29c964d9ce1d",
+  "titre": "L’Afrique en tête des féminicides dans le monde en 2025",
+  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261125-l-afrique-en-t%C3%AAte-des-f%C3%A9minicides-dans-le-monde-en-2025",
+  "source": "France 24 Afrique",
+  "site_source": "https://www.france24.com/fr/afrique/",
+  "date": "2026-11-25T18:30:02+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "🌍 L’Afrique est la région du monde la plus touchée par les féminicides, selon l’ONU. À l’échelle mondiale, cinq femmes sont tuées chaque heure par leur conjoint ou un proche, soit près de 50 000 victimes en 2025."
+ },
+ {
+  "id": "c1fa2d3b0e26",
+  "titre": "Décret n° 2026-2416 : Pape Djibril Fall dénonce l’absence du gouvernement",
+  "lien": "https://senego.com/decret-n-2026-2416-pape-djibril-fall-denonce-labsence-du-gouvernement_2027987.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-25T18:30:01+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Le gouvernement n’a pas assisté à l’examen de la résolution sur le décret n° 2026-2416. Pape Djibril Fall accuse la majorité Pastef de fragiliser les institutions.",
+  "categories": [
+   "Assemblée nationale",
+   "Politique",
+   "Sénégal",
+   "décret 2026-2416",
+   "gouvernement"
+  ]
+ },
+ {
+  "id": "13f16051b020",
+  "titre": "Enseignement supérieur : près de 2 000 évaluations réalisées en dix ans par l’ANAQ-Sup avec un taux de réussite de 99 %",
+  "lien": "https://www.pressafrik.com/Enseignement-superieur-pres-de-2-000-evaluations-realisees-en-dix-ans-par-l-ANAQ-Sup-avec-un-taux-de-reussite-de-99_a315096.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-25T18:30:00+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L’Autorité nationale d’assurance qualité de l’enseignement supérieur (ANAQ-Sup) a engagé près de... www.pressafrik.com",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "52718d43b3a2",
+  "titre": "Podcast « Afrique Football Club » - Le Sénégal conserve son titre : tout comprendre à la décision du TAS",
+  "lien": "https://www.lequipe.fr/Football/Actualites/Podcast-afrique-football-club-le-senegal-conserve-son-titre-tout-comprendre-a-la-decision-du-tas/1746126#at_medium=RSS_feeds",
+  "source": "L'Équipe",
+  "site_source": "https://www.lequipe.fr",
+  "date": "2026-11-25T18:30:00+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le Tribunal arbitral du sport a débouté le Maroc et attribué le titre de champion d'Afrique 2025 au Sénégal, après un combat juridique long de dix mois. « AFC » décrypte le verdict du TAS, qui consacre l'autorité de l'arbitre sur le déroulement d'un match. Quelles seront les conséquences pour le…",
+  "categories": [
+   "Foot, Podcast"
+  ]
+ },
+ {
+  "id": "9d0f0ce21bdd",
+  "titre": "Un symposium appelle à renforcer la diplomatie féministe en Afrique",
+  "lien": "https://www.seneplus.com/article/un-symposium-appelle-renforcer-la-diplomatie-feministe-en-afrique",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-25T18:24:33+00:00",
+  "rubrique": "Afrique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Un symposium appelle à renforcer la diplomatie féministe en Afrique Paap Seen Wed, 11/25/2026 - 18:24"
+ },
+ {
+  "id": "d0657d255f47",
+  "titre": "Félicité Mbougane Sarr défend la temporisation de l’exécutif sur les élections : « Le président prendra tout le temps qu’il faudra »",
+  "lien": "https://www.dakaractu.com/Felicite-Mbougane-Sarr-defend-la-temporisation-de-l-executif-sur-les-elections-Le-president-prendra-tout-le-temps-qu-il_a278585.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-25T18:24:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Lors de la plénière de ce mercredi, Félicité Mbougane Sarr a défendu la posture attentiste du président de la République face à la crise institutionnelle. « Le président prendra tout le temps qu’il faudra », a-t-elle affirmé, estimant que le chef de l’État agit « en chef de famille » et « en…",
+  "categories": [
+   "Télévision"
+  ]
+ },
+ {
+  "id": "ba82505264ec",
+  "titre": "ÉDITORIAL : Bruits du Monde",
+  "lien": "https://emedia.sn/editorial-bruits-du-monde/",
+  "source": "Emedia",
+  "site_source": "https://emedia.sn",
+  "date": "2026-11-25T18:22:59+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le sport peut-il sauver le Sénégal ? Il y a lieu de le penser en épluchant les heureux épisodes qui se succèdent et s’enchaînent. La réception en grandes pompes des Jeux Olympiques de la Jeunesse (JOJ) au mois d’octobre a représenté une fontaine de Jouvence pour tout le pays en termes de…",
+  "categories": [
+   "A L'INSTANT",
+   "ACTUALITÉS",
+   "UNE",
+   "Éditorial"
+  ]
+ },
+ {
+  "id": "ba443bfc16b8",
+  "titre": "Serigne Mboup publie trois justificatifs et demande la démission d’Amy Mara Dièye",
+  "lien": "https://senego.com/serigne-mboup-publie-trois-justificatifs-et-demande-la-demission-damy-mara-dieye_2027982.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-25T18:22:36+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Serigne Mboup publie trois pièces justificatives dans l’affaire du camion frigorifique et réclame la démission ou la révocation de la ministre Amy Mara Dièye.",
+  "categories": [
+   "Justice",
+   "Politique",
+   "Sénégal",
+   "Amy Mara Dieye",
+   "camion frigorifique"
+  ]
+ },
+ {
+  "id": "10af791b8d3d",
+  "titre": "Kataba 1 : le maire demande à l’État de clarifier le blocage du projet de zircon",
+  "lien": "https://senego.com/kataba-1-le-maire-demande-a-letat-de-clarifier-le-blocage-du-projet-de-zircon_2027980.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-25T18:22:27+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "À Kataba 1, Alassane Diatta alerte sur des départs clandestins et des familles sans nouvelles. Il demande à l’État de clarifier les arrêts du projet de zircon.",
+  "categories": [
+   "Bignona",
+   "Économie",
+   "Sénégal",
+   "Société",
+   "Alassane Diatta"
+  ]
+ },
+ {
+  "id": "b6534759f185",
+  "titre": "Grèce : 14 000 personnes manifestent à Athènes contre la hausse du coût de la vie",
+  "lien": "http://fr.africanews.com/2026/11/25/grece-14-000-personnes-manifestent-a-athenes-contre-la-hausse-du-cout-de-la-vie/",
+  "source": "Africanews",
+  "site_source": "https://fr.africanews.com",
+  "date": "2026-11-25T18:21:55+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Des milliers de personnes ont manifesté en Grèce mercredi 25 novembre 2026 lors d'une grève de 24 heures contre la hausse du coût de la vie et la stagnation des salaires, perturbant métro, vols et ferries."
+ },
+ {
+  "id": "2c8f19485f10",
+  "titre": "Sécurité routière : Un appel à la responsabilité collective reiteré",
+  "lien": "https://lesoleil.sn/actualites/securite-routiere-un-appel-a-la-responsabilite-collective-reitere/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-25T18:19:57+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La Journée mondiale du souvenir des victimes des accidents de la route a été célébrée, le 24 novembre à travers une cérémonie d’hommage et de recueillement. L’occasion de rendre hommage aux personnes disparues, de témoigner de la solidarité aux familles endeuillées et de renouveler l’engagement en…",
+  "categories": [
+   "Actualités",
+   "Société"
+  ]
+ },
+ {
+  "id": "cdc384eeb93e",
+  "titre": "Sénégal, l’Assemblée nationale divisée sur la mise en vigueur de la LFR",
+  "lien": "https://www.seneplus.com/article/senegal-lassemblee-nationale-divisee-sur-la-mise-en-vigueur-de-la-lfr",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-25T18:19:56+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Sénégal, l’Assemblée nationale divisée sur la mise en vigueur de la LFR Alioune Diatta Wed, 11/25/2026 - 18:19"
+ },
+ {
+  "id": "f34ad7311944",
+  "titre": "L'actu en dessin : le 25 novembre, une journée contre les violences faites aux femmes et aux filles",
+  "lien": "https://www.france24.com/fr/france/20261125-actu-dessin-25-novembre-journ%C3%A9e-contre-violences-faites-femmes-filles-physiques-sexuelles-sexistes-psychologiques",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-25T18:16:15+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Une journée internationale pour l'élimination de la violence à l'égard des femmes se tient chaque 25 novembre. Selon les Nations unies, environ 47 000 femmes et filles ont été tuées par leur partenaire ou un membre de leur famille en 2025.",
+  "categories": [
+   "France"
+  ]
+ },
+ {
+  "id": "3985a8f2ee9a",
+  "titre": "Kataba 1 : le maire Alassane Diatta alerte sur l’ampleur de l’émigration clandestine et interpelle l’État sur le blocage de l’exploitation du zircon",
+  "lien": "https://emedia.sn/kataba-1-le-maire-alassane-diatta-alerte-sur-lampleur-de-lemigration-clandestine-et-interpelle-letat-sur-le-blocage-de-lexploitation-du-zircon-2/",
+  "source": "Emedia",
+  "site_source": "https://emedia.sn",
+  "date": "2026-11-25T18:15:45+00:00",
+  "rubrique": "Diaspora",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le maire de la commune de Kataba 1, dans le département de Bignona, Alassane Diatta, tire la sonnette d’alarme face à la recrudescence de l’émigration clandestine dans sa localité. Dans un entretien accordé à la presse, l’édile a révélé que plusieurs pirogues ont quitté les côtes avec de nombreux…",
+  "categories": [
+   "A L'INSTANT",
+   "ACTUALITÉS",
+   "UNE",
+   "émigration clandestine",
+   "kataba 1"
+  ]
+ },
+ {
+  "id": "eeeaa16726d6",
+  "titre": "Abdou Mbow conteste la résolution contre le décret présidentiel",
+  "lien": "https://senego.com/abdou-mbow-conteste-la-resolution-contre-le-decret-presidentiel_2027978.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-25T18:14:50+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Lors du débat sur la résolution visant le décret présidentiel relatif à la LFR 2026, Abdou Mbow invoque l’article 83 et dénonce une atteinte à la séparation des pouvoirs.",
+  "categories": [
+   "Assemblée nationale",
+   "Politique",
+   "Sénégal",
+   "Abdou Mbow",
+   "Conseil constitutionnel"
+  ]
+ },
+ {
+  "id": "34945ffe5638",
+  "titre": "Monnaie unique ECO d’ici 2027 : la CEDEAO accélère les réformes préparatoires à Abidjan",
+  "lien": "https://www.pressafrik.com/Monnaie-unique-ECO-d-ici-2027-la-CEDEAO-accelere-les-reformes-preparatoires-a-Abidjan_a315095.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-25T18:14:00+00:00",
+  "rubrique": "Afrique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le Comité ministériel de la Task Force présidentielle sur la monnaie unique de la Communaut... www.pressafrik.com",
+  "categories": [
+   "Afrique"
+  ]
+ },
+ {
+  "id": "0f84e313e236",
+  "titre": "“C’est tout simplement inacceptable” : Sofyan Amrabat s’indigne après la décision du TAS sur Sénégal-Maroc",
+  "lien": "https://www.afrik-foot.com/cest-tout-simplement-inacceptable-sofyan-amrabat-sindigne-apres-la-decision-du-tas-sur-senegal-maroc",
+  "source": "Afrik-Foot",
+  "site_source": "https://www.afrik-foot.com",
+  "date": "2026-11-25T18:13:36+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Sofyan Amrabat n’a pas caché sa déception après le verdict du Tribunal arbitral du sport (TAS) dans le litige opposant le Maroc au Sénégal pour la finale de la CAN 2025. Après que le TAS a déjugé le Jury d’Appel de la Confédération africaine de football (CAF) et décidé à l’unanimité de restaurer le…",
+  "categories": [
+   "News",
+   "Can",
+   "Maroc",
+   "Sénégal"
+  ]
+ },
+ {
+  "id": "0b466b96ec9c",
+  "titre": "Autosuffisance en riz d’ici 2035 : la CEDEAO et la BAD mobilisent 850 millions de dollars pour 15 pays ouest-africains",
+  "lien": "https://www.pressafrik.com/Autosuffisance-en-riz-d-ici-2035-la-CEDEAO-et-la-BAD-mobilisent-850-millions-de-dollars-pour-15-pays-ouest-africains_a315094.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-25T18:11:00+00:00",
+  "rubrique": "Afrique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La Communauté économique des États de l’Afrique de l’Ouest (CEDEAO), la Banque africaine d... www.pressafrik.com",
+  "categories": [
+   "Afrique"
+  ]
+ },
+ {
+  "id": "4391a0a0a23d",
+  "titre": "Espagne : 2000 personnes arrivent aux Canaries en une seule journée",
+  "lien": "http://fr.africanews.com/2026/11/25/espagne-2000-personnes-arrivent-aux-canaries-en-une-seule-journee/",
+  "source": "Africanews",
+  "site_source": "https://fr.africanews.com",
+  "date": "2026-11-25T18:11:00+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Ces îles, situées au large des côtes de l'Afrique de l'Ouest, ont connu une forte augmentation des arrivées"
+ },
+ {
+  "id": "87be7e5ab89e",
+  "titre": "​Dix ans du WIC : 1,6 milliard mobilisé, dix entreprises financées et plus de 1 000 emplois créés",
+  "lien": "https://www.pressafrik.com/​Dix-ans-du-WIC-16-milliard-mobilise-dix-entreprises-financees-et-plus-de-1-000-emplois-crees_a315093.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-25T18:08:00+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La quatrième édition du Forum de l'Investissement au Féminin a été lancée ce mercredi 25 novembr... www.pressafrik.com",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "d2aebc3bfed8",
+  "titre": "Football : Raheem Sterling pourrait écoper de 12 mois de prison avec sursis",
+  "lien": "https://www.seneweb.com/fr/news/Sport/football-raheem-sterling-pourrait-ecoper-de-12-mois-de-prison-avec-sursis_n_999004652.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-25T18:05:25+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Raheem Sterling aurait été condamné par la justice anglaise à 12 mois de prison avec sursis sur une période de 18 mois."
  },
  {
   "id": "3d3177b156de",
@@ -58,6 +686,22 @@
   "extrait": "La préfecture et la municipalité de Saint-Louis ont engagé une opération de désengorgement de l’espace public, prévue sur trois jours. L’initiative vise à libérer les principales artères de la ville des épaves de véhicules, des dépôts de gravats et des occupations irrégulières, afin de faciliter la…",
   "categories": [
    "Environnement"
+  ]
+ },
+ {
+  "id": "9b717de5ad9b",
+  "titre": "Abdou Mbow à Pastef: « l’Assemblée nationale n’est ni une propriété, ni le siège de votre parti politique »",
+  "lien": "https://www.pressafrik.com/Abdou-Mbow-a-Pastef-l-Assemblee-nationale-n-est-ni-une-propriete-ni-le-siege-de-votre-parti-politique_a315092.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-25T17:58:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le député Abdou Mbow a attaqué la majorité parlementaire de Pastef lors de l’examen de l... www.pressafrik.com",
+  "categories": [
+   "Politique"
   ]
  },
  {
@@ -132,6 +776,35 @@
   "extrait": "De Sadio Mané à Brahim Diaz, en passant par l'arbitre congolais Jean-Jacques Ndala Ngambo et l'unique buteur Pape Gueye, plusieurs acteurs ont marqué la finale de la CAN remportée en janvier par le Sénégal contre le Maroc (1-0 a.p.). Que sont-ils devenus onze mois plus tard ?",
   "categories": [
    "Foot, CAN 2025"
+  ]
+ },
+ {
+  "id": "ac8421b33fad",
+  "titre": "Afrique du Sud : Ramaphosa assure que les négociations avec Washington se poursuivent",
+  "lien": "http://fr.africanews.com/2026/11/25/afrique-du-sud-ramaphosa-assure-que-les-negociations-avec-washington-se-poursuivent/",
+  "source": "Africanews",
+  "site_source": "https://fr.africanews.com",
+  "date": "2026-11-25T17:51:01+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le président sud-africain Cyril Ramaphosa a déclaré mardi que son gouvernement continuait de négocier avec les États-Unis, alors que plusieurs entreprises commencent à se tourner vers d'autres marchés."
+ },
+ {
+  "id": "60b0ec3b7809",
+  "titre": "Groupe EDK : l’emprunt obligataire de 30 milliards FCFA entièrement souscrit avant la date prévue",
+  "lien": "https://www.leral.net/Groupe-EDK-l-emprunt-obligataire-de-30-milliards-FCFA-entierement-souscrit-avant-la-date-prevue_a412259.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-25T17:49:00+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Le Groupe EDK annonce avoir mobilisé la totalité des 30 milliards de FCFA recherchés. Ouverte le 10 novembre et initialemen...",
+  "categories": [
+   "Economie"
   ]
  },
  {
@@ -282,22 +955,6 @@
    "Société / Fait divers",
    "migration irreguliere",
    "Sénégal"
-  ]
- },
- {
-  "id": "4ad91362fc98",
-  "titre": "Sécurité hydrique mondiale au xxiᵉ siècle : le Sénégal face à un rendez-vous historique à Abu Dhabi",
-  "lien": "https://www.dakaractu.com/Securite-hydrique-mondiale-au-xxiᵉ-siecle-le-Senegal-face-a-un-rendez-vous-historique-a-Abu-Dhabi_a278584.html",
-  "source": "Dakaractu",
-  "site_source": "https://www.dakaractu.com",
-  "date": "2026-11-25T17:32:00+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "De la gouvernance de l'eau à l'hydrodiplomatie : pour une nouvelle ambition mondiale fondée sur la science, la coopération et la résilience climatique La Conférence des Nations Unies sur l’eau, prévue du 8 au 10 décembre 2026 à Abu Dhabi et coorganisée par le Sénégal et les Émirats arabes unis,…",
-  "categories": [
-   "Texto"
   ]
  },
  {
@@ -488,6 +1145,22 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Le pasteur autoproclamé et ancien chauffeur de taxi Paul Mackenzie a fait l’objet de multiples inculpations dans cette affaire devant différentes juridictions."
+ },
+ {
+  "id": "e1b755d48098",
+  "titre": "LFR 2026 : Aliou Ndao accuse le président de la République de violation délibérée de la Constitution",
+  "lien": "https://www.leral.net/LFR-2026-Aliou-Ndao-accuse-le-president-de-la-Republique-de-violation-deliberee-de-la-Constitution_a412258.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-25T17:06:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "",
+  "categories": [
+   "Actualités"
+  ]
  },
  {
   "id": "aba597d6a03f",
@@ -1193,6 +1866,22 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "A quelques jours des élections législatives, cet afflux de personnes fait réagir le Premier ministre Pedro Sanchez."
+ },
+ {
+  "id": "4a71cfd09725",
+  "titre": "Procès Ecotra contre Fadilou Keïta : La date du délibéré fixée",
+  "lien": "https://www.xibaaru.sn/proces-ecotra-contre-fadilou-keita-la-date-du-delibere-fixee/",
+  "source": "Xibaaru",
+  "site_source": "https://www.xibaaru.sn",
+  "date": "2026-11-25T16:00:48+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Le tribunal correctionnel de Dakar va trancher, le 9 décembre prochain dans l’affaire de diffamation opposant la société Ecotra, appartenant à l’homme d’affaires Abdoulaye Sylla, à Fadilou Keïta, ancien directeur général de…",
+  "categories": [
+   "Société"
+  ]
  },
  {
   "id": "42fa9aa70226",
@@ -2068,6 +2757,22 @@
   ]
  },
  {
+  "id": "1636ca0f64c8",
+  "titre": "Forces armées sénégalaises : trois colonels promus généraux de brigade",
+  "lien": "https://www.xibaaru.sn/forces-armees-senegalaises-trois-colonels-promus-generaux-de-brigade/",
+  "source": "Xibaaru",
+  "site_source": "https://www.xibaaru.sn",
+  "date": "2026-11-25T15:00:57+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Selon un communiqué de la Direction de l’information et des relations publiques des armées (DIRPA), trois colonels des forces armées sénégalaises ont été promus au grade de général de brigade à compter…",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
   "id": "86176a450814",
   "titre": "Le projet Swedd à l’épreuve du terrain à Médina Yéro Foulah",
   "lien": "https://lesoleil.sn/actualites/environnement/le-projet-swedd-a-lepreuve-du-terrain-a-medina-yero-foulah/",
@@ -2121,6 +2826,22 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Des drones navals ukrainiens ont attaqué, dimanche 22 novembre, deux navires russes dans les eaux libyennes. Des images satellites suggèrent qu’un bateau de la flotte fantôme de Moscou pourrait avoir débarqué à Benghazi et envoyé au Mali de l’équipement militaire avant cet assaut."
+ },
+ {
+  "id": "56632046fa3e",
+  "titre": "Beach Soccer : Oumar Ngalla Sylla dévoile les 15 Lions pour la CAN 2026",
+  "lien": "https://www.xibaaru.sn/beach-soccer-oumar-ngalla-sylla-devoile-les-15-lions-pour-la-can-2026/",
+  "source": "Xibaaru",
+  "site_source": "https://www.xibaaru.sn",
+  "date": "2026-11-25T15:00:02+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "À quelques jours du coup d’envoi de la Coupe d’Afrique des nations de Beach Soccer 2026, prévue du 28 novembre au 6 décembre à Saly, le sélectionneur national Oumar Ngalla Sylla a…",
+  "categories": [
+   "Société"
+  ]
  },
  {
   "id": "7a089460f712",
@@ -74608,434 +75329,5 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Le député de l'opposition Abdou Mbow a critiqué le rejet de la loi de finances rectificative pa... www.pressafrik.com"
- },
- {
-  "id": "bd2191256521",
-  "titre": "Hakeem Jeffries en passe de devenir le premier président noir de la Chambre américaine des représentants",
-  "lien": "https://www.seneweb.com/fr/news/International/hakeem-jeffries-en-passe-de-devenir-le-premier-president-noir-de-la-chambre-americaine-des-representants_n_999004023.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-18T19:02:46+00:00",
-  "rubrique": "Monde",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Les députés démocrates aux États-Unis ont désigné mercredi Hakeem Jeffries comme chef de leur prochaine majorité, l'élu new-yorkais étant désormais en passe de devenir en janvier le premier président noir de la Chambre des représentants."
- },
- {
-  "id": "79a425f469d2",
-  "titre": "Thiès : Pour 200 F CFA, il poignarde son protagoniste et prend 2 mois de prison ferme",
-  "lien": "https://www.seneweb.com/fr/news/Justice/thies-pour-200-f-cfa-il-poignarde-son-protagoniste-et-prend-2-mois-de-prison-ferme_n_999004022.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-18T19:00:56+00:00",
-  "rubrique": "Faits divers",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Une altercation née d'une affaire de 200 F CFA a dégénéré en une violente bagarre au cours de laquelle I. Sow a été blessé à l'arme blanche."
- },
- {
-  "id": "0ff635c7d868",
-  "titre": "Aux Etats-Unis, en Israël, en Serbie et au Brésil, une même sanction des électeurs contre les dirigeants populistes",
-  "lien": "https://www.lemonde.fr/international/article/2026/11/18/aux-etats-unis-en-israel-en-serbie-et-au-bresil-une-meme-sanction-des-electeurs-contre-les-dirigeants-populistes_6813197_3210.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-18T19:00:09+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Lors de ces différents scrutins, ce n’est pas la personnalité des candidats d’opposition, ni leurs programmes qui l’ont emporté, mais en premier lieu le rejet incandescent du camp des gouvernants, autoritaires et corrompus."
- },
- {
-  "id": "250a397de8cb",
-  "titre": "LFI 2027 / Me Aïssata Tall Sall à Cheikh Diba : « Pourquoi j’ai décidé de voter votre budget… »",
-  "lien": "https://www.dakaractu.com/LFI-2027-Me-Aissata-Tall-Sall-a-Cheikh-Diba-Pourquoi-j-ai-decide-de-voter-votre-budget_a278347.html",
-  "source": "Dakaractu",
-  "site_source": "https://www.dakaractu.com",
-  "date": "2026-11-18T19:00:00+00:00",
-  "rubrique": "Économie",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "À l’occasion de la séance plénière sur le projet de loi de finances initiale 2027, la présidente du groupe parlementaire Takku Wallu a pris la parole pour annoncer une position qui ne souffre aucune ambiguïté : son groupe votera pour le budget. Mais Me Aïssata Tall Sall l’a fait savoir d’emblée :…"
- },
- {
-  "id": "6f8ae88e2e84",
-  "titre": "« Voter un mauvais budget est préférable que de ne pas en avoir »: Amadou Ba plaide pour le dialogue",
-  "lien": "https://senego.com/voter-un-mauvais-budget-est-preferable-que-de-ne-pas-en-avoir-amadou-ba-plaide-pour-le-dialogue_2025472.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-18T18:55:44+00:00",
-  "rubrique": "Économie",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Prenant la parole ce mercredi lors de la plénière consacrée à l’examen de la Loi de finances initiale (LFI) 2027, l’ancien Premier ministre Amadou Ba est revenu sur le rejet de la Loi de finances rectificative (LFR). Il a révélé avoir proposé, depuis l’étranger, une concertation entre les…"
- },
- {
-  "id": "bf7b7ff438b2",
-  "titre": "Peine de mort en Afrique : le piège du moratoire face aux revirements politiques",
-  "lien": "https://www.jeuneafrique.com/1862393/politique/peine-de-mort-en-afrique-le-piege-du-moratoire-face-aux-revirements-politiques/",
-  "source": "Jeune Afrique",
-  "site_source": "https://www.jeuneafrique.com",
-  "date": "2026-11-18T18:53:54+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "En vingt ans, le nombre de pays africains abolitionnistes a doublé. Mais, par ailleurs, le Burkina Faso vient de rétablir la peine capitale et des dizaines d’autres États la maintiennent sans l’appliquer. Aujourd’hui, où en est exactement l’abolition et qu’est-ce qui permet de la préserver ?"
- },
- {
-  "id": "4d641b788bc8",
-  "titre": "Les États sont-ils impuissants face aux cyberattaques?",
-  "lien": "https://www.rfi.fr/fr/podcasts/d%C3%A9bat-du-jour/20261118-les-etats-sont-ils-impuissants-face-aux-cyberattaques",
-  "source": "RFI Monde",
-  "site_source": "https://www.rfi.fr/fr/monde/",
-  "date": "2026-11-18T18:53:51+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Des frigos de supermarchés qui surchauffent en France, mais aussi au Royaume-Uni, en Belgique, en Estonie, en Finlande, aux Pays-Bas ou encore en Suède. Des scènes similaires à quelques jours d’intervalle, dues à des cyberattaques. Après enquête, Paris accuse l’Iran d’avoir été à la manœuvre. Dans…"
- },
- {
-  "id": "48d3cfc27fed",
-  "titre": "Passation de service à Ndamatou : Pluie d'éloges pour le commissaire Dame Touré, remplacé par Ousmane Faye",
-  "lien": "https://www.seneweb.com/fr/news/S%C3%A9curit%C3%A9/passation-de-service-a-ndamatou-pluie-deloges-pour-le-commissaire-dame-toure-remplace-par-ousmane-faye_n_999004021.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-18T18:52:37+00:00",
-  "rubrique": "Société",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "C'est sous le signe de l'émotion, de la reconnaissance et de la solennité que s'est déroulée, ce mercredi 18 novembre 2026, la cérémonie de passation de..."
- },
- {
-  "id": "a2843351f395",
-  "titre": "Loi de finances 2027 : Le député Tafsir Thioye met le Pastef face à ses contradictions budgétaires",
-  "lien": "https://www.pressafrik.com/Loi-de-finances-2027-Le-depute-Tafsir-Thioye-met-le-Pastef-face-a-ses-contradictions-budgetaires_a314787.html",
-  "source": "PressAfrik",
-  "site_source": "https://www.pressafrik.com",
-  "date": "2026-11-18T18:52:00+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "À l'Hémicycle, lors de l'examen général du projet de loi d... www.pressafrik.com"
- },
- {
-  "id": "cf0795d0bee2",
-  "titre": "Budget 2027 : Abdou Mbow dénonce les « incohérences politiques » de Pastef et attaque Sonko (Senego Tv)",
-  "lien": "https://senego.com/budget-2027-abdou-mbow-denonce-les-incoherences-politiques-de-pastef-et-attaque-sonko-senego-tv_2025473.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-18T18:50:41+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Le député de l’opposition Abdou Mbow a vivement critiqué le gouvernement et la majorité parlementaire lors de son intervention à l’Assemblée nationale, ce mercredi 18 novembre, dans le cadre de l’examen du projet de budget 2027. Dans sa prise de parole, le parlementaire a dénoncé ce qu’il considère…"
- },
- {
-  "id": "2083d3abe40f",
-  "titre": "Budget 2027 : Amadou Ba préconise le dialogue pour trouver une issue à la crise",
-  "lien": "https://www.leral.net/Budget-2027-Amadou-Ba-preconise-le-dialogue-pour-trouver-une-issue-a-la-crise_a411599.html",
-  "source": "Leral",
-  "site_source": "https://www.leral.net",
-  "date": "2026-11-18T18:47:00+00:00",
-  "rubrique": "Économie",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": ""
- },
- {
-  "id": "431b9f2d9c85",
-  "titre": "Amadou Ba, député « Nouvelle Responsabilité » : « Il n'est pas préférable de ne pas disposer d'un budget »",
-  "lien": "https://www.dakaractu.com/Amadou-Ba-depute-Nouvelle-Responsabilite-Il-n-est-pas-preferable-de-ne-pas-disposer-d-un-budget_a278346.html",
-  "source": "Dakaractu",
-  "site_source": "https://www.dakaractu.com",
-  "date": "2026-11-18T18:42:00+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "C’est l’une des interventions les plus rares à l’assemblée nationale. En effet, lors de la séance plénière sur la loi de finances initiale (LFI) 2027 ce mercredi, le député Amadou Bâ, président de Nouvelle Responsabilité, a pris la parole a appelé les acteurs politiques à s'accorder sur le budget.…"
- },
- {
-  "id": "d5cedc6da9b3",
-  "titre": "Assemblée nationale : Mbaye Dione appelle le gouvernement à « travailler » plutôt qu’à faire de la politique",
-  "lien": "https://www.seneweb.com/fr/news/Politique/assemblee-nationale-mbaye-dione-appelle-le-gouvernement-a-travailler-plutot-qua-faire-de-la-politique_n_999004020.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-18T18:40:10+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Lors des débats sur le projet de budget 2027 à l’Assemblée nationale, le député Mbaye Dione (AFP - opposition) a invité le gouvernement à se concentrer plus sur..."
- },
- {
-  "id": "d5751da759bd",
-  "titre": "Judo : Mbagnick Ndiaye décroche l'or à l'Open africain d'Abidjan",
-  "lien": "https://www.leral.net/Judo-Mbagnick-Ndiaye-decroche-l-or-a-l-Open-africain-d-Abidjan_a411365.html",
-  "source": "Leral",
-  "site_source": "https://www.leral.net",
-  "date": "2026-11-18T18:39:00+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Le judoka sénégalais Mbagnick Ndiaye a remporté, dimanche 15 novembre 2026, la médaille d'or dans la catégorie des plus de 10..."
- },
- {
-  "id": "f3374bbc0863",
-  "titre": "« Transfert des élèves du lycée Thierno Saïdou Nourou Tall : deux jours d'interruption pour découvrir le complexe Bibi Ndiaye »",
-  "lien": "https://www.pressafrik.com/Transfert-des-eleves-du-lycee-Thierno-Saidou-Nourou-Tall-deux-jours-d-interruption-pour-decouvrir-le-complexe-Bibi_a314786.html",
-  "source": "PressAfrik",
-  "site_source": "https://www.pressafrik.com",
-  "date": "2026-11-18T18:35:00+00:00",
-  "rubrique": "Société",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Les cours sont suspendus pour deux jours, les 18 et 19 novembre 2026, conformément à la note d... www.pressafrik.com"
- },
- {
-  "id": "3f51b8f8921d",
-  "titre": "Le chef du Pentagone annonce un accord de coopération militaire entre les Etats-Unis et le Venezuela",
-  "lien": "https://www.lemonde.fr/international/article/2026/11/18/le-chef-du-pentagone-annonce-un-accord-de-cooperation-militaire-entre-les-etats-unis-et-le-venezuela_6813193_3210.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-18T18:34:08+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Selon le secrétaire d’Etat à la défense américain, Pete Hegseth, en visite surprise à Caracas, l’accord vise à « garantir que le peuple vénézuélien ne soit pas menacé par des acteurs étrangers, des narcoterroristes ou des criminels »."
- },
- {
-  "id": "3cb66b733b7c",
-  "titre": "Compter sur des puissances étrangères pour l’« indépendance de Taïwan » n’est qu’un vain effort !",
-  "lien": "https://www.dakaractu.com/Compter-sur-des-puissances-etrangeres-pour-l-independance-de-Taiwan-n-est-qu-un-vain-effort-_a278348.html",
-  "source": "Dakaractu",
-  "site_source": "https://www.dakaractu.com",
-  "date": "2026-11-18T18:32:00+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Depuis l’arrivée au pouvoir de Lai Ching-te, la gouvernance dans la région de Taïwan est en proie au chaos, et de nombreux problèmes de vie quotidienne de la population s’aggravent. Pourtant, les autorités taïwanaises ferment les yeux sur les souffrances de la population locale, et ne pensent qu’à…"
- },
- {
-  "id": "795c1176ae64",
-  "titre": "Pambal demande l’arrêt des clôtures de l’autoroute et saisit la BAD",
-  "lien": "https://senego.com/pambal-demande-larret-des-clotures-de-lautoroute-et-saisit-la-bad_2025471.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-18T18:26:36+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "À Kadane, le collectif de Pambal demande la suspension des travaux de clôture de l’autoroute et sollicite l’arbitrage du président Bassirou Diomaye Faye."
- },
- {
-  "id": "f9b83065b1d2",
-  "titre": "La justice déclare irrecevable le recours de Madiambal contre son mandat d’arrêt international",
-  "lien": "https://www.seneplus.com/article/la-justice-declare-irrecevable-le-recours-de-madiambal-contre-son-mandat-darret",
-  "source": "SenePlus",
-  "site_source": "https://www.seneplus.com",
-  "date": "2026-11-18T18:24:19+00:00",
-  "rubrique": "Monde",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "La justice déclare irrecevable le recours de Madiambal contre son mandat d’arrêt international Alioune Diatta Wed, 11/18/2026 - 18:24"
- },
- {
-  "id": "d5e23a044f20",
-  "titre": "La collusion extérieure emballée par le DPP n’est qu’une farce d’auto‑tromperie",
-  "lien": "https://www.dakaractu.com/La-collusion-exterieure-emballee-par-le-DPP-n-est-qu-une-farce-d-auto‑tromperie_a278345.html",
-  "source": "Dakaractu",
-  "site_source": "https://www.dakaractu.com",
-  "date": "2026-11-18T18:21:00+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Face à l’incapacité de gouvernance, au chaos généralisé, à la corruption et à l’abus de pouvoir sur l’île, les autorités du Parti progressiste démocratique (DPP), qui en sont les auteurs, n’ont ni le courage d’assumer leurs responsabilités, ni la capacité de se racheter. Elles ont conçu le…"
- },
- {
-  "id": "3a52fcf18426",
-  "titre": "Transparence et sincérité budgétaire : Les interpellations de Mbaye Dione au gouvernement",
-  "lien": "https://www.dakaractu.com/Transparence-et-sincerite-budgetaire-Les-interpellations-de-Mbaye-Dione-au-gouvernement_a278344.html",
-  "source": "Dakaractu",
-  "site_source": "https://www.dakaractu.com",
-  "date": "2026-11-18T18:21:00+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Lors de sa prise de parole en séance plénière sur la loi de finances initiale (LFI) 2027, le député Mbaye Dione a abordé la question de la transparence et de la sincérité budgétaire. « Il a été beaucoup question de transparence et de sincérité budgétaire », a-t-il rappelé, en revenant sur l'affaire…"
- },
- {
-  "id": "3cda53355fc6",
-  "titre": "Délocalisation du lycée Thierno Saïdou Nourou Tall : Deux jours de suspension des cours pour préparer le redéploiement",
-  "lien": "https://www.seneweb.com/fr/news/Education/delocalisation-du-lycee-thierno-saidou-nourou-tall-deux-jours-de-suspension-des-cours-pour-preparer-le-redeploiement_n_999004019.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-18T18:20:45+00:00",
-  "rubrique": "Société",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Délocalisation du lycée Thierno Saïdou Nourou Tall : Deux jours de suspension des cours pour préparer le redéploiement...."
- },
- {
-  "id": "f2aa62231cfb",
-  "titre": "Autoroute Dakar-Tivaouane-Saint-Louis : Pambal alerte sur les risques d’enclavement",
-  "lien": "https://lesoleil.sn/societe/autoroute-dakar-tivaouane-saint-louis-pambal-alerte-sur-les-risques-denclavement/",
-  "source": "Le Soleil",
-  "site_source": "https://lesoleil.sn",
-  "date": "2026-11-18T18:20:18+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Des habitants de la commune de Pambal se sont rassemblés, mercredi 18 novembre, à la place publique du village de Kadane pour faire part de leurs préoccupations concernant les aménagements prévus dans le cadre de l’autoroute Dakar-Tivaouane-Saint-Louis (DTS). Le collectif de défense des intérêts de…"
- },
- {
-  "id": "f010fa977e5c",
-  "titre": "Abdou Mbow fustige une majorité « incompétente » après le rejet du budget rectificatif",
-  "lien": "https://senego.com/abdou-mbow-fustige-une-majorite-incompetente-apres-le-rejet-du-budget-rectificatif_2025469.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-18T18:19:55+00:00",
-  "rubrique": "Diaspora",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "À l’Assemblée nationale, Abdou Mbow a accusé Pastef au sujet de l’émigration clandestine et questionné la cohérence entre la préparation puis le rejet d’une loi de finances rectificative."
- },
- {
-  "id": "e857d693d65b",
-  "titre": "Guy Marius Sagna critique le paiement prioritaire de la dette dans le budget 2027",
-  "lien": "https://senego.com/guy-marius-sagna-critique-le-paiement-prioritaire-de-la-dette-dans-le-budget-2027_2025467.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-18T18:19:51+00:00",
-  "rubrique": "Économie",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "À l’Assemblée nationale, Guy Marius Sagna a critiqué le budget 2027, qu’il accuse de faire peser le coût sur les citoyens tout en privilégiant le remboursement de la dette."
- },
- {
-  "id": "a7860b0d90d0",
-  "titre": "Compagnie de Dakar : 50 candidats à l’émigration irrégulière interpellés …",
-  "lien": "https://senego.com/compagnie-de-dakar-50-candidats-a-lemigration-irreguliere-interpelles_2025458.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-18T18:13:47+00:00",
-  "rubrique": "Diaspora",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "La gendarmerie nationale a interpellé cinquante (50) personnes, dont des présumés passeurs, lors d’opérations menées les 16 et 17 novembre 2026 par les unités de la compagnie de gendarmerie de Dakar, dans le cadre de la lutte contre l’émigration irrégulière. Selon le communiqué de la gendarmerie,…"
- },
- {
-  "id": "15069013d029",
-  "titre": "LFI 2027 : Tafsir Thioye (non-inscrit) estime que le débat sur la sincérité budgétaire est « simplement politique »",
-  "lien": "https://www.dakaractu.com/LFI-2027-Tafsir-Thioye-non-inscrit-estime-que-le-debat-sur-la-sincerite-budgetaire-est-simplement-politique_a278343.html",
-  "source": "Dakaractu",
-  "site_source": "https://www.dakaractu.com",
-  "date": "2026-11-18T18:13:00+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le député non-inscrit Tafsir Thioye a estimé que le débat sur la sincérité budgétaire relève avant tout d'un différend politique entre Diomaye et Sonko, lors de la séance plénière sur la loi de finances initiale (LFI) 2027. Il a appelé à ne pas en faire payer le prix aux populations. L'élu a…"
- },
- {
-  "id": "6aa38ecfa362",
-  "titre": "Wally Seck en perte de vitesse ? Les signaux qui inquiètent autour du Faramareen",
-  "lien": "https://senego.com/wally-seck-en-perte-de-vitesse-les-signaux-qui-inquietent-autour-du-faramareen_2025457.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-18T18:11:54+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Wally Ballago Seck est-il en train de perdre sa popularité ? C’est la question que se posent de plus en plus d’observateurs de la scène musicale sénégalaise. Ces derniers mois, plusieurs signes semblent montrer un essoufflement de l’engouement autour du Faramareen. Ses concerts, ses soirées et ses…"
- },
- {
-  "id": "4e4978567558",
-  "titre": "Budget 2027 : Guy Marius Sagna dénonce « deal entre Diomaye et le FMI »",
-  "lien": "https://www.pressafrik.com/Budget-2027-Guy-Marius-Sagna-denonce-deal-entre-Diomaye-et-le-FMI_a314784.html",
-  "source": "PressAfrik",
-  "site_source": "https://www.pressafrik.com",
-  "date": "2026-11-18T18:11:00+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le député Guy Marius Sagna a qualifié le projet de loi de finances initiale 2027 de « deal entr... www.pressafrik.com"
- },
- {
-  "id": "fd8514542036",
-  "titre": "Budget 2027 : Guy Marius Sagna dénonce un « deal entre Diomaye et le FMI »",
-  "lien": "https://www.pressafrik.com/Budget-2027-Guy-Marius-Sagna-denonce-un-deal-entre-Diomaye-et-le-FMI_a314784.html",
-  "source": "PressAfrik",
-  "site_source": "https://www.pressafrik.com",
-  "date": "2026-11-18T18:11:00+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le député Guy Marius Sagna a qualifié le projet de loi de finances initiale 2027 de « deal entr... www.pressafrik.com"
- },
- {
-  "id": "55e771e04b25",
-  "titre": "\"Où est le sérieux ?\": Abdou Mbow dénonce l’incohérence de la majorité",
-  "lien": "https://www.seneweb.com/fr/news/Politique/ou-est-le-serieux-abdou-mbow-denonce-lincoherence-de-la-majorite_n_999004018.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-18T18:07:31+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Abdou Mbow a critiqué le rejet de la loi de finances rectificative (LFR) par les députés de la majorité, alors que le texte a été élaboré par le gouvernement."
- },
- {
-  "id": "66bab52c810f",
-  "titre": "CAN 2027 : le Togo bat l’Algérie 3-0, les quatre équipes du Groupe I peuvent encore se qualifier",
-  "lien": "https://senego.com/can-2027-le-togo-bat-lalgerie-3-0-les-quatre-equipes-du-groupe-i-peuvent-encore-se-qualifier_2025456.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-18T18:06:44+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Après sa défaite 3-0 à Lomé, l’Algérie reste en course pour la CAN 2027 avec le Burundi, la Zambie et le Togo. Les deux dernières journées auront lieu en mars."
- },
- {
-  "id": "58fa2b9b1bc3",
-  "titre": "« C’est la première fois que je vote un budget aussi sincère »: Cheikh Tidiane Youm approuve la LFI 2027",
-  "lien": "https://senego.com/cest-la-premiere-fois-que-je-vote-un-budget-aussi-sincere-cheikh-tidiane-youm-approuve-la-lfi-2027_2025452.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-18T18:06:38+00:00",
-  "rubrique": "Économie",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Lors de la plénière consacrée à l’examen de la Loi de finances initiale (LFI) 2027, le député du Parti de l’unité et du rassemblement (PUR), Cheikh Tidiane Youm, a salué la sincérité du projet de budget présenté par le gouvernement. « Je suis là depuis 2024, mais c’est la première fois que je vois…"
  }
 ]
