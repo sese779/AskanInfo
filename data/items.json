@@ -61,6 +61,51 @@
   "extrait": "Petite-nièce de Houphouët-Boigny, la sœur du patron du PDCI a longtemps préféré la discrétion. Nommée au bureau politique du parti au début de 2026, elle s’est retrouvée en première ligne d’une formation divisée. Et rattrapée, comme toute sa famille, par le procès en « ivoirité » intenté à…"
  },
  {
+  "id": "40200edb58c6",
+  "titre": "Éditorial : le Mexique a vendu son avion présidentiel, le Sénégal devrait s'en inspirer",
+  "lien": "https://www.leral.net/mexique-avion-presidentiel-lecon-senegal/",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-25T17:45:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Le Mexique a vendu son avion présidentiel pour bâtir deux hôpitaux, et sa présidente voyage en classe économique. Alors que l...",
+  "categories": [
+   "Politique"
+  ]
+ },
+ {
+  "id": "087d0c949eb6",
+  "titre": "Le groupe Pastef dépose une résolution pour exiger le retrait du décret n° 2026-2416 sur la LFR 2026",
+  "lien": "https://www.igfm.sn/le-groupe-pastef-depose-une-resolution-pour-exiger-le-retrait-du-decret-n-2026-2416-sur-la-lfr-2026",
+  "source": "L'Observateur (iGFM)",
+  "site_source": "https://www.igfm.sn",
+  "date": "2026-11-25T17:44:02+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": ""
+ },
+ {
+  "id": "54f2aa3b0b5a",
+  "titre": "Salaires et LFR 2026 : Thierno Alassane Sall dénonce une « désinformation » et assure que l’État fonctionnera",
+  "lien": "https://www.pressafrik.com/Salaires-et-LFR-2026-Thierno-Alassane-Sall-denonce-une-desinformation-et-assure-que-l-Etat-fonctionnera_a315089.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-25T17:43:00+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le député Thierno Alassane Sall a mis en cause le chef de l'État pour violation de la Constitutio... www.pressafrik.com",
+  "categories": [
+   "Politique"
+  ]
+ },
+ {
   "id": "51730a409f73",
   "titre": "Canaries : environ 2 000 migrants débarqués en une journée à El Hierro",
   "lien": "http://www.ndarinfo.com/Canaries-environ-2-000-migrants-debarques-en-une-journee-a-El-Hierro_a47329.html",
@@ -74,6 +119,82 @@
   "extrait": "Environ 2 000 migrants ont débarqué mardi sur l'île d'El Hierro, aux Canaries, où les arrivées depuis l'Afrique de l'Ouest explosen...",
   "categories": [
    "+ D'ACTU"
+  ]
+ },
+ {
+  "id": "7800242944d7",
+  "titre": "L’Afrique veut ancrer la culture de la qualité dans ses universités",
+  "lien": "https://lesoleil.sn/actualites/lafrique-veut-ancrer-la-culture-de-la-qualite-dans-ses-universites/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-25T17:38:09+00:00",
+  "rubrique": "Culture",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Réunis à Saly du 25 au 27 novembre, des responsables et experts africains de l’enseignement supérieur prennent part à la troisième édition du Colloque international de Dakar sur l’assurance qualité (CIDAQ 2026). Les échanges portent sur les moyens de faire de la qualité une exigence permanente dans…",
+  "categories": [
+   "Actualités"
+  ]
+ },
+ {
+  "id": "c70b1b050a86",
+  "titre": "CAN 2025 : à Dakar, le verdict du TAS ne surprend pas les supporters",
+  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261125-can-2025-%C3%A0-dakar-le-verdict-du-tas-ne-surprend-pas-les-supporters",
+  "source": "France 24 Afrique",
+  "site_source": "https://www.france24.com/fr/afrique/",
+  "date": "2026-11-25T17:37:10+00:00",
+  "rubrique": "Sport",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "🇸🇳 Le Sénégal récupère sa couronne. À Dakar, le verdict du TAS fait réagir les supporters. Entre satisfaction et sentiment de justice rendue, ce dénouement ne surprend pas les Sénégalais après tant de mois de polémique autour de la CAN 2025."
+ },
+ {
+  "id": "cbc469a0708d",
+  "titre": "EN DIRECT, guerre en Ukraine : un mort et dix blessés dans un bombardement russe à Sloviansk, selon les autorités locales",
+  "lien": "https://www.lemonde.fr/international/live/2026/11/25/en-direct-guerre-en-ukraine-un-mort-et-dix-blesses-dans-un-bombardement-russe-a-sloviansk-selon-les-autorites-locales_6814183_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-25T17:36:52+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Cinq des blessés ont été hospitalisés, dont deux, âgés de 74 et 75 ans, sont dans un état grave, selon le chef de l’administration militaire de la ville."
+ },
+ {
+  "id": "6eee653cd54d",
+  "titre": "Disparitions en mer : l’interminable attente des familles sans nouvelles de leurs jeunes",
+  "lien": "https://lesoleil.sn/actualites/societe-fait-divers/118037/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-25T17:36:45+00:00",
+  "rubrique": "Diaspora",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "« Nous sommes sans nouvelles de lui » : le jeune Mamadou Diallo peine à garder espoir de retrouver vivant son ami deux semaines après son départ pour l’Espagne dans une pirogue au large du Sénégal, où de nombreuses familles sont dans l’attente fiévreuse de signes de vie de leurs proches portés…",
+  "categories": [
+   "Société / Fait divers",
+   "migration irreguliere",
+   "Sénégal"
+  ]
+ },
+ {
+  "id": "4ad91362fc98",
+  "titre": "Sécurité hydrique mondiale au xxiᵉ siècle : le Sénégal face à un rendez-vous historique à Abu Dhabi",
+  "lien": "https://www.dakaractu.com/Securite-hydrique-mondiale-au-xxiᵉ-siecle-le-Senegal-face-a-un-rendez-vous-historique-a-Abu-Dhabi_a278584.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-25T17:32:00+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "De la gouvernance de l'eau à l'hydrodiplomatie : pour une nouvelle ambition mondiale fondée sur la science, la coopération et la résilience climatique La Conférence des Nations Unies sur l’eau, prévue du 8 au 10 décembre 2026 à Abu Dhabi et coorganisée par le Sénégal et les Émirats arabes unis,…",
+  "categories": [
+   "Texto"
   ]
  },
  {
@@ -93,6 +214,192 @@
   ]
  },
  {
+  "id": "5feb29bbeb42",
+  "titre": "Décret LFR 2026 : Cheikh Omar Bamba Diop évoque « la haute trahison » et met en garde les comptables publics pour 2029",
+  "lien": "https://senego.com/decret-lfr-2026-cheikh-omar-bamba-diop-evoque-la-haute-trahison-et-met-en-garde-les-comptables-publics-pour-2029_2027969.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-25T17:30:13+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Lors de l’examen de la proposition de résolution relative au décret n° 2026-2416 portant mise en vigueur de la Loi de finances rectificative (LFR) 2026, le député Cheikh Omar Bamba Diop a vivement attaqué le président Bassirou Diomaye Faye. Il qualifie la décision présidentielle d’« acte hors la…",
+  "categories": [
+   "Assemblée nationale",
+   "Politique"
+  ]
+ },
+ {
+  "id": "487fa216904e",
+  "titre": "\"Cartel des parfums\" : l'UE et Londres infligent près de 600 millions d'euros d'amendes à trois industriels",
+  "lien": "https://www.seneweb.com/fr/news/International/cartel-des-parfums-lue-et-londres-infligent-pres-de-600-millions-deuros-damendes-a-trois-industriels_n_999004649.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-25T17:28:45+00:00",
+  "rubrique": "Monde",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L'Union européenne et le Royaume-Uni ont infligé mercredi près de 600 millions d'euros d'amendes aux trois plus grands industriels mondiaux de la parfumerie, les groupes suisses...."
+ },
+ {
+  "id": "87e0254857c3",
+  "titre": "Le Sénégal lance la formulation de sa Stratégie nationale de transition agro-écologique",
+  "lien": "https://lesoleil.sn/actualites/economie/le-senegal-lance-la-formulation-de-sa-strategie-nationale-de-transition-agro-ecologique/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-25T17:26:34+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le ministre de l’Agriculture, de la Souveraineté alimentaire et de l’Élevage, Cheikh Oumar Ba, et son collègue de l’Environnement et de la Transition écologique, Dr Aliou Gori Diouf, ont coprésidé, mardi 24 novembre, la première réunion du comité de pilotage (Copil) de la Stratégie nationale de…",
+  "categories": [
+   "Économie",
+   "Economie"
+  ]
+ },
+ {
+  "id": "57fa7a400edf",
+  "titre": "Le Réseau Migration Développement (REMIDEV) réclame une enquête impartiale sur le drame de Lompoul",
+  "lien": "https://lesoleil.sn/actualites/societe-fait-divers/le-reseau-migration-developpement-remidev-reclame-une-enquete-impartiale-sur-le-drame-de-lompoul/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-25T17:26:07+00:00",
+  "rubrique": "Diaspora",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Face à la multiplication des drames liés à l’émigration irrégulière, le Réseau Migration Développement (REMIDEV) appelle à un changement de paradigme dans la gouvernance migratoire au Sénégal. Dans un communiqué rendu public le 24 novembre 2026, l’organisation et ses membres dénoncent les atteintes…",
+  "categories": [
+   "Société / Fait divers"
+  ]
+ },
+ {
+  "id": "61e3169e5bc4",
+  "titre": "« Le président de la fédération marocaine m’a agressé physiquement, il m’a poussé pour m’empêcher d’entrer dans l’ascenseur », Abdoulaye Fall",
+  "lien": "https://www.pressafrik.com/Le-president-de-la-federation-marocaine-m-a-agresse-physiquement-il-m-a-pousse-pour-m-empecher-d-entrer-dans-l_a315088.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-25T17:26:00+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Les tensions entre les dirigeants du football sénégalais et marocain persistent malgré l... www.pressafrik.com",
+  "categories": [
+   "Sport"
+  ]
+ },
+ {
+  "id": "94dcebb4fc44",
+  "titre": "Autonomisation des femmes : 135 femmes de Kédougou formées à la transformation des céréales",
+  "lien": "https://lesoleil.sn/actualites/economie/autonomisation-des-femmes-135-femmes-de-kedougou-formees-a-la-transformation-des-cereales/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-25T17:21:31+00:00",
+  "rubrique": "Société",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Cent trente-cinq femmes de Kédougou, Saraya et Salémata ont bénéficié, les 24 et 25 novembre, d’une formation aux techniques de transformation des céréales locales et à l’utilisation de moulins modernes, dans le cadre du Programme d’éducation et d’autonomisation des femmes de la Première Dame,…",
+  "categories": [
+   "Économie"
+  ]
+ },
+ {
+  "id": "fdb1a092a534",
+  "titre": "En Israël, des juges recommandent l’abandon des poursuites contre Benyamin Nétanyahou",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/25/en-israel-des-juges-recommandent-l-abandon-des-poursuites-contre-benyamin-netanyahou_6815153_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-25T17:17:50+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le premier ministre sortant est poursuivi dans trois affaires de corruption. Dans la principale, les juges ont estimé qu’en raison des variations d’un témoin-clé, une condamnation est suffisamment improbable pour justifier un réexamen du maintien des poursuites."
+ },
+ {
+  "id": "a56d85d71e53",
+  "titre": "Géorgie : pourquoi la France ne sanctionne pas l’oligarque Bidzina Ivanichvili",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/25/georgie-pourquoi-la-france-ne-sanctionne-pas-l-oligarque-bidzina-ivanichvili_6815152_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-25T17:17:19+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le dirigeant informel de ce pays du Caucase, candidat à l’Union européenne mais en plein virage autoritaire, possède la nationalité française et a reçu la Légion d’honneur. Malgré une résolution de l’Assemblée nationale en mai, le Quai d’Orsay écarte toute sanction personnelle."
+ },
+ {
+  "id": "d520716f2143",
+  "titre": "Karachi : les secours recherchent des survivants après l’effondrement d’un immeuble en chantier",
+  "lien": "http://fr.africanews.com/2026/11/25/karachi-les-secours-recherchent-des-survivants-apres-leffondrement-dun-immeuble-en-chantie/",
+  "source": "Africanews",
+  "site_source": "https://fr.africanews.com",
+  "date": "2026-11-25T17:15:18+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Au moins une personne a été tuée et dix autres blessées lors de l'effondrement, mercredi 25 novembre 2026 à Karachi, d'un immeuble en construction. Les équipes de secours fouillent les décombres à la recherche de personnes portées disparues."
+ },
+ {
+  "id": "84fa7c1d56bb",
+  "titre": "Ebola : les équipes d'inhumation débordées par la multiplication des décès",
+  "lien": "http://fr.africanews.com/2026/11/25/ebola-les-equipes-dinhumation-debordees-par-la-multiplication-des-deces/",
+  "source": "Africanews",
+  "site_source": "https://fr.africanews.com",
+  "date": "2026-11-25T17:13:20+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Basée à Oicha, dans la province du Nord-Kivu, l'équipe chargée des enterrements sûrs et dignes (SDB) indique procéder à l'inhumation de trois"
+ },
+ {
+  "id": "3938cc17d4e5",
+  "titre": "À Khandiar, Domou Sénégal agit concrètement pour les femmes du monde rural",
+  "lien": "https://www.seneweb.com/fr/news/Societe/a-khandiar-domou-senegal-agit-concretement-pour-les-femmes-du-monde-rural_n_999004648.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-25T17:10:28+00:00",
+  "rubrique": "Société",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Une décortiqueuse et un broyeur à mil pour faciliter le quotidien des femmes. Khandiar, département de Bambey — Le samedi 7 novembre 2026, Domou Sénégal a remis une décortiqueuse à mil et un broyeur à mil au groupement des femmes du village."
+ },
+ {
+  "id": "47a489fea5ee",
+  "titre": "Au Kenya, le gourou qui encourageait ses disciples à mourir de faim pour « rencontrer Jésus » également condamné pour « cruauté » à l’égard d’enfants",
+  "lien": "https://www.lemonde.fr/afrique/article/2026/11/25/au-kenya-le-gourou-qui-encourageait-ses-disciples-a-mourir-de-faim-pour-rencontrer-jesus-egalement-condamne-pour-cruaute-sur-des-enfants_6815151_3212.html",
+  "source": "Le Monde Afrique",
+  "site_source": "https://www.lemonde.fr/afrique/",
+  "date": "2026-11-25T17:07:45+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le pasteur autoproclamé et ancien chauffeur de taxi Paul Mackenzie a fait l’objet de multiples inculpations dans cette affaire devant différentes juridictions."
+ },
+ {
+  "id": "aba597d6a03f",
+  "titre": "« Les salaires seront payés et le pays fonctionnera » : Thierno Alassane Sall démonte l'alarmisme autour de la LFR 2026",
+  "lien": "https://www.seneweb.com/fr/news/Politique/les-salaires-seront-payes-et-le-pays-fonctionnera-thierno-alassane-sall-demonte-lalarmisme-autour-de-la-lfr-2026_n_999004647.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-25T17:05:25+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le député Thierno Alassane Sall s’est vivement attaqué au décret du chef de l’État relatif à la situation institutionnelle née du rejet de la loi de finances rectificative (LFR) 2026."
+ },
+ {
   "id": "60a7497f061d",
   "titre": "Migration irrégulière : 5 pirogues interceptées par la Marine nationale au large des côtes sénégalaises",
   "lien": "https://senego.com/migration-irreguliere-5-pirogues-interceptees-par-la-marine-nationale-au-large-des-cotes-senegalaises_2027962.html",
@@ -108,6 +415,22 @@
    "Actualités",
    "Arrestations",
    "Police"
+  ]
+ },
+ {
+  "id": "763198845511",
+  "titre": "Campagne arachidière 2026-2027 : la SONACOS investie plus 100 milliards FCFA et vise 250 000 tonnes",
+  "lien": "https://www.pressafrik.com/Campagne-arachidiere-2026-2027-la-SONACOS-investie-plus-100-milliards-FCFA-et-vise-250-000-tonnes_a315087.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-25T17:04:00+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La Société nationale de commercialisation des oléagineux du Sénégal (SONACOS) a déjà réuni 90... www.pressafrik.com",
+  "categories": [
+   "Economie"
   ]
  },
  {
@@ -216,6 +539,22 @@
   ]
  },
  {
+  "id": "ad4b6a4f365d",
+  "titre": "Thierno Alassane Sall charge le président Diomaye: « Il n’y aura pas de blocage, il y a la LFI. Son acte est anticonstitutionnel »",
+  "lien": "https://www.dakaractu.com/Thierno-Alassane-Sall-charge-le-president-Diomaye-Il-n-y-aura-pas-de-blocage-il-y-a-la-LFI-Son-acte-est_a278583.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-25T16:52:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le député Thierno Alassane Sall, leader de la République des Valeurs (RV), est monté au créneau pour dénoncer avec virulence la validation par décret de la loi de finances rectificative (LFR) 2026. Devant l’assemblée nationale, le député tire sur le président Bassirou Diomaye Faye et l’accuse…",
+  "categories": [
+   "Télévision"
+  ]
+ },
+ {
   "id": "bd4e20c83c70",
   "titre": "Salon de l’Investissement Sénégal-Belgique : Dakar veut transformer les transferts de sa diaspora en investissements durables",
   "lien": "https://lesoleil.sn/actualites/economie/salon-de-linvestissement-senegal-belgique-dakar-veut-transformer-les-transferts-de-sa-diaspora-en-investissements-durables/",
@@ -283,6 +622,19 @@
    "canaries",
    "El Hierro"
   ]
+ },
+ {
+  "id": "2f475f2bd35c",
+  "titre": "Nigeria : plus de 60 morts dans des représailles contre des campements peuls",
+  "lien": "http://fr.africanews.com/2026/11/25/nigeria-plus-de-60-morts-dans-des-represailles-contre-des-campements-peuls-selon-une-assoc/",
+  "source": "Africanews",
+  "site_source": "https://fr.africanews.com",
+  "date": "2026-11-25T16:45:02+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Des attaques de représailles menées ce week-end contre des campements peuls dans le centre du Nigeria ont fait plus de 60 morts, a affirmé lundi l'Association des éleveurs de bétail Miyetti Allah du Nigeria (MACBAN), organisation à prédominance peule."
  },
  {
   "id": "2c151c25877a",
@@ -1912,22 +2264,6 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Le tourisme sénégalais doit sortir du tout-balnéaire et des taxes Farid Akele Wed, 11/25/2026 - 14:35"
- },
- {
-  "id": "4b50e32f0f52",
-  "titre": "À Khandiar, Domou Sénégal agit concrètement pour les femmes du monde rural",
-  "lien": "https://www.dakaractu.com/A-Khandiar-Domou-Senegal-agit-concretement-pour-les-femmes-du-monde-rural_a278576.html",
-  "source": "Dakaractu",
-  "site_source": "https://www.dakaractu.com",
-  "date": "2026-11-25T14:35:00+00:00",
-  "rubrique": "Société",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le samedi 7 novembre 2026, Domou Sénégal a remis une décortiqueuse à mil et un broyeur à mil au groupement des femmes du village de Khandiar dans le departement de Bambey. À travers cet appui, l’association entend faciliter la transformation locale du mil, alléger la pénibilité du travail et…",
-  "categories": [
-   "Texto"
-  ]
  },
  {
   "id": "d66187626536",
@@ -74689,408 +75025,5 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Alors que le marathon budgétaire commence à l’Assemblée nationale, le conflit entre Ousmane Sonko et Bassirou Diomaye Faye vient de franchir un nouveau palier après l’éviction du chef de l’État des rangs du parti de son ancien Premier ministre."
- },
- {
-  "id": "388ba20074a2",
-  "titre": "TERREAU FERTILE : Regards sur l’économie de l’agriculture bio au Sénégal",
-  "lien": "https://www.enqueteplus.com/content/terreau-fertile-regards-sur-l%E2%80%99%C3%A9conomie-de-l%E2%80%99agriculture-bio-au-s%C3%A9n%C3%A9gal",
-  "source": "EnQuête",
-  "site_source": "https://www.enqueteplus.com",
-  "date": "2026-11-18T17:49:44+00:00",
-  "rubrique": "Économie",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "TERREAU FERTILE Regards sur l’économie de l’agriculture bio au Sénégal Dans le cadre du projet Une Proposition nommée Désir - Mboro, je suis allée, avec le responsable politique Ndiaga Ndiaye et Moustapha Kane fondateur du média local Vitale TV, rencontrer Abdoulaye Sarri, cultivateur biologique et…"
- },
- {
-  "id": "8c0c42c80fc6",
-  "titre": "Saint-Louis : 104 candidats à l’émigration irrégulière empêchés de partir",
-  "lien": "https://senego.com/saint-louis-104-candidats-a-lemigration-irreguliere-empeches-de-partir_2025451.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-18T17:48:35+00:00",
-  "rubrique": "Diaspora",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "La Marine nationale annonce plus de 1 400 candidats interceptés en deux jours. Des spécialistes et des acteurs de la société civile plaident pour des réponses aux causes des départs."
- },
- {
-  "id": "a70b7518dfb0",
-  "titre": "À l’UGB, la CESL dénonce le refus de dialogue des autorités face à 22 000 étudiants",
-  "lien": "https://senego.com/a-lugb-la-cesl-denonce-le-refus-de-dialogue-des-autorites-face-a-22-000-etudiants_2025449.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-18T17:48:31+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "À l’UGB, la CESL déplore les conditions d’accueil des nouveaux bacheliers et dénonce des difficultés d’hébergement, des amphithéâtres impraticables et le refus de dialogue des autorités."
- },
- {
-  "id": "a2d9992a6e71",
-  "titre": "La rougeole de retour aux États-Unis",
-  "lien": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261118-la-rougeole-de-retour-aux-%C3%A9tats-unis",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-18T17:47:40+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Longtemps considérée comme éradiquée aux États-Unis, la rougeole connaît une recrudescence inquiétante. Face à la multiplication des cas et à la baisse de la couverture vaccinale, le pays a perdu son statut de territoire ayant éliminé la maladie. Comment expliquer ce retour et quelles en sont les…"
- },
- {
-  "id": "32b7bb250643",
-  "titre": "Tunisie : les exportations d'huile d'olive augmentent de près de 50 %",
-  "lien": "http://fr.africanews.com/2026/11/18/tunisie-les-exportations-dhuile-augment-de-pres-de-de-50/",
-  "source": "Africanews",
-  "site_source": "https://fr.africanews.com",
-  "date": "2026-11-18T17:45:04+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Une augmentation favorisée par une récolte '' exceptionnelle''."
- },
- {
-  "id": "c4b58839d095",
-  "titre": "Immigration clandestine et santé mentale : le lourd tribut humain de l’exil",
-  "lien": "https://www.seneweb.com/fr/news/Actualites/immigration-clandestine-et-sante-mentale-le-lourd-tribut-humain-de-lexil_n_999004017.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-18T17:43:13+00:00",
-  "rubrique": "Diaspora",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Immigration clandestine et santé mentale : le lourd tribut humain de l’exil"
- },
- {
-  "id": "9fa584f43f8f",
-  "titre": "JOJ Dakar 2026 : les jeunes talents qui pourraient briller aux Jeux olympiques",
-  "lien": "https://www.leral.net/JOJ-Dakar-2026-les-jeunes-talents-qui-pourraient-briller-aux-Jeux-olympiques_a411362.html",
-  "source": "Leral",
-  "site_source": "https://www.leral.net",
-  "date": "2026-11-18T17:43:00+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Les Jeux olympiques de la jeunesse de Dakar ont baissé le rideau ce vendredi 13 novembre 2026, après quinze jours d..."
- },
- {
-  "id": "9829e69205e4",
-  "titre": "La DNLT défère 17 suspects au parquet après une tentative de migration maritime",
-  "lien": "https://senego.com/la-dnlt-defere-17-suspects-au-parquet-apres-une-tentative-de-migration-maritime_2025447.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-18T17:40:20+00:00",
-  "rubrique": "Diaspora",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Après l’interception de 759 migrants en mer le 10 novembre, la DNLT a déféré 17 suspects au parquet. Les traversées étaient parties de Gambie et du Saloum."
- },
- {
-  "id": "3618b803231f",
-  "titre": "Assemblée : Félicité Mbougane Sarr (ex Pastef) dénonce un chantage politique qui « étrangle le pays »",
-  "lien": "https://www.seneweb.com/fr/news/Politique/assemblee-felicite-mbougane-sarr-ex-pastef-denonce-un-chantage-politique-qui-etrangle-le-pays_n_999004016.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-18T17:39:53+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "La députée Félicité Mbougane Sarr, proche de Bassirou Diomaye Faye et exclu de PASTEF hier, met en garde contre toute tentative de contraindre le président de la..."
- },
- {
-  "id": "e16fc3165594",
-  "titre": "En Italie, la nouvelle loi contre l’antisémitisme fait polémique",
-  "lien": "https://www.lemonde.fr/international/article/2026/11/18/en-italie-la-nouvelle-loi-contre-l-antisemitisme-fait-polemique_6813182_3210.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-18T17:38:26+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Adopté mardi 17 novembre, le texte arrête une définition de l’antisémitisme qui, aux yeux de ses détracteurs, entretient la confusion entre discours de haine contre les juifs et critiques de la politique israélienne."
- },
- {
-  "id": "8af9f7ce284f",
-  "titre": "​Secteur aurifère en Guinée : l'État prend 15 % dans les nouveaux permis d'exploitation de PDI Gold",
-  "lien": "https://www.pressafrik.com/​Secteur-aurifere-en-Guinee-l-Etat-prend-15-dans-les-nouveaux-permis-d-exploitation-de-PDI-Gold_a314782.html",
-  "source": "PressAfrik",
-  "site_source": "https://www.pressafrik.com",
-  "date": "2026-11-18T17:37:00+00:00",
-  "rubrique": "Afrique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le gouvernement guinéen a attribué les permis d’exploitatio... www.pressafrik.com"
- },
- {
-  "id": "af52c843f5c2",
-  "titre": "Météo : l’ANACIM annonce des risques de faibles pluies dans plusieurs localités du Sénégal",
-  "lien": "https://senego.com/meteo-lanacim-annonce-des-risques-de-faibles-pluies-dans-plusieurs-localites-du-senegal_2025443.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-18T17:36:08+00:00",
-  "rubrique": "Société",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "L’Agence nationale de l’aviation civile et de la météorologie (ANACIM) prévoit un temps ensoleillé à passagèrement nuageux dans le Centre du Sénégal au cours des prochaines 24 heures, du mercredi 18 novembre à 12 heures au jeudi 19 novembre à 12 heures. Dans son bulletin, l’ANACIM annonce également…"
- },
- {
-  "id": "e79ff36e80bb",
-  "titre": "Budget 2027 / Abdou Mbow s’en prend violemment à Ousmane Sonko et à la majorité Pastef : « Des députés avec une incompétence chronique ,Vous avez marché sur des cadavres pour entrer au Palais »",
-  "lien": "https://www.dakaractu.com/Budget-2027-Abdou-Mbow-s-en-prend-violemment-a-Ousmane-Sonko-et-a-la-majorite-Pastef-Des-deputes-avec-une-incompetence_a278342.html",
-  "source": "Dakaractu",
-  "site_source": "https://www.dakaractu.com",
-  "date": "2026-11-18T17:35:00+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "La séance plénière consacrée à l’examen du projet de loi de finances initiale (LFI) 2027 a été marquée par une intervention particulièrement virulente du député Abdou Mbow. S’en prenant directement à Ousmane Sonko, désormais président de l’Assemblée nationale après son limogeage de la Primature,…"
- },
- {
-  "id": "fb00c1819f90",
-  "titre": "EN DIRECT, guerre en Ukraine : des ONG dénoncent les positions russes et américaines au sujet des armes autonomes, qui fonctionnent sans intervention humaine",
-  "lien": "https://www.lemonde.fr/international/live/2026/11/18/en-direct-guerre-en-ukraine-des-ong-denoncent-les-positions-russes-et-americaines-au-sujet-des-armes-autonomes-qui-fonctionnent-sans-intervention-humaine_6810982_3210.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-18T17:33:50+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Des organisations non-gouvernementales ont déploré, mercredi, que Washington et Moscou fassent obstacle à l’ouverture de négociations à l’ONU pour élaborer un accord contraignant sur les armes autonomes, malgré le soutien de la majorité des pays."
- },
- {
-  "id": "92c69fc3e00c",
-  "titre": "Greta Thunberg a-t-elle vraiment renié son engagement pour le climat ?",
-  "lien": "https://www.france24.com/fr/europe/20261118-greta-thunberg-a-t-elle-vraiment-reni%C3%A9-son-engagement-pour-le-climat",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-18T17:32:10+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Des internautes partagent un extrait d’un documentaire durant lequel Greta Thunberg semble se moquer des manifestations pour la défense du climat organisées par Fridays for Future, mouvement qu’elle a pourtant cofondé. Mais il s’agit d’un extrait présenté hors contexte et la militante soutient…"
- },
- {
-  "id": "7f907605f878",
-  "titre": "Budget 2027 – Député Alla Kane : « Pourquoi nous devons la rejeter »",
-  "lien": "https://senego.com/budget-2027-depute-alla-kane-pourquoi-nous-devons-la-rejeter_2025440.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-18T17:30:54+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Lors de la plénière consacrée à l’examen de la Loi de finances initiale (LFI) 2027, le doyen Alla Kane a rappelé aux députés leur responsabilité envers les citoyens. « Nous sommes des élus du peuple, tout ce qui n’est pas de leur intérêt, nous le rejetterons », a-t-il déclaré, avant de conclure…"
- },
- {
-  "id": "82e0fd7dd5c4",
-  "titre": "Guerre au Soudan : « Beaucoup de familles marient leurs filles de force en pensant qu’un mari les protégera du viol »",
-  "lien": "https://www.lemonde.fr/afrique/article/2026/11/18/guerre-au-soudan-beaucoup-de-familles-marient-leurs-filles-de-force-en-pensant-qu-un-mari-les-protegera-du-viol_6813179_3212.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-18T17:30:12+00:00",
-  "rubrique": "Afrique",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Depuis le début de la guerre, en 2023, l’avocate soudanaise Tahani Abbas recueille des témoignages de femmes violées. Elle explique, dans un entretien au « Monde », pourquoi si peu d’entre elles témoignent, dans une société très conservatrice où les victimes sont parfois tuées pour sauver l’honneur…"
- },
- {
-  "id": "465fca386d4e",
-  "titre": "Transformation numérique : L’UCAD vers le « zéro papier »",
-  "lien": "https://www.seneweb.com/fr/news/Education/transformation-numerique-lucad-vers-le-zero-papier_n_999004015.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-18T17:30:01+00:00",
-  "rubrique": "Société",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "L’Université Cheikh Anta Diop de Dakar (UCAD) a décidé d’accélérer la digitalisation de ses services administratifs pour aller vers le « zéro papier »."
- },
- {
-  "id": "8ddb32b4e3d5",
-  "titre": "Basket : l’ancienne capitaine des Lionnes, Aya Traoré, en deuil",
-  "lien": "https://www.seneweb.com/fr/news/Sport/basket-lancienne-capitaine-des-lionnes-aya-traore-en-deuil_n_999004014.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-18T17:29:28+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le basketball sénégalais est frappé par une triste nouvelle. Binta Camara, mère de l’ancienne internationale Aya Traoré, est décédée, a annoncé la..."
- },
- {
-  "id": "03fb8da09129",
-  "titre": "Budget 2027 / Abdou Mbow renvoie Pastef à un bilan: « Vous avez marché sur des cadavres pour accéder au pouvoir »",
-  "lien": "https://www.dakaractu.com/Budget-2027-Abdou-Mbow-renvoie-Pastef-a-un-bilan-Vous-avez-marche-sur-des-cadavres-pour-acceder-au-pouvoir_a278341.html",
-  "source": "Dakaractu",
-  "site_source": "https://www.dakaractu.com",
-  "date": "2026-11-18T17:29:00+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Abdou Mbow a vivement répliqué à Pastef lors de la séance plénière sur la loi de finances initiale (LFI) 2027. Le député du groupe Takku Wallu a accusé la majorité de ne proposer aucune solution et de préférer dénoncer un budget qu'elle juge insincère. Selon lui, la situation que traverse le pays…"
- },
- {
-  "id": "b4e0433ac722",
-  "titre": "PLFI 2027 : Guy Marius Sagna refuse de voter le texte et réclame des poursuites contre Macky Sall",
-  "lien": "https://www.seneweb.com/fr/news/Politique/plfi-2027-guy-marius-sagna-refuse-de-voter-le-texte-et-reclame-des-poursuites-contre-macky-sall_n_999004013.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-18T17:23:39+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Guy Marius Sagna voit dans le projet de loi de finances initiale (PLFI) 2027 le résultat d’un accord dont les Sénégalais supporteraient l’essentiel du coût, tandis que les créanciers..."
- },
- {
-  "id": "7bc43e4fa80f",
-  "titre": "France : sept masculinistes jugés à Paris",
-  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261118-france-sept-masculinistes-jug%C3%A9s-%C3%A0-paris",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-18T17:19:32+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Sept masculinistes comparaissent mercredi et jeudi devant le tribunal judiciaire de Paris pour des publications diffusées sur le canal Telegram Femmeblancherie, relayant des propos misogynes, racistes, antisémites et des références nazies."
- },
- {
-  "id": "0132840dd830",
-  "titre": "« Ghana Must Go » : l’histoire d’un sac devenu symbole de résilience",
-  "lien": "http://fr.africanews.com/2026/11/18/ghana-must-go-lhistoire-dun-sac-devenu-symbole-de-resilience/",
-  "source": "Africanews",
-  "site_source": "https://fr.africanews.com",
-  "date": "2026-11-18T17:19:26+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "À première vue, ce n’est qu’un sac utilitaire, reconnaissable à ses motifs rouges, blancs et bleus. Pourtant, le « Ghana Must Go » porte une histoire qui dépasse largement sa fonction première. Des marchés d’Accra aux rues de Hong Kong, cet objet du quotidien est devenu un symbole de migration."
- },
- {
-  "id": "b5db4182b9d1",
-  "titre": "« Le 1er décembre à minuit, on dissout l’Assemblée nationale » : Mamadou Mory Diaw interpelle Diomaye Faye",
-  "lien": "https://www.senenews.com/actualites/le-1er-decembre-a-minuit-on-dissout-lassemblee-nationale-mamadou-mory-diaw-interpelle-diomaye-faye_606878.html",
-  "source": "Senenews",
-  "site_source": "https://www.senenews.com",
-  "date": "2026-11-18T17:17:50+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "À l’approche du 2 décembre 2026, la question de la dissolution de l’Assemblée nationale s’invite dans les débats parlementaires. Ce mercredi 18 novembre, lors de l’examen du projet de loi de finances initiale (PLFI) 2027, le député Mamadou Mory Diaw a appelé le président de la République, Bassirou…"
- },
- {
-  "id": "38edaf377875",
-  "titre": "Argentine : Lionel Messi prend ses distances avec la Fédération et menace de saisir la justice",
-  "lien": "https://www.seneweb.com/fr/news/Sport/argentine-lionel-messi-prend-ses-distances-avec-la-federation-et-menace-de-saisir-la-justice_n_999004012.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-18T17:13:03+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Les relations entre Lionel Messi et la Fédération argentine de football (AFA) seraient au plus mal. En désaccord avec les dirigeants de l’instance, notamment son..."
- },
- {
-  "id": "fdee30405002",
-  "titre": "\"Nous allons devoir faire avec eux\" : Mélenchon et le dîner avec les grands patrons",
-  "lien": "https://www.france24.com/fr/info-en-continu/20261118-nous-allons-devoir-faire-avec-eux-m%C3%A9lenchon-et-le-d%C3%AEner-avec-les-grands-patrons",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-18T17:09:31+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "C'est une rencontre qui, sur le papier, a de quoi étonner : 13 des plus grands patrons français, dont la plus grosse fortune du pays, Bernard Arnault, ont dîné mardi soir avec Jean-Luc Mélenchon, habituel pourfendeur des ultra-riches. Mais qui a besoin de se montrer pragmatique avec eux avant la…"
- },
- {
-  "id": "6be705115475",
-  "titre": "\"Les taxes, ils les boufferont\" : Mélenchon et le controversé dîner avec des grands patrons",
-  "lien": "https://www.france24.com/fr/france/20261118-les-taxes-ils-les-boufferont-m%C3%A9lenchon-et-le-controvers%C3%A9-d%C3%AEner-avec-des-grands-patrons",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-18T17:09:31+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le candidat de la France insoumise à l'élection présidentielle française de 2027, Jean-Luc Mélenchon, a dîné, mardi, avec les 13 plus grands patrons français. Un événement qui étonne pour le leader de la gauche radicale en rupture avec le capitalisme et fervent critique des ultra-riches."
- },
- {
-  "id": "67b6b05d41c8",
-  "titre": "Abdou Mbow à Pastef : « Vous avez marché sur des cadavres pour entrer au Palais »",
-  "lien": "https://www.leral.net/Abdou-Mbow-a-Pastef-Vous-avez-marche-sur-des-cadavres-pour-entrer-au-Palais_a411586.html",
-  "source": "Leral",
-  "site_source": "https://www.leral.net",
-  "date": "2026-11-18T17:08:00+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": ""
- },
- {
-  "id": "13b47752161b",
-  "titre": "Madagascar :Un rituel historique pour les reliques du roi Toera, restituées par la France",
-  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261118-madagascar-un-rituel-historique-pour-les-reliques-du-roi-toera-restitu%C3%A9es-par-la-france",
-  "source": "France 24 Afrique",
-  "site_source": "https://www.france24.com/fr/afrique/",
-  "date": "2026-11-18T17:07:49+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "128 ans après l'assassinat du roi Toera par les troupes coloniales françaises, ses reliques prennent part, pour la première fois, au grand rituel funéraire sakalava. Restituées par la France l'an dernier, elles retrouvent enfin leur place dans les traditions ancestrales du peuple sakalava."
- },
- {
-  "id": "2a785e4833e8",
-  "titre": "Éthiopie : à Mekele, la pénurie de carburant donne un nouvel élan aux tuk-tuks électriques",
-  "lien": "https://www.leral.net/Ethiopie-a-Mekele-la-penurie-de-carburant-donne-un-nouvel-elan-aux-tuk-tuks-electriques_a411342.html",
-  "source": "Leral",
-  "site_source": "https://www.leral.net",
-  "date": "2026-11-18T17:07:00+00:00",
-  "rubrique": "Afrique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Depuis environ un an, la région éthiopienne du Tigré fait face à une pénurie persistante de carburant, la distribution dans le..."
- },
- {
-  "id": "26543a27957d",
-  "titre": "« Deux jumelles, trois nouvelles vies » : Chantal et Nathalie Lopes créent la surprise sur les réseaux sociaux",
-  "lien": "https://www.senenews.com/senenews-people/deux-jumelles-trois-nouvelles-vies-chantal-et-nathalie-lopes-creent-la-surprise-sur-les-reseaux-sociaux_606873.html",
-  "source": "Senenews",
-  "site_source": "https://www.senenews.com",
-  "date": "2026-11-18T17:06:09+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Les célèbres actrices Chantal et Nathalie Lopes viennent de créer la surprise sur les réseaux sociaux. Connues pour leur incroyable complicité, les deux sœurs jumelles ont dévoilé de magnifiques clichés de leurs shootings de grossesse, annonçant par la même occasion leur entrée dans une nouvelle…"
  }
 ]
