@@ -186,3 +186,11 @@ content/syntheses/2026-11-25-medina-incendie-deux-enfants-morts.md
 content/syntheses/2026-11-25-ordre-avocats-plainte-cabinet-gide.md
 content/syntheses/2026-11-25-place-de-la-nation-chauffeur-ministre-policier.md
 content/syntheses/2026-11-25-thierno-alassane-sall-lfr-decret-constitution.md
+content/podcast/2026-11-25.md
+content/syntheses/2026-11-25-16-jours-activisme-violences-femmes.md
+content/syntheses/2026-11-25-armee-trois-colonels-promus-generaux.md
+content/syntheses/2026-11-25-assemblee-pleniere-resolution-decret-lfr.md
+content/syntheses/2026-11-25-caf-awards-2026-finalistes-senegalais.md
+content/syntheses/2026-11-25-el-hierro-2000-migrants-une-journee.md
+content/video/2026-11-25-wolof.md
+content/video/2026-11-25.md
