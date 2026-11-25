@@ -1,5 +1,77 @@
 [
  {
+  "id": "9fd50e8b4ebc",
+  "titre": "Pour réduire les émissions de méthane de son bétail, la Nouvelle-Zélande s’en remet entièrement à la technologie",
+  "lien": "https://www.lemonde.fr/planete/article/2026/11/25/pour-reduire-les-emissions-de-methane-de-son-betail-la-nouvelle-zelande-s-en-remet-entierement-a-la-technologie_6815047_3244.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-25T05:00:36+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Dans l’archipel, où 53 % des émissions de gaz à effet de serre proviennent du méthane produit par le monde agricole, les autorités, qui ont abandonné l’idée d’une taxe, misent sur la recherche pour mettre au point des variétés d’animaux bas-méthane."
+ },
+ {
+  "id": "c23d88ce06f2",
+  "titre": "« Je suis avant tout un protecteur de l’identité hindoue » : en Inde, les jeunes extrémistes baignent dans les thèses conspirationnistes",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/25/je-suis-avant-tout-un-protecteur-de-l-identite-hindoue-en-inde-les-jeunes-extremistes-baignent-dans-les-theses-conspirationnistes_6815040_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-25T05:00:07+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "« Inde, la jeunesse fracturée » (3/4). Kartik Hindu, 25 ans, issu de la classe moyenne aisée, est persuadé que la minorité musulmane, estimée à 200 millions d’habitants, représente une menace démographique pour le milliard d’hindous du pays. Il n’hésite pas à mener des actions « coup de poing »…"
+ },
+ {
+  "id": "0830d143cf79",
+  "titre": "En Colombie, le président et l’armée à Carthagènes pour une prise d’otages en cours dans un supermarché",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/25/en-colombie-le-president-et-l-armee-a-carthagenes-pour-une-prise-d-otages-en-cours-dans-un-supermarche_6814815_3211.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-25T04:52:04+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le chef de l’Etat, Abelardo de la Espriella, a affirmé que cette prise d’otages relevait de la criminalité de droit commun, écartant toute implication des groupes armés ayant commis plusieurs attentats à travers le pays, ces derniers mois."
+ },
+ {
+  "id": "69f9cadb6c64",
+  "titre": "Martin Schulze Wessel, historien : « Le soutien financier à l’Ukraine est modeste comparé aux dommages qui résulteraient d’une victoire de la Russie »",
+  "lien": "https://www.lemonde.fr/idees/article/2026/11/25/martin-schulze-wessel-historien-le-soutien-financier-a-l-ukraine-est-modeste-compare-aux-dommages-qui-resulteraient-d-une-victoire-de-la-russie_6815039_3232.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-25T04:47:21+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Dans un entretien au « Monde », le spécialiste de l’Europe de l’Est, auteur d’un ouvrage intitulé « Pourquoi la Russie ne s’arrêtera pas », analyse l’évolution du rapport de l’Allemagne à l’Ukraine au regard de l’histoire, ainsi que les dangers d’une érosion de la solidarité envers le pays agressé…"
+ },
+ {
+  "id": "5b9eda32cba7",
+  "titre": "Découvrez les Unes des journaux sénégalais du mercredi 25 novembre 2026",
+  "lien": "https://senego.com/decouvrez-les-unes-des-journaux-senegalais-du-mercredi-25-novembre-2026_2027693.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-25T04:30:29+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Découvrez les Unes des journaux sénégalais du mercredi 25 novembre 2026",
+  "categories": [
+   "Actualités",
+   "Revue de presse",
+   "Sénégal",
+   "mercredi 25 novembre 2026",
+   "revue de presse sénégalaise"
+  ]
+ },
+ {
   "id": "6fcaf44d2e12",
   "titre": "Le Salvadorien Kilmar Abrego Garcia, symbole des expulsions sous Donald Trump, quitte les Etats-Unis",
   "lien": "https://www.lemonde.fr/international/article/2026/11/25/le-salvadorien-kilmar-abrego-garcia-symbole-des-expulsions-sous-trump-quitte-les-etats-unis_6814999_3210.html",
@@ -73418,70 +73490,5 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Un nouvel accord militaire a été conclu entre le Nigeria, le Cameroun, le Niger et le Tchad. Il devrait permettre au Nigeria de poursuivre des combattants armés au dela de ses frontières."
- },
- {
-  "id": "23e632ca0beb",
-  "titre": "En RDC, Ebola tue massivement les enfants : « Je ne peux même pas le prendre dans mes bras pour le réconforter »",
-  "lien": "https://www.lemonde.fr/afrique/article/2026/11/18/en-rdc-ebola-tue-massivement-les-enfants-je-ne-peux-meme-pas-le-prendre-dans-mes-bras-pour-le-reconforter_6813071_3212.html",
-  "source": "Le Monde Afrique",
-  "site_source": "https://www.lemonde.fr/afrique/",
-  "date": "2026-11-18T05:00:16+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Près des trois quarts des moins de 5 ans contaminés par la maladie à virus Ebola n’y survivent pas. A Bunia et Beni, épicentres de l’épidémie, les deuils s’enchaînent, tandis que plus de 2 280 enfants se retrouvent orphelins."
- },
- {
-  "id": "8edd2b23f28b",
-  "titre": "EN DIRECT, guerre en Ukraine : Vladimir Poutine a commencé sa rencontre avec Xi Jinping en Chine avant l’arrivée de Donald Trump",
-  "lien": "https://www.lemonde.fr/international/live/2026/11/18/en-direct-guerre-en-ukraine-vladimir-poutine-s-attend-a-un-sommet-d-une-grande-utilite-avec-donald-trump-et-xi-jinping-en-chine_6810982_3210.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-18T04:57:34+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Les deux dirigeants s’entretiennent en marge du sommet de la Coopération économique Asie-Pacifique (APEC), qui réunit 21 économies de la région, notamment les Etats-Unis. Le président américain est attendu dans la journée en vue d’une rencontre trilatérale inédite."
- },
- {
-  "id": "33483ed87f63",
-  "titre": "Midterms 2026 : les démocrates remportent l’élection en Alaska et parachèvent le basculement du Sénat américain",
-  "lien": "https://www.lemonde.fr/international/article/2026/11/18/midterms-2026-malgre-la-polemique-les-democrates-s-imposent-en-alaska-et-parachevent-le-basculement-du-senat-americain_6813069_3210.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-18T04:56:29+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "La victoire de Mary Peltola permet au Parti démocrate de disposer de 56 élus contre 44 républicains à la Chambre haute."
- },
- {
-  "id": "8d59725dbe32",
-  "titre": "« Vingt-trois minutes pour être exposé à des contenus extrémistes » : l’Australie s’inquiète de l’impact des réseaux sociaux et de l’IA sur la radicalisation des jeunes",
-  "lien": "https://www.lemonde.fr/international/article/2026/11/18/vingt-trois-minutes-pour-etre-expose-a-des-contenus-extremistes-l-australie-s-inquiete-de-l-impact-des-reseaux-sociaux-et-de-l-ia-dans-la-radicalisation-des-jeunes_6813068_3210.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-18T04:45:02+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "L’usage de plateformes et de l’intelligence artificielle accélère le possible passage à l’acte de mineurs, impliqués dans 40 % des affaires traitées par les équipes de lutte contre le terrorisme dans le pays en 2026."
- },
- {
-  "id": "9f8b5916fa0e",
-  "titre": "Xi Jinping se place sur le devant de la scène mondiale, en réunissant Donald Trump et Vladimir Poutine en Chine",
-  "lien": "https://www.lemonde.fr/international/article/2026/11/18/avec-donald-trump-et-vladimir-poutine-a-ses-cotes-xi-jinping-se-place-sur-le-devant-de-la-scene-mondiale_6813065_3210.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-18T04:30:04+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Avec le sommet de la Coopération économique pour l’Asie-Pacifique, les 18 et 19 novembre, la Chine veut apparaître comme une puissance incontournable tout en limitant l’espace pour discuter des sujets de discorde."
  }
 ]
