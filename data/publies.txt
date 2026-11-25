@@ -181,3 +181,8 @@ content/syntheses/2026-11-24-lfr-resolution-pastef-pleniere-mercredi.md
 content/syntheses/2026-11-24-sante-contractuels-sans-salaire-octobre.md
 content/video/2026-11-24-wolof.md
 content/video/2026-11-24.md
+content/syntheses/2026-11-25-joal-douane-faux-medicaments-1-7-tonne.md
+content/syntheses/2026-11-25-medina-incendie-deux-enfants-morts.md
+content/syntheses/2026-11-25-ordre-avocats-plainte-cabinet-gide.md
+content/syntheses/2026-11-25-place-de-la-nation-chauffeur-ministre-policier.md
+content/syntheses/2026-11-25-thierno-alassane-sall-lfr-decret-constitution.md
