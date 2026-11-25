@@ -1,0 +1,31 @@
+{
+ "url": "https://github.com/sese779/AskanInfo/releases/download/video/askaninfo-2026-11-24.mp4",
+ "taille": 2128894,
+ "duree": 58,
+ "sujets": [
+  {
+   "url": "https://github.com/sese779/AskanInfo/releases/download/video/askaninfo-2026-11-24-1.mp4",
+   "taille": 787337,
+   "duree": 19,
+   "synthese": "2026-11-24-can-2025-tas-titre-senegal"
+  },
+  {
+   "url": "https://github.com/sese779/AskanInfo/releases/download/video/askaninfo-2026-11-24-2.mp4",
+   "taille": 581141,
+   "duree": 18,
+   "synthese": "2026-11-24-lfr-resolution-pastef-pleniere-mercredi"
+  },
+  {
+   "url": "https://github.com/sese779/AskanInfo/releases/download/video/askaninfo-2026-11-24-3.mp4",
+   "taille": 513521,
+   "duree": 18,
+   "synthese": "2026-11-24-pain-greve-boulangers-prix-210-refuse"
+  },
+  {
+   "url": "https://github.com/sese779/AskanInfo/releases/download/video/askaninfo-2026-11-24-4.mp4",
+   "taille": 500016,
+   "duree": 17,
+   "synthese": "2026-11-24-sucre-importations-suspendues-css"
+  }
+ ]
+}
