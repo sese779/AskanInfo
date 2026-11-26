@@ -195,3 +195,5 @@ syntheses/2026-11-25-assemblee-pleniere-resolution-decret-lfr
 syntheses/2026-11-25-caf-awards-2026-finalistes-senegalais
 syntheses/2026-11-25-el-hierro-2000-migrants-une-journee
 podcast/2026-11-25
+syntheses/2026-11-25-conseil-ministres-lfr-senegal-oriental-diaspora
+syntheses/2026-11-25-nominations-conseil-des-ministres
