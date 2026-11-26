@@ -23,7 +23,6 @@ sources:
       plusieurs figures quittent leurs postes dans une vaste vague de
       nominations"
     url: https://emedia.sn/conseil-des-ministres-dame-mbodj-mame-birame-wathie-queen-biz-plusieurs-figures-quittent-leurs-postes-dans-une-vaste-vague-de-nominations/
-photo: /static/images/IMG_6040-1.jpeg
 credit_photo: "Photo : fb"
 ---
 Voici, ministère par ministère, les nominations prononcées lors de ce Conseil, d'après le texte des mesures individuelles signé par le porte-parole du Gouvernement, Bacary Sarr, et publié par Seneweb.
