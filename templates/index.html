@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% macro illustration(img) %}{% if img %}<figure class="illustration {{ img.type }}"><img src="{{ img.image }}" alt="" loading="lazy"><figcaption>{{ img.credit }}</figcaption></figure>{% endif %}{% endmacro %}
+{% macro illustration(img) %}{% if img %}<figure class="illustration {{ img.type }}"><img src="{{ img.carte or img.image }}" alt="" loading="lazy"><figcaption>{{ img.credit }}</figcaption></figure>{% endif %}{% endmacro %}
 {% macro carte_sujet(s, grande=False) %}
 <article class="carte sujet{% if grande %} grande{% endif %}">
   {{ illustration(s.image) }}
