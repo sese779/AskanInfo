@@ -181,9 +181,30 @@ def sujets(items, contenus, regles, maintenant, nb_une=5, heures=36):
                 "rubrique": g[0]["rubrique"], "synthese": synthese,
                 "image": (synthese or {}).get("photo") or image_pour(titres, regles, g[0]["rubrique"])}
 
-    groupes = [habiller(g) for g in grouper(dedoublonner(items))]
+    # les groupes qui renvoient à la même synthèse parlent du même événement : on les réunit,
+    # pour ne pas afficher deux fois la même synthèse (et la même photo) à l'accueil
+    bruts, par_synthese = [], {}
+    for g in grouper(dedoublonner(items)):
+        cle = next((id(synthese_par_lien[i["lien"]]) for i in g if i["lien"] in synthese_par_lien), None)
+        if cle is not None and cle in par_synthese:
+            par_synthese[cle].extend(g)
+            continue
+        if cle is not None:
+            par_synthese[cle] = g
+        bruts.append(g)
+    for g in bruts:
+        g.sort(key=lambda i: i["date"], reverse=True)
+    groupes = [habiller(g) for g in bruts]
     limite = (maintenant - timedelta(hours=heures)).isoformat()
     # à la une : au moins 2 médias principaux (les sources secondaires complètent la carte)
     candidats = [s for s in groupes if s["nb_principaux"] >= 2 and s["tete"]["date"] >= limite]
     candidats.sort(key=lambda s: (s["nb_principaux"], s["nb_medias"], s["tete"]["date"]), reverse=True)
-    return candidats[:nb_une], groupes
+    une, images_vues = candidats[:nb_une], set()
+    for s in une:
+        # une photo déjà montrée plus haut à la une n'est pas répétée
+        cle = s["image"]["image"] if s["image"] else None
+        if cle in images_vues:
+            s["image"] = None
+        elif cle:
+            images_vues.add(cle)
+    return une, groupes
