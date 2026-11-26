@@ -208,5 +208,6 @@ images:
       - Abdou Nguer
     image: /static/images/IMG_6038.jpeg
     type: photo
-    credit: W’
+    credit: AN
+    source: "Photo : fb"
     actif: true
