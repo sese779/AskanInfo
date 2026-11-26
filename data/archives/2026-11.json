@@ -1,5 +1,429 @@
 [
  {
+  "id": "22f6b5ec2113",
+  "titre": "LFR 2026 : Aminata Touré s’attaque à Ousmane Sonko sur les fonds spéciaux, le parc automobile et les bourses familiales",
+  "lien": "https://www.dakaractu.com/LFR-2026-Aminata-Toure-s-attaque-a-Ousmane-Sonko-sur-les-fonds-speciaux-le-parc-automobile-et-les-bourses-familiales_a278399.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-19T21:04:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La conférence de presse de Kiiraay-Les Patriotes républicains, tenue ce jeudi 19 novembre 2026 sous la coordination d’Aminata Touré, a été marquée par de vives critiques à l’endroit du président de l’Assemblée nationale, Ousmane Sonko, autour de la gestion des ressources publiques et du rejet de la…",
+  "categories": [
+   "Actu"
+  ]
+ },
+ {
+  "id": "53ffdb614a8a",
+  "titre": "Babo Amadou Ba s’en prend au constitutionnaliste : « Le nouveau tailleur Meïssa… »",
+  "lien": "https://senego.com/babo-amadou-ba-sen-prend-au-constitutionnaliste-le-nouveau-tailleur-meissa_2025884.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-19T21:01:45+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Babo Amadou Ba a vivement réagi aux propos du constitutionnaliste le professeur Meïssa Diakhaté autour de l’interprétation de l’article 68 de la Constitution. Dans une publication au ton particulièrement critique, il ironise sur l’argumentaire du professeur Meïssa Diakhaté, notamment sur son…",
+  "categories": [
+   "Politique",
+   "Babo",
+   "Professeur Meissa diakhate"
+  ]
+ },
+ {
+  "id": "0951133ff030",
+  "titre": "Marché automobile sénégalais : La chute libre de 20% des ventes de véhicules neufs",
+  "lien": "https://www.dakaractu.com/Marche-automobile-senegalais-La-chute-libre-de-20-des-ventes-de-vehicules-neufs_a278398.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-19T21:01:00+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le secteur automobile sénégalais traverse une zone de turbulences sans précédent. Les ventes de véhicules neufs ont plongé de près de 20 % sur les deux dernières années, une tendance qui s’est même accélérée ces derniers mois. En août dernier, seulement 439 unités ont été écoulées, soit une chute…",
+  "categories": [
+   "Texto"
+  ]
+ },
+ {
+  "id": "3c77257dd828",
+  "titre": "Journée des Forces armées : Diomaye appelle à une réponse concertée face aux menaces régionales",
+  "lien": "https://www.xibaaru.sn/journee-des-forces-armees-diomaye-appelle-a-une-reponse-concertee-face-aux-menaces-regionales/",
+  "source": "Xibaaru",
+  "site_source": "https://www.xibaaru.sn",
+  "date": "2026-11-19T21:00:46+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Le président de la République, Bassirou Diomaye Faye, a présidé ce jeudi, au quartier Dial Diop, la 25e édition de la Journée des Forces armées, placée sous le thème « Les Forces…",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "32db1864f68e",
+  "titre": "Xi, Trump, Poutine : un Yalta 2.0 ?",
+  "lien": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261119-xi-trump-poutine-un-yalta-2-0",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-19T21:00:32+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "C’est peut-être l'image de l’année : Xi Jinping, Donald Trump et Vladimir Poutine réunis à Shenzhen en Chine. C’est la première fois que les présidents de ces trois puissances se rencontraient. Ils ont adopté une \"déclaration de paix\" et se sont engagés en faveur de la \"stabilité stratégique\". Au…",
+  "categories": [
+   "Le débat"
+  ]
+ },
+ {
+  "id": "2ca842b431fa",
+  "titre": "Kaolack : une jeune femme de 20 ans soupçonnée d’avoir tué son oncle",
+  "lien": "https://senego.com/kaolack-une-jeune-femme-de-20-ans-soupconnee-davoir-tue-son-oncle_2025886.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-19T20:59:36+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "À Kaolack, une femme de 20 ans est soupçonnée d’avoir tué son oncle après une dispute familiale. Elle est recherchée et sa mère a été interpellée.",
+  "categories": [
+   "Faits Divers",
+   "Sénégal",
+   "Société",
+   "dispute familiale",
+   "Enquête"
+  ]
+ },
+ {
+  "id": "170d025fefa1",
+  "titre": "DSC : Les minutes de la confrontation entre Rox et Elimane Lam",
+  "lien": "https://www.seneweb.com/fr/news/Justice/dsc-les-minutes-de-la-confrontation-entre-rox-et-elimane-lam_n_999004144.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-19T20:59:22+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "En garde à vue à la Division spéciale de cybersécurité (DSC), dans le cadre de l’enquête sur des insultes en ligne présumées financées, l’homme d’affaires Elimane Lam a été confronté à la TikTokeuse Rox la Chancelière, extraite de prison cet après-midi."
+ },
+ {
+  "id": "216de5563653",
+  "titre": "Corée du Sud : un examen crucial en plein scandale de triche à l’IA",
+  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261119-cor%C3%A9e-du-sud-un-examen-crucial-en-plein-scandale-de-triche-%C3%A0-l-ia",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-19T20:55:42+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Les ​élèves sud-coréens ont passé jeudi 19 novembre le Suneung, le rigoureux examen national d'entrée à l'université, dans une ambiance tendue après un scandale de triche ​lié à l'intelligence artificielle il y a deux semaines."
+ },
+ {
+  "id": "d26e64ae6b5b",
+  "titre": "Mondial U 17 de la FIFA : l'Ouganda perd son premier match face à la Corée du Sud",
+  "lien": "http://fr.africanews.com/2026/11/19/mondial-u-17-de-la-fifa-louganda-perd-son-premier-match-face-a-la-coree-du-sud/",
+  "source": "Africanews",
+  "site_source": "https://fr.africanews.com",
+  "date": "2026-11-19T20:53:00+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Reste au coach Laryea Kingston de changer de stratégie dans l'optique des prochaines rencontres."
+ },
+ {
+  "id": "95f1272dad6e",
+  "titre": "[EXCLUSIF] Affaire Modou Ba Gawlo : Six présumés homosexuels séropositifs arrêtés par la BR de Keur Massar",
+  "lien": "https://www.seneweb.com/fr/news/Societe/exclusif-affaire-modou-ba-gawlo-six-presumes-homosexuels-seropositifs-arretes-par-la-br-de-keur-massar_n_999004143.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-19T20:51:14+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Six nouveaux suspects, présentés comme de présumés homosexuels séropositifs, ont été arrêtés par la brigade de recherches (BR) de Keur Massar dans le prolongement de l'affaire Modou Ba Gawlo selon des informations exclusives de Seneweb ."
+ },
+ {
+  "id": "26dd31f13fdd",
+  "titre": "Championnats d'Afrique aérobique : dix pays, dont le Sénégal, annoncés au rendez-vous du Caire du 25 au 27 novembre",
+  "lien": "https://www.pressafrik.com/Championnats-d-Afrique-aerobique-dix-pays-dont-le-Senegal-annonces-au-rendez-vous-du-Caire-du-25-au-27-novembre_a314847.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-19T20:49:00+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Dix pays, dont le Senegal, prendront part aux 19es Championnat... www.pressafrik.com",
+  "categories": [
+   "Sport"
+  ]
+ },
+ {
+  "id": "4368af416437",
+  "titre": "Ibrahima Faye Beuz : « La volonté de Canal est que la lutte soit diffusée chaque week-end comme c’est le cas pour les championnats européens …»",
+  "lien": "https://wiwsport.com/2026/11/19/ibrahima-faye-beuz-la-volonte-de-canal-est-que-la-lutte-soit-diffusee-chaque-week-end-comme-cest-le-cas-pour-les-championnats-europeens/",
+  "source": "Wiwsport",
+  "site_source": "https://www.wiwsport.com",
+  "date": "2026-11-19T20:47:39+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "( wiwsport ) - Directeur général de Beuz Pro, Ibrahima Faye Beuz a salué l’engagement de Canal + qui comme la saison dernière va retransmettre en direct de grosses affiches de combat de lutte. Ce jeudi à l’occasion de la conférence de presse de présentation de la saison de lutte 2026-2027 avec…",
+  "categories": [
+   "Lamb"
+  ]
+ },
+ {
+  "id": "019aee054581",
+  "titre": "LFR 2026 par décret : Aminata Touré salue « un acte de responsabilité » du président Faye",
+  "lien": "http://www.ndarinfo.com/LFR-2026-par-decret-Aminata-Toure-salue-un-acte-de-responsabilite-du-president-Faye_a47274.html",
+  "source": "Ndarinfo (Saint-Louis)",
+  "site_source": "https://www.ndarinfo.com",
+  "date": "2026-11-19T20:43:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L'ancienne Première ministre Aminata Touré, coordonnatrice de Kiiraay-Les Patriotes républicains, a salué ce jeudi la mise en vigueu...",
+  "categories": [
+   "Politique"
+  ]
+ },
+ {
+  "id": "5235c0e30f02",
+  "titre": "Ousmane Sonko et Bassirou Diomaye Faye, la surprenante polémique sur un détail protocolaire",
+  "lien": "https://www.senenews.com/actualites/ousmane-sonko-et-bassirou-diomaye-faye-la-surprenante-polemique-sur-un-detail-protocolaire_606992.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-19T20:40:55+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Une courte séquence de la Journée des forces armées, diffusée en direct ce jeudi 19 novembre depuis Camp Dial Diop, circule largement sur les réseaux sociaux. On y voit le président de l’Assemblée nationale, Ousmane Sonko, prendre place dans un salon avant l’arrivée du chef de l’État, Bassirou…",
+  "categories": [
+   "Politique",
+   "Sénégal - Actualités",
+   "Diomaye",
+   "Sonko"
+  ]
+ },
+ {
+  "id": "36f99beb71f4",
+  "titre": "Kaolack : Le récit d’un drame familial, pourquoi Khady Lo a tué son propre oncle",
+  "lien": "https://www.senenews.com/actualites/kaolack-le-recit-dun-drame-familial-pourquoi-khady-lo-a-tue-son-propre-oncle_606990.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-19T20:35:48+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Ce qui avait commencé comme une querelle familiale s'est achevé par la mort d'un père de famille. Ce jeudi 19 novembre 2026, la commune de Kaolack a été secouée par un drame qui oppose un oncle à sa nièce et qui mobilise désormais les forces de défense et de sécurité. La victime, D. Diallo, avait…",
+  "categories": [
+   "Sénégal - Actualités",
+   "Société",
+   "kaolack"
+  ]
+ },
+ {
+  "id": "7b1f3bdbe7dc",
+  "titre": "Horaires adaptés, santé de proximité… : L’accès aux soins au cœur des défis à Kafountine (2/6)",
+  "lien": "https://www.seneweb.com/fr/news/Dossier/horaires-adaptes-sante-de-proximite-lacces-aux-soins-au-coeur-des-defis-a-kafountine-26_n_999004142.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-19T20:30:12+00:00",
+  "rubrique": "Diaspora",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le poste de santé de Kafountine dessert une population totale de 2 267 habitants, avec une forte présence de populations migrantes."
+ },
+ {
+  "id": "14271d37b01c",
+  "titre": "Décret De Diomaye, Rejet LFI: Le Décryptage De Daouda Mine",
+  "lien": "https://www.seneweb.com/fr/news/Video/decret-de-diomaye-rejet-lfi-le-decryptage-de-daouda-mine_n_999004141.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-19T20:28:31+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Décret De Diomaye, Rejet LFI: Le Décryptage De Dao"
+ },
+ {
+  "id": "7cf882bd4bc9",
+  "titre": "Kaolack: Elle tue son oncle à coups de couteau et prend la fuite...\" mi maayi\", criait D. Diallo.",
+  "lien": "https://www.dakaractu.com/Kaolack-Elle-tue-son-oncle-a-coups-de-couteau-et-prend-la-fuite-mi-maayi--criait-D-Diallo_a278397.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-19T20:28:00+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "C'est l'émoi et la consternation présentement au quartier Médina Mbaba( Kaolack) où une jeune femme de 20 ans a tué à coups de couteau son oncle( D. Diallo) Selon des témoignages recueillis sur place par l'équipe de Dakaractu Kaolack, ce drame fait suite à une violente dispute qui a éclaté entre…",
+  "categories": [
+   "Actu"
+  ]
+ },
+ {
+  "id": "7b295129edd8",
+  "titre": "Sécurité transfrontalière : la Zone militaire n°6 mise sur les opérations conjointes pour faire face aux menaces sécuritaires",
+  "lien": "https://www.pressafrik.com/Securite-transfrontaliere-la-Zone-militaire-n-6-mise-sur-les-operations-conjointes-pour-faire-face-aux-menaces_a314845.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-19T20:27:00+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "À l’occasion de la Journée des Forces armées, célébrée ce jeud... www.pressafrik.com",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "c0abf4458d94",
+  "titre": "\"GTA VI\" : prouesses techniques, budget, ventes... le jeu vidéo de tous les records",
+  "lien": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20261119-gta-vi-prouesses-techniques-budget-ventes-le-jeu-vid%C3%A9o-de-tous-les-records",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-19T20:26:06+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Treize ans d'attente, un budget estimé à plus d'un milliard de dollars et des ventes déjà vertigineuses… \"GTA VI\" affole tous les compteurs. Mais ce nouvel épisode du célèbre jeu vidéo est-il à la hauteur des attentes ? Les premiers joueurs saluent le réalisme du jeu, la narration digne d'un film…",
+  "categories": [
+   "À l'Affiche !"
+  ]
+ },
+ {
+  "id": "3f204a6d21da",
+  "titre": "Après la polémique sur la RTS, la poignée de main entre Diomaye et Sonko enfin dévoilée en vidéo",
+  "lien": "https://senego.com/apres-la-polemique-sur-la-rts-la-poignee-de-main-entre-diomaye-et-sonko-enfin-devoilee-en-video_2025878.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-19T20:23:21+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Une vidéo montrant la poignée de main entre le président de la République, Bassirou Diomaye Faye, et le président de l’Assemblée nationale, Ousmane Sonko, circule sur les réseaux sociaux. La séquence intervient lors de la célébration de la Journée des Forces armées, ce jeudi 19 novembre 2026, au…",
+  "categories": [
+   "Politique",
+   "Vidéos"
+  ]
+ },
+ {
+  "id": "9d2e632ae6ee",
+  "titre": "Niger: ce que l’on sait du convoi de carburant escorté par l’Algérie",
+  "lien": "https://www.rfi.fr/fr/afrique/20261119-niger-ce-que-l-on-sait-du-convoi-de-carburant-escort%C3%A9-par-l-alg%C3%A9rie",
+  "source": "RFI Afrique",
+  "site_source": "https://www.rfi.fr/fr/afrique/",
+  "date": "2026-11-19T20:23:16+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Quelques jours après le vote du 25 octobre 2026 au Parlement algérien actant l’envoi d’unités militaires au Niger pour « sécuriser les intérêts énergétiques », un premier convoi de carburant, entouré d'une escorte militaire, est entré au Niger, direction Agadez, dans le nord du pays. Durant les…",
+  "categories": [
+   "Afrique"
+  ]
+ },
+ {
+  "id": "74c15a2dd82f",
+  "titre": "ÉMIGRATION CLANDESTINE : LES PASSEURS S'ENRICHISSENT, NOS ENFANTS MEURENT ! (Par Mamadou BAAL )",
+  "lien": "https://www.pressafrik.com/EMIGRATION-CLANDESTINE-LES-PASSEURS-S-ENRICHISSENT-NOS-ENFANTS-MEURENT--Par-Mamadou-BAAL_a314846.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-19T20:17:00+00:00",
+  "rubrique": "Diaspora",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Il est temps de s'attaquer aux véritables organisateurs de ces voyages de la mort. ... www.pressafrik.com",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "7618e30fe96e",
+  "titre": "Une journée, une légende, une carrière : Edgar Barros retrace le parcours d’Edouard Mendy",
+  "lien": "https://lesoleil.sn/actualites/sports/une-journee-une-legende-une-carriere-edgar-barros-retrace-le-parcours-dedouard-mendy/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-19T20:14:08+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le créateur de contenus Edgar Barros a passé une journée rytmée aux côtés de l’ancien gardien de but de l’équipe nationale du Sénégal. De la visite de l’école Yakar à la Piscine olympique, en passant par l’épreuve de breaking, jusqu’à son jubilé célébré lors de la rencontre Sénégal vs Soudan, cette…",
+  "categories": [
+   "Sports"
+  ]
+ },
+ {
+  "id": "43610c26bfca",
+  "titre": "La pédagogie Ubuntu d’Amadou Elimane Kane s’invite en librairie",
+  "lien": "https://www.seneplus.com/article/la-pedagogie-ubuntu-damadou-elimane-kane-sinvite-en-librairie",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-19T20:10:10+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La pédagogie Ubuntu d’Amadou Elimane Kane s’invite en librairie Farid Akele Thu, 11/19/2026 - 20:10"
+ },
+ {
+  "id": "e602cf5cd9ff",
+  "titre": "Ziguinchor : la Roumanie renforce sa présence diplomatique et mise sur le potentiel de la Casamance‎",
+  "lien": "https://emedia.sn/ziguinchor-la-roumanie-renforce-sa-presence-diplomatique-et-mise-sur-le-potentiel-de-la-casamance/",
+  "source": "Emedia",
+  "site_source": "https://emedia.sn",
+  "date": "2026-11-19T20:09:54+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "‎La coopération entre le Sénégal et la Roumanie franchit une nouvelle étape avec l’inauguration du consulat honoraire de Roumanie à Ziguinchor, dirigé par Demba Keita. Cette représentation diplomatique, dont la juridiction couvre les régions de Ziguinchor, Sédhiou et Kolda, ambitionne de renforcer…",
+  "categories": [
+   "A L'INSTANT",
+   "ACTUALITÉS",
+   "UNE",
+   "Casamance",
+   "consul honoraire"
+  ]
+ },
+ {
+  "id": "67a35bf31abd",
+  "titre": "Rohingya : un arrêt historique de la Cour de justice internationale reconnaît la Birmanie coupable de génocide",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/19/rohingya-un-arret-historique-de-la-cour-de-justice-internationale-reconnait-la-birmanie-coupable-de-genocide_6813377_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-19T20:06:18+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L’organe judiciaire de l’ONU a considéré que le pays a violé six fois la convention sur le génocide de 1948. C’est la première fois de l’histoire qu’un Etat est condamné pour le « crime des crimes ». Quelque 10 000 Rohingya, une minorité musulmane, ont été massacrés par l’armée birmane, et leurs…"
+ },
+ {
   "id": "cbb46307adaa",
   "titre": "LFR 2026 : Moussa Tine soulève des interrogations juridiques sur le décret présidentiel",
   "lien": "https://www.xibaaru.sn/lfr-2026-moussa-tine-souleve-des-interrogations-juridiques-sur-le-decret-presidentiel/",
