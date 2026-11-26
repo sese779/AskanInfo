@@ -29,6 +29,59 @@
   "extrait": "Désavoué par plusieurs cadres de son parti pour ses propos critiques sur la gestion de la guerre dans l’est de la RDC, Vital Kamerhe a quitté Kinshasa pour Paris. Son discours alimente la méfiance de l’entourage du chef de l’État, qui dénonce une forme de chantage."
  },
  {
+  "id": "07a58cdfa2a5",
+  "titre": "Accusé d’un appel avec Abdoulaye Fall, le juge Ulrich Haas répond : « C’est faux »",
+  "lien": "https://senego.com/accuse-dun-appel-avec-abdoulaye-fall-le-juge-ulrich-haas-repond-cest-faux_2028308.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-26T14:05:35+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Le juge du TAS Ulrich Haas conteste avoir été joint par Abdoulaye Fall. L’avocat du Sénégal Juan de Dios Crespo rapporte son démenti et écarte les chances d’un recours suisse.",
+  "categories": [
+   "Football",
+   "Sénégal",
+   "Sports",
+   "Abdoulaye Fall",
+   "can 2025"
+  ]
+ },
+ {
+  "id": "c24cb63723da",
+  "titre": "CAN de beach soccer à Saly : la ministre appelle le Sénégal à décrocher une 9e étoile",
+  "lien": "https://senego.com/can-de-beach-soccer-a-saly-la-ministre-appelle-le-senegal-a-decrocher-une-9e-etoile_2028306.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-26T14:05:30+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "À l’approche de la CAN de beach soccer à Saly, la ministre des Sports invite les Lions à viser un neuvième titre continental. Le Sénégal en compte déjà huit.",
+  "categories": [
+   "Autres sports",
+   "Sénégal",
+   "Sports",
+   "Beach Soccer",
+   "CAN 2026"
+  ]
+ },
+ {
+  "id": "ceafdf8c809e",
+  "titre": "Lancement de l’initiative « CSU Sama Gox » : Parcelles Assainies accueille ce samedi la première édition",
+  "lien": "https://www.seneweb.com/fr/news/Sante/lancement-de-linitiative-csu-sama-gox-parcelles-assainies-accueille-ce-samedi-la-premiere-edition_n_999004734.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-26T14:02:56+00:00",
+  "rubrique": "Société",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L'Agence Sénégalaise de la Couverture Sanitaire Universelle (SEN-CSU) lance officiellement, ce samedi 28 novembre 2026, l'initiative « CSU Sama Gox »"
+ },
+ {
   "id": "f90b401bde7a",
   "titre": "CAF : Une crédibilité en lambeaux",
   "lien": "https://www.enqueteplus.com/content/caf-une-cr%C3%A9dibilit%C3%A9-en-lambeaux",
@@ -75128,37 +75181,5 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Les présidents chinois, américain et russe se sont mis d'accord sur une \"déclaration de paix\" à l'issue de leur sommet inédit jeudi, dans laquelle ils s'engagent en faveur de la \"stabilité stratégique\" et à augmenter leurs approvisionnements en produits pétroliers."
- },
- {
-  "id": "416ffc7763df",
-  "titre": "La Guinée interdit la chaîne burkinabè RTB après un éditorial «hostile» et une caricature de Mamadi Doumbouya",
-  "lien": "https://www.rfi.fr/fr/afrique/20261119-la-guin%C3%A9e-interdit-la-cha%C3%AEne-burkinab%C3%A8-rtb-apr%C3%A8s-un-%C3%A9ditorial-hostile-et-une-caricature-de-mamadi-doumbouya",
-  "source": "RFI Afrique",
-  "site_source": "https://www.rfi.fr/fr/afrique/",
-  "date": "2026-11-19T14:05:53+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "La chaîne de télévision publique burkinabè (RTB) est interdite en Guinée à la suite d'une décision publiée le 19 novembre 2026 par la Haute Autorité de la communication (HAC). En cause : la diffusion d’une caricature du président Mamadi Doumbouya dans le cadre d’un éditorial jugé « hostile »…",
-  "categories": [
-   "Afrique"
-  ]
- },
- {
-  "id": "2a00e44c2492",
-  "titre": "Vol à l’arraché à Dakar : un suspect interpellé avec trois passeports suisses et plusieurs objets volés",
-  "lien": "https://www.leral.net/Vol-a-l-arrache-a-Dakar-un-suspect-interpelle-avec-trois-passeports-suisses-et-plusieurs-objets-voles_a411686.html",
-  "source": "Leral",
-  "site_source": "https://www.leral.net",
-  "date": "2026-11-19T14:04:00+00:00",
-  "rubrique": "Faits divers",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "",
-  "categories": [
-   "Fait divers"
-  ]
  }
 ]
