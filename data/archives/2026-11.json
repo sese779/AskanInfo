@@ -1,5 +1,51 @@
 [
  {
+  "id": "09c24dc26c24",
+  "titre": "Menaces contre la délégation israélienne : l'activiste craque à la barre et…",
+  "lien": "https://www.seneweb.com/fr/news/Justice/menaces-contre-la-delegation-israelienne-lactiviste-craque-a-la-barre-et_n_999004060.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-19T06:12:57+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Mardi, l’activiste et membre du collectif « Nio Lank » A. S. Diallo, a été condamné à trois mois de prison avec sursis et à 100 000 FCFA d’amende."
+ },
+ {
+  "id": "1a2c5eb3bfd6",
+  "titre": "Xi, Trump et Poutine réunis à Shenzhen pour l’ouverture de l’APEC et un sommet trilatéral",
+  "lien": "http://fr.africanews.com/2026/11/19/xi-trump-et-poutine-reunis-a-shenzhen-pour-louverture-de-lapec-et-un-sommet-trilateral/",
+  "source": "Africanews",
+  "site_source": "https://fr.africanews.com",
+  "date": "2026-11-19T06:11:31+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Xi Jinping, Donald Trump et Vladimir Poutine se sont retrouvés à Shenzhen pour un forum régional. Les trois présidents ont posé ensemble pour une photo officielle avant un sommet trilatéral très attendu."
+ },
+ {
+  "id": "db7916889076",
+  "titre": "Le SELS/A alerte sur les grossesses scolaires et réclame une action commune",
+  "lien": "https://senego.com/le-sels-a-alerte-sur-les-grossesses-scolaires-et-reclame-une-action-commune_2025645.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-19T06:11:24+00:00",
+  "rubrique": "Société",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "À la mi-novembre, le SELS/A a alerté sur les grossesses en milieu scolaire et appelé l’État, les parents et les communautés à agir ensemble.",
+  "categories": [
+   "Éducation",
+   "Femme",
+   "Sénégal",
+   "Société",
+   "éducation"
+  ]
+ },
+ {
   "id": "b40d69a489b4",
   "titre": "La Matinale Senego : Diba sollicite, Sagna critique, Sonko interpelle le FMI",
   "lien": "https://senego.com/la-matinale-senego-diba-sollicite-sagna-critique-sonko-interpelle-le-fmi_2025642.html",
