@@ -35,7 +35,7 @@ sources:
     titre: "Conseil des ministres : le Président Diomaye Faye accélère les réformes
       économiques et annonce une tournée dans le Sénégal oriental"
     url: https://emedia.sn/conseil-des-ministres-le-president-diomaye-faye-accelere-les-reformes-economiques-et-annonce-une-tournee-dans-le-senegal-oriental/
-photo: /static/images/IMG_6039.jpeg
+photo: /static/images/IMG_6044.jpeg
 credit_photo: Photo :wiki m
 ---
 Le budget rectificatif a ouvert la réunion. Selon le communiqué de la Présidence, Bassirou Diomaye Faye a rappelé avoir rendu applicable la loi de finances rectificative 2026 par le décret du 19 novembre, et a chargé le Premier ministre et le ministre des Finances de mettre en œuvre « sans délai » les programmes qu'elle contient, rapporte aussi Dakaractu. Invoquant son serment, il a demandé au Gouvernement de respecter les engagements internationaux et d'accélérer l'assainissement des finances publiques, la relance de l'économie et la protection sociale.
