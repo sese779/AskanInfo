@@ -196,3 +196,4 @@ content/video/2026-11-25-wolof.md
 content/video/2026-11-25.md
 content/syntheses/2026-11-25-conseil-ministres-lfr-senegal-oriental-diaspora.md
 content/syntheses/2026-11-25-nominations-conseil-des-ministres.md
+content/syntheses/2026-11-26-conseil-ministres-25-novembre-nominations-liste-complete.md
