@@ -39,6 +39,7 @@ sources:
     titre: Macky Sall refuse toute alliance avec Kiiraay et se prépare à une
       dissolution possible
     url: https://senego.com/macky-sall-refuse-toute-alliance-avec-kiiraay-et-se-prepare-a-une-dissolution-possible_2027187.html
+photo: /static/images/IMG_6033-1.jpeg
 credit_photo: "Photo : wiki"
 ---
 L'ancien chef de l'État Macky Sall a pris la parole dans un entretien publié lundi 23 novembre par Jeune Afrique, et largement repris par la presse sénégalaise. Depuis Marrakech, rapportent Dakaractu et SenePlus, il entend continuer à piloter l'Alliance pour la République (APR) à distance, alors que certains de ses proches souhaitent le voir revenir au pays, précise Jeune Afrique.

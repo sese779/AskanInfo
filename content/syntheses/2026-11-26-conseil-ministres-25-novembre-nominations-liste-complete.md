@@ -1,23 +1,31 @@
 ---
 titre: "Conseil des ministres du 25 novembre : les nominations (liste complète)"
-chapo: "Au titre des mesures individuelles du Conseil des ministres du mercredi 25 novembre 2026, le président de la République a procédé à trente-six nominations à la tête de directions, d'agences, d'hôpitaux et de conseils d'administration, selon la liste publiée par Seneweb."
-date: 2026-11-26T10:00:00+00:00
+chapo: Au titre des mesures individuelles du Conseil des ministres du mercredi
+  25 novembre 2026, le président de la République a procédé à trente-six
+  nominations à la tête de directions, d'agences, d'hôpitaux et de conseils
+  d'administration, selon la liste publiée par Seneweb.
+date: 2026-11-26T03:26
 rubrique: Politique
 sources:
-  - nom: "Seneweb"
-    titre: "MESURES INDIVIDUELLES DU CONSEIL DES MINISTRES DU MERCREDI 25 NOVEMBRE 2026"
+  - nom: Seneweb
+    titre: MESURES INDIVIDUELLES DU CONSEIL DES MINISTRES DU MERCREDI 25 NOVEMBRE 2026
     url: https://www.seneweb.com/fr/news/Communique/mesures-individuelles-du-conseil-des-ministres-du-mercredi-25-novembre-2026_n_999004685.html
-  - nom: "Dakaractu"
-    titre: "SOGIP SA : Lamine Diagne nommé Directeur général en remplacement de Dame Mbodj"
+  - nom: Dakaractu
+    titre: "SOGIP SA : Lamine Diagne nommé Directeur général en remplacement de Dame
+      Mbodj"
     url: https://www.dakaractu.com/SOGIP-SA-Lamine-Diagne-nomme-Directeur-general-en-remplacement-de-Dame-Mbodj_a278592.html
-  - nom: "Le Soleil"
-    titre: "Conseil des ministres : Le Soleil, la santé, la formation… une vague de nominations dans les structures publiques"
+  - nom: Le Soleil
+    titre: "Conseil des ministres : Le Soleil, la santé, la formation… une vague de
+      nominations dans les structures publiques"
     url: https://lesoleil.sn/actualites/politique/conseil-des-ministres-le-soleil-la-sante-la-formation-une-vague-de-nominations-dans-les-structures-publiques/
-  - nom: "Emedia"
-    titre: "Conseil des ministres : Dame Mbodj, Mame Birame Wathie, Queen Biz… plusieurs figures quittent leurs postes dans une vaste vague de nominations"
+  - nom: Emedia
+    titre: "Conseil des ministres : Dame Mbodj, Mame Birame Wathie, Queen Biz…
+      plusieurs figures quittent leurs postes dans une vaste vague de
+      nominations"
     url: https://emedia.sn/conseil-des-ministres-dame-mbodj-mame-birame-wathie-queen-biz-plusieurs-figures-quittent-leurs-postes-dans-une-vaste-vague-de-nominations/
+photo: /static/images/IMG_6046.jpeg
+credit_photo: "Photo : fb"
 ---
-
 Voici, ministère par ministère, les nominations prononcées lors de ce Conseil, d'après le texte des mesures individuelles signé par le porte-parole du Gouvernement, Bacary Sarr, et publié par Seneweb.
 
 **Présidence de la République**

@@ -197,3 +197,4 @@ syntheses/2026-11-25-el-hierro-2000-migrants-une-journee
 podcast/2026-11-25
 syntheses/2026-11-25-conseil-ministres-lfr-senegal-oriental-diaspora
 syntheses/2026-11-25-nominations-conseil-des-ministres
+syntheses/2026-11-26-conseil-ministres-25-novembre-nominations-liste-complete
