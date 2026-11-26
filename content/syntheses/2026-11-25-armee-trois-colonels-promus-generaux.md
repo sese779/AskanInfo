@@ -22,6 +22,7 @@ sources:
       de la République ?"
     url: https://www.senenews.com/actualites/nominations-de-diomaye-qui-sont-ces-3-colonels-promus-par-le-president-de-la-republique_607628.html
 photo: /static/images/IMG_6051.png
+credit_photo: "Photo :"
 ---
 Les Forces armées sénégalaises comptent bientôt trois généraux de brigade supplémentaires. La DIRPA, chargée de l'information des armées et de leurs relations publiques, a annoncé ces promotions dans un communiqué, rapportent Dakaractu, Seneweb et Senenews. Elles prendront effet le 3 décembre 2026, précisent Dakaractu et Senenews.
 
