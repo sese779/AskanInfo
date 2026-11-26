@@ -208,3 +208,4 @@ syntheses/2026-11-26-grand-yoff-trafic-migrants-sa-touba
 syntheses/2026-11-26-kedougou-boto-troisieme-mine-or
 syntheses/2026-11-26-louga-collision-potou-gabar-quatre-morts
 syntheses/2026-11-26-senelec-incident-centrale-sendou
+podcast/2026-11-26
