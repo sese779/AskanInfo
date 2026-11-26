@@ -203,3 +203,8 @@ syntheses/2026-11-26-assemblee-adopte-resolution-decret-lfr-128-voix
 syntheses/2026-11-26-fbi-salue-securite-joj-dakar
 syntheses/2026-11-26-groupe-edk-emprunt-obligataire-30-milliards
 syntheses/2026-11-26-liverpool-sidy-barhama-ndiaye
+syntheses/2026-11-26-deces-imam-mouhamed-sankhe
+syntheses/2026-11-26-grand-yoff-trafic-migrants-sa-touba
+syntheses/2026-11-26-kedougou-boto-troisieme-mine-or
+syntheses/2026-11-26-louga-collision-potou-gabar-quatre-morts
+syntheses/2026-11-26-senelec-incident-centrale-sendou
