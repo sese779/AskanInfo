@@ -19,6 +19,7 @@ from jinja2 import Environment, FileSystemLoader
 
 from check_overlap import passages_copies
 from images_partage import image_article, image_site
+from images_web import preparer as preparer_photo
 from pwa import PAGES_HORS_LIGNE, ecrire_pwa
 from regroupement import illustration, image_pour, lire_images, sujets
 
@@ -408,7 +409,11 @@ def main():
 
     # images par sujet (images.yaml) : logo ou photo, jamais de cadre vide
     regles = lire_images(ROOT)
+    # photos au format presse : copie entière (article) et 16:9 (cartes, partage), sans couper
+    for r in regles:
+        preparer_photo(r, ROOT, OUT)
     for c in a_la_une:
+        preparer_photo(c["photo"], ROOT, OUT)
         c["illustration"] = c["photo"] or image_pour([c["titre"], c["chapo"]], regles, c["rubrique"])
     items.sort(key=lambda i: i["date"], reverse=True)
     recents = items[:400]
@@ -459,7 +464,7 @@ def main():
         c["image"] = f"{URL_SITE}/og/askaninfo.png"
         if c["photo"]:
             # aperçu de partage : la photo choisie pour l'article
-            c["image"] = URL_SITE + c["photo"]["image"]
+            c["image"] = URL_SITE + (c["photo"].get("carte") or c["photo"]["image"])
         elif n < IMAGES_PARTAGE:
             image_article(c["titre"], c["rubrique"], "Rédaction" if c["type"] == "article" else "Synthèse",
                           OUT / "og" / f"{c['slug']}.png")
