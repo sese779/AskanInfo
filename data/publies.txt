@@ -197,3 +197,8 @@ content/video/2026-11-25.md
 content/syntheses/2026-11-25-conseil-ministres-lfr-senegal-oriental-diaspora.md
 content/syntheses/2026-11-25-nominations-conseil-des-ministres.md
 content/syntheses/2026-11-26-conseil-ministres-25-novembre-nominations-liste-complete.md
+content/syntheses/2026-11-26-abdou-nguer-garde-a-vue-dsc.md
+content/syntheses/2026-11-26-assemblee-adopte-resolution-decret-lfr-128-voix.md
+content/syntheses/2026-11-26-fbi-salue-securite-joj-dakar.md
+content/syntheses/2026-11-26-groupe-edk-emprunt-obligataire-30-milliards.md
+content/syntheses/2026-11-26-liverpool-sidy-barhama-ndiaye.md
