@@ -204,3 +204,9 @@ images:
     credit: Dame Mbodj
     source: "Photo : fb"
     actif: true
+  - mots_cles:
+      - Abdou Nguer
+    image: /static/images/IMG_6038.jpeg
+    type: photo
+    credit: W’
+    actif: true
