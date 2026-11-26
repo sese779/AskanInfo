@@ -16,6 +16,32 @@
   ]
  },
  {
+  "id": "7ce4faea67cb",
+  "titre": "Emilie König, la plus médiatique des djihadistes françaises, devant la justice",
+  "lien": "https://www.lemonde.fr/societe/article/2026/11/26/emilie-konig-la-plus-mediatique-des-djihadistes-francaises-devant-la-justice_6815463_3224.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-26T04:00:16+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le procès de cette « revenante » de Syrie, âgée de 41 ans et mère de cinq enfants, accusée d’association de malfaiteurs terroriste notamment pour avoir relayé la propagande de l’organisation Etat islamique, s’ouvre jeudi à Paris."
+ },
+ {
+  "id": "333af2ebf4cc",
+  "titre": "Elections en Espagne : le coup de poker de Pedro Sanchez",
+  "lien": "https://www.lemonde.fr/podcasts/article/2026/11/26/elections-en-espagne-le-coup-de-poker-de-pedro-sanchez_6815462_5463015.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-26T04:00:13+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Malgré les sondages qui accordent une majorité à la droite et à l’extrême droite, le premier ministre espagnol refuse d’envisager une défaite aux élections législatives du 29 novembre. Explications en podcast avec Isabelle Piquer, correspondante du « Monde » à Madrid."
+ },
+ {
   "id": "249f59856632",
   "titre": "« Nous jouons tout lors de cette élection » : en Espagne, les femmes manifestent pour leurs droits avant les législatives, dimanche",
   "lien": "https://www.lemonde.fr/international/article/2026/11/26/nous-jouons-tout-lors-de-cette-election-en-espagne-les-femmes-manifestent-pour-leurs-droits-avant-les-legislatives-dimanche_6815461_3210.html",
@@ -58,6 +84,22 @@
   "extrait": "C’était il y a un an jour pour jour. Le 26 novembre 2025, les militaires prenaient le pouvoir en Guinée-Bissau et annulaient la proclamation des résultats des élections présidentielle et législatives. Désigné chef de l’État, le général Horta N’tam promettait alors une transition d’un an avant la…",
   "categories": [
    "Afrique"
+  ]
+ },
+ {
+  "id": "f60a58896f88",
+  "titre": "En direct : Trump et le chef de l'Otan exhortent Moscou à ne pas \"étendre la guerre\" avec l'Ukraine",
+  "lien": "https://www.france24.com/fr/europe/20261126-en-direct-ukraine-russie-ue-sommet-aide-zelensky-poutine",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-26T03:26:29+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Donald Trump et le chef de l'Otan, Mark Rutte, ont appelé la Russie à ne pas \"étendre la guerre\" en Ukraine, dans une déclaration conjointe publiée mercredi à l'issue d'une rencontre à la résidence du président américain en Floride. Les dirigeants de l'UE vont batailler jeudi et vendredi sur le…",
+  "categories": [
+   "Europe"
   ]
  },
  {
@@ -75859,18 +75901,5 @@
   "diaspora": false,
   "secondaire": true,
   "extrait": "Découvrez les Unes des journaux sénégalais du jeudi 19 novembre 2026"
- },
- {
-  "id": "afe673f257fa",
-  "titre": "Interdire le commerce avec les colonies israéliennes : des députés veulent placer la France face à ses engagements",
-  "lien": "https://www.lemonde.fr/international/article/2026/11/19/interdire-le-commerce-avec-les-colonies-israeliennes-des-deputes-veulent-placer-la-france-face-a-ses-engagements_6813220_3210.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-19T04:00:10+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Une proposition de loi du Parti socialiste, examinée jeudi 19 novembre à l’Assemblée, veut interdire le commerce avec les colonies israéliennes, y compris les services financiers, alors que deux mois après avoir annoncé des sanctions, le gouvernement n’agit pas."
  }
 ]
