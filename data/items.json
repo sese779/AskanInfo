@@ -29,6 +29,65 @@
   "extrait": "Issus du même parti d’opposition, le mentor, le président sortant et l’ancien maire se disputent un électorat dont la moindre recomposition pourrait faire basculer le scrutin présidentiel à un tour qui aura lieu le 5 décembre."
  },
  {
+  "id": "c2a070cabb1d",
+  "titre": "Le Café des Sports : Marseille-Levski Sofia, de violents affrontements entre supporters au Vélodrome",
+  "lien": "https://www.rfi.fr/fr/podcasts/radio-foot-internationale/20261127-le-caf%C3%A9-des-sports-marseille-levski-sofia-de-violents-affrontements-entre-supporters-au-v%C3%A9lodrome",
+  "source": "RFI Sports",
+  "site_source": "https://www.rfi.fr/fr/sports",
+  "date": "2026-11-27T18:04:39+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le Café des Sports – vendredi 27 novembre 2026. Direct à 16 h 10 TU / 17 h 10 à Paris sur RFI. En vidéo sur Facebook Live et YouTube Live. Rediffusion à 22 h 10 TU / 23 h 10 à Paris sur RFI et France 24. Au sommaire : Ligue Europa – Ultra violences au Vélodrome ; CAN 2025 – Le Sénégal retrouve son…",
+  "categories": [
+   "Radio Foot Internationale"
+  ]
+ },
+ {
+  "id": "3a45f9b01330",
+  "titre": "Dans « L’Ecole du Sud », l’historien Onur Erdur enquête sur les expériences coloniales des intellectuels de la French Theory",
+  "lien": "https://www.lemonde.fr/idees/article/2026/11/27/dans-l-ecole-du-sud-l-historien-onur-erdur-enquete-sur-les-experiences-coloniales-des-intellectuels-de-la-french-theory_6815918_3232.html",
+  "source": "Le Monde Afrique",
+  "site_source": "https://www.lemonde.fr/afrique/",
+  "date": "2026-11-27T18:00:15+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L’essai revient sur le parcours de huit figures du courant d’idées des années 1960-1970, dont Michel Foucault et Roland Barthes, et analyse l’influence de leur expérience du Maghreb colonial sur leur pensée."
+ },
+ {
+  "id": "d122d99e75f7",
+  "titre": "Amical : Les Lionnes d’Alioune Abatalib Fall lourdement battues par la Côte d’Ivoire (4-1)",
+  "lien": "https://wiwsport.com/2026/11/27/amical-les-lionnes-dalioune-abatalib-fall-lourdement-battues-par-la-cote-divoire-4-1/",
+  "source": "Wiwsport",
+  "site_source": "https://www.wiwsport.com",
+  "date": "2026-11-27T17:59:46+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "( wiwsport ) - Pour leur premier match amical face aux Ivoiriennes, les Lionnes se sont inclinées 4-1 à Abidjan ce vendredi. Auteure d’un fabuleux but, Nguenar Ndiaye avait répondu à Habibou Ouedraogo en première période mais les Sénégalaises ont sombré au retour des vestiaires. Première défaite…",
+  "categories": [
+   "Equipe nationale Football",
+   "Foot Féminin"
+  ]
+ },
+ {
+  "id": "c38dfcf2608f",
+  "titre": "Oulampane : La Plateforme des Femmes pour la Paix en Casamance condamne l’agression du maire",
+  "lien": "https://www.seneweb.com/fr/news/Societe/oulampane-la-plateforme-des-femmes-pour-la-paix-en-casamance-condamne-lagression-du-maire_n_999004846.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-27T17:58:23+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La Plateforme des Femmes pour la Paix en Casamance a fermement condamné l’agression dont a été victime le maire de la commune d’Oulampane, grièvement brûlé dans son sommeil..."
+ },
+ {
   "id": "676ac358ad1f",
   "titre": "LFR 2026 : Kiraay et PASTEF engouffrent le pays",
   "lien": "https://senego.com/lfr-2026-kiraay-et-pastef-engouffrent-le-pays_2028786.html",
@@ -62,6 +121,51 @@
   "extrait": "Après la mort d'au moins huit personnes à bord d'une pirogue secourue ce vendredi au large d'El Hierro, le président des Canaries...",
   "categories": [
    "+ D'ACTU"
+  ]
+ },
+ {
+  "id": "f3b5f66a0805",
+  "titre": "Kolda : plus de 80 jeunes filles victimes d’abus sexuels, parfois suivis de grossesses, prises en charge depuis janvier",
+  "lien": "https://www.pressafrik.com/Kolda-plus-de-80-jeunes-filles-victimes-d-abus-sexuels-parfois-suivis-de-grossesses-prises-en-charge-depuis-janvier_a315190.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-27T17:53:00+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Derrière l’attractivité économique et scolaire de la région de Kolda se dessine une réalit... www.pressafrik.com",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "eccc91bad122",
+  "titre": "Le TAS a rendu son titre au Sénégal : la fin d’un système mondial à bout de souffle ?",
+  "lien": "https://www.seneplus.com/article/le-tas-rendu-son-titre-au-senegal-la-fin-dun-systeme-mondial-bout-de-souffle",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-27T17:52:06+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le TAS a rendu son titre au Sénégal : la fin d’un système mondial à bout de souffle ? Farid Akele Fri, 11/27/2026 - 17:52"
+ },
+ {
+  "id": "4f0b4f3fc954",
+  "titre": "De 0,23 % à 2,27 % du PIB : comment le remboursement de la dette pèse sur les économies ouest-africaines",
+  "lien": "https://www.pressafrik.com/De-023-a-227-du-PIB-comment-le-remboursement-de-la-dette-pese-sur-les-economies-ouest-africaines_a315189.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-27T17:51:00+00:00",
+  "rubrique": "Afrique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "« La dette souveraine extérieure de l'Afrique de l'Ouest... www.pressafrik.com",
+  "categories": [
+   "Economie"
   ]
  },
  {
@@ -595,6 +699,22 @@
   "extrait": "L’OCDE et de la Commission de l'Union africaine, ont publié u... www.pressafrik.com",
   "categories": [
    "Economie"
+  ]
+ },
+ {
+  "id": "c09850dd27d0",
+  "titre": "CAN 2025 : après le verdict du TAS consacrant le Sénégal, le gouvernement marocain réagit",
+  "lien": "https://www.leral.net/CAN-2025-apres-le-verdict-du-TAS-consacrant-le-Senegal-le-gouvernement-marocain-reagit_a412317.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-27T17:01:00+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "",
+  "categories": [
+   "Actualités"
   ]
  },
  {
@@ -75529,192 +75649,5 @@
    "Equipe nationale Football",
    "U-17"
   ]
- },
- {
-  "id": "970f237ef8f9",
-  "titre": "GTA : BP envisage de céder ses intérêts au Sénégal et en Mauritanie",
-  "lien": "https://senego.com/gta-bp-envisage-de-ceder-ses-interets-au-senegal-et-en-mauritanie_2026203.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-20T18:04:52+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Après avoir renoncé à la phase 2 du projet GTA, BP étudie la cession de ses intérêts. Les contraintes opérationnelles et les négociations avec Dakar et Nouakchott sont en cause.",
-  "categories": [
-   "Afrique",
-   "Économie",
-   "Énergie",
-   "Sénégal",
-   "BP"
-  ]
- },
- {
-  "id": "d3cc19b5c29c",
-  "titre": "Sans Starlink, l'Ukraine à l'assaut du pont de Crimée avec des drones relais",
-  "lien": "https://www.france24.com/fr/europe/20261120-sans-starlink-ukraine-assaut-pont-crim%C3%A9e-avec-drones-relais",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-20T18:01:38+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Les frappes ukrainiennes contre le pont de Crimée depuis le 15 novembre ont été saluées comme un succès opérationnel majeur par l’Ukraine. Elles ont été facilitées par ce que le Financial Times a appelé des \"modems volants\", c’est-à-dire des drones relais de communication permettant de palier les…",
-  "categories": [
-   "Europe"
-  ]
- },
- {
-  "id": "4e1502a74236",
-  "titre": "Zeinab Badawi : « L’Afrique a une histoire très riche, bien avant l’arrivée des Européens »",
-  "lien": "https://www.jeuneafrique.com/1863788/societe/zeinab-badawi-lafrique-a-une-histoire-tres-riche-bien-avant-larrivee-des-europeens/",
-  "source": "Jeune Afrique",
-  "site_source": "https://www.jeuneafrique.com",
-  "date": "2026-11-20T18:01:10+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "La journaliste et historienne soudano-britannique Zeinab Badawi, autrice d’« Une histoire africaine de l’Afrique », souhaite que le continent puisse se réapproprier son propre récit. Son livre à succès jette un éclairage inédit sur les enjeux géopolitiques contemporains."
- },
- {
-  "id": "75113db8cc05",
-  "titre": "🔴Direct - Mondial U17 : Sénégal tenu en échec par Croatie, 6ème journée du championnat Sénégalais",
-  "lien": "https://www.pressafrik.com/🔴Direct-Mondial-U17-Senegal-tenu-en-echec-par-Croatie-6eme-journee-du-championnat-Senegalais_a314887.html",
-  "source": "PressAfrik",
-  "site_source": "https://www.pressafrik.com",
-  "date": "2026-11-20T18:01:00+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "https://www.youtube.com/live/Yr8Dgmhnu1s www.pressafrik.com",
-  "categories": [
-   "Sport"
-  ]
- },
- {
-  "id": "1304eb8cf6f9",
-  "titre": "Héritage des JOJ Dakar 2026 : voici les priorités fixées par le Premier ministre",
-  "lien": "https://www.pressafrik.com/Heritage-des-JOJ-Dakar-2026-voici-les-priorites-fixees-par-le-Premier-ministre_a314888.html",
-  "source": "PressAfrik",
-  "site_source": "https://www.pressafrik.com",
-  "date": "2026-11-20T18:01:00+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le Premier ministre Ahmadou Alhaminou Mouhamed Lo a présidé, ce vendredi 20 novembre 2026, un... www.pressafrik.com",
-  "categories": [
-   "Politique"
-  ]
- },
- {
-  "id": "e55b54101c20",
-  "titre": "VDN : Une femme secourue après avoir tenté de se jeter d’un immeuble en flammes",
-  "lien": "https://www.xibaaru.sn/vdn-une-femme-secourue-apres-avoir-tente-de-se-jeter-dun-immeuble-en-flammes/",
-  "source": "Xibaaru",
-  "site_source": "https://www.xibaaru.sn",
-  "date": "2026-11-20T18:00:47+00:00",
-  "rubrique": "Faits divers",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Un incendie s’est déclaré ce vendredi 20 novembre 2026 dans un immeuble situé sur la Voie de dégagement nord (VDN), en face du supermarché Exclusif, à Dakar. Alors que les flammes se…",
-  "categories": [
-   "Société"
-  ]
- },
- {
-  "id": "e969394b5fd8",
-  "titre": "Le poids d’un enfant (Le billet de Samba Oumar FALL)",
-  "lien": "https://lesoleil.sn/le-decodeur/billet/le-poids-dun-enfant-le-billet-de-samba-oumar-fall/",
-  "source": "Le Soleil",
-  "site_source": "https://lesoleil.sn",
-  "date": "2026-11-20T18:00:32+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Trois ans. L’âge des premiers mots, des premiers jeux, des bras tendus vers maman. L’âge où l’on croit encore qu’elle peut tout réparer et qu’elle ne fera jamais mal. Pour cette mère pourtant, son enfant était un fardeau. « J’étais obligée de le traîner partout », aurait-elle expliqué. Une phrase,…",
-  "categories": [
-   "Billet"
-  ]
- },
- {
-  "id": "fca2b650ec58",
-  "titre": "Minerais critiques : au Kenya, un consortium américain met la main sur un site prometteur",
-  "lien": "https://www.lemonde.fr/afrique/article/2026/11/20/minerais-critiques-au-kenya-un-consortium-americain-met-la-main-sur-un-site-prometteur_6813689_3212.html",
-  "source": "Le Monde Afrique",
-  "site_source": "https://www.lemonde.fr/afrique/",
-  "date": "2026-11-20T18:00:27+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le ministère des mines kényan a choisi, jeudi 19 novembre, le consortium Frontier Minerals pour exploiter le site de Mrima Hill. Une victoire pour Washington, qui cherche à pallier la restriction des exportations chinoises en minerais."
- },
- {
-  "id": "e808afdd00f1",
-  "titre": "Camille Lellouche, 360 degrés de talents",
-  "lien": "https://www.france24.com/fr/%C3%A9missions/l%C3%A9gendes-urbaines/20261120-camille-lellouche-360-degr%C3%A9s-de-talents",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-20T18:00:23+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Rendez-vous avec l'artiste pluridisciplinaire Camille Lellouche à l'occasion de la sortie de son nouvel album \"Minuit\". Autrice, compositrice, musicienne, chanteuse, humoriste et comédienne, elle revient sur son enfance à Vitry-sur-Seine, en banlieue parisienne, ses influences musicales – de la…",
-  "categories": [
-   "Légendes urbaines"
-  ]
- },
- {
-  "id": "70316eb20114",
-  "titre": "SAINT-LOUIS: INCLUSION ET CITOYENNETÉ : L’école appelée à briser les chaînes de l’exclusion",
-  "lien": "https://www.enqueteplus.com/content/saint-louis-inclusion-et-citoyennet%C3%A9-l%E2%80%99%C3%A9cole-appel%C3%A9e-%C3%A0-briser-les-cha%C3%AEnes-de-l%E2%80%99exclusion",
-  "source": "EnQuête",
-  "site_source": "https://www.enqueteplus.com",
-  "date": "2026-11-20T17:57:48+00:00",
-  "rubrique": "Société",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "SAINT-LOUIS: INCLUSION ET CITOYENNETÉ L’école appelée à briser les chaînes de l’exclusion Discrimination, inégalités entre filles et garçons, défaut d’état civil et manque d’empathie entre élèves sont autant de facteurs qui compromettent l’épanouissement de nombreux enfants. Pour inverser la…"
- },
- {
-  "id": "4ad74c09a47e",
-  "titre": "Sadio Mané est à nouveau papa : naissance de son deuxième enfant",
-  "lien": "https://www.senenews.com/actualites/carnet-rose-sadio-mane-accueille-son-deuxieme-enfant_607104.html",
-  "source": "Senenews",
-  "site_source": "https://www.senenews.com",
-  "date": "2026-11-20T17:57:29+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Heureuse nouvelle pour l’international sénégalais Sadio Mané ! L’attaquant des Lions de la Téranga vient de goûter une nouvelle fois aux joies de la paternité avec la naissance de son deuxième enfant. Cet heureux événement familial survient à quelques heures d’une rencontre importante face à Al…",
-  "categories": [
-   "Football",
-   "Sénégal - Actualités",
-   "SeneNews Sport",
-   "sadio mané"
-  ]
- },
- {
-  "id": "aef09c4f540d",
-  "titre": "Au Mali, une nouvelle société militaire turque épaule secrètement la junte d’Assimi Goïta",
-  "lien": "https://www.lemonde.fr/afrique/article/2026/11/20/au-mali-une-nouvelle-societe-militaire-turque-epaule-secretement-la-junte-d-assimi-goita_6813684_3212.html",
-  "source": "Le Monde Afrique",
-  "site_source": "https://www.lemonde.fr/afrique/",
-  "date": "2026-11-20T17:57:03+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Des instructeurs d’Equipped Tactical Academy ont formé des éléments des forces spéciales maliennes fin 2025. Si la Russie reste, avec environ 2 000 militaires d’Africa Corps, le premier partenaire du Mali dans le secteur de la défense, la Turquie est également un allié sûr du pouvoir d’Assimi Goïta."
  }
 ]
