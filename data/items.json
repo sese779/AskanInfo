@@ -16,6 +16,19 @@
   ]
  },
  {
+  "id": "66f821a42a24",
+  "titre": "Football : Emmanuel Macron condamne fermement les violences contre des supporteurs bulgares à Marseille, Sofia réclame une enquête",
+  "lien": "https://www.lemonde.fr/sport/article/2026/11/27/football-emmanuel-macron-condamne-fermement-les-violences-contre-des-supporteurs-bulgares-a-marseille-sofia-reclame-une-enquete_6815725_3242.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-27T02:27:04+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Les affrontements survenus avant la rencontre de Ligue Europa entre l’Olympique de Marseille et le Levski Sofia, jeudi, au Stade-Vélodrome, ont fait une douzaine de blessés parmi les supporteurs bulgares, selon la préfecture de police des Bouches-du-Rhône."
+ },
+ {
   "id": "024e3733538f",
   "titre": "En Suisse, un scrutin qui sent la poudre",
   "lien": "https://www.lemonde.fr/international/article/2026/11/27/en-suisse-un-scrutin-qui-sent-la-poudre_6815692_3210.html",
@@ -75326,72 +75339,6 @@
   "extrait": "Le directeur de la cybersécurité de la Maison Blanche Sean Cairncross, jugé dépourvu des compétences nécessaires pour occuper ce poste, a été limogé jeudi, après des incidents techniques en série ces derniers jours aux États-Unis.",
   "categories": [
    "Amériques"
-  ]
- },
- {
-  "id": "f53f3aafb464",
-  "titre": "Sénégal : 30 milliards FCFA mobilisés, face à 13 milliards de dollars de besoins climat",
-  "lien": "https://senego.com/senegal-30-milliards-fcfa-mobilises-face-a-13-milliards-de-dollars-de-besoins-climat_2025942.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-20T02:52:33+00:00",
-  "rubrique": "Économie",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Après la COP31, le Sénégal annonce plus de 30 milliards FCFA mobilisés et 17 millions de dollars attendus, loin des besoins de sa CDN estimés à 13 milliards.",
-  "categories": [
-   "Afrique",
-   "Économie",
-   "Environnement",
-   "Sénégal",
-   "adaptation climatique"
-  ]
- },
- {
-  "id": "a2f35e8d8329",
-  "titre": "Des villes côtières de Californie bouleversées par la montée des eaux et la disparition des plages",
-  "lien": "https://www.lemonde.fr/international/article/2026/11/20/des-villes-cotieres-de-californie-bouleversees-par-la-montee-des-eaux-et-la-disparition-des-plages_6813514_3210.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-20T02:15:05+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Maisons abîmées, inondations, glissements de terrain, routes coupées… En cette année marquée par un « El Niño » particulièrement puissant, les dégâts se multiplient dans les stations balnéaires du sud de l’Etat, mettant en péril des écosystèmes touristiques."
- },
- {
-  "id": "3c44e472ccae",
-  "titre": "À Guédiawaye, l’expérience d’ABOYA inspire des actrices de la lutte contre le paludisme en Afrique",
-  "lien": "https://www.seneplus.com/article/guediawaye-lexperience-daboya-inspire-des-actrices-de-la-lutte-contre-le-paludisme-en",
-  "source": "SenePlus",
-  "site_source": "https://www.seneplus.com",
-  "date": "2026-11-20T02:14:17+00:00",
-  "rubrique": "Afrique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "À Guédiawaye, l’expérience d’ABOYA inspire des actrices de la lutte contre le paludisme en Afrique Alioune Diatta Fri, 11/20/2026 - 02:14"
- },
- {
-  "id": "779f93dc4ed5",
-  "titre": "Législatives : la Constitution n’impose pas à Diomaye de gouverner avec PASTEF",
-  "lien": "https://senego.com/legislatives-la-constitution-nimpose-pas-a-diomaye-de-gouverner-avec-pastef_2025940.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-20T02:08:10+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Une affirmation virale lie victoire de PASTEF aux élections et démission présidentielle. La Constitution sénégalaise ne prévoit pas cette obligation.",
-  "categories": [
-   "Assemblée nationale",
-   "Élections",
-   "Politique",
-   "Sénégal",
-   "Bassirou diomaye Faye"
   ]
  }
 ]
