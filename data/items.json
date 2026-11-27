@@ -1,5 +1,37 @@
 [
  {
+  "id": "90259849c853",
+  "titre": "El Hierro : 14 morts dans une pirogue partie de Gambie, dont un rescapé resté auprès des corps",
+  "lien": "http://www.ndarinfo.com/El-Hierro-14-morts-dans-une-pirogue-partie-de-Gambie-dont-un-rescape-reste-aupres-des-corps_a47356.html",
+  "source": "Ndarinfo (Saint-Louis)",
+  "site_source": "https://www.ndarinfo.com",
+  "date": "2026-11-27T23:49:00+00:00",
+  "rubrique": "Diaspora",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Quatorze corps ont été débarqués ce vendredi à El Hierro, aux Canaries, après le remorquage d'une pirogue partie de Gambie il y a di...",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "57dcc0d34839",
+  "titre": "Décès d'Adama Salif Lamine Diallo et d'Abdou Tidiane Diop : le parquet de Dakar fait le point",
+  "lien": "http://www.ndarinfo.com/Deces-d-Adama-Salif-Lamine-Diallo-et-d-Abdou-Tidiane-Diop-le-parquet-de-Dakar-fait-le-point_a47355.html",
+  "source": "Ndarinfo (Saint-Louis)",
+  "site_source": "https://www.ndarinfo.com",
+  "date": "2026-11-27T23:09:00+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le parquet de Dakar fait état d'une défaillance multiviscérale chez Adama Salif Lamine Diallo et Abdou Tidiane Diop, morts le 1...",
+  "categories": [
+   "Faits divers"
+  ]
+ },
+ {
   "id": "470da8a4e8c1",
   "titre": "Assemblée nationale : quatre commissions d'enquête sur la dette, les fonds spéciaux et les inondations",
   "lien": "http://www.ndarinfo.com/Assemblee-nationale-quatre-commissions-d-enquete-sur-la-dette-les-fonds-speciaux-et-les-inondations_a47354.html",
@@ -13,6 +45,459 @@
   "extrait": "Le Bureau de l'Assemblée nationale, présidé par Ousmane Sonko, a adopté ce vendredi quatre propositions de résolution créant de...",
   "categories": [
    "+ D'ACTU"
+  ]
+ },
+ {
+  "id": "e9713e65ce92",
+  "titre": "Mondial U17 : Le Sénégal hérite de l’Australie en 16es de finale, un rendez-vous décisif pour les Lionceaux",
+  "lien": "https://senego.com/mondial-u17-le-senegal-herite-de-laustralie-en-16es-de-finale-un-rendez-vous-decisif-pour-les-lionceaux_2028888.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-27T23:02:06+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Le tirage au sort des 16es de finale de la Coupe du monde U17 est désormais officiel. Le Sénégal connaît son prochain adversaire dans la compétition, l’Australie. Les Lionceaux devront sortir le grand jeu pour franchir ce premier cap de la phase à élimination directe et poursuivre leur aventure…",
+  "categories": [
+   "Actualités",
+   "Football",
+   "Sciences",
+   "sport",
+   "16e finale"
+  ]
+ },
+ {
+  "id": "61f52a1fbe79",
+  "titre": "Paradis à vendre (Le billet de Samba Oumar FALL)",
+  "lien": "https://lesoleil.sn/le-decodeur/billet/paradis-a-vendre-le-billet-de-samba-oumar-fall/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-27T22:57:19+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Vous ne rêvez pas ! Le paradis a désormais un prix au mètre carré. Un pasteur hispano-portugais aurait trouvé la formule magique pour résoudre la crise du logement jusque dans l’au-delà. Son tarif, 100 euros le mètre carré. Et, paraît-il, des milliers de clients se bousculent déjà au portillon…",
+  "categories": [
+   "Billet"
+  ]
+ },
+ {
+  "id": "8b140e006ad6",
+  "titre": "Morts mystérieuses : La décision du Procureur dans l’affaire Adama Diallo et Tidiane Diop",
+  "lien": "https://www.senenews.com/actualites/morts-mysterieuses-la-decision-du-procureur-dans-laffaire-adama-diallo-et-tidiane-diop_607867.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-27T22:55:47+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le Procureur de la République près le Tribunal de Grande Instance Hors Classe de Dakar a annoncé l'ouverture d'une enquête à la suite du décès d'Adama Salif Lamine Diallo et d'Abdou Tidiane Diop, survenu le samedi 14 novembre 2026 à Dakar. Selon le communiqué du Parquet, les premiers éléments de…",
+  "categories": [
+   "Sénégal - Actualités",
+   "Société",
+   "procureur",
+   "Tidiane Diop"
+  ]
+ },
+ {
+  "id": "241ddfede8c0",
+  "titre": "Vélingara : Le préfet signe un arrêté réglementant la circulation des vélos-taxis…",
+  "lien": "https://www.dakaractu.com/Velingara-Le-prefet-signe-un-arrete-reglementant-la-circulation-des-velos-taxis_a278658.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-27T22:55:00+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le préfet du département de Vélingara (Kolda) vient de signer un arrêté règlementant la circulation des vélos-taxis dans la commune urbaine pour des raisons de sécurité. Ainsi, cet arrêté indique que la circulation est ouverte de 7 heures à 22 heures pour les jours ouvrables et jusqu’à 00 heure…",
+  "categories": [
+   "Texto"
+  ]
+ },
+ {
+  "id": "468c11638c35",
+  "titre": "Rebeuss : un laveur de voitures meurt après une chute dans un caniveau en construction",
+  "lien": "https://www.seneweb.com/fr/news/Societe/rebeuss-un-laveur-de-voitures-meurt-apres-une-chute-dans-un-caniveau-en-construction_n_999004872.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-27T22:54:33+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Un drame est survenu ce vendredi 27 novembre 2026 à Rebeuss. O. Mbaye, laveur de voitures âgé de 46 ans, est mort après être tombé dans un caniveau en construction, en pleine rue Dial Diop.Il était 12…"
+ },
+ {
+  "id": "134f0b78322c",
+  "titre": "Avant de dissoudre, repenser les règles du jeu démocratique",
+  "lien": "https://www.seneplus.com/article/avant-de-dissoudre-repenser-les-regles-du-jeu-democratique",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-27T22:52:18+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Avant de dissoudre, repenser les règles du jeu démocratique Farid Akele Fri, 11/27/2026 - 22:52"
+ },
+ {
+  "id": "2c632b47dbdb",
+  "titre": "Kolda : un véhicule du ministère de l'Urbanisme impliqué dans un accident",
+  "lien": "https://www.seneweb.com/fr/news/Societe/kolda-un-vehicule-du-ministere-de-lurbanisme-implique-dans-un-accident_n_999004871.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-27T22:52:02+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le commissariat central de Kolda a été informé, ce vendredi 27 novembre 2026, vers 10 heures, d'un accident matériel de la circulation routière survenu au quartier Escale.Les policiers se sont aussitôt transportés sur les lieux."
+ },
+ {
+  "id": "479b3c28a27e",
+  "titre": "À Thiès, six pharmacies : la liste précise leurs adresses et numéros de téléphone",
+  "lien": "https://senego.com/a-thies-six-pharmacies-la-liste-precise-leurs-adresses-et-numeros-de-telephone_2028894.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-27T22:51:38+00:00",
+  "rubrique": "Société",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "À Thiès, six pharmacies sont de garde du 28 novembre au 5 décembre 2026. La liste précise leurs numéros de téléphone et leurs emplacements.",
+  "categories": [
+   "Santé",
+   "Sénégal",
+   "Société",
+   "pharmacies",
+   "pharmacies de garde"
+  ]
+ },
+ {
+  "id": "0073a1acc3ff",
+  "titre": "Assemblée nationale : quatre commissions d’enquête parlementaires annoncées sur la dette, Banco Santander et les fonds spéciaux",
+  "lien": "https://www.seneweb.com/fr/news/Politique/assemblee-nationale-quatre-commissions-denquete-parlementaires-annoncees-sur-la-dette-banco-santander-et-les-fonds-speciaux_n_999004870.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-27T22:49:46+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le Bureau de l’Assemblée nationale, réuni ce vendredi 27 novembre 2026 sous la présidence d’Ousmane Sonko, a adopté quatre propositions de résolution portant création de commissions d’enquête parlementaires."
+ },
+ {
+  "id": "66648d59b9a2",
+  "titre": "La grande mosquée de Kedougou entièrement rénovée et réceptionnée",
+  "lien": "https://lesoleil.sn/actualites/societe-fait-divers/la-grande-mosquee-de-kedougou-entierement-renovee-et-receptionnee/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-27T22:46:58+00:00",
+  "rubrique": "Société",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La grande mosquée de Kédougou franchit une étape importante avec son achèvement, après le lancement des travaux en 2023. La pose de la première pierre avait été effectuée sous la présidence de Macky Sall. Vingt mois de travaux auront été nécessaires pour donner corps à cette infrastructure…",
+  "categories": [
+   "Société / Fait divers",
+   "Kedougou",
+   "président Faye",
+   "tournée économique"
+  ]
+ },
+ {
+  "id": "f837a788d759",
+  "titre": "Projet aurifère de Douta : le président Diomaye Faye lance un investissement de 151 milliards de FCFA",
+  "lien": "https://lesoleil.sn/actualites/economie/projet-aurifere-de-douta-le-president-diomaye-faye-lance-un-investissement-de-151-milliards-de-fcfa/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-27T22:40:39+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le président de la République, Bassirou Diomaye Faye, a procédé, vendredi, à la pose de la première pierre du projet aurifère de Douta, dans la commune de Khossanto, département de Saraya. Portée par un partenariat entre International Mining Company (IMC) et African Star Resources, filiale de Thor…",
+  "categories": [
+   "Économie",
+   "Kedougou",
+   "Président Diomaye Faye",
+   "tournée économique"
+  ]
+ },
+ {
+  "id": "091cb4cc964e",
+  "titre": "TAS : le Maroc préparerait 2 recours contre le Sénégal !",
+  "lien": "https://www.afrik-foot.com/tas-le-maroc-preparerait-2-recours-contre-le-senegal",
+  "source": "Afrik-Foot",
+  "site_source": "https://www.afrik-foot.com",
+  "date": "2026-11-27T22:31:56+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La Fédération royale marocaine de football (FRMF) serait sur le point de déposer deux plaintes distinctes après la décision du Tribunal arbitral du sport (TAS) favorable au Sénégal dans le litige de la finale de la CAN 2025. Alors que la Fédération sénégalaise de football (FSF) a fait part de sa…",
+  "categories": [
+   "News",
+   "Maroc",
+   "Sénégal"
+  ]
+ },
+ {
+  "id": "68014469648a",
+  "titre": "Mali: les djihadistes du JNIM impose un blocus sur la ville de Tonka",
+  "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261127-mali-les-djihadistes-du-jnim-impose-un-blocus-sur-la-ville-de-tonka",
+  "source": "France 24 Afrique",
+  "site_source": "https://www.france24.com/fr/afrique/",
+  "date": "2026-11-27T22:30:34+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Les djihadistes du Groupe de Soutien à l’islam et aux musulmans (JNIM) affilié à Al-Qaïda, imposent depuis ce vendredi un blocus à Tonka, localité du nord du Mali… C’est l’installation depuis quelques semaines dans cette ville située dans la région de Tombouctou d’un détachement des forces russes…",
+  "categories": [
+   "Journal de l'Afrique"
+  ]
+ },
+ {
+  "id": "9784a4a5a0e0",
+  "titre": "Un faux procureur démasqué après des menaces de diffusion de vidéos intimes",
+  "lien": "https://lesoleil.sn/faits-divers/un-faux-procureur-demasque-apres-des-menaces-de-diffusion-de-videos-intimes/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-27T22:29:45+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Un individu a été déféré devant le Parquet, le 27 novembre 2026, par la Division spéciale de lutte contre la cybercriminalité (DSC). Il est poursuivi pour collecte illicite et diffusion de données à caractère personnel, usurpation de fonction, injures et menaces. Le mis en cause aurait notamment…",
+  "categories": [
+   "Faits divers"
+  ]
+ },
+ {
+  "id": "9b52ada56335",
+  "titre": "Après l’incendie de son restaurant, Aby Ndour reprend « Jappal » en remix",
+  "lien": "https://senego.com/apres-lincendie-de-son-restaurant-aby-ndour-reprend-jappal-en-remix_2028887.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-27T22:27:01+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Après l’incendie de son restaurant, Aby Ndour propose une nouvelle version de « Jappal ». Le clip revient en images sur les dégâts causés par le sinistre.",
+  "categories": [
+   "Culture",
+   "People",
+   "Sénégal",
+   "Aby Ndour",
+   "Incendié"
+  ]
+ },
+ {
+  "id": "41d63f9bfac9",
+  "titre": "Hommage à Imam Mouhamed Sankhe pour service rendu à l’Islam",
+  "lien": "https://www.dakaractu.com/Hommage-a-Imam-Mouhamed-Sankhe-pour-service-rendu-a-l-Islam_a278657.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-27T22:23:00+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "C’est avec une vive émotion et le cœur profondément habité par la gratitude envers le Tout-Puissant que je reprends aujourd’hui ces mots. Il y a quelque temps, j’avais eu l’immense privilège de tenir cette intervention lors d’un panel en son honneur, alors qu’il était encore parmi nous. Aujourd’hui…",
+  "categories": [
+   "Texto"
+  ]
+ },
+ {
+  "id": "385d0ee23697",
+  "titre": "Sénégal : plus de 3 500 éléments engagés dans la manœuvre militaire « Boundou 2026 » à l’Est du pays",
+  "lien": "https://www.pressafrik.com/Senegal-plus-de-3-500-elements-engages-dans-la-manoeuvre-militaire-Boundou-2026-a-l-Est-du-pays_a315206.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-27T22:20:00+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Les Armées sénégalaises lancent, du 28 novembre au 6 décembre 2026, la manœuvre nationale « Boundo... www.pressafrik.com",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "35dc4d21b26d",
+  "titre": "Hackers, attention : Le Sénégal muscle sa défense et ne veut plus se faire pirater",
+  "lien": "https://senego.com/hackers-attention-le-senegal-muscle-sa-defense-et-ne-veut-plus-se-faire-pirater_2028875.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-27T22:18:39+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Cybersécurité au Sénégal. La loi n° 2026-20 renforce la protection des infrastructures numériquesFace à la montée des menaces dans le cyberespace, le Sénégal franchit une nouvelle étape dans la sécurisation de son écosystème digital. Ainsi, l’Etat sort l’artillerie juridique contre les pirates…",
+  "categories": [
+   "Actualités",
+   "Sénégal",
+   "Société",
+   "Cybersécurité au Sénégal",
+   "loi n° 2026-20"
+  ]
+ },
+ {
+  "id": "732b2d7b204d",
+  "titre": "Corruption au Sénégal : 28 ans dans la zone rouge, l'Ofnac et le Forum Civil face à l'urgence d'un sursaut national...",
+  "lien": "https://www.dakaractu.com/Corruption-au-Senegal-28-ans-dans-la-zone-rouge-l-Ofnac-et-le-Forum-Civil-face-a-l-urgence-d-un-sursaut-national_a278656.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-27T22:18:00+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Depuis 1998, le Sénégal n'est jamais parvenu à sortir de la zone rouge dans l'Indice de perception de la corruption de Transparency International. Un constat alarmant qui pousse l'Ofnac et le Forum Civil à hausser le ton. À Saly, les deux organisations ont engagé une réflexion commune pour…",
+  "categories": [
+   "Texto"
+  ]
+ },
+ {
+  "id": "418190695d68",
+  "titre": "Joal : Près de 2 tonnes de faux médicaments saisies par les Douanes, une contrevaleur de 146 millions FCFA",
+  "lien": "https://www.seneweb.com/fr/news/Sport/joal-pres-de-2-tonnes-de-faux-medicaments-saisies-par-les-douanes-une-contrevaleur-de-146-millions-fcfa_n_999004869.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-27T22:17:44+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La lutte contre le trafic de produits pharmaceutiques illicites vient de connaître un nouveau coup de filet sur la Petite Côte."
+ },
+ {
+  "id": "cd04c64a20dd",
+  "titre": "Médias : La sénégalaise Adjoua Rokhya Agnili Bassène élue présidente du Réseau africain des jeunes journalistes (RAJJ)",
+  "lien": "https://www.dakaractu.com/Medias-La-senegalaise-Adjoua-Rokhya-Agnili-Bassene-elue-presidente-du-Reseau-africain-des-jeunes-journalistes-RAJJ_a278655.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-27T22:14:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le continent africain tient sa nouvelle figure de proue pour la jeunesse médiatique. À l’issue d’une assemblée générale tenue récemment, la journaliste sénégalaise Adjoua Rokhya Agnili Bassène a été élue présidente du Réseau africain des jeunes journalistes (RAJJ). Elle succède ainsi à ses…",
+  "categories": [
+   "Texto"
+  ]
+ },
+ {
+  "id": "b3d4d5e326b8",
+  "titre": "Médina Yoro Foula : le CEM de Pata dit adieu aux abris provisoires avec six nouvelles salles de classe",
+  "lien": "https://www.pressafrik.com/Medina-Yoro-Foula-le-CEM-de-Pata-dit-adieu-aux-abris-provisoires-avec-six-nouvelles-salles-de-classe_a315205.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-27T22:14:00+00:00",
+  "rubrique": "Société",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Un nouveau souffle pour l’éducation à Pata. Les populations de cette commune du département d... www.pressafrik.com",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "c9bc1d30c193",
+  "titre": "Assemblée : Ousmane Sonko repasse à l’attaque avec 4 commissions d’enquête parlementaires",
+  "lien": "https://www.senenews.com/actualites/assemblee-ousmane-sonko-repasse-a-lattaque-avec-4-commissions-denquete-parlementaires_607866.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-27T22:13:30+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le Bureau de l'Assemblée nationale s'est réuni ce vendredi sous la présidence d'Ousmane Sonko. À l'issue de ses travaux, il a adopté quatre propositions de résolution portant création de commissions d'enquête parlementaires. Les commissions porteront sur : Thèmes des commissions d'enquête…",
+  "categories": [
+   "Politique",
+   "Sénégal - Actualités",
+   "commissions d'enquête parlementaires"
+  ]
+ },
+ {
+  "id": "143206a432d2",
+  "titre": "SUIVEZ BANC PUBLIC DE CE VENDREDI",
+  "lien": "https://www.seneweb.com/fr/news/EN%20DIRECT/suivez-banc-public-de-ce-vendredi-22_n_999004868.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-27T22:11:58+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "SUIVEZ BANC PUBLIC DE CE VENDREDI"
+ },
+ {
+  "id": "6f0f74c5b227",
+  "titre": "Mauritanie : l’humoriste Kodda Sall convoqué par la police après une vidéo sur le 28 novembre",
+  "lien": "https://lesoleil.sn/actualites/mauritanie-lhumoriste-kodda-sall-convoque-par-la-police-apres-une-video-sur-le-28-novembre/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-27T22:07:38+00:00",
+  "rubrique": "Afrique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "À la veille du 65e anniversaire de l’indépendance, l’humoriste et influenceur Kodda Sall a annoncé sur Facebook avoir été convoqué par la police. En cause : une vidéo publiée la veille, dans laquelle il refuse de voir dans le 28 novembre une simple fête nationale. Kodda Sall y soutient que le 28…",
+  "categories": [
+   "Actualités"
+  ]
+ },
+ {
+  "id": "1ac74ac2b053",
+  "titre": "La Cour suprême canadienne consacre la laïcité au Québec dans une décision historique",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/27/la-cour-supreme-canadienne-consacre-la-laicite-au-quebec-dans-une-decision-historique_6815937_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-27T22:06:52+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Cette loi consacre le fait laïc au Québec et tranche avec le multiculturalisme de l’Etat fédéral canadien, ce qui crée des remous dans la classe politique."
+ },
+ {
+  "id": "6687198c7a39",
+  "titre": "Sud Fm Direct Sud Géo Plus du 26 Novembre 2026",
+  "lien": "https://www.seneplus.com/article/sud-fm-direct-sud-geo-plus-du-26-novembre-2026",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-27T22:05:05+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Sud Fm Direct Sud Géo Plus du 26 Novembre 2026 Daouda Toumbou Fri, 11/27/2026 - 22:05"
+ },
+ {
+  "id": "83924396a23f",
+  "titre": "​BRVM : plus de 2 milliards de FCFA échangés le jeudi malgré le repli des indices",
+  "lien": "https://www.pressafrik.com/​BRVM-plus-de-2-milliards-de-FCFA-echanges-le-jeudi-malgre-le-repli-des-indices_a315204.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-27T22:05:00+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La Bourse régionale des valeurs mobilières (BRVM) a clôturé dan... www.pressafrik.com",
+  "categories": [
+   "Economie"
   ]
  },
  {
@@ -75591,258 +76076,5 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "À Berlin, plusieurs milliers d'étudiants et de lycéensont manifesté ce vendredi dans les rues de Berlin pour dénoncer le réarmement accéléré du pays et la perspective d'un retour du service militaire obligatoire. Une mobilisation qui s'inscrit dans un mouvement plus large à travers l'Europe."
- },
- {
-  "id": "4b3fdcc09d1f",
-  "titre": "Babacar Mbaye Ngaraf appelle à une « union sacrée » contre les députés de Pastef",
-  "lien": "https://www.seneweb.com/fr/news/Societe/babacar-mbaye-ngaraf-appelle-a-une-union-sacree-contre-les-deputes-de-pastef_n_999004246.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-20T23:05:38+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le président de l’Alliance Sauver le Sénégal, Babacar Mbaye Ngaraf, appelle à une mobilisation générale contre les députés de Pastef, qu’il accuse de compromettre le fonctionnement normal de l’État."
- },
- {
-  "id": "bec0da05fd4d",
-  "titre": "Migration : le Sénégal et l’OIM veulent renforcer la coopération régionale",
-  "lien": "https://lesoleil.sn/actualites/politique/migration-le-senegal-et-loim-veulent-renforcer-la-cooperation-regionale/",
-  "source": "Le Soleil",
-  "site_source": "https://lesoleil.sn",
-  "date": "2026-11-20T23:04:39+00:00",
-  "rubrique": "Diaspora",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "En marge de la conférence inaugurale du Processus de coopération régionale sur la migration en Afrique de l’Ouest, le Premier ministre, Ahmadou Alhaminou Mohamed Lô, a reçu, ce vendredi 20 novembre, la Directrice générale de l’Organisation internationale pour les migrations (OIM), Amy Pope. Les…",
-  "categories": [
-   "Politique",
-   "migration",
-   "OIM",
-   "Sénégal"
-  ]
- },
- {
-  "id": "1401717a23ed",
-  "titre": "Mamadou Diagna Ndiaye et moi, itiniraire d’une personnalité atypique",
-  "lien": "https://www.seneplus.com/article/mamadou-diagna-ndiaye-et-moi-itiniraire-dune-personnalite-atypique",
-  "source": "SenePlus",
-  "site_source": "https://www.seneplus.com",
-  "date": "2026-11-20T23:03:08+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Mamadou Diagna Ndiaye et moi, itiniraire d’une personnalité atypique Farid Akele Fri, 11/20/2026 - 23:03"
- },
- {
-  "id": "c5cc7b4239fa",
-  "titre": "Une jeune génération d'artistes renouvelle la musique zimbabwéenne",
-  "lien": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20261120-une-jeune-g%C3%A9n%C3%A9ration-d-artistes-renouvelle-la-musique-zimbabw%C3%A9enne",
-  "source": "RFI Afrique",
-  "site_source": "https://www.rfi.fr/fr/afrique/",
-  "date": "2026-11-20T23:00:24+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le Zimbabwe voit sa scène musicale se renouveler avec une jeune génération d’artistes qui n’hésite pas à expérimenter différents genres, tout en s’inspirant de sons traditionnels et avec des messages à faire passer. Une musique présente fin octobre lors du grand événement panafricain consacré à…",
-  "categories": [
-   "Reportage Afrique"
-  ]
- },
- {
-  "id": "fdd0b5b388af",
-  "titre": "Touré Kunda à l’honneur dans GTA VI",
-  "lien": "https://www.seneplus.com/article/toure-kunda-lhonneur-dans-gta-vi",
-  "source": "SenePlus",
-  "site_source": "https://www.seneplus.com",
-  "date": "2026-11-20T22:59:27+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Touré Kunda à l’honneur dans GTA VI Farid Akele Fri, 11/20/2026 - 22:59"
- },
- {
-  "id": "e4ba8036e520",
-  "titre": "\"Dafko dor bamouy dioy\" : Les révélations de Birima sur la \"bagarre\" entre Amadou Ba et Mame Mbaye Niang à cause de...",
-  "lien": "https://www.seneweb.com/fr/news/Video/dafko-dor-bamouy-dioy-les-revelations-de-birima-sur-la-bagarre-entre-amadou-ba-et-mame-mbaye-niang-a-cause-de_n_999004245.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-20T22:45:57+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Comment les relations entre deux figures majeures du régime de Macky Sall ont-elles pu se détériorer au point de donner lieu à des accusations publiques par voie de presse ?"
- },
- {
-  "id": "cb740dd2ceef",
-  "titre": "Trump défend ses relations \"fantastiques\" avec Poutine et Xi",
-  "lien": "https://www.seneweb.com/fr/news/International/trump-defend-ses-relations-fantastiques-avec-poutine-et-xi_n_999004244.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-20T22:42:48+00:00",
-  "rubrique": "Monde",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Donald Trump, de retour à Washington après un voyage évoqué en Chine, a défendu ses relations \"fantastiques\" avec Vladimir Poutine et Xi Jinping, au sortir d'un sommet inédit avec ses deux homologues.\"J'ai des relations fantastiques avec Poutine."
- },
- {
-  "id": "964599d1604c",
-  "titre": "Exercice illégal de la profession d’avocat : Le bâtonnier traque de prétendus avocats à Dakar",
-  "lien": "https://www.seneweb.com/fr/news/Societe/exercice-illegal-de-la-profession-davocat-le-batonnier-traque-de-pretendus-avocats-a-dakar_n_999004243.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-20T22:40:52+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le bâtonnier de l’Ordre des avocats du Sénégal a déposé une plainte contre quatre personnes accusées d’exercer illégalement la profession d’avocat."
- },
- {
-  "id": "9d6e038d3e58",
-  "titre": "Leadership local : Cambérène propulse le Sénégal sur le podium africain du PELL 2026",
-  "lien": "https://kewoulo.info/leadership-local-camberene-propulse-le-senegal-sur-le-podium-africain-du-pell-2026/",
-  "source": "Kewoulo",
-  "site_source": "https://www.kewoulo.info",
-  "date": "2026-11-20T22:40:15+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Leadership local : Cambérène propulse le Sénégal sur le podium africain du PELL 2026",
-  "categories": [
-   "A LA UNE",
-   "Featured",
-   "POLITIQUE",
-   "Société",
-   "Cambérène"
-  ]
- },
- {
-  "id": "79568b7a5bdc",
-  "titre": "Cisjordanie occupée : un Palestinien tué par un garde de sécurité d’une colonie israélienne près de Ramallah",
-  "lien": "https://www.lemonde.fr/international/article/2026/11/20/cisjordanie-occupee-un-palestinien-tue-par-un-garde-de-securite-d-une-colonie-israelienne-pres-de-ramallah_6813716_3210.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-20T22:38:30+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "L’armée israélienne a annoncé l’interpellation d’un homme qui se trouvait avec la victime."
- },
- {
-  "id": "679c1af0306a",
-  "titre": "Suivez Banc Public De Ce Vendredi...",
-  "lien": "https://www.seneweb.com/fr/news/EN%20DIRECT/suivez-banc-public-de-ce-vendredi-21_n_999004242.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-20T22:33:57+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Suivez Banc Public De Ce Vendredi..."
- },
- {
-  "id": "5b5264706a59",
-  "titre": "Jeux de dames – Saison 2 – Episode 32",
-  "lien": "https://senego.com/jeux-de-dames-saison-2-episode-32-2_2026266.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-20T22:32:48+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Jeux de dames – Saison 2 – Episode 32",
-  "categories": [
-   "Actualités"
-  ]
- },
- {
-  "id": "1b46d11f5175",
-  "titre": "Tunisie: la militante pour les droits humains Sihem Bensedrine condamnée à cinq ans de prison",
-  "lien": "https://www.rfi.fr/fr/afrique/20261120-tunisie-la-militante-pour-les-droits-humains-sihem-bensedrine-condamn%C3%A9e-%C3%A0-cinq-ans-de-prison",
-  "source": "RFI Afrique",
-  "site_source": "https://www.rfi.fr/fr/afrique/",
-  "date": "2026-11-20T22:24:50+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Figure de la défense des droits humains en Tunisie, Sihem Bensedrine a été condamnée ce vendredi 20 novembre 2026 à cinq ans de prison. Elle était poursuivie pour des faits de corruption présumés commis lorsqu'elle dirigeait une commission chargée de la justice transitionnelle. Cette avocate de 76…",
-  "categories": [
-   "Afrique"
-  ]
- },
- {
-  "id": "7f8e66ab5fa1",
-  "titre": "Macky Sall rend hommage au Pr. Moussa Seydi : Le spécialiste des maladies infectieuses exprime sa reconnaissance",
-  "lien": "https://www.seneweb.com/fr/news/Societe/macky-sall-rend-hommage-au-pr-moussa-seydi-le-specialiste-des-maladies-infectieuses-exprime-sa-reconnaissance_n_999004241.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-20T22:18:02+00:00",
-  "rubrique": "Société",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le professeur Moussa Seydi a salué les propos de l’ancien président Macky Sall, tenus au Maroc lors du Global Summit sur la santé, la protection sociale et le développement humain."
- },
- {
-  "id": "549531ce8956",
-  "titre": "Speak Up Africa Day : 27 femmes célébrées pour leur engagement et leur leadership",
-  "lien": "https://www.seneplus.com/article/speak-africa-day-27-femmes-celebrees-pour-leur-engagement-et-leur-leadership",
-  "source": "SenePlus",
-  "site_source": "https://www.seneplus.com",
-  "date": "2026-11-20T22:13:54+00:00",
-  "rubrique": "Société",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Speak Up Africa Day : 27 femmes célébrées pour leur engagement et leur leadership Alioune Diatta Fri, 11/20/2026 - 22:13"
- },
- {
-  "id": "df6a8f335c50",
-  "titre": "​Électricité, cuisson propre et panneaux solaires : les Défis de l'Afrique subsaharienne pointés par l'AIE",
-  "lien": "https://www.pressafrik.com/​Electricite-cuisson-propre-et-panneaux-solaires-les-Defis-de-l-Afrique-subsaharienne-pointes-par-l-AIE_a314901.html",
-  "source": "PressAfrik",
-  "site_source": "https://www.pressafrik.com",
-  "date": "2026-11-20T22:13:00+00:00",
-  "rubrique": "Afrique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "L'Afrique subsaharienne demeure au cœur du défi mondial d'accès... www.pressafrik.com",
-  "categories": [
-   "Economie"
-  ]
- },
- {
-  "id": "9318fe6f8700",
-  "titre": "Thiès : les officines de garde du 21 au 28 novembre 2026, avec leurs contacts",
-  "lien": "https://senego.com/thies-les-officines-de-garde-du-21-au-28-novembre-2026-avec-leurs-contacts_2026265.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-20T22:06:03+00:00",
-  "rubrique": "Société",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Du 21 au 28 novembre 2026, six pharmacies de Thiès sont de garde. Leurs adresses et numéros de téléphone permettent de les localiser et de les joindre.",
-  "categories": [
-   "Santé",
-   "Sénégal",
-   "Lysou Gaye",
-   "Mame Awa Ndiaye",
-   "pharmacies de garde"
-  ]
  }
 ]
