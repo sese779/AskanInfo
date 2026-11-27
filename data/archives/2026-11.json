@@ -1,5 +1,718 @@
 [
  {
+  "id": "2e33328b3679",
+  "titre": "Développement local : Fatou Kiné Diakhaté honorée du titre d'« Ambassadrice des Régies de quartier » par l'ADL",
+  "lien": "https://www.igfm.sn/developpement-local-fatou-kine-diakhate-honoree-du-titre-d-ambassadrice-des-regies-de-quartier-par-l-adl",
+  "source": "L'Observateur (iGFM)",
+  "site_source": "https://www.igfm.sn",
+  "date": "2026-11-20T10:04:14+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": ""
+ },
+ {
+  "id": "c9658f04c51a",
+  "titre": "RTS : Dr Mohamed Diallo dénonce l’omission de la poignée de main entre Diomaye et Sonko",
+  "lien": "https://www.xibaaru.sn/rts-dr-mohamed-diallo-denonce-lomission-de-la-poignee-de-main-entre-diomaye-et-sonko/",
+  "source": "Xibaaru",
+  "site_source": "https://www.xibaaru.sn",
+  "date": "2026-11-20T10:00:43+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Le président de la Coalition Natangué Askan Wi, Dr Mohamed Diallo, critique le traitement de la retransmission de la cérémonie solennelle des Forces armées par la Radiodiffusion Télévision Sénégalaise (RTS). Il regrette…",
+  "categories": [
+   "Politique"
+  ]
+ },
+ {
+  "id": "fc94d710c0e8",
+  "titre": "L’Ukraine mise sur l’isolement stratégique de la Crimée occupée",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/20/l-ukraine-mise-sur-l-isolement-strategique-de-la-crimee-occupee_6813616_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-20T10:00:12+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Une série de frappes ukrainiennes sur le pont de Crimée, symbole de l’occupation russe, a lourdement endommagé l’ouvrage cher au cœur de Vladimir Poutine, réduisant l’accès de la Russie à la presqu’île."
+ },
+ {
+  "id": "c9e9d84147a8",
+  "titre": "À la Une: à Shenzhen, un sommet à trois sans progrès majeur",
+  "lien": "https://www.rfi.fr/fr/podcasts/revue-de-presse-internationale/20261120-%C3%A0-la-une-%C3%A0-shenzhen-un-sommet-%C3%A0-trois-sans-progr%C3%A8s-majeur",
+  "source": "RFI Monde",
+  "site_source": "https://www.rfi.fr/fr/monde/",
+  "date": "2026-11-20T09:59:44+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "",
+  "categories": [
+   "Revue de presse internationale"
+  ]
+ },
+ {
+  "id": "85d810cbd05e",
+  "titre": "Mali : Le joli pactole généré par les exportations d’or en 2025",
+  "lien": "https://www.seneweb.com/fr/news/Afrique/mali-le-joli-pactole-genere-par-les-exportations-dor-en-2025_n_999004180.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-20T09:59:02+00:00",
+  "rubrique": "Afrique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Invité de l’émission « Mali kura Taasira », diffusée sur la télévision nationale malienne ORTM, le ministre des Mines, le Professeur Amadou Keïta a évoqué la..."
+ },
+ {
+  "id": "a0d73919cd60",
+  "titre": "​Mbour : attirée par une fausse offre d’emploi, une jeune femme droguée, séquestrée et violée pendant plus d’un mois à Dakar",
+  "lien": "https://www.pressafrik.com/​Mbour-attiree-par-une-fausse-offre-d-emploi-une-jeune-femme-droguee-sequestree-et-violee-pendant-plus-d-un-mois-a_a314863.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-20T09:55:00+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Une fausse promesse d’emploi aurait conduit N. Dramé dans un véritable cauchemar. Selon le... www.pressafrik.com",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "dcdfc25c5be0",
+  "titre": "Alioune Tine : « Le dialogue entre Sonko et Diomaye est indispensable »",
+  "lien": "https://www.leral.net/Alioune-Tine-Le-dialogue-entre-Sonko-et-Diomaye-est-indispensable_a411756.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-20T09:54:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Face à la crise politique et institutionnelle qui secoue le Sénégal, Alioune Tine, défenseur des droits humains, plaide pour un...",
+  "categories": [
+   "Actualités"
+  ]
+ },
+ {
+  "id": "0115e35cb4a1",
+  "titre": "« Pauvre Ass, il a finalement tout perdu » : Waly Diouf Bodiang charge Abdourahmane Diouf",
+  "lien": "https://www.leral.net/Pauvre-Ass-il-a-finalement-tout-perdu-Waly-Diouf-Bodiang-charge-Abdourahmane-Diouf_a411758.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-20T09:54:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Après la sortie d’Abdourahmane Diouf, Waly Diouf Bodiang est monté au créneau pour lui apporter une réplique particulièremen...",
+  "categories": [
+   "Actualités"
+  ]
+ },
+ {
+  "id": "07236f9c0306",
+  "titre": "Hajj 2027 : 12 860 pèlerins sénégalais attendus, voici les nouvelles mesures annoncées",
+  "lien": "https://www.senenews.com/actualites/hajj-2027-12-860-pelerins-senegalais-attendus-voici-les-nouvelles-mesures-annoncees_607029.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-20T09:52:31+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le Sénégal prépare activement le pèlerinage à La Mecque de 2027. Dans un entretien accordé au quotidien L’Observateur , le général Mamadou Gaye, délégué général au pèlerinage, a détaillé les nouvelles dispositions convenues avec les autorités saoudiennes pour améliorer les conditions de séjour des…",
+  "categories": [
+   "Sénégal - Actualités",
+   "Société",
+   "12 860 pèlerins sénégalais",
+   "Hajj 2027"
+  ]
+ },
+ {
+  "id": "4f6e896580ca",
+  "titre": "La fâcheuse habitude de l’opposant Thierno Bocoum qui peut coûter une vie",
+  "lien": "https://www.senenews.com/actualites/la-facheuse-habitude-de-lopposant-thierno-bocoum-qui-peut-couter-une-vie_607028.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-20T09:49:58+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Réactif, direct, présent sur la toile : Thierno Bocoum a fait de la vidéo son mode d'expression privilégié. À chaque tournant de l'actualité, le président du mouvement Agir-Les Leaders publie sur ses pages un message de quelques minutes. Ce vendredi encore, il réagit à la décision de la Présidence…",
+  "categories": [
+   "Politique",
+   "Sénégal - Actualités",
+   "thierno bocoum"
+  ]
+ },
+ {
+  "id": "6444715732e5",
+  "titre": "FIDAK 2026 : Plus de 8 000 m² déjà réservés et 21 pays attendus autour de l'Algérie, invitée d'honneur",
+  "lien": "https://www.seneweb.com/fr/news/Economie/fidak-2026-plus-de-8-000-m2-deja-reserves-et-21-pays-attendus-autour-de-lalgerie-invitee-dhonneur_n_999004179.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-20T09:48:23+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "À trois semaines de l'ouverture officielle prévue du 10 au 31 décembre 2026, le Centre international du commerce extérieur du Sénégal (CICES) a lancé..."
+ },
+ {
+  "id": "2d36c923af44",
+  "titre": "​Kaolack : un boulanger de 48 ans mortellement poignardé par sa nièce",
+  "lien": "https://www.pressafrik.com/​Kaolack-un-boulanger-de-48-ans-mortellement-poignarde-par-sa-niece_a314862.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-20T09:46:00+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le quartier de Médina Mbaba, à Kaolack, a été le théâtre d’un drame familial qui a coûté la vie... www.pressafrik.com",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "fdf621afe037",
+  "titre": "Mise en vigueur de la LFR 2026, le décret de toutes les polémiques",
+  "lien": "https://www.seneplus.com/article/mise-en-vigueur-de-la-lfr-2026-le-decret-de-toutes-les-polemiques",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-20T09:45:46+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Mise en vigueur de la LFR 2026, le décret de toutes les polémiques Daouda Toumbou Fri, 11/20/2026 - 09:45"
+ },
+ {
+  "id": "c3825b18b4a2",
+  "titre": "LFR 2026 : Sidy Alpha Ndiaye démonte le décret de Diomaye Faye",
+  "lien": "https://www.seneweb.com/fr/news/Actualites/lfr-2026-sidy-alpha-ndiaye-demonte-le-decret-de-diomaye-faye_n_999004178.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-20T09:43:48+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La polémique autour du décret n° 2026-2416 du 19 novembre 2026, portant mise en vigueur du projet de loi de finances rectificative (LFR) pour l’année..."
+ },
+ {
+  "id": "20f90910bdb9",
+  "titre": "De « Magic in the Air » à la Tanière : Pathé Mboup émeut A’Salfo avec un appel inattendu",
+  "lien": "https://www.senenews.com/actualites/sport/de-magic-in-the-air-a-la-taniere-pathe-mboup-emeut-asalfo-avec-un-appel-inattendu_607025.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-20T09:38:50+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Il y a quelques années, il incarnait un petit footballeur rêveur dans le célèbre clip « Magic in the Air » du groupe ivoirien Magic System. Aujourd’hui, Pathé Mboup porte les couleurs du Sénégal et réalise des débuts remarqués avec les Lions, avec deux buts inscrits lors de ses deux premières…",
+  "categories": [
+   "Football",
+   "International",
+   "SeneNews Sport",
+   "A'salfo",
+   "Pathé Mboup"
+  ]
+ },
+ {
+  "id": "56cc2a464d2c",
+  "titre": "Mondial U17 : les champions d’Afrique face à leur premier défi mondial",
+  "lien": "https://wiwsport.com/2026/11/20/mondial-u17-les-champions-dafrique-face-a-leur-premier-defi-mondial/",
+  "source": "Wiwsport",
+  "site_source": "https://www.wiwsport.com",
+  "date": "2026-11-20T09:38:29+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "( wiwsport ) - Le Sénégal entre en lice ce vendredi à la Coupe du monde U17. Les Lionceaux de Lamine Sané affrontent la Croatie à 15h30 GMT pour leur premier rendez-vous dans le groupe F. Champions d’Afrique en titre, ils abordent cette nouvelle campagne avec un effectif largement renouvelé par…",
+  "categories": [
+   "Coupe du monde",
+   "Equipe nationale Football",
+   "Football",
+   "U-17"
+  ]
+ },
+ {
+  "id": "ae5e5d00caae",
+  "titre": "Les Piques de l'As de ce vendredi 20 novembre 2026",
+  "lien": "https://www.seneplus.com/article/les-piques-de-las-de-ce-vendredi-20-novembre-2026",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-20T09:35:27+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Les Piques de l'As de ce vendredi 20 novembre 2026 Daouda Toumbou Fri, 11/20/2026 - 09:35"
+ },
+ {
+  "id": "e2d27e5b9fa3",
+  "titre": "🔴Direct -LFR: Le decret de toutes les polemiques, affaire Aziz Dabala et Wally, Rox et Awa Baldé...",
+  "lien": "https://www.pressafrik.com/🔴Direct-LFR-Le-decret-de-toutes-les-polemiques-affaire-Aziz-Dabala-et-Wally-Rox-et-Awa-Balde_a314861.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-20T09:33:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le décret sur la LFR au cœur de toutes les polémiques, les affaires Aziz Dabala et Wally Gano, Ro... www.pressafrik.com",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "f06bb805ef4e",
+  "titre": "La contre-attaque de Ousmane Sonko face au décret inattendu de Bassirou Diomaye Faye",
+  "lien": "https://www.senenews.com/premium/la-contre-attaque-de-ousmane-sonko-face-au-decret-inattendu-de-bassirou-diomaye-faye_607022.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-20T09:30:53+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Les soutiens du président estiment que l'article 68 couvre précisément ce type de blocage, et un revers devant les Sages renforcerait l'Exécutif au lieu de l'affaiblir. Article SeneNews Premium — contenu intégral réservé aux abonnés. S'abonner",
+  "categories": [
+   "Articles Premium",
+   "Politique",
+   "Sénégal - Actualités",
+   "Ousmane Sonko"
+  ]
+ },
+ {
+  "id": "6673c7348c4f",
+  "titre": "Kafountine : Touria Guèye, la migrante devenue boussole santé des jeunes et des déplacés (4/6)",
+  "lien": "https://www.seneweb.com/fr/news/Dossier/kafountine-touria-gueye-la-migrante-devenue-boussole-sante-des-jeunes-et-des-deplaces-46_n_999004176.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-20T09:28:00+00:00",
+  "rubrique": "Diaspora",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Arrivée à Kafountine en 1996, Touria Guèye est originaire de la région de Saint-Louis. Devenue actrice communautaire aujourd’hui dans la localité et ses..."
+ },
+ {
+  "id": "f2732e6211a1",
+  "titre": "L'Oeil du Témoin de ce vendredi 20 novembre 2026",
+  "lien": "https://www.seneplus.com/article/loeil-du-temoin-de-ce-vendredi-20-novembre-2026",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-20T09:26:32+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L'Oeil du Témoin de ce vendredi 20 novembre 2026 Daouda Toumbou Fri, 11/20/2026 - 09:26"
+ },
+ {
+  "id": "71abcab21243",
+  "titre": "La députée RN Laure Lavalette se défend d'être antisémite, se dédouane d'écrits vieux de \"30 ans\"",
+  "lien": "https://www.france24.com/fr/france/20261120-accusations-antis%C3%A9mitisme-d%C3%A9put%C3%A9e-rn-laure-lavalette-invoque-faits-vieux-de-30-ans",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-20T09:26:06+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Selon une enquête publiée mercredi par le média Les Jours, la députée du Rassemblement national du Var Laure Lavalette aurait présidé, lors de ses années d'études, un syndicat étudiant dont la revue publiait des écrits antisémites. L'élue a balayé les accusations dans une interview sur BFMTV,…",
+  "categories": [
+   "France"
+  ]
+ },
+ {
+  "id": "79c20fb7016e",
+  "titre": "Affaire Lamine Faye et Cie : 235 millions soutirés à des particuliers…",
+  "lien": "https://senego.com/affaire-lamine-faye-et-cie-235-millions-soutires-a-des-particuliers_2026039.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T09:25:43+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "« Une présumée escroquerie foncière portant sur 235 millions de francs CFA est au cœur de l’affaire Lamine Faye et Cie. Plusieurs particuliers auraient été victimes de ventes de terrains fictifs, orchestrées à travers de fausses vérifications auprès des services des Domaines et de fausses garanties…",
+  "categories": [
+   "Faits Divers",
+   "Lamine Faye",
+   "Millions"
+  ]
+ },
+ {
+  "id": "fd0282b8fc1a",
+  "titre": "Présidentielle en France : Une députée noire affirme qu'elle ne parrainera pas Teddy Riner",
+  "lien": "https://www.seneweb.com/fr/news/International/presidentielle-en-france-une-deputee-noire-affirme-quelle-ne-parrainera-pas-teddy-riner_n_999004175.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-20T09:25:40+00:00",
+  "rubrique": "Monde",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Candidat à la Présidentielle d’avril 2027 en France, Teddy Riner, aura besoin des parrainages de 500 élus pour s'installer dans les starting-blocks."
+ },
+ {
+  "id": "a7827c54b393",
+  "titre": "Affaire Aziz Dabala-Wally Gano : Nabou Lèye et cinq autres inculpés fixés sur leur sort",
+  "lien": "https://www.pressafrik.com/Affaire-Aziz-Dabala-Wally-Gano-Nabou-Leye-et-cinq-autres-inculpes-fixes-sur-leur-sort_a314860.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-20T09:25:00+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Plus de deux ans après le double meurtre d'Abdoul Aziz Ba, dit Aziz Dabala, et de Boubacar Gano... www.pressafrik.com",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "8f9fd2d9a2af",
+  "titre": "TOUBA : un homme placé sous mandat de dépôt pour avoir poignardé à mort son beau-frère",
+  "lien": "https://www.pressafrik.com/TOUBA-un-homme-place-sous-mandat-de-depot-pour-avoir-poignarde-a-mort-son-beau-frere_a314860.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-20T09:25:00+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Une dispute autour d’un plat de thiéré a viré au drame au quartier Ndamatou de Touba. M. Camara, u... www.pressafrik.com",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "91e1f5dc2913",
+  "titre": "Réduire l’article 68 à la seule loi de finances de l’année : une erreur fondamentale.",
+  "lien": "https://www.leral.net/Reduire-l-article-68-a-la-seule-loi-de-finances-de-l-annee-une-erreur-fondamentale_a411757.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-20T09:24:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Certains affirment avec assurance que le Président de la République aurait gravement méconnu l'article 68 de la Constitution e...",
+  "categories": [
+   "Actualités"
+  ]
+ },
+ {
+  "id": "d97d11847b03",
+  "titre": "FC Metz : Pape Moussa Fall s’inspire d’Erling Haaland et affiche ses ambitions",
+  "lien": "https://wiwsport.com/2026/11/20/fc-metz-pape-moussa-fall-sinspire-derling-haaland-et-affiche-ses-ambitions/",
+  "source": "Wiwsport",
+  "site_source": "https://www.wiwsport.com",
+  "date": "2026-11-20T09:23:53+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "( wiwsport ) - Pape Moussa Fall s’impose comme l’une des principales armes offensives du FC Metz cette saison. À 22 ans, l’attaquant sénégalais a déjà inscrit huit buts en Ligue 2 et occupe la deuxième place du classement des buteurs. Un rendement qui lui donne forcément des ambitions. En…",
+  "categories": [
+   "Gaindés Football"
+  ]
+ },
+ {
+  "id": "aee67a3650ac",
+  "titre": "FMI : Le président Bassirou Diomaye Faye se crée un nouveau problème avec son décret",
+  "lien": "https://www.senenews.com/premium/fmi-le-president-bassirou-diomaye-faye-se-cree-un-nouveau-probleme-avec-son-decret_607024.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-20T09:21:52+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le 1er septembre 2026, le Sénégal a signé un accord avec le FMI pour un programme de 2,2 milliards de dollars, mais l'validité du décret instaurant la LFR 2026 pourrait compromettre le déblocage des fonds attendus. Article SeneNews Premium — contenu intégral réservé aux abonnés. S'abonner",
+  "categories": [
+   "Articles Premium",
+   "Economie",
+   "Sénégal - Actualités",
+   "fmi"
+  ]
+ },
+ {
+  "id": "4c470ac7b8fd",
+  "titre": "Omaro explique pourquoi il n’a pas donné à son bébé le nom de Sokhna Aïdara, l’épouse de Wally Seck",
+  "lien": "https://www.senenews.com/senenews-people/omaro-explique-pourquoi-il-na-pas-donne-a-son-bebe-le-nom-de-sokhna-aidara-lepouse-de-wally-seck_607021.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-20T09:20:24+00:00",
+  "rubrique": "Culture",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Omaro fait de nouveau parler de lui sur les réseaux sociaux. Cette fois, c’est une question liée à sa relation avec Sokhna Aïdara, l’épouse du chanteur Wally Ballago Seck, qui suscite la curiosité des internautes. Alors que certains s’interrogent sur les raisons pour lesquelles il n’a pas choisi de…",
+  "categories": [
+   "SeneNews People",
+   "Sénégal - Actualités",
+   "SeneNews TV",
+   "omaro"
+  ]
+ },
+ {
+  "id": "f2e4e5a8e127",
+  "titre": "Appâtée par un travail d'employée de maison à mbour : N.Dramé droguée, séquestrée à Dakar et violée pendant plus d'un mois",
+  "lien": "https://www.dakaractu.com/Appatee-par-un-travail-d-employee-de-maison-a-mbour-N-Drame-droguee-sequestree-a-Dakar-et-violee-pendant-plus-d-un-mois_a278421.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-20T09:18:00+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Une offre d’emploi domestique, un trajet entrepris en confiance, puis un réveil devant un appartement à Dakar. Dans une plainte rapportée par Libération, une femme accuse un homme originaire de son village de l’avoir séquestrée et violée à plusieurs reprises. Le suspect, Moustapha Dia, 26 ans, qui…",
+  "categories": [
+   "Télévision"
+  ]
+ },
+ {
+  "id": "fff3882152a0",
+  "titre": "Aimer le pays plutôt que d’en cultiver les petitesses (par Adama Ndiaye)",
+  "lien": "https://www.seneweb.com/fr/news/Chronique/aimer-le-pays-plutot-que-den-cultiver-les-petitesses-par-adama-ndiaye_n_999004174.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-20T09:17:01+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "J’ai trouvé le communiqué de remerciement du Comité d’organisation des Jeux olympiques de la jeunesse particulièrement touchant."
+ },
+ {
+  "id": "eed974004ae3",
+  "titre": "Tacko Fall inscrit 2 points lors du succès 121-116 de Philadelphie face à Orlando",
+  "lien": "https://senego.com/tacko-fall-inscrit-2-points-lors-du-succes-121-116-de-philadelphie-face-a-orlando_2026042.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T09:15:15+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Le pivot sénégalais a marqué 2 points et pris 3 rebonds lors du succès des Philadelphia 76ers face au Orlando Magic (121-116), ses premiers points en NBA depuis 2021.",
+  "categories": [
+   "Basket",
+   "Sénégal",
+   "Sports",
+   "Basket sénégalais",
+   "Nba"
+  ]
+ },
+ {
+  "id": "fff9280b198e",
+  "titre": "Affaire Aziz Dabala et Waly Gano: Vers un procès criminel pour Nabou Lèye et cinq coaccusés",
+  "lien": "https://kewoulo.info/affaire-aziz-dabala-et-waly-gano-vers-un-proces-criminel-pour-nabou-leye-et-cinq-coaccuses/",
+  "source": "Kewoulo",
+  "site_source": "https://www.kewoulo.info",
+  "date": "2026-11-20T09:12:45+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Affaire Aziz Dabala et Waly Gano: Vers un procès criminel pour Nabou Lèye et cinq coaccusés",
+  "categories": [
+   "A LA UNE",
+   "Société",
+   "Affaire Aziz Dabala",
+   "Nabou Leye",
+   "Waly Gano"
+  ]
+ },
+ {
+  "id": "b013cbced8c2",
+  "titre": "Sommet trilatéral : \"Beaucoup de bruit pour rien\"",
+  "lien": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261120-sommet-trilat%C3%A9ral-beaucoup-de-bruit-pour-rien",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-20T09:12:04+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "À la une de la presse : un sommet entre Donald Trump, Xi Jinping et Vladimir Poutine pour l'image, le phénomène mondial \"GTA VI\" et des révélations sur des fuites en provenance du ministère de l’Intérieur vers le RN.",
+  "categories": [
+   "Dans la presse"
+  ]
+ },
+ {
+  "id": "32524eef0132",
+  "titre": "Dissolution de l’Assemblée nationale : « Le président de la République a d’autres possibilités… notamment, l’article 52 » (Me Abdoulaye Tine)",
+  "lien": "https://www.dakaractu.com/Dissolution-de-l-Assemblee-nationale-Le-president-de-la-Republique-a-d-autres-possibilites-notamment-l-article-52-Me_a278420.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-20T09:12:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Invité de RFM matin ce vendredi 20 novembre, Me Abdoulaye Tine est revenu sur la décision du chef de l’État de prendre un décret pour mettre en vigueur la loi de finances rectificative (LFR) 2026. Pour l’avocat, le président de la République n’est pas limité à cette seule voie. « Le président de la…",
+  "categories": [
+   "Texto"
+  ]
+ },
+ {
+  "id": "375b8e374801",
+  "titre": "Diamniadio : la BAD fâchée par le projet de Parc des technologies numériques",
+  "lien": "https://www.seneweb.com/fr/news/Economie/diamniadio-la-bad-fachee-par-le-projet-de-parc-des-technologies-numeriques_n_999004173.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-20T09:11:46+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Dans un rapport daté du 10 novembre et consulté par Libération, la Banque africaine de développement (BAD) pointe les retards du Parc des technologies numériques de..."
+ },
+ {
+  "id": "abc27581ffab",
+  "titre": "À court d’eau et de nourriture après huit jours de mer, une pirogue partie de Gambie accoste sur la plage de l’IFAN",
+  "lien": "https://www.dakaractu.com/A-court-d-eau-et-de-nourriture-apres-huit-jours-de-mer-une-pirogue-partie-de-Gambie-accoste-sur-la-plage-de-l-IFAN_a278419.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-20T09:11:00+00:00",
+  "rubrique": "Diaspora",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Trente-six personnes, dont une fillette d’environ 11 ans, ont été interpellées sur la corniche ouest de Dakar dans la nuit du 17 au 18 novembre. Selon Libération, deux d’entre elles ont été découvertes inconscientes. Les passagers disent être partis de Bakau, en Gambie, et avoir accosté après…",
+  "categories": [
+   "Texto"
+  ]
+ },
+ {
+  "id": "98db54f738af",
+  "titre": "COP31: au Zimbabwe, comment le changement climatique affecte les éléphants",
+  "lien": "https://www.rfi.fr/fr/environnement/20261120-cop31-au-zimbabwe-comment-le-changement-climatique-affecte-les-%C3%A9l%C3%A9phants",
+  "source": "RFI Afrique",
+  "site_source": "https://www.rfi.fr/fr/afrique/",
+  "date": "2026-11-20T09:10:26+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Au Zimbabwe, le changement climatique met en difficulté, en premier lieu, les activités agricoles. Dans la province de Masvingo, déjà aride historiquement, les paysans sont confrontés à des pluies de plus en plus rares et à des chaleurs de plus en plus élevées. Mais la faune et la flore locales…",
+  "categories": [
+   "Environnement"
+  ]
+ },
+ {
+  "id": "a013779fec36",
+  "titre": "DGPSN : attribution provisoire à CFAO du marché de matériels de transport",
+  "lien": "https://www.leral.net/DGPSN-attribution-provisoire-a-CFAO-du-marche-de-materiels-de-transport_a411755.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-20T09:10:17+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "La Délégation Générale à la Protection Sociale et à la Solidarité Nationale (DGPSN) a attribué provisoirement à CFAO son march...",
+  "categories": [
+   "Economie"
+  ]
+ },
+ {
+  "id": "800914504fd0",
+  "titre": "Exécution de la LFR 2026 : Me Moussa Diop salue le choix de Diomaye Faye",
+  "lien": "https://senego.com/execution-de-la-lfr-2026-me-moussa-diop-salue-le-choix-de-diomaye-faye_2026034.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T09:09:36+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Depuis Antalya, en Turquie, où il affirme être « au service du Sénégal », Me Moussa Diop a salué la décision du chef de l’État de mettre à exécution la Loi de finances rectificative (LFR) 2026. Dans sa déclaration, Me Moussa Diop magnifie ce qu’il qualifie de « responsable décision » du président…",
+  "categories": [
+   "Actualités",
+   "Sénégal",
+   "Lfr",
+   "Me Moussa Diop"
+  ]
+ },
+ {
+  "id": "2aed382e30d9",
+  "titre": "BP envisagerait de se désengager du projet GTA",
+  "lien": "https://www.seneplus.com/article/bp-envisagerait-de-se-desengager-du-projet-gta",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-20T09:09:11+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "BP envisagerait de se désengager du projet GTA Farid Akele Fri, 11/20/2026 - 09:09"
+ },
+ {
+  "id": "9e92b8138ff7",
+  "titre": "NBA : Tacko Fall débloque son compteur face au Magic d’Orlando (121-116)",
+  "lien": "https://wiwsport.com/2026/11/20/nba-tacko-fall-debloque-son-compteur-face-au-magic-dorlando-121-116/",
+  "source": "Wiwsport",
+  "site_source": "https://www.wiwsport.com",
+  "date": "2026-11-20T09:08:34+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "( wiwsport ) - Tacko Fall a inscrit ses premiers points depuis son retour en NBA. Le pivot sénégalais a marqué lors de la victoire des Philadelphia 76ers face au Orlando Magic (121-116) mercredi soir. Entré en jeu depuis le banc, l’international sénégalais a terminé la rencontre avec 2 points et 3…",
+  "categories": [
+   "Basket",
+   "Gaindés Basket"
+  ]
+ },
+ {
+  "id": "318715a67c0e",
+  "titre": "Un voyage vers l’Espagne payé avec une moto, six autres candidats à la Médina, deux affaires d’escroquerie présumée",
+  "lien": "https://www.dakaractu.com/Un-voyage-vers-l-Espagne-paye-avec-une-moto-six-autres-candidats-a-la-Medina-deux-affaires-d-escroquerie-presumee_a278418.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-20T09:07:00+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Une moto évaluée à 600 000 francs CFA, des versements en espèces et des départs qui n’ont pas abouti. Libération rapporte deux affaires distinctes enregistrées le 17 novembre, l’une à la suite d’une plainte déposée à Kaolack, l’autre après l’intervention de six candidats au voyage au domicile d’un…",
+  "categories": [
+   "Télévision"
+  ]
+ },
+ {
+  "id": "4cd0b74f9a05",
+  "titre": "Recouvrement des créances de l'État : la SNR affûte ses armes avec la famille judiciaire",
+  "lien": "https://www.igfm.sn/recouvrement-des-creances-de-l-etat-la-snr-affute-ses-armes-avec-la-famille-judiciaire",
+  "source": "L'Observateur (iGFM)",
+  "site_source": "https://www.igfm.sn",
+  "date": "2026-11-20T09:06:09+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": ""
+ },
+ {
   "id": "fcc25b11802c",
   "titre": "Le parfum d’une démocratie illibérale (Par Pr Sidy Alpha Ndiaye)",
   "lien": "https://www.pressafrik.com/Le-parfum-d-une-democratie-illiberale-Par-Pr-Sidy-Alpha-Ndiaye_a314859.html",
