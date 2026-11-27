@@ -55,6 +55,39 @@
   "extrait": "L’ancien chef de l’État ivoirien a récemment procédé à de nouvelles nominations au sein de son parti, plus de six mois après son dernier congrès, dans un contexte marqué par l’absence de plusieurs cadres, visés par des procédures judiciaires."
  },
  {
+  "id": "9c95af4789e0",
+  "titre": "Can 2027 : La Caf ouvre le dossier Arthur Zagré",
+  "lien": "https://lequotidien.sn/can-2027-la-caf-ouvre-le-dossier-arthur-zagre/",
+  "source": "Le Quotidien",
+  "site_source": "https://lequotidien.sn",
+  "date": "2026-11-27T08:53:41+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La Confédération africaine de football (Caf) a officiellement ouvert l’examen de la plainte déposée par la Fédération mauritanienne de football (Ffrim) concernant l’éligibilité de...",
+  "categories": [
+   "Football",
+   "Sport"
+  ]
+ },
+ {
+  "id": "6eebee06fe62",
+  "titre": "Batailles au Parlement Aller au-delà de la controverse juridique",
+  "lien": "https://lequotidien.sn/batailles-au-parlement-aller-au-dela-de-la-controverse-juridique/",
+  "source": "Le Quotidien",
+  "site_source": "https://lequotidien.sn",
+  "date": "2026-11-27T08:52:16+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "N’eût été la gravité de l’heure, la présente controverse entre juristes sur les lois de finances rejetées et le décret de promulgation aurait été...",
+  "categories": [
+   "Opinions & débats"
+  ]
+ },
+ {
   "id": "c884824e4a6f",
   "titre": "Thiaroye : le chef de l’État présidera la commémoration du 82e anniversaire",
   "lien": "https://senego.com/thiaroye-le-chef-de-letat-presidera-la-commemoration-du-82e-anniversaire_2028593.html",
@@ -227,6 +260,22 @@
   "extrait": "Le partenariat entre le Sénégal et l’Union européenne est à l’épreuve des attentes. Face à la presse, Mme Aude Maio-Coliche a défendu les axes...",
   "categories": [
    "A la une"
+  ]
+ },
+ {
+  "id": "5b77587e5e45",
+  "titre": "Maroc: deux conventions-cadres signées pour développer l’industrie de défense du pays",
+  "lien": "https://www.rfi.fr/fr/afrique/20261127-maroc-deux-conventions-cadres-sign%C3%A9es-pour-d%C3%A9velopper-l-industrie-de-d%C3%A9fense-du-pays",
+  "source": "RFI Afrique",
+  "site_source": "https://www.rfi.fr/fr/afrique/",
+  "date": "2026-11-27T08:44:25+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le futur projet stratégique de développement de l'industrie de défense marocaine prend forme. Mercredi 25 novembre, le roi Mohammed VI a présidé une réunion pour en détailler le financement et réfléchir à la façon de mobiliser sur la question les secteurs publics et privés. Révélé le 18 novembre…",
+  "categories": [
+   "Afrique"
   ]
  },
  {
@@ -856,6 +905,22 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "'' Nous sommes convaincus que la violation de la souveraineté de la Libye est une erreur et qu’elle ne sert pas la cause de l’Ukraine '', gouvernement italien."
+ },
+ {
+  "id": "002d6b521494",
+  "titre": "Festival Dakar Court : Un marché du film à l’honneur pour la 9ème édition",
+  "lien": "https://www.dakaractu.com/Festival-Dakar-Court-Un-marche-du-film-a-l-honneur-pour-la-9eme-edition_a278631.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-27T07:49:00+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "En prélude la 9ème édition du festival Dakar Court, une conférence de presse s’est tenue, ce jeudi 26 novembre 2026. Pour cette année, le festival s’ouvre à l'international avec un marché du film et la Côte d’Ivoire comme pays invité d’honneur. Selon le représentant de la Direction de la…",
+  "categories": [
+   "People & Sports"
+  ]
  },
  {
   "id": "c0cb04553b71",
@@ -75199,56 +75264,6 @@
    "Revue de presse",
    "Sénégal",
    "Vidéos"
-  ]
- },
- {
-  "id": "c93c4c10dae4",
-  "titre": "Recouvrement des créances publiques : La SNR mise sur la justice et la digitalisation pour lever les blocages",
-  "lien": "https://www.seneweb.com/fr/news/Video/recouvrement-des-creances-publiques-la-snr-mise-sur-la-justice-et-la-digitalisation-pour-lever-les-blocages_n_999004171.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-20T08:52:54+00:00",
-  "rubrique": "Faits divers",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Confrontée à l'ancienneté des dossiers, aux difficultés de localisation des débiteurs et aux lenteurs procédurales, la Société nationale de recouvrement (SNR) amorce..."
- },
- {
-  "id": "6128ec1028df",
-  "titre": "Ziguinchor : Onze malfaiteurs interpellés après une série d’agressions nocturnes",
-  "lien": "https://kewoulo.info/ziguinchor-onze-malfaiteurs-interpelles-apres-une-serie-dagressions-nocturnes/",
-  "source": "Kewoulo",
-  "site_source": "https://www.kewoulo.info",
-  "date": "2026-11-20T08:52:35+00:00",
-  "rubrique": "Faits divers",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Ziguinchor : Onze malfaiteurs interpellés après une série d'agressions nocturnes",
-  "categories": [
-   "A LA UNE",
-   "Enquête",
-   "Featured",
-   "Société",
-   "Agressions nocturnes"
-  ]
- },
- {
-  "id": "b0802a03258d",
-  "titre": "« Ce que nous faisions aux toilettes » : Les deux détenues de la Prison de Liberté 6 passent aux aveux",
-  "lien": "https://www.senenews.com/actualites/ce-que-nous-faisions-aux-toilettes-les-deux-detenues-de-la-prison-de-liberte-6-passent-aux-aveux_607015.html",
-  "source": "Senenews",
-  "site_source": "https://www.senenews.com",
-  "date": "2026-11-20T08:51:50+00:00",
-  "rubrique": "Faits divers",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le commissariat d'arrondissement de Grand-Yoff a déféré ce jeudi, devant le procureur de la République près le tribunal de grande instance hors classe de Dakar, deux femmes incarcérées soupçonnées d'actes contre nature en milieu carcéral. M. Ndiaye et F. Mar vont retourner en prison, pendant que…",
-  "categories": [
-   "Sénégal - Actualités",
-   "Société"
   ]
  }
 ]
