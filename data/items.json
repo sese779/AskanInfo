@@ -16,6 +16,59 @@
   ]
  },
  {
+  "id": "024e3733538f",
+  "titre": "En Suisse, un scrutin qui sent la poudre",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/27/en-suisse-un-scrutin-qui-sent-la-poudre_6815692_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-27T02:00:08+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Les citoyens sont appelés aux urnes dimanche 29 novembre pour dire s’ils souhaitent interdire aux particuliers d’acheter et d’utiliser des feux d’artifice, accusés notamment de provoquer régulièrement des incendies et des accidents."
+ },
+ {
+  "id": "3d82b395650e",
+  "titre": "Migration irrégulière : Cheikh Niang veut mieux faire connaître les interceptions",
+  "lien": "https://senego.com/migration-irreguliere-cheikh-niang-veut-mieux-faire-connaitre-les-interceptions_2028500.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-27T01:17:26+00:00",
+  "rubrique": "Diaspora",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Invité de la RTS, Cheikh Niang défend une action coordonnée contre la migration irrégulière et estime que les interceptions maritimes sont peu visibles dans l’opinion.",
+  "categories": [
+   "Diplomatie",
+   "Sénégal",
+   "Société",
+   "Cheikh Niang",
+   "Espagne"
+  ]
+ },
+ {
+  "id": "fa35bfa47292",
+  "titre": "Cheikh Niang annonce Sutura Diaspora, une assurance pour rapatrier les défunts",
+  "lien": "https://senego.com/cheikh-niang-annonce-futura-diaspora-une-assurance-pour-rapatrier-les-defunts_2028498.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-27T01:11:14+00:00",
+  "rubrique": "Diaspora",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Cheikh Niang évoque Futura Diaspora, une assurance destinée à accompagner les familles lors du décès d’un Sénégalais à l’étranger, avec rapatriement du corps et aide financière.",
+  "categories": [
+   "Diaspora",
+   "Finance",
+   "Sénégal",
+   "Société",
+   "Cheikh Niang"
+  ]
+ },
+ {
   "id": "cb5130e2877a",
   "titre": "À Oulampane, l’épouse du maire reconnaît l’avoir aspergé d’essence puis brûlé",
   "lien": "https://senego.com/a-oulampane-lepouse-du-maire-reconnait-lavoir-asperge-dessence-puis-brule_2028496.html",
@@ -75339,46 +75392,6 @@
    "Politique",
    "Sénégal",
    "Bassirou diomaye Faye"
-  ]
- },
- {
-  "id": "6fee2bff29c8",
-  "titre": "Beau Disundi Nzazi, artiste de la RDC, remporte le Grand Prix de Dak’Art 2026",
-  "lien": "https://senego.com/beau-disundi-nzazi-artiste-de-la-rdc-remporte-le-grand-prix-de-dakart-2026_2025938.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-20T01:39:50+00:00",
-  "rubrique": "Afrique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "L’artiste congolais Beau Disundi Nzazi remporte le Grand Prix Léopold Sédar Senghor de Dak’Art 2026, doté de 20 millions de francs CFA.",
-  "categories": [
-   "Afrique",
-   "Culture",
-   "Dakar",
-   "Évènement",
-   "Beau Disundi Nzazi"
-  ]
- },
- {
-  "id": "e285681cc319",
-  "titre": "Dak’Art 2026 : le OFF propose trois expositions de Thiès à Saly",
-  "lien": "https://senego.com/dakart-2026-le-off-propose-trois-expositions-de-thies-a-saly_2025936.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-20T01:11:29+00:00",
-  "rubrique": "Culture",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "À Thiès et Saly, trois expositions du OFF de Dak’Art 2026 sont programmées, entre peinture, proposition pluridisciplinaire et rendez-vous à Saly Niakh Niakhal.",
-  "categories": [
-   "Culture",
-   "Évènement",
-   "Sénégal",
-   "Dak’Art 2026",
-   "Manufactures sénégalaises des arts décor"
   ]
  }
 ]
