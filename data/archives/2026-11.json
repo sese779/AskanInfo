@@ -1,5 +1,924 @@
 [
  {
+  "id": "46ffc18e4e53",
+  "titre": "Sénégal : la loi de finances rectificative passe par décret présidentiel",
+  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261120-s%C3%A9n%C3%A9gal-la-loi-de-finances-rectificative-passe-par-d%C3%A9cret-pr%C3%A9sidentiel",
+  "source": "France 24 Afrique",
+  "site_source": "https://www.france24.com/fr/afrique/",
+  "date": "2026-11-20T11:05:35+00:00",
+  "rubrique": "Politique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "🇸🇳 Le président Bassirou Diomaye Faye impose par décret le budget rectificatif 2026, malgré son rejet par la majorité parlementaire. Une décision qui intervient alors que le Sénégal, lourdement endetté, négocie une aide financière avec le FMI."
+ },
+ {
+  "id": "4785f2fc315a",
+  "titre": "Décret présidentiel et LFR : Abdourahmane Sarr pointe les limites du pouvoir exécutif",
+  "lien": "https://www.leral.net/Decret-presidentiel-et-LFR-Abdourahmane-Sarr-pointe-les-limites-du-pouvoir-executif_a411760.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-20T11:04:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "La controverse autour de la mise en vigueur par décret de la loi de finances rectificative (LFR), rejetée par l’Assemblé...",
+  "categories": [
+   "Actualités"
+  ]
+ },
+ {
+  "id": "fc0fc7739eb1",
+  "titre": "Afrique du Sud: Baisse des homicides au dernier trimestre mais 60 meurtres par jour",
+  "lien": "https://www.senenews.com/actualites/societe/afrique-du-sud-baisse-des-homicides-au-dernier-trimestre-mais-60-meurtres-par-jour_607039.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-20T11:02:24+00:00",
+  "rubrique": "Afrique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L’ Afrique du Sud a enregistré moins de meurtres en trois mois, avec 5.590 personnes tuées, a indiqué vendredi le ministère de la Police mais 60 meurtres par jour sont toujours recensés en moyenne dans le pays. Ce pays, qui compte environ 63,5 millions d’habitants, affiche l’un des taux d’homicides…",
+  "categories": [
+   "International",
+   "Société",
+   "afrique du sud"
+  ]
+ },
+ {
+  "id": "f1c131b8ef1f",
+  "titre": "Génocide des Rohingya : en Malaisie, une communauté de plus en plus rejetée",
+  "lien": "https://www.france24.com/fr/%C3%A9missions/focus/20261120-g%C3%A9nocide-des-rohingya-en-malaisie-une-communaut%C3%A9-de-plus-en-plus-rejet%C3%A9e",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-20T11:01:27+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le 19 novembre, la Cour internationale de justice a reconnu que la Birmanie avait commis un génocide contre les Rohingya en 2017. Une décision saluée par cette communauté, toujours persécutée dans son pays d'origine. Mais en Malaisie, où elle avait longtemps bénéficié d'un soutien favorable, le…",
+  "categories": [
+   "Focus"
+  ]
+ },
+ {
+  "id": "09db2dfc0312",
+  "titre": "​Touba : un maçon de 25 ans tue son beau-frère pour une histoire de couscous",
+  "lien": "https://www.pressafrik.com/​Touba-un-macon-de-25-ans-tue-son-beau-frere-pour-une-histoire-de-couscous_a314866.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-20T11:01:00+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Un maçon âgé de 25 ans, domicilié au quartier Ndamatou de Touba, a été placé sous mandat de dépôt... www.pressafrik.com",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "f72060df6526",
+  "titre": "LFR 2026 : Ndiaga Sylla conteste la mise en vigueur par décret et soulève une difficulté constitutionnelle",
+  "lien": "https://www.xibaaru.sn/lfr-2026-ndiaga-sylla-conteste-la-mise-en-vigueur-par-decret-et-souleve-une-difficulte-constitutionnelle/",
+  "source": "Xibaaru",
+  "site_source": "https://www.xibaaru.sn",
+  "date": "2026-11-20T11:00:15+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "La décision du président de la République de mettre en vigueur par décret la loi de finances rectificative (LFR) 2026, après son rejet par l’Assemblée nationale, suscite de nouvelles interrogations juridiques. Dans…",
+  "categories": [
+   "Politique"
+  ]
+ },
+ {
+  "id": "4f92c298a9ea",
+  "titre": "La Birmanie rattrapée par sa longue persécution des Rohingya après sa condamnation pour génocide",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/20/la-birmanie-rattrapee-par-sa-longue-persecution-des-rohingya-apres-sa-condamnation-pour-genocide_6813628_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-20T11:00:10+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le régime du président Min Aung Hlaing, principal instigateur des massacres de 2017 en tant que chef de l’armée birmane, est cloué au pilori par la justice internationale pour « intention génocidaire » après des décennies d’exclusion et de violences contre les Rohingya."
+ },
+ {
+  "id": "d3a8cc70cade",
+  "titre": "Présidentielle 2027 : Dominique de Villepin annonce sa candidature",
+  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261120-pr%C3%A9sidentielle-2027-dominique-de-villepin-annonce-sa-candidature",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-20T11:00:04+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L'ex-Premier ministre Dominique de Villepin a officialisé vendredi sa candidature à l'élection présidentielle de 2027 en se présentant comme une alternative au macronisme, à La France insoumise et au Rassemblement national, qu'il juge responsables d'un \"pourrissement\" du pays."
+ },
+ {
+  "id": "fa4d8130a6fc",
+  "titre": "Biennale de Dakar : Bassirou Diomaye Faye appelle à la création d’un marché commun de l’art africain",
+  "lien": "https://www.rewmi.com/biennale-de-dakar-bassirou-diomaye-faye-appelle-a-la-creation-dun-marche-commun-de-lart-africain/",
+  "source": "Rewmi",
+  "site_source": "https://www.rewmi.com",
+  "date": "2026-11-20T10:59:56+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le président de la République, Bassirou Diomaye Faye, a appelé, jeudi, à la mise en place d’un marché commun de l’art africain, avec le soutien de l’Union africaine, afin de faciliter la circulation des œuvres, des artistes et des idées sur le continent. ”Il est temps de faire circuler aussi nos…",
+  "categories": [
+   "Actualité",
+   "UNE"
+  ]
+ },
+ {
+  "id": "090196e2b0fe",
+  "titre": "Kaolack - émigration irrégulière",
+  "lien": "https://www.enqueteplus.com/content/kaolack-%C3%A9migration-irr%C3%A9guli%C3%A8re",
+  "source": "EnQuête",
+  "site_source": "https://www.enqueteplus.com",
+  "date": "2026-11-20T10:58:15+00:00",
+  "rubrique": "Diaspora",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Kaolack - émigration irrégulière La Sûreté urbaine de Kaolack a interpellé deux hommes le 15 novembre 2026 dans le cadre d’une enquête pour association de malfaiteurs, trafic de migrants et mise en danger de la vie d’autrui. Selon deux candidats au départ entendus par la police, une pirogue devait…"
+ },
+ {
+  "id": "13c47d828294",
+  "titre": "Un enfant sur quatre dans le monde vit dans des zones de conflit",
+  "lien": "http://fr.africanews.com/2026/11/20/un-enfant-sur-quatre-dans-le-monde-vit-dans-des-zones-de-conflit/",
+  "source": "Africanews",
+  "site_source": "https://fr.africanews.com",
+  "date": "2026-11-20T10:58:01+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Un enfant sur quatre, soit environ 589 millions d'enfants, vit dans des zones de conflit. Ce chiffre a été révélé par la publication du rapport mondial annuel de l’organisation Save The Children."
+ },
+ {
+  "id": "33b311fe720d",
+  "titre": "Affaire Aziz Dabala et Waly : vers un procès criminel pour Nabou Lèye et cinq coaccusés",
+  "lien": "https://www.rewmi.com/affaire-aziz-dabala-et-waly-vers-un-proces-criminel-pour-nabou-leye-et-cinq-coaccuses/",
+  "source": "Rewmi",
+  "site_source": "https://www.rewmi.com",
+  "date": "2026-11-20T10:57:57+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La danseuse Marème Lèye, dite « Nabou Lèye », et cinq autres personnes en prison risquent un procès devant la chambre criminelle pour le double meurtre d’El Hadji Abdoul Aziz Ba, dit « Aziz Dabala », et de Boubacar Gano, dit « Waly ». Le procureur Saliou Dicko a bouclé ses réquisitions et a…",
+  "categories": [
+   "Rewmi.com",
+   "UNE"
+  ]
+ },
+ {
+  "id": "6efb521ee5af",
+  "titre": "Sommet des alliés de l'Ukraine : quelles avancées après les discussions ?",
+  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261120-sommet-des-alli%C3%A9s-de-l-ukraine-quelles-avanc%C3%A9es-apr%C3%A8s-les-discussions",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-20T10:57:33+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L'émissaire américain Jared Kushner a déclaré jeudi que les États-Unis seraient disposés à accorder à l'Ukraine une protection de type Otan, si cela était dans leur \"intérêt\", et souligné que la Russie en avait accepté \"le concept\"."
+ },
+ {
+  "id": "87110ad606f9",
+  "titre": "Naufrage à Yenne : des dizaines de migrants restent portés disparus",
+  "lien": "https://senego.com/naufrage-a-yenne-des-dizaines-de-migrants-restent-portes-disparus_2026076.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T10:57:31+00:00",
+  "rubrique": "Diaspora",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Après le naufrage d’une pirogue près de Yenne, les recherches se poursuivent. Un survivant a parlé d’environ 100 personnes à bord, dont cinq femmes.",
+  "categories": [
+   "Afrique",
+   "Faits Divers",
+   "Sénégal",
+   "Société",
+   "Bassirou diomaye Faye"
+  ]
+ },
+ {
+  "id": "2ba477faf928",
+  "titre": "LFR 2026 : Me Abdoulaye Tine estime que le président a « d’autres possibilités » que le décret",
+  "lien": "http://www.ndarinfo.com/LFR-2026-Me-Abdoulaye-Tine-estime-que-le-president-a-d-autres-possibilites-que-le-decret_a47282.html",
+  "source": "Ndarinfo (Saint-Louis)",
+  "site_source": "https://www.ndarinfo.com",
+  "date": "2026-11-20T10:57:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L'avocat Abdoulaye Tine a estimé ce vendredi sur RFM que le président Bassirou Diomaye Faye disposait d'« autres possibilités » qu...",
+  "categories": [
+   "Politique"
+  ]
+ },
+ {
+  "id": "e9d6b27944e0",
+  "titre": "Ukraine : Au moins 1.144 enfants tués ou blessés en dix mois, selon l’Unicef",
+  "lien": "https://www.senenews.com/actualites/societe/ukraine-au-moins-1-144-enfants-tues-ou-blesses-en-dix-mois-selon-lunicef_607035.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-20T10:56:58+00:00",
+  "rubrique": "Monde",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Au moins 114 enfants ont été tués et 1.030 blessés en Ukraine entre janvier et octobre, le bilan le plus élevé depuis près de quatre ans, a indiqué vendredi le Fonds des Nations unies pour l'enfance (Unicef). Cela représente en moyenne plus de trois enfants tués ou blessés chaque jour, selon un…",
+  "categories": [
+   "International",
+   "Société",
+   "ukraine"
+  ]
+ },
+ {
+  "id": "841a624b88c9",
+  "titre": "Royaume-Uni : la célèbre maison à la porte bleue de \"Notting Hill\" mise en vente",
+  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261120-royaume-uni-la-c%C3%A9l%C3%A8bre-maison-%C3%A0-la-porte-bleue-de-notting-hill-mise-en-vente",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-20T10:56:27+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Rendue célèbre par la comédie romantique \"Notting Hill\", sortie en 1999 avec Julia Roberts et Hugh Grant, la maison londonienne reconnaissable à sa célèbre porte bleue est mise en vente à 7,95 millions de livres sterling (soit environ 9 millions d'euros)."
+ },
+ {
+  "id": "e132c7c50cd4",
+  "titre": "Le Royaume-Uni et l'UE actent à Bruxelles le premier chapitre de leur \"reset\"",
+  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261120-le-royaume-uni-et-l-ue-actent-%C3%A0-bruxelles-le-premier-chapitre-de-leur-reset",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-20T10:54:19+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le Premier ministre britannique Andy Burnham et les dirigeants de l'Union européenne ouvrent vendredi, lors d'un sommet à Bruxelles, le premier chapitre d'une nouvelle entente post-Brexit, en s'appuyant sur plusieurs accords concrets."
+ },
+ {
+  "id": "421e6b6e20b1",
+  "titre": "Espagne : attaqué sur son bilan par son rival conservateur, Sánchez admet des \"erreurs\"",
+  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261120-espagne-attaqu%C3%A9-sur-son-bilan-par-son-rival-conservateur-s%C3%A1nchez-admet-des-erreurs",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-20T10:53:01+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le Premier ministre socialiste, espagnol Pedro, Sánchez a reconnu jeudi des \"erreurs\" lors d'un face-à-face tendu face à son rival conservateur Alberto Núñez Feijóo, qui l'a accusé d'avoir \"laminé la classe moyenne\" et lui a reproché son \"irresponsabilité\" en matière migratoire, à 10 jours des…"
+ },
+ {
+  "id": "0b6cd6285522",
+  "titre": "Le Paris des Arts avec Mariam Doumbia et Zaho",
+  "lien": "https://www.france24.com/fr/%C3%A9missions/le-paris-des-arts/20261120-le-paris-des-arts-avec-mariam-doumbia-et-zaho",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-20T10:51:34+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Cette semaine, deux femmes, deux voix, deux destins : Mariam, la chanteuse malienne, poursuit son aventure musicale après la disparition d'Amadou son compagnon de vie et de scène. Elle nous offre un duo avec Zaho, artiste algéro-canadienne aux multiples influences.",
+  "categories": [
+   "Le Paris des arts"
+  ]
+ },
+ {
+  "id": "bb80d3e69c19",
+  "titre": "CAMES : le recteur de l’UCAD, Alioune Badara Kandji, élevé au rang d’Officier de l’Ordre international des Palmes académiques",
+  "lien": "https://senego.com/cames-le-recteur-de-lucad-alioune-badara-kandji-eleve-au-rang-dofficier-de-lordre-international-des-palmes-academiques_2026061.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T10:51:32+00:00",
+  "rubrique": "Société",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Le recteur de l’Université Cheikh Anta Diop de Dakar (UCAD), le professeur Alioune Badara Kandji, a reçu une distinction honorifique de ses pairs, ce mercredi 18 novembre 2026, à Bangui, en République centrafricaine. Il a été élevé au rang d’Officier de l’Ordre international des Palmes académiques…",
+  "categories": [
+   "Actualités",
+   "Sénégal",
+   "Société",
+   "Alioune Badara Kandji",
+   "Cames"
+  ]
+ },
+ {
+  "id": "af79e94cb955",
+  "titre": "Sidy Alpha Ndiaye conteste le décret n° 2026-2416 et réclame la dissolution de l’Assemblée",
+  "lien": "https://senego.com/sidy-alpha-ndiaye-conteste-le-decret-n-2026-2416-et-reclame-la-dissolution-de-lassemblee_2026073.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T10:50:40+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Sidy Alpha Ndiaye conteste la légalité du décret mettant en vigueur la LFR 2026 et demande la dissolution de l’Assemblée nationale, tandis que l’exécutif défend la procédure.",
+  "categories": [
+   "Assemblée nationale",
+   "Politique",
+   "Sénégal",
+   "Bassirou diomaye Faye",
+   "Decret"
+  ]
+ },
+ {
+  "id": "07b1adaebd42",
+  "titre": "Wally Seck et Jeeba dévoilent le teaser de leur clip « Mala Beug »",
+  "lien": "https://senego.com/wally-seck-et-jeeba-devoilent-le-teaser-de-leur-clip-mala-beug_2026071.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T10:50:36+00:00",
+  "rubrique": "Culture",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Wally Seck et Jeeba ont dévoilé le teaser de « Mala Beug », une chanson d’amour extraite du nouvel album de Jeeba, qui signe son retour musical.",
+  "categories": [
+   "Culture",
+   "People",
+   "Jeeba",
+   "Mala Beug",
+   "Musique sénégalaise"
+  ]
+ },
+ {
+  "id": "8ce497290658",
+  "titre": "LFR 2026 : Sidy Alpha Ndiaye remet en cause le décret présidentiel",
+  "lien": "https://kewoulo.info/lfr-2026-sidy-alpha-ndiaye-remet-en-cause-le-decret-presidentiel/",
+  "source": "Kewoulo",
+  "site_source": "https://www.kewoulo.info",
+  "date": "2026-11-20T10:50:34+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "La polémique autour du décret n° 2026-2416 du 19 novembre 2026, portant mise en vigueur du projet de loi de finances rectificative (LFR) pour l’année 2026, prend une…",
+  "categories": [
+   "économie",
+   "Featured",
+   "Justice",
+   "Société",
+   "2026"
+  ]
+ },
+ {
+  "id": "563244a74adb",
+  "titre": "Un expert médico-légal affirme que son analyse des photos de l'autopsie d'Epstein suggère que le financier a été assassiné en prison",
+  "lien": "https://www.bbc.com/afrique/articles/c5dj1dzrgv7do?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Afrique",
+  "site_source": "https://www.bbc.com/afrique",
+  "date": "2026-11-20T10:50:14+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le professeur Michael Freeman a déclaré à la BBC qu'il estimait que les blessures du délinquant sexuel condamné étaient compatibles avec un homicide."
+ },
+ {
+  "id": "eb2770cf2f73",
+  "titre": "Anthropic : des manifestants à San Francisco exigent un contrôle humain de l’IA après son IPO",
+  "lien": "http://fr.africanews.com/2026/11/20/anthropic-des-manifestants-a-san-francisco-exigent-un-controle-humain-de-lia-apres-son-ipo/",
+  "source": "Africanews",
+  "site_source": "https://fr.africanews.com",
+  "date": "2026-11-20T10:49:59+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Des manifestants se sont rassemblés devant le siège d'Anthropic à San Francisco le 19 novembre 2026 pour réclamer une régulation plus stricte et un contrôle humain accru sur l'intelligence artificielle, après une entrée en Bourse à 2 000 milliards de dollars."
+ },
+ {
+  "id": "415e089eef39",
+  "titre": "Okunoshima, l'île aux lapins du Japon, cache une usine chimique de l'armée impériale",
+  "lien": "http://fr.africanews.com/2026/11/20/okunoshima-lile-aux-lapins-du-japon-cache-une-usine-chimique-de-larmee-imperiale/",
+  "source": "Africanews",
+  "site_source": "https://fr.africanews.com",
+  "date": "2026-11-20T10:49:44+00:00",
+  "rubrique": "Actualité",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Des centaines de lapins vivent en liberté sur l'île japonaise d'Okunoshima, ravissant des visiteurs du monde entier. Mais derrière ce décor idyllique se cache une histoire troublante de production secrète d'armes chimiques."
+ },
+ {
+  "id": "fdc68abd0770",
+  "titre": "Ukraine: des frappes russes font six morts, deux ponts endommagés à Kiev",
+  "lien": "https://www.leral.net/Ukraine-des-frappes-russes-font-six-morts-deux-ponts-endommages-a-Kiev_a411759.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-20T10:48:00+00:00",
+  "rubrique": "Monde",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Vladimir Poutine avait promis une « réponse douloureuse » après la destruction du pont de Crimée par l’armée ukrainienne. Kie...",
+  "categories": [
+   "International"
+  ]
+ },
+ {
+  "id": "ca4e9c9d2008",
+  "titre": "LFR 2026 : Sidy Alpha Ndiaye conteste le décret de Diomaye Faye et réclame la dissolution de l’Assemblée nationale",
+  "lien": "https://www.senenews.com/actualites/lfr-2026-sidy-alpha-ndiaye-conteste-le-decret-de-diomaye-faye-et-reclame-la-dissolution-de-lassemblee-nationale_607033.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-20T10:47:01+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La décision du président Bassirou Diomaye Faye de mettre en vigueur, par décret, le projet de loi de finances rectificative (LFR) 2026 continue de provoquer de vives réactions. Cette fois, c’est Sidy Alpha Ndiaye, conseiller spécial du président de l’Assemblée nationale et membre de PASTEF-Les…",
+  "categories": [
+   "Politique",
+   "Sénégal - Actualités",
+   "Sidy Alpha Ndiaye"
+  ]
+ },
+ {
+  "id": "79de5cebd0f1",
+  "titre": "Biennale de Dakar : Saint-Louis veut reprendre sa place dans l’histoire de l’art sénégalais",
+  "lien": "http://www.ndarinfo.com/Biennale-de-Dakar-Saint-Louis-veut-reprendre-sa-place-dans-l-histoire-de-l-art-senegalais_a47281.html",
+  "source": "Ndarinfo (Saint-Louis)",
+  "site_source": "https://www.ndarinfo.com",
+  "date": "2026-11-20T10:47:00+00:00",
+  "rubrique": "Culture",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L'association Ndar Création expose jusqu'au 19 décembre à la galerie Maam Thiouth, à Saint-Louis, les œuvres de vingt artistes d...",
+  "categories": [
+   "+ D'ACTU"
+  ]
+ },
+ {
+  "id": "19afc01d9f8f",
+  "titre": "Ligue 1: Hillel Konaté, l’Etalon de Troyes pour la bataille du maintien",
+  "lien": "https://www.rfi.fr/fr/afrique-foot/20261120-ligue-1-hillel-konat%C3%A9-l-etalon-de-troyes-pour-la-bataille-du-maintien",
+  "source": "RFI Afrique",
+  "site_source": "https://www.rfi.fr/fr/afrique/",
+  "date": "2026-11-20T10:45:33+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Avant-dernier de Ligue 1, Troyes reçoit Le Havre, lanterne rouge, ce vendredi soir en ouverture de la 11e journée. Pour tenter de s’éloigner de la zone rouge, le club aubois compte notamment sur le gardien international burkinabè Hillel Konaté, convaincant depuis son retour dans les cages.",
+  "categories": [
+   "Afrique foot"
+  ]
+ },
+ {
+  "id": "3601f74e3f56",
+  "titre": "Somalie : manifestation en soutien à l’expulsion de l’ambassadeur des Émirats",
+  "lien": "http://fr.africanews.com/2026/11/20/somalie-des-centaines-de-manifestants-soutiennent-lexpulsion-de-lambassadeur-des-emirats-a/",
+  "source": "Africanews",
+  "site_source": "https://fr.africanews.com",
+  "date": "2026-11-20T10:45:15+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Des centaines de personnes ont manifesté jeudi à Mogadiscio pour soutenir la décision du gouvernement somalien d’expulser l’ambassadeur des Émirats arabes unis (EAU), accusés de porter atteinte à la souveraineté et à l’unité du pays."
+ },
+ {
+  "id": "f3676222e9d2",
+  "titre": "Des drones aperçus jeudi soir près de l’aéroport de Gênes, qui a dû fermer pendant deux heures",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/20/des-drones-apercus-jeudi-soir-pres-de-l-aeroport-de-genes-qui-a-du-fermer-pendant-deux-heures_6813625_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-20T10:45:08+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Les passagers d’un avion à destination de Rome ont dû être débarqués avant la réouverture de la piste, peu après 22 heures. Le modèle des drones et leur provenance restent à déterminer."
+ },
+ {
+  "id": "8f7341fab563",
+  "titre": "367 millions de FCFA pour former 1 000 acteurs de la pêche artisanale dans la Petite-Côte",
+  "lien": "https://www.seneplus.com/article/367-millions-de-fcfa-pour-former-1-000-acteurs-de-la-peche-artisanale-dans-la-petite-cote",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-20T10:44:31+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "367 millions de FCFA pour former 1 000 acteurs de la pêche artisanale dans la Petite-Côte Paap Seen Fri, 11/20/2026 - 10:44"
+ },
+ {
+  "id": "523a17d135f2",
+  "titre": "Comment Bassirou Diomaye Faye a contourné le Parlement pour imposer le budget révisé 2026",
+  "lien": "https://www.jeuneafrique.com/1863556/economie-entreprises/comment-bassirou-diomaye-faye-a-contourne-le-parlement-pour-imposer-le-budget-revise-2026/",
+  "source": "Jeune Afrique",
+  "site_source": "https://www.jeuneafrique.com",
+  "date": "2026-11-20T10:43:27+00:00",
+  "rubrique": "Politique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Face au rejet du Parlement, le président sénégalais a adopté par décret le budget rectificatif 2026. Un coup de force constitutionnel destiné à débloquer l’aide du FMI, mais qui pourrait bien raviver les tensions avec Pastef."
+ },
+ {
+  "id": "e3b0959262af",
+  "titre": "LFR 2026 bloquée : Me Abdoulaye Tine évoque l’article 52 et des législatives sous trois mois",
+  "lien": "https://senego.com/lfr-2026-bloquee-me-abdoulaye-tine-evoque-larticle-52-et-des-legislatives-sous-trois-mois_2026069.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T10:43:25+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Après la mise en vigueur par décret de la LFR 2026, Me Abdoulaye Tine évoque l’article 52 et la possibilité d’une dissolution suivie de législatives sous trois mois.",
+  "categories": [
+   "Assemblée nationale",
+   "Politique",
+   "Sénégal",
+   "article 52",
+   "Bassirou diomaye Faye"
+  ]
+ },
+ {
+  "id": "fe5a52101a99",
+  "titre": "Revue de presse Ahmed Aïdara du Vendredi 20 Novembre 2026",
+  "lien": "https://www.seneweb.com/fr/news/Revue%20Presse/revue-de-presse-ahmed-aidara-du-vendredi-20-novembre-2026_n_999004183.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-20T10:42:38+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Revue de presse Ahmed Aïdara du Vendredi 20 Novembre 2026"
+ },
+ {
+  "id": "1728f1e4c184",
+  "titre": "Ker Ayo en ébullition : les ténors de l’arène donnent le ton pour la saison 2026-2027…",
+  "lien": "https://senego.com/ker-ayo-en-ebullition-les-tenors-de-larene-donnent-le-ton-pour-la-saison-2026-2027_2026044.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T10:39:23+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Ker Ayo, situé sur le site de l’ancienne base militaire, a vibré hier au rythme de la culture sénégalaise et des tambours de l’arène. Canal+, représenté par sa directrice Amina Sow Ba, y a organisé une conférence en prélude au dévoilement du calendrier de la saison 2026-2027 de lutte sénégalaise.…",
+  "categories": [
+   "Lutte sénégalaise",
+   "sport",
+   "Ker Ayo",
+   "Lutte",
+   "Ténors"
+  ]
+ },
+ {
+  "id": "a76d1f605329",
+  "titre": "Manifestations en Italie : la jeunesse s'unit contre la vie chère",
+  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261120-manifestations-en-italie-la-jeunesse-s-unit-contre-la-vie-ch%C3%A8re",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-20T10:38:32+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La colère contre la vie chère mobilise plusieurs pays européens. En Italie, en Allemagne, en Espagne, en Grèce et en Belgique, syndicats et associations appellent à manifester pour dénoncer la hausse des prix et réclamer des mesures pour préserver le pouvoir d’achat. À Rome, les manifestants sont…"
+ },
+ {
+  "id": "88404faccc82",
+  "titre": "Keur Massar : six personnes visées pour association de malfaiteurs, gardes à vue prolongées",
+  "lien": "https://senego.com/keur-massar-six-personnes-visees-pour-association-de-malfaiteurs-gardes-a-vue-prolongees_2026063.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T10:36:46+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Après une deuxième vague d’interpellations à Keur Massar, six personnes sont visées par des poursuites. Le procureur a prolongé les gardes à vue.",
+  "categories": [
+   "Faits Divers",
+   "Justice",
+   "Sénégal",
+   "Garde à vue",
+   "Interpellations"
+  ]
+ },
+ {
+  "id": "00383fc91342",
+  "titre": "Le parfum d’une démocratie illibérale : La stricte exégèse de l’illégalité du décret n° 2026-2416 du 19 novembre 2026 (Par Sidy Alpha Ndiaye)",
+  "lien": "https://www.seneweb.com/fr/news/Politique/le-parfum-dune-democratie-illiberale-la-stricte-exegese-de-lillegalite-du-decret-n-2026-2416-du-19-novembre-2026-par-sidy-alpha-ndiaye_n_999004181.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-20T10:33:30+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le régime en place, dépourvu d’une majorité parlementaire, a inauguré, par l’interprétation spécieuse du droit, la temporalité d’une démocratie..."
+ },
+ {
+  "id": "a81c6e19b55e",
+  "titre": "Rohingya : le courage de la Cour internationale de justice",
+  "lien": "https://www.lemonde.fr/idees/article/2026/11/20/rohingya-le-courage-de-la-cour-internationale-de-justice_6813621_3232.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-20T10:30:13+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "En reconnaissant la Birmanie coupable d’un génocide contre la minorité rohingya, la CIJ a rendu un arrêt historique et pris ses responsabilités, alors que son jugement avait fait l’objet d’une attaque préventive d’une rare intensité par les autorités américaines."
+ },
+ {
+  "id": "9ad5465f3b1f",
+  "titre": "Pikine-Guédiawaye : Elimane Lam et Rokhaya Fall confrontés autour d’Awa Baldé et d’un audio controversé",
+  "lien": "https://www.pressafrik.com/Pikine-Guediawaye-Elimane-Lam-et-Rokhaya-Fall-confrontes-autour-d-Awa-Balde-et-d-un-audio-controverse_a314865.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-20T10:30:00+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Placé en garde à vue à la Division des investigations criminelles (Dic) mercredi 18 novembre 2026... www.pressafrik.com",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "04433960effa",
+  "titre": "Dakar : la Section de recherches démantèle un réseau présumé, dont un membre saoudien des JOJ a été victime",
+  "lien": "https://senego.com/dakar-la-section-de-recherches-demantele-un-reseau-presume-dont-un-membre-saoudien-des-joj-a-ete-victime_2026057.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T10:29:28+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "La Section de recherches de Dakar a démantelé un réseau présumé de vols à l’arraché. Aïda Samb et un membre de la délégation saoudienne des JOJ figurent parmi les victimes.",
+  "categories": [
+   "Dakar",
+   "Faits Divers",
+   "Sénégal",
+   "Aida Samb",
+   "joj"
+  ]
+ },
+ {
+  "id": "29640634bc46",
+  "titre": "Mor Fall, professeur de finances publiques et membre de la task force juridique de Kiiraay, « Le Président dispose de leviers pour prévenir les risques de blocage en cas de non-adoption d’un texte budgétaire »",
+  "lien": "https://www.seneplus.com/article/mor-fall-professeur-de-finances-publiques-et-membre-de-la-task-force-juridique-de-kiiraay",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-20T10:28:47+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Mor Fall, professeur de finances publiques et membre de la task force juridique de Kiiraay, « Le Président dispose de leviers pour prévenir les risques de blocage en cas de non-adoption d’un texte budgétaire » Daouda Toumbou Fri, 11/20/2026 - 10:28"
+ },
+ {
+  "id": "5b2f54871ec8",
+  "titre": "Au Bhoutan, la peinture sur bois traditionnelle colore tout le royaume",
+  "lien": "http://fr.africanews.com/2026/11/20/au-bhoutan-la-peinture-sur-bois-traditionnelle-colore-tout-le-royaume/",
+  "source": "Africanews",
+  "site_source": "https://fr.africanews.com",
+  "date": "2026-11-20T10:26:32+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Au Bhoutan, des artisans peignent à la main des motifs complexes sur des bâtiments en bois, perpétuant une tradition séculaire. Appelé Shing Tshon, cet art reste central dans l'identité culturelle du royaume."
+ },
+ {
+  "id": "b71200f25a5c",
+  "titre": "Touba : un maçon placé sous mandat de dépôt après la mort de son beau-frère",
+  "lien": "https://senego.com/touba-un-macon-place-sous-mandat-de-depot-apres-la-mort-de-son-beau-frere_2026055.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T10:21:41+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Après une dispute autour d’un repas à Ndamatou, un maçon de 25 ans est accusé d’avoir tué son beau-frère. Il a été placé sous mandat de dépôt à Diourbel.",
+  "categories": [
+   "Diourbel",
+   "Faits Divers",
+   "Justice",
+   "Sénégal",
+   "fait divers"
+  ]
+ },
+ {
+  "id": "32ed4c0f1daa",
+  "titre": "Sécurité collective : Diomaye Faye appelle au renforcement des capacités militaires africaines…",
+  "lien": "https://senego.com/securite-collective-diomaye-faye-appelle-au-renforcement-des-capacites-militaires-africaines_2026049.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T10:19:05+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "La 25ᵉ édition de la Journée des Forces armées a été célébrée ce jeudi 19 novembre 2026 au quartier Dial Diop, siège de l’État-major général des Armées, sous la présidence du chef de l’État, Bassirou Diomaye Diakhar Faye. Placée sous le thème « Les Forces armées, vecteurs de l’intégration…",
+  "categories": [
+   "Actualités",
+   "Politique",
+   "Sénégal",
+   "Société",
+   "diomaye faye"
+  ]
+ },
+ {
+  "id": "d50168a847cb",
+  "titre": "LFR 2026 : Ce que la loi rectificative permet concrètement, une fois mise en vigueur par décret",
+  "lien": "https://www.dakaractu.com/LFR-2026-Ce-que-la-loi-rectificative-permet-concretement-une-fois-mise-en-vigueur-par-decret_a278423.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-20T10:19:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Au-delà du débat sur sa procédure d’adoption, la loi de finances rectificative (LFR) 2026 répond à un objectif précis : permettre à l’État de continuer à fonctionner et d’exécuter son budget malgré un contexte dégradé. Rejetée par l’Assemblée nationale le 3 novembre, elle n’a pas été votée…",
+  "categories": [
+   "Texto"
+  ]
+ },
+ {
+  "id": "15cb01df6329",
+  "titre": "COP31 sur le climat : les énergies fossiles retirées du projet de décision finale",
+  "lien": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261120-cop31-sur-le-climat-les-%C3%A9nergies-fossiles-retir%C3%A9es-du-projet-de-d%C3%A9cision-finale",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-20T10:18:31+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Les énergies fossiles ne figurent plus dans le nouveau projet de décision finale de la COP31 sur le climat publié jeudi à Antalya (Turquie), un recul dénoncé avec force par les ONG à la veille de la fin théorique des négociations.",
+  "categories": [
+   "Élément Terre, la quotidienne"
+  ]
+ },
+ {
+  "id": "250fe6cc2c0f",
+  "titre": "​Génocide des Rohingyas: la Birmanie juge «injuste» la décision de la CIJ",
+  "lien": "https://www.pressafrik.com/​Genocide-des-Rohingyas-la-Birmanie-juge-injuste-la-decision-de-la-CIJ_a314864.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-20T10:18:00+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La porte-parole de la présidence birmane, Khaing Khaing Soe, a jugé «injuste» la décision d... www.pressafrik.com",
+  "categories": [
+   "Inter"
+  ]
+ },
+ {
+  "id": "2c0a477aea7f",
+  "titre": "Zahra Iyane Thiam à Diomaye et Sonko : « Enterrez la hache de guerre et parlez-vous »",
+  "lien": "https://www.dakaractu.com/Zahra-Iyane-Thiam-a-Diomaye-et-Sonko-Enterrez-la-hache-de-guerre-et-parlez-vous_a278422.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-20T10:15:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L’ancienne ministre Zahra Iyane Thiam est sortie de son silence pour interpeller directement le président de la République et le leader de Pastef. Face au bras de fer institutionnel autour de la loi de finances rectificative (LFR) 2026, elle appelle Bassirou Diomaye Faye et Ousmane Sonko à…",
+  "categories": [
+   "Texto"
+  ]
+ },
+ {
+  "id": "ba1cbb82fc5d",
+  "titre": "JOJ Dakar 2026 : l’image du Sénégal aurait progressé de 606 % selon les organisateurs",
+  "lien": "https://www.leral.net/JOJ-Dakar-2026-l-image-du-Senegal-aurait-progresse-de-606-selon-les-organisateurs_a411522.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-20T10:13:00+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Les Jeux olympiques de la jeunesse (JOJ) Dakar 2026 continuent de produire leurs premiers effets, selon les organisateurs...",
+  "categories": [
+   "Sport"
+  ]
+ },
+ {
+  "id": "1fe97ab29f43",
+  "titre": "Sidy Alpha Ndiaye, conseiller-spécial du président de l’assemblée nationale, membre de Pastef-les patriotes, «L’illibéralisme est consommé lorsque le rejet n’est plus une option démocratique»",
+  "lien": "https://www.seneplus.com/article/sidy-alpha-ndiaye-conseiller-special-du-president-de-lassemblee-nationale-membre-de-pastef",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-20T10:08:45+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Sidy Alpha Ndiaye, conseiller-spécial du président de l’assemblée nationale, membre de Pastef-les patriotes, «L’illibéralisme est consommé lorsque le rejet n’est plus une option démocratique» Daouda Toumbou Fri, 11/20/2026 - 10:08"
+ },
+ {
+  "id": "7eade1b60539",
+  "titre": "Hajj 2027 : à la demande du Sénégal, les bus resteront à Mouzdalifa",
+  "lien": "https://senego.com/hajj-2027-a-la-demande-du-senegal-les-bus-resteront-a-mouzdalifa_2026052.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T10:08:40+00:00",
+  "rubrique": "Société",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Pour le Hajj 2027, les bus attendront les pèlerins à Mouzdalifa après leur descente. Ils pourront prier, ramasser les pierres et repartir vers Mina sans changer de véhicule.",
+  "categories": [
+   "Religion",
+   "Sénégal",
+   "Société",
+   "Hajj 2027",
+   "Mamadou Gaye"
+  ]
+ },
+ {
+  "id": "dfe16d871827",
+  "titre": "À la Une: l’afflux de migrants sur l’île d’El Hierro, aux Canaries",
+  "lien": "https://www.rfi.fr/fr/podcasts/revue-de-presse-afrique/20261120-%C3%A0-la-une-l-afflux-de-migrants-sur-l-%C3%AEle-d-el-hierro-aux-canaries",
+  "source": "RFI Afrique",
+  "site_source": "https://www.rfi.fr/fr/afrique/",
+  "date": "2026-11-20T10:08:38+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "",
+  "categories": [
+   "Revue de presse Afrique"
+  ]
+ },
+ {
+  "id": "425c8f5aac8a",
+  "titre": "L’ONFP célèbre ses 40 ans et affiche ses ambitions pour une nouvelle dynamique de la formation professionnelle au Sénégal",
+  "lien": "https://emedia.sn/lonfp-celebre-ses-40-ans-et-affiche-ses-ambitions-pour-une-nouvelle-dynamique-de-la-formation-professionnelle-au-senegal/",
+  "source": "Emedia",
+  "site_source": "https://emedia.sn",
+  "date": "2026-11-20T10:08:08+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L’Office national de formation professionnelle (ONFP) a célébré ses quarante années d’existence, à l’occasion d’une cérémonie marquée par la présence d’anciens directeurs généraux, d’anciens cadres et agents de l’institution, de partenaires institutionnels et techniques, ainsi que de nombreux…",
+  "categories": [
+   "A L'INSTANT",
+   "ACTUALITÉS",
+   "UNE",
+   "Dr Mame Awa Ndoye",
+   "ONFP"
+  ]
+ },
+ {
+  "id": "ae91358d9d8d",
+  "titre": "L'actu en dessin : à Shenzhen, le sommet tripartite débouche sur une étonnante \"déclaration de paix\"",
+  "lien": "https://www.france24.com/fr/plan%C3%A8te/20261120-l-actu-en-dessin-%C3%A0-shenzhen-le-sommet-tripartite-d%C3%A9bouche-sur-une-%C3%A9tonnante-d%C3%A9claration-de-paix",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-20T10:06:04+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Donald Trump, Vladimir Poutine et Xi Jinping ont adopté jeudi une \"déclaration en faveur de la paix\" à l'issue d'un sommet tripartite inédit. Une conclusion inattendue quand on sait que la Russie est directement belligérante dans la guerre en Ukraine, que les États-Unis font la guerre à l'Iran et…",
+  "categories": [
+   "Environnement"
+  ]
+ },
+ {
   "id": "2e33328b3679",
   "titre": "Développement local : Fatou Kiné Diakhaté honorée du titre d'« Ambassadrice des Régies de quartier » par l'ADL",
   "lien": "https://www.igfm.sn/developpement-local-fatou-kine-diakhate-honoree-du-titre-d-ambassadrice-des-regies-de-quartier-par-l-adl",
