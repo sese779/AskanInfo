@@ -1,0 +1,31 @@
+{
+ "url": "https://github.com/sese779/AskanInfo/releases/download/video/askaninfo-2026-11-27.mp4",
+ "taille": 1631319,
+ "duree": 55,
+ "sujets": [
+  {
+   "url": "https://github.com/sese779/AskanInfo/releases/download/video/askaninfo-2026-11-27-1.mp4",
+   "taille": 495119,
+   "duree": 17,
+   "synthese": "2026-11-27-mondial-u17-lionceaux-qualifies-16es"
+  },
+  {
+   "url": "https://github.com/sese779/AskanInfo/releases/download/video/askaninfo-2026-11-27-2.mp4",
+   "taille": 489465,
+   "duree": 17,
+   "synthese": "2026-11-27-faleme-fer-premiere-pierre-kedougou"
+  },
+  {
+   "url": "https://github.com/sese779/AskanInfo/releases/download/video/askaninfo-2026-11-27-3.mp4",
+   "taille": 523761,
+   "duree": 18,
+   "synthese": "2026-11-27-cni-renouvellement-elargi-3-decembre"
+  },
+  {
+   "url": "https://github.com/sese779/AskanInfo/releases/download/video/askaninfo-2026-11-27-4.mp4",
+   "taille": 489282,
+   "duree": 17,
+   "synthese": "2026-11-27-kedougou-salemata-chantiers-sante"
+  }
+ ]
+}
