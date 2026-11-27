@@ -1,5 +1,397 @@
 [
  {
+  "id": "121423f2d898",
+  "titre": "Ligue 2 - 6e journée : Guelwaars-Jamono, le derby du Sine, une affiche au sommet",
+  "lien": "https://www.seneweb.com/fr/news/Sport/ligue-2-6e-journee-guelwaars-jamono-le-derby-du-sine-une-affiche-au-sommet_n_999004237.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-20T21:05:51+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le derby du Sine entre le Guelwaars de Fatick (1er, 15 pts) et son dauphin, le Jamono Fatick (2e, 13 pts), constitue l’affiche phare de la 6e journée de Ligue 2."
+ },
+ {
+  "id": "5e988145018c",
+  "titre": "Cambriolage à Keur Massar : trois suspects sous les verrous pour le vol de 52 tablettes et 5 iPhone",
+  "lien": "https://www.pressafrik.com/Cambriolage-a-Keur-Massar-trois-suspects-sous-les-verrous-pour-le-vol-de-52-tablettes-et-5-iPhone_a314896.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-20T21:03:00+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La Brigade territoriale de Keur Massar a démantelé un réseau de vol avec effraction et d... www.pressafrik.com",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "d2c0f5e39439",
+  "titre": "France: Depardieu et Houellebecq accusés de viol en réunion et d'agressions sexuelles",
+  "lien": "https://www.seneweb.com/fr/news/International/france-depardieu-et-houellebecq-accuses-de-viol-en-reunion-et-dagressions-sexuelles_n_999004236.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-20T21:01:35+00:00",
+  "rubrique": "Monde",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L'acteur français Gérard Depardieu est de nouveau au cœur d'investigations, accusé de viol, en réunion cette fois, avec la complicité supposée de l'écrivain Michel Houellebecq."
+ },
+ {
+  "id": "142750e902b9",
+  "titre": "LFR 2026 : Le président Faye sort le décret signé, suite au rapport sur Ministre de l’économie, des finances et du plan",
+  "lien": "https://www.dakaractu.com/LFR-2026-Le-president-Faye-sort-le-decret-signe-suite-au-rapport-sur-Ministre-de-l-economie-des-finances-et-du-plan_a278434.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-20T21:01:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "C'est fait : le président de la République, Bassirou Diomaye Diakhar Faye, a signé le 19 novembre 2026 le décret n° 2026-2416 mettant en vigueur le projet de loi de finances rectificative (LFR) pour l'année 2026. Le texte, contresigné par le Premier ministre, Ahmadou Alhaminou Mohamed Lo, a été…",
+  "categories": [
+   "Actu"
+  ]
+ },
+ {
+  "id": "eba496938fc6",
+  "titre": "Tribunal de Pikine-Guédiawaye : Elimane Lam placé sous bracelet électronique",
+  "lien": "https://www.xibaaru.sn/tribunal-de-pikine-guediawaye-elimane-lam-place-sous-bracelet-electronique/",
+  "source": "Xibaaru",
+  "site_source": "https://www.xibaaru.sn",
+  "date": "2026-11-20T21:00:36+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Présenté ce vendredi devant le juge du 2e cabinet d’instruction du tribunal de Pikine-Guédiawaye, l’homme d’affaires Elimane Lam a été fixé sur son sort. Selon les informations de Seneweb, il a placé…",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "e7b1f14b584a",
+  "titre": "Johann Chapoutot : \"la dédiabolisation du RN est véritablement un mythe\"",
+  "lien": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261120-johann-chapoutot-la-d%C3%A9diabolisation-du-rn-est-v%C3%A9ritablement-un-mythe",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-20T20:58:03+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "A 5 mois de la présidentielle en France, le RN domine toujours dans les sondages. Longtemps considéré comme anti républicain, infréquentable, il est désormais aux portes du pouvoir. Comment comprendre cette progression? Quelle est la responsabilité de la classe politique dans cette évolution?…",
+  "categories": [
+   "Au cœur de l’info, l’invité"
+  ]
+ },
+ {
+  "id": "49d2dc9ff40e",
+  "titre": "Incendie sur la VDN : Plus de deux heures à lutter contre les flammes, une femme perd la vie",
+  "lien": "https://www.senenews.com/actualites/incendie-sur-la-vdn-plus-de-deux-heures-a-lutter-contre-les-flammes-une-femme-perd-la-vie_607109.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-20T20:56:14+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Un violent incendie a ravagé un immeuble de la VDN, à Dakar, à hauteur du supermarché Exclusif. Le drame a coûté la vie à une femme et provoqué d'importants dégâts matériels. L'origine du feu reste inconnue, et la gendarmerie a ouvert une enquête. Déroulement des opérations de secours Le commandant…",
+  "categories": [
+   "Sénégal - Actualités",
+   "Société",
+   "vdn"
+  ]
+ },
+ {
+  "id": "8826a07ece3e",
+  "titre": "Matam endeuillée une seconde fois en 40 jours : Le Dr Abdou Cissé, directeur de l'hôpital de Ourossogui, est décédé",
+  "lien": "https://www.seneweb.com/fr/news/Societe/matam-endeuillee-une-seconde-fois-en-40-jours-le-dr-abdou-cisse-directeur-de-lhopital-de-ourossogui-est-decede_n_999004234.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-20T20:54:59+00:00",
+  "rubrique": "Société",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Quarante jours ! C'est le temps qui sépare deux deuils. Quarante jours après la mort accidentelle du directeur de l'hôpital régional de Matam, Dr Ibrahima Sow, son collègue s'en est allé à son tour victime du même accident de la circulation."
+ },
+ {
+  "id": "a4c52f1f7ef4",
+  "titre": "Diomaye-Sonko : Me Tine dément toute volonté de liquider Pastef",
+  "lien": "https://senego.com/diomaye-sonko-me-tine-dement-toute-volonte-de-liquider-pastef_2026238.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T20:50:36+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Alors que les tensions entre Bassirou Diomaye Faye et Ousmane Sonko alimentent les spéculations sur l’avenir de Pastef, Me Abdoulaye Tine récuse toute volonté du chef de l’État de fragiliser le parti ou d’écarter son leader de la scène politique. Le juriste assure que le président n’est pas dans…",
+  "categories": [
+   "Actualités",
+   "Politique",
+   "Sénégal",
+   "Vedette",
+   "Diomaye-Tine"
+  ]
+ },
+ {
+  "id": "89770b965143",
+  "titre": "Ligue des nations : la France de Zinedine Zidane face à la montagne espagnole",
+  "lien": "https://www.france24.com/fr/%C3%A9missions/caf%C3%A9-des-sports/20261120-ligue-nations-france-zinedine-zidane-face-montagne-espagnole",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-20T20:48:42+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La France affrontera l'Espagne en quarts de finale de la Ligue des nations, un défi XXL pour les Bleus face aux champions du monde en titre. Zinedine Zidane aura-t-il la recette pour enfin vaincre la \"Roja\" ?",
+  "categories": [
+   "Café des sports"
+  ]
+ },
+ {
+  "id": "5f49ffcb7b18",
+  "titre": "Affaire des insultes en ligne : Elimane Lam placé sous bracelet électronique",
+  "lien": "https://senego.com/affaire-des-insultes-en-ligne-elimane-lam-place-sous-bracelet-electronique_2026247.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T20:44:04+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Placé sous bracelet électronique après son audition au tribunal de Pikine-Guédiawaye, Elimane Lam conteste avoir payé la TikTokeuse Rox pour insulter des personnes.",
+  "categories": [
+   "Faits Divers",
+   "Justice",
+   "Sénégal",
+   "bracelet électronique",
+   "Elimane lam"
+  ]
+ },
+ {
+  "id": "577a9f61ee62",
+  "titre": "Génocide des Rohingya : la Cour internationale de Justice « confirme qu’elle est indubitablement la boussole du droit international »",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/20/genocide-des-rohingya-la-cour-internationale-de-justice-confirme-qu-elle-est-indubitablement-la-boussole-du-droit-international_6813702_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-20T20:38:53+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "En reconnaissant le génocide des Rohingya commis par la Birmanie, la plus haute Cour de l’ONU établit pour la première fois la responsabilité d’un Etat dans « le crime des crimes ». Alors que l’Afrique du Sud a saisi l’institution contre Israël, accusant l’Etat hébreu d’un génocide contre les…"
+ },
+ {
+  "id": "36ade09618fb",
+  "titre": "ZLECAf : 208 milliards de dollars d'échanges intra-africains, mais seulement 15 % du commerce total du continent",
+  "lien": "https://www.pressafrik.com/ZLECAf-208-milliards-de-dollars-d-echanges-intra-africains-mais-seulement-15-du-commerce-total-du-continent_a314895.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-20T20:38:00+00:00",
+  "rubrique": "Afrique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Six ans après sa création et quatre ans après son lancemen... www.pressafrik.com",
+  "categories": [
+   "Economie"
+  ]
+ },
+ {
+  "id": "4cb636fc0412",
+  "titre": "Assane Sarr aurait été ménagé face à la Croatie après les émotions des JOJ",
+  "lien": "https://senego.com/assane-sarr-aurait-ete-menage-face-a-la-croatie-apres-les-emotions-des-joj_2026245.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T20:37:04+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Assane Sarr n’a pas débuté contre la Croatie. Selon Wiwsport, Lamine Sané voulait permettre au gardien sénégalais de récupérer après les émotions vécues aux JOJ.",
+  "categories": [
+   "Coupe du monde 2026",
+   "Football",
+   "Sénégal",
+   "Sports",
+   "Assane Sarr"
+  ]
+ },
+ {
+  "id": "bc8f299a6682",
+  "titre": "Incendie d'un immeuble sur la VDN : Un mort, 20 personnes sauvées et d'importants dégâts matériels",
+  "lien": "https://www.seneweb.com/fr/news/Societe/incendie-dun-immeuble-sur-la-vdn-un-mort-20-personnes-sauvees-et-dimportants-degats-materiels_n_999004233.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-20T20:36:50+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Un incendie s'est déclaré dans un immeuble situé sur la VDN, en face du supermarché Exclusif, à Dakar."
+ },
+ {
+  "id": "2b5e266c2034",
+  "titre": "Mbour-Dakar : Séquestrée pendant plus d’un mois, elle accuse son présumé ravisseur de viols répétés",
+  "lien": "https://senego.com/mbour-dakar-sequestree-pendant-plus-dun-mois-elle-accuse-son-presume-ravisseur-de-viols-repetes_2026239.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T20:33:50+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Une affaire présumée de séquestration, de viols multiples, de violences et de voies de fait est en cours d’instruction au Commissariat d’arrondissement de Pikine. Un individu a été interpellé le 18 novembre 2026, à la suite d’une plainte déposée la veille par une jeune femme, qui décrit un calvaire…",
+  "categories": [
+   "Actualités",
+   "Faits Divers",
+   "Justice",
+   "Sécurité",
+   "Sénégal"
+  ]
+ },
+ {
+  "id": "87eae0217f13",
+  "titre": "Pikine : un homme interpellé pour séquestration et viols répétés après une fausse offre d’emploi",
+  "lien": "https://senego.com/pikine-un-homme-interpelle-pour-sequestration-et-viols-repetes-apres-une-fausse-offre-demploi_2026241.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T20:33:49+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Le Commissariat d’arrondissement de Pikine a interpellé, le 18 novembre 2026, un individu soupçonné de séquestration, de viols répétés et de violences sur une jeune femme attirée à Mbour par une fausse promesse d’emploi domestique. Placé en garde à vue, il fait l’objet d’investigations toujours en…",
+  "categories": [
+   "Actualités",
+   "Société",
+   "Arrestation",
+   "fausse emploi",
+   "Pikine"
+  ]
+ },
+ {
+  "id": "2fc9020745a6",
+  "titre": "Ukraine, Soudan, Gaza: le nombre d’enfants exposés à la guerre atteint des records dans le monde",
+  "lien": "https://www.rfi.fr/fr/monde/20261120-ukraine-soudan-gaza-le-nombre-d-enfants-expos%C3%A9s-%C3%A0-la-guerre-atteint-des-records-dans-le-monde",
+  "source": "RFI Afrique",
+  "site_source": "https://www.rfi.fr/fr/afrique/",
+  "date": "2026-11-20T20:32:38+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Dans le monde, près d'un quart des enfants vivent dans des zones de conflit. L'ONG Save The Children en a comptabilisé 589 millions en 2025. Un nombre jamais atteint depuis qu'elle a commencé à les recenser en 1990. L'ONG dresse un double constat : en plus de vivre dans la guerre des adultes, les…",
+  "categories": [
+   "Monde"
+  ]
+ },
+ {
+  "id": "fbee446bf3f3",
+  "titre": "Gisement gazier sénégalo-mauritanien : cet éventuel désengagement qui pourrait bouleverser l’actionnariat",
+  "lien": "https://www.seneweb.com/fr/news/Energie/gisement-gazier-senegalo-mauritanien-cet-eventuel-desengagement-qui-pourrait-bouleverser-lactionnariat_n_999004232.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-20T20:32:24+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "British Petroleum (BP) pourrait se désengager partiellement du projet gazier sénégalo-mauritanien de Grand Tortue Ahmeyim (GTA), développé au large des côtes du Sénégal et de la Mauritanie.Selon Bloom…"
+ },
+ {
+  "id": "95141f58b048",
+  "titre": "Mondial U17 : Assane Sarr, les raisons de sa mise sur le banc face à la Croatie",
+  "lien": "https://wiwsport.com/2026/11/20/mondial-u17-assane-sarr-les-raisons-de-sa-mise-sur-le-banc-face-a-la-croatie/",
+  "source": "Wiwsport",
+  "site_source": "https://www.wiwsport.com",
+  "date": "2026-11-20T20:30:28+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "( wiwsport ) - L’habituel titulaire dans les cages et capitaine des Lionceaux, Assane Sarr, était remplaçant contre la Croatie (1-1) lundi, lors du premier match du Sénégal au Mondial U17. Une gestion des émotions imposée par le sélectionneur Lamine Sané, plus qu’une sanction. Après tout, une Coupe…",
+  "categories": [
+   "Coupe du monde",
+   "Equipe nationale Football",
+   "U-17"
+  ]
+ },
+ {
+  "id": "75f4e19c3e7a",
+  "titre": "Sommet de Shenzhen, guerre en Ukraine, hostilités dans le Golfe",
+  "lien": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20261120-sommet-de-shenzhen-guerre-en-ukraine-hostilit%C3%A9s-dans-le-golfe",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-20T20:24:04+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Au sommaire de l'émission ce soir: la rencontre historique entre Xi Jinping, Vladimir Poutine et Donald Trump en marge du sommet de l'APEC; la guerre en Ukraine et les révélations de nos confrères de RFI sur la présence de soldats français sur le sol ukrainien, et le regain de tensions dans la…",
+  "categories": [
+   "Une semaine dans le monde"
+  ]
+ },
+ {
+  "id": "1bf5bba06bc4",
+  "titre": "L’homme d’affaires Elimane Lam fixé sur son sort par le juge d’instruction",
+  "lien": "https://www.senenews.com/actualites/lhomme-daffaires-elimane-lam-fixe-sur-son-sort-par-le-juge-dinstruction_607108.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-20T20:18:19+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L’homme d’affaires Elimane Lam échappe à la détention préventive. À l’issue de son passage devant le juge d’instruction du deuxième cabinet du tribunal de Pikine-Guédiawaye, il a été placé sous bracelet électronique, selon Senegal7, une mesure de surveillance qui limite sa liberté de mouvement sans…",
+  "categories": [
+   "Sénégal - Actualités",
+   "Société",
+   "Elimane Lam"
+  ]
+ },
+ {
+  "id": "7a20a975991b",
+  "titre": "Sénégal : le Pastef acte officiellement le départ du président Bassirou Diomaye Faye",
+  "lien": "https://www.leral.net/Senegal-le-Pastef-acte-officiellement-le-depart-du-president-Bassirou-Diomaye-Faye_a411526.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-20T20:18:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Le parti Pastef a officialisé, mardi 17 novembre, le départ de ses rangs du président de la République Bassirou Diomaye Faye...",
+  "categories": [
+   "Politique"
+  ]
+ },
+ {
+  "id": "bca1a044ff25",
+  "titre": "Touré Kunda fait résonner la musique sénégalaise dans le monde du jeu vidéo",
+  "lien": "https://lesoleil.sn/actualites/arts-et-culture/toure-kunda-fait-resonner-la-musique-senegalaise-dans-le-monde-du-jeu-video/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-20T20:07:03+00:00",
+  "rubrique": "Culture",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le groupe Touré Kunda figure dans la programmation musicale de Grand Theft Auto VI (GTA 6), le nouvel opus de la célèbre franchise de Rockstar Games. Son titre « Nobel » a été retenu pour la station de radio virtuelle Kaleidoscope FM. Une nouvelle vitrine internationale pour notre patrimoine…",
+  "categories": [
+   "Arts et culture"
+  ]
+ },
+ {
   "id": "63a5d45ee793",
   "titre": "LFR 2026 : Voici le décret signé par Diomaye (documents)",
   "lien": "https://www.xibaaru.sn/lfr-2026-voici-le-decret-signe-par-diomaye-documents/",
