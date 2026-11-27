@@ -1,5 +1,221 @@
 [
  {
+  "id": "23ae662a219d",
+  "titre": "Une vague de manifestations de la jeunesse à travers l'Europe à partir de vendredi",
+  "lien": "https://www.france24.com/fr/europe/20261120-contre-la-guerre-pour-la-jeunesse-vague-de-manifestations-%C3%A0-travers-l-europe-%C3%A0-partir-de-vendredi",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-20T00:56:25+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "À travers l'Europe, des jeunes d'une vingtaine de pays s'apprêtent à descendre dans la rue vendredi et ce week-end pour une grève internationale sous le mot d'ordre \"Battez-vous pour notre avenir, pas pour leurs guerres\". Alors que la Génération Z européenne manifeste depuis plusieurs semaines…",
+  "categories": [
+   "Europe"
+  ]
+ },
+ {
+  "id": "15f2b0af6fdd",
+  "titre": "Prison de Liberté 6 : deux détenues déférées après des faits présumés dans le quartier des femmes",
+  "lien": "https://www.leral.net/Prison-de-Liberte-6-deux-detenues-deferees-apres-des-faits-presumes-dans-le-quartier-des-femmes_a411723.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-20T00:55:00+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Deux pensionnaires de la Maison d’arrêt pour femmes du Camp pénal de Liberté 6 ont été déférées devant le procureur de l...",
+  "categories": [
+   "Fait divers"
+  ]
+ },
+ {
+  "id": "e77f07186815",
+  "titre": "LFR 2026 : Aminata Touré défend le choix de Diomaye Faye et interpelle les députés de PASTEF",
+  "lien": "https://www.leral.net/LFR-2026-Aminata-Toure-defend-le-choix-de-Diomaye-Faye-et-interpelle-les-deputes-de-PASTEF_a411722.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-20T00:42:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Lors d’un point de presse du parti Kiiraay, Aminata Touré a salué la décision du président Bassirou Diomaye Faye de mettre e...",
+  "categories": [
+   "Politique"
+  ]
+ },
+ {
+  "id": "e9e5ac65be2b",
+  "titre": "Biennale-Dak’Art 2026 : Le chef de l'Etat, Bassirou Diomaye Faye ouvre la 16e Biennale et appelle l’Afrique à assumer sa puissance créatrice",
+  "lien": "https://www.dakaractu.com/Biennale-Dak-Art-2026-Le-chef-de-l-Etat-Bassirou-Diomaye-Faye-ouvre-la-16e-Biennale-et-appelle-l-Afrique-a-assumer-sa_a278405.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-20T00:39:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "C'est parti pour un mois d'art, de culture et de talent dans la capitale sénégalais ! La 16e édition de la Biennale de l’Art africain contemporain de Dakar (Dak’Art) a officiellement ouvert ses portes ce jeudi 19 novembre 2026, sur le site de l’Ancien Palais de Justice de Dakar. La cérémonie a été…",
+  "categories": [
+   "People & Sports"
+  ]
+ },
+ {
+  "id": "76774a9ac5c6",
+  "titre": "Pikine : attirée par une fausse promesse d’emploi, une jeune femme dénonce un mois de séquestration et de viols",
+  "lien": "https://www.leral.net/Pikine-attiree-par-une-fausse-promesse-d-emploi-une-jeune-femme-denonce-un-mois-de-sequestration-et-de-viols_a411721.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-20T00:39:00+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Une grave affaire de séquestration et de violences sexuelles présumées est au cœur d'une enquête à Pikine. Une jeune femme...",
+  "categories": [
+   "Fait divers"
+  ]
+ },
+ {
+  "id": "d045f79878c6",
+  "titre": "Rox et Elimane Lam confrontés : elle conteste le second audio, le juge doit trancher",
+  "lien": "https://senego.com/rox-et-elimane-lam-confrontes-elle-conteste-le-second-audio-le-juge-doit-trancher_2025934.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T00:37:05+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Confrontée à Elimane Lam à la DSC, Rox reconnaît un enregistrement diffusé par Kaliphone, mais nie être à l’origine du second. Le juge doit examiner le dossier.",
+  "categories": [
+   "Faits Divers",
+   "Justice",
+   "People",
+   "Sénégal",
+   "audios"
+  ]
+ },
+ {
+  "id": "cdd0e924f539",
+  "titre": "Journée des Forces armées 2026 : Bassirou Diomaye Faye appelle à « la mobilisation des énergies et des capacités régionales »",
+  "lien": "https://www.dakaractu.com/Journee-des-Forces-armees-2026-Bassirou-Diomaye-Faye-appelle-a-la-mobilisation-des-energies-et-des-capacites-regionales_a278404.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-20T00:36:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le thème retenu pour cette édition 2026, « Forces armées, vecteurs de l’intégration sous-régionale et de la sécurité collective », s’inscrit ainsi au cœur de cet appel à une réponse collective face aux défis sécuritaires de l’Afrique de l’Ouest. Devant plusieurs chefs d’état-major des armées des…",
+  "categories": [
+   "Texto"
+  ]
+ },
+ {
+  "id": "3f9764652c5d",
+  "titre": "Dak’Art 2026 : Diomaye Faye veut faire de la culture un moteur de souveraineté et de prospérité",
+  "lien": "https://www.leral.net/Dak-Art-2026-Diomaye-Faye-veut-faire-de-la-culture-un-moteur-de-souverainete-et-de-prosperite_a411720.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-20T00:36:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Le président Bassirou Diomaye Faye a officiellement lancé, jeudi 19 novembre 2026, la 16e édition de la Biennale de l’Ar...",
+  "categories": [
+   "Culture"
+  ]
+ },
+ {
+  "id": "ac07abc66c35",
+  "titre": "Biennale Dak’Art 2026 : L'artiste congolais Beau Disundi remporte le Prix Léopold Sédar Senghor, le palmarès de la 16e édition dévoilé",
+  "lien": "https://www.dakaractu.com/Biennale-Dak-Art-2026-L-artiste-congolais-Beau-Disundi-remporte-le-Prix-Leopold-Sedar-Senghor-le-palmares-de-la-16e_a278403.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-20T00:33:00+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le chef de l’État, Bassirou Diomaye Diakhar Faye a présidé cet après-midi à l'ancien Palais de Justice de Dakar, la cérémonie officielle de la Biennale de l'Art Contemporain de Dakar (Dak'Art) 2026. À cette occasion, le jury international a dévoilé les lauréats des différentes distinctions de cette…",
+  "categories": [
+   "People & Sports"
+  ]
+ },
+ {
+  "id": "a7ec454e4d22",
+  "titre": "Affaire Modou Ba Gawlo : six nouvelles arrestations dans le cadre de l’enquête à Keur Massar",
+  "lien": "https://www.leral.net/Affaire-Modou-Ba-Gawlo-six-nouvelles-arrestations-dans-le-cadre-de-l-enquete-a-Keur-Massar_a411719.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-20T00:31:00+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "L'affaire dite Modou Ba Gawlo connaît un nouveau développement judiciaire. Six personnes supplémentaires ont été interpellée...",
+  "categories": [
+   "Fait divers"
+  ]
+ },
+ {
+  "id": "6e5f965009d8",
+  "titre": "Affaire des insultes rémunérées : Rox et Elimane Lam confrontés à la DSC",
+  "lien": "https://www.leral.net/Affaire-des-insultes-remunerees-Rox-et-Elimane-Lam-confrontes-a-la-DSC_a411718.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-20T00:29:00+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "L’enquête sur les insultes présumées commanditées et diffusées sur les réseaux sociaux connaît un nouveau tournant. Entendus...",
+  "categories": [
+   "Fait divers"
+  ]
+ },
+ {
+  "id": "114702644502",
+  "titre": "Jaxaay-Parcelles : le maire Abdoul Aziz Diané placé sous mandat de dépôt, la mairie apporte des précisions...",
+  "lien": "https://www.dakaractu.com/Jaxaay-Parcelles-le-maire-Abdoul-Aziz-Diane-place-sous-mandat-de-depot-la-mairie-apporte-des-precisions_a278402.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-20T00:21:00+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La situation judiciaire du maire de Jaxaay-Parcelles, Abdoul Aziz Diané, connaît un nouveau développement. Dans un communiqué publié ce jeudi 19 novembre 2026, la cellule de communication de la mairie a apporté des précisions à la suite d’un article du quotidien L’Observateur intitulé : « Le maire…",
+  "categories": [
+   "Texto"
+  ]
+ },
+ {
+  "id": "de37a1cd584b",
+  "titre": "Orange Money fait passer les transferts vers les banques par PI-SPI",
+  "lien": "https://senego.com/orange-money-fait-passer-les-transferts-vers-les-banques-par-pi-spi_2025932.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T00:14:09+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Depuis le 2 novembre, les transferts entre Orange Money et les banques passent par PI-SPI. Les envois depuis Max it sont gratuits côté Orange Money.",
+  "categories": [
+   "Économie",
+   "Finance",
+   "Sénégal",
+   "Max it",
+   "Orange money"
+  ]
+ },
+ {
   "id": "c80a9d52e83f",
   "titre": "International Crisis Group recommande des négociations entre les régimes militaires sahéliens et le Jnim",
   "lien": "https://www.rfi.fr/fr/afrique/20261120-international-crisis-group-recommande-des-n%C3%A9gociations-entre-les-r%C3%A9gimes-militaires-sah%C3%A9liens-et-le-jnim",
