@@ -29,6 +29,26 @@
   "extrait": "Issus du même parti d’opposition, le mentor, le président sortant et l’ancien maire se disputent un électorat dont la moindre recomposition pourrait faire basculer le scrutin présidentiel à un tour qui aura lieu le 5 décembre."
  },
  {
+  "id": "676ac358ad1f",
+  "titre": "LFR 2026 : Kiraay et PASTEF engouffrent le pays",
+  "lien": "https://senego.com/lfr-2026-kiraay-et-pastef-engouffrent-le-pays_2028786.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-27T17:56:17+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Beaucoup dénoncent, à juste titre, la volonté de PASTEF de bloquer le pays à travers le Parlement. Sa légèreté a fini de démontrer que son attachement aux intérêts du Sénégal a l’épaisseur d’une lame de rasoir. Mais combien ont pris le temps d’examiner ce que le gouvernement propose dans son projet…",
+  "categories": [
+   "Actualités",
+   "Politique",
+   "Sénégal",
+   "dr samba faye",
+   "Kiiraay-Pastef"
+  ]
+ },
+ {
   "id": "4db2ebe32d27",
   "titre": "Fernando Clavijo réclame Frontex au Sénégal après au moins huit morts dans une pirogue près d'El Hierro",
   "lien": "http://www.ndarinfo.com/Fernando-Clavijo-reclame-Frontex-au-Senegal-apres-au-moins-huit-morts-dans-une-pirogue-pres-d-El-Hierro_a47352.html",
@@ -748,6 +768,19 @@
    "Ada Fass",
    "Balla Gaye 2"
   ]
+ },
+ {
+  "id": "96258bf3d465",
+  "titre": "Guinée-Bissau : les élections présidentielle et législatives reportées au 26 novembre 2028",
+  "lien": "http://fr.africanews.com/2026/11/27/guinee-bissau-les-elections-presidentielle-et-legislatives-reportees-au-26-novembre-2028/",
+  "source": "Africanews",
+  "site_source": "https://fr.africanews.com",
+  "date": "2026-11-27T16:39:48+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Les autorités de transition ont annoncé le report de deux ans des élections présidentielle et législatives. Le président de la transition, le général Horta N'Tam, évoque une insuffisance des conditions techniques, matérielles et financières nécessaires à la tenue des élections."
  },
  {
   "id": "2e272f45f9fc",
@@ -75683,21 +75716,5 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Des instructeurs d’Equipped Tactical Academy ont formé des éléments des forces spéciales maliennes fin 2025. Si la Russie reste, avec environ 2 000 militaires d’Africa Corps, le premier partenaire du Mali dans le secteur de la défense, la Turquie est également un allié sûr du pouvoir d’Assimi Goïta."
- },
- {
-  "id": "ae4de45f11f3",
-  "titre": "Coupe du monde U17 2026 : le Sénégal freiné par la Croatie dès son premier match",
-  "lien": "https://www.pressafrik.com/Coupe-du-monde-U17-2026-le-Senegal-freine-par-la-Croatie-des-son-premier-match_a314886.html",
-  "source": "PressAfrik",
-  "site_source": "https://www.pressafrik.com",
-  "date": "2026-11-20T17:55:00+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "L’équipe nationale des moins de 17 ans du Sénégal a fait match nul (1-1) contre la Croatie pour so... www.pressafrik.com",
-  "categories": [
-   "Sport"
-  ]
  }
 ]
