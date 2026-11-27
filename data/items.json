@@ -16,6 +16,95 @@
   ]
  },
  {
+  "id": "6846eb0dcc26",
+  "titre": "« Le président n’a pas terminé » : en Côte d’Ivoire, Gbagbo n’en finit plus de remanier le PPA-CI",
+  "lien": "https://www.jeuneafrique.com/1865418/politique/le-president-na-pas-termine-en-cote-divoire-gbagbo-nen-finit-plus-de-remanier-le-ppa-ci/",
+  "source": "Jeune Afrique",
+  "site_source": "https://www.jeuneafrique.com",
+  "date": "2026-11-27T08:57:56+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L’ancien chef de l’État ivoirien a récemment procédé à de nouvelles nominations au sein de son parti, plus de six mois après son dernier congrès, dans un contexte marqué par l’absence de plusieurs cadres, visés par des procédures judiciaires."
+ },
+ {
+  "id": "326019220049",
+  "titre": "Afrique centrale : pourquoi la manne pétrolière ne suffit pas à faire décoller la Cemac",
+  "lien": "https://www.jeuneafrique.com/1861153/economie-entreprises/afrique-centrale-pourquoi-la-manne-petroliere-ne-suffit-pas-a-faire-decoller-la-cemac/",
+  "source": "Jeune Afrique",
+  "site_source": "https://www.jeuneafrique.com",
+  "date": "2026-11-27T08:27:04+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Malgré des ressources naturelles abondantes, les six pays d’Afrique centrale peinent à transformer leurs atouts en croissance durable. Entre finances publiques sous pression, institutions impayées et réformes qui tardent à se concrétiser, la région semble empêtrée dans un cercle vicieux."
+ },
+ {
+  "id": "9a2614ded385",
+  "titre": "Conférence internationale sur l'eau : SEN'EAU plaide pour une réforme progressive des tarifs",
+  "lien": "http://www.ndarinfo.com/Conference-internationale-sur-l-eau-SEN-EAU-plaide-pour-une-reforme-progressive-des-tarifs_a47348.html",
+  "source": "Ndarinfo (Saint-Louis)",
+  "site_source": "https://www.ndarinfo.com",
+  "date": "2026-11-27T08:11:00+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "En marge de la deuxième Conférence internationale sur l'eau à l'UGB de Saint-Louis, SEN'EAU a proposé un pacte de performance et d...",
+  "categories": [
+   "+ D'ACTU"
+  ]
+ },
+ {
+  "id": "e05f3e4cff24",
+  "titre": "Actualité du Sénégal : l’essentiel de ce vendredi 27 novembre 2026",
+  "lien": "https://www.senenews.com/essentiel-du-jour/actualite-senegal-27-novembre-2026_607767.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-27T08:05:54.759230+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Mame Birame Wathie annonce un ouvrage après son limogeage Mame Birame Wathie a été limogé de sa fonction de président du conseil d'administration du Soleil par Ousmane Ndour. Il prévoit de présenter son livre le 5 décembre, où il défendra ses idées pour un Sénégal souverain face aux défis…",
+  "categories": [
+   "L'essentiel du jour"
+  ]
+ },
+ {
+  "id": "89a28c391214",
+  "titre": "Affaire Jérôme Bandiaky : une confrontation avec M. Sarr sans résultats convaincants",
+  "lien": "https://www.senenews.com/actualites/du-nouveau-dans-laffaire-jerome-bandiaky-ce-qui-sest-passe-avec-m-sarr-devoile_607766.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-27T08:03:21+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le dossier connaît une évolution notable. Hier, une confrontation a eu lieu entre Jérôme Bandiaky et M. Sarr, la dame qui l'accuse. La rencontre s'est tenue en présence des avocats des deux parties et du procureur de la République. Détenu depuis plus de deux ans, Jérôme Bandiaky voit enfin son…",
+  "categories": [
+   "Sénégal - Actualités",
+   "Société",
+   "Jérôme Bandiaky"
+  ]
+ },
+ {
+  "id": "c52e143d4c23",
+  "titre": "Revue de presse Ahmed Aïdara du Vendredi 27 Novembre 2026",
+  "lien": "https://www.seneweb.com/fr/news/Revue%20Presse/revue-de-presse-ahmed-aidara-du-vendredi-27-novembre-2026_n_999004799.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-27T08:02:37+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Revue de presse Ahmed Aïdara du Vendredi 27 Novembre 2026"
+ },
+ {
   "id": "b0c58d0dba53",
   "titre": "Coopération, partenariats, visites : rencontre avec trois artisans de la normalisation Maroc-Israël",
   "lien": "https://www.jeuneafrique.com/1865057/politique/cooperation-partenariats-visites-rencontre-avec-trois-artisans-de-la-normalisation-maroc-israel/",
@@ -27,6 +116,423 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Si le Maroc s’est résolument engagé dans la voie de la normalisation diplomatique avec Israël, ce choix reste contesté par une bonne partie de la population. L’arrivée à Tel Aviv d’un Premier ministre né de parents marocains peut-elle aider ? Portrait de trois responsables qui se sont donné pour…"
+ },
+ {
+  "id": "0087ecffa5fb",
+  "titre": "Villa de Keur Gorgui : le juge décidera le 9 décembre si elle revient à Ousmane Sonko",
+  "lien": "https://senego.com/villa-de-keur-gorgui-le-juge-decidera-le-9-decembre-si-elle-revient-a-ousmane-sonko_2028579.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-27T08:01:56+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Le juge civil de Dakar rendra sa décision le 9 décembre sur la demande d’annulation de la mutation de la villa de Cité Keur Gorgui, désormais inscrite au nom de membres de la famille de Sonko.",
+  "categories": [
+   "Dakar",
+   "Justice",
+   "Politique",
+   "Sénégal",
+   "Cité Keur Gorgui"
+  ]
+ },
+ {
+  "id": "2be0414c10bf",
+  "titre": "Revue de Presse en Français du Vendredi 27 Novembre 2026 avec Fabrice Nguema",
+  "lien": "https://www.seneweb.com/fr/news/Revue%20Presse/revue-de-presse-en-francais-du-vendredi-27-novembre-2026-avec-fabrice-nguema_n_999004798.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-27T08:00:29+00:00",
+  "rubrique": "Monde",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Revue de Presse en Français du Vendredi 27 Novembre 2026 avec Fabrice Nguema"
+ },
+ {
+  "id": "c126cbfbef1c",
+  "titre": "Dissolution de l’Assemblée : La nouvelle annonce importante de Ousmane Sonko",
+  "lien": "https://www.senenews.com/actualites/dissolution-de-lassemblee-la-nouvelle-annonce-importante-de-ousmane-sonko_607760.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-27T08:00:05+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Ousmane Sonko propose une sortie électorale à la crise opposant l’exécutif à la majorité parlementaire. Ce jeudi 26 novembre 2026, le président de l’Assemblée nationale a invité le chef de l’État à dissoudre l’institution parlementaire dès le 2 décembre prochain, date correspondant aux deux ans de…",
+  "categories": [
+   "Politique",
+   "Sénégal - Actualités",
+   "Ousmane Sonko"
+  ]
+ },
+ {
+  "id": "cb5d05d0cd30",
+  "titre": "Iran : « L’alternative aux bombardements n’est pas nécessairement l’indifférence »",
+  "lien": "https://www.lemonde.fr/idees/article/2026/11/27/iran-l-alternative-aux-bombardements-n-est-pas-necessairement-l-indifference_6815815_3232.html",
+  "source": "Le Monde Afrique",
+  "site_source": "https://www.lemonde.fr/afrique/",
+  "date": "2026-11-27T08:00:05+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Les frappes américaines ont permis au régime de Téhéran d’affaiblir l’opposition interne, soulignent les économistes Sultan Mehmood et Leonard Wantchekon, dans une tribune au « Monde ». Ils convoquent François Mitterrand et son discours de La Baule, en 1990, pour rappeler que la voie de la…"
+ },
+ {
+  "id": "441d2ba5c4c1",
+  "titre": "Pikine : La rupture amoureuse déclenche une guerre de gangs, Baye Saliou Faye tué",
+  "lien": "https://www.senenews.com/actualites/pikine-la-rupture-amoureuse-declenche-une-guerre-de-gangs-baye-saliou-faye-tue_607765.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-27T07:58:36+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Baye Saliou Faye a été sauvagement tué par des membres d'un gang rival dans les rues de la Cité 3 de Pikine Icotaf. Le meurtre, aux allures de crime passionnel, découle d'une bataille rangée autour d'une fille, opposant ses camarades de gang à d'autres rivaux. La Cité 3 de Pikine Icotaf a basculé…",
+  "categories": [
+   "Sénégal - Actualités",
+   "Société",
+   "Baye Saliou Faye",
+   "pikine"
+  ]
+ },
+ {
+  "id": "fb5abd74409b",
+  "titre": "Arrêtée après une courte cavale : Ce que l’épouse reproche au maire d’Oulampane, Sagar Coly…",
+  "lien": "https://senego.com/arretee-apres-une-courte-cavale-ce-que-lepouse-reproche-au-maire-doulampane-sagar-coly_2028573.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-27T07:56:47+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Le maire d’Oulampane, Sagar Coly, a été victime d’un acte d’une extrême violence perpétré par sa première épouse. Alors qu’il dormait dans la chambre conjugale, cette dernière lui aurait versé de l’essence avant de mettre le feu. Grièvement brûlé sur plusieurs parties du corps, l’édile a finalement…",
+  "categories": [
+   "Faits Divers",
+   "Oulampane",
+   "première épouse",
+   "Sagar Coly"
+  ]
+ },
+ {
+  "id": "1005ebc8796c",
+  "titre": "Les amicales de la DGID réclament la suspension de la réforme faute de concertation",
+  "lien": "https://senego.com/les-amicales-de-la-dgid-reclament-la-suspension-de-la-reforme-faute-de-concertation_2028576.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-27T07:55:33+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Après l’adoption du projet de décret créant une nouvelle direction des Domaines, les amicales de la DGID demandent la suspension de la réforme et une concertation.",
+  "categories": [
+   "Administration",
+   "Sénégal",
+   "Société",
+   "amicales",
+   "Dgid"
+  ]
+ },
+ {
+  "id": "3d7eaa7dd258",
+  "titre": "Fatou Laobé-Pawlish : rebondissement inattendu",
+  "lien": "https://www.seneweb.com/fr/news/Justice/fatou-laobe-pawlish-rebondissement-inattendu_n_999004797.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-27T07:53:35+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Dans l’affaire l’opposant à la chanteuse Fatou Laobé, Pawlish Mbaye, de son vrai nom, Abdoulaye Mbaye Ba, devait être édifié ce jeudi, date à laquelle la 2e chambre du..."
+ },
+ {
+  "id": "c0cb04553b71",
+  "titre": "Fonds de solidarité nationale : Dr Djibril Togola réagit à sa nomination et promet de placer l’action au cœur de son mandat",
+  "lien": "https://www.dakaractu.com/Fonds-de-solidarite-nationale-Dr-Djibril-Togola-reagit-a-sa-nomination-et-promet-de-placer-l-action-au-coeur-de-son_a278630.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-27T07:45:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Nommé Directeur général du Fonds de solidarité nationale, Dr Djibril Togola a exprimé sa reconnaissance au président de la République, Bassirou Diomaye Diakhar Faye, pour la confiance placée en sa personne. Dans un communiqué officiel, il s’engage à exercer ses nouvelles fonctions avec humilité,…",
+  "categories": [
+   "Texto"
+  ]
+ },
+ {
+  "id": "35cdf4ac36a6",
+  "titre": "Réforme de la DGID : les amicales réclament la suspension du processus et dénoncent l’absence de concertation",
+  "lien": "https://www.dakaractu.com/Reforme-de-la-DGID-les-amicales-reclament-la-suspension-du-processus-et-denoncent-l-absence-de-concertation_a278629.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-27T07:44:00+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La création de la Direction générale des Domaines, du Cadastre et des Affaires foncières continue de susciter des réactions au sein de la Direction générale des impôts et des domaines (DGID). Dans un communiqué conjoint rendu public jeudi 26 novembre 2026, les amicales représentant les différentes…",
+  "categories": [
+   "Texto"
+  ]
+ },
+ {
+  "id": "2fd9422209ed",
+  "titre": "L’Amicale des agents du Cadastre Unis réclame son maintien dans la DGID pour son rôle fiscal",
+  "lien": "https://senego.com/lamicale-des-agents-du-cadastre-unis-reclame-son-maintien-dans-la-dgid-pour-son-role-fiscal_2028572.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-27T07:43:51+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "L’Amicale des agents du Cadastre Unis réclame le maintien du service dans la DGID et souligne son rôle dans les recettes publiques et l’imposition foncière.",
+  "categories": [
+   "Administration",
+   "Économie",
+   "Sénégal",
+   "Amicale des agents du Cadastre Unis",
+   "cadastre"
+  ]
+ },
+ {
+  "id": "3bb70f1ed861",
+  "titre": "“Il n’a absolument rien à craindre”: Trump vole au secours du patron de Nvidia",
+  "lien": "https://www.dakaractu.com/Il-n-a-absolument-rien-a-craindre-Trump-vole-au-secours-du-patron-de-Nvidia_a278628.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-27T07:39:00+00:00",
+  "rubrique": "Monde",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le président américain Donald Trump a affirmé jeudi qu’il disposait de suffisamment d’informations pour conclure que Jensen Huang, le PDG du géant de la tech Nvidia, ne représentait pas une menace pour la sécurité. “Je pense qu’il n’a absolument rien à craindre”, a déclaré M. Trump à des…",
+  "categories": [
+   "Texto"
+  ]
+ },
+ {
+  "id": "7c2b6a4328a7",
+  "titre": "1er Congrès des écrivains et artistes noirs : L’héritage de 1956 au cœur des débats à Dakar",
+  "lien": "https://lesoleil.sn/actualites/1er-congres-des-ecrivains-et-artistes-noirs-lheritage-de-1956-au-coeur-des-debats-a-dakar/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-27T07:36:44+00:00",
+  "rubrique": "Culture",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La capitale sénégalaise accueille, du 26 au 28 novembre, le 70e anniversaire du premier Congrès international des écrivains et artistes noirs, organisé par Présence africaine et la Communauté africaine de culture. Présidée hier, jeudi 26 novembre, par le ministre auprès du ministre de la Culture,…",
+  "categories": [
+   "Actualités",
+   "Arts et culture"
+  ]
+ },
+ {
+  "id": "24e38b4bd8b0",
+  "titre": "Guinée-Bissau: report de deux ans de la présidentielle initialement prévue le 6 décembre",
+  "lien": "https://www.dakaractu.com/Guinee-Bissau-report-de-deux-ans-de-la-presidentielle-initialement-prevue-le-6-decembre_a278627.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-27T07:36:00+00:00",
+  "rubrique": "Afrique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "En Guinée-Bissau, le président de transition fixe une nouvelle date pour les élections présidentielle et législatives. Un an après le coup d'État qui a interrompu le processus électoral à la veille de la publication des résultats, le général Horta N'Tam a signé, jeudi 26 novembre 2026, un décret…",
+  "categories": [
+   "Texto"
+  ]
+ },
+ {
+  "id": "8696d62fa5f7",
+  "titre": "Espagne : vague d’arrestations et 39 passeports sénégalais saisis",
+  "lien": "https://www.seneweb.com/fr/news/Societe/espagne-vague-darrestations-et-39-passeports-senegalais-saisis_n_999004796.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-27T07:33:42+00:00",
+  "rubrique": "Diaspora",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La police espagnole a arrêté 13 personnes, dont une avocate, en Galice, dans le nord-ouest du pays."
+ },
+ {
+  "id": "bc3c99a02fd1",
+  "titre": "Tempêtes aux Etats-Unis : plus de 900 000 foyers sans électricité sur la Côte est le jour de Thanksgiving",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/27/tempetes-aux-etats-unis-plus-de-900-000-foyers-sans-electricite-sur-la-cote-est-le-jour-de-thanksgiving_6815813_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-27T07:29:32+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "De fortes pluies, du vent violent et des inondations côtières ont affecté l’est du pays en ce jour férié aux Etats-Unis."
+ },
+ {
+  "id": "e475769cb947",
+  "titre": "Plomb dans les peintures : Près de 2 millions d’enfants touchés par une intoxication",
+  "lien": "https://lesoleil.sn/actualites/plomb-dans-les-peintures-pres-de-2-millions-denfants-touches-par-une-intoxication/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-27T07:24:00+00:00",
+  "rubrique": "Société",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L’intoxication au plomb est devenue préoccupante. Elle toucherait près de 2 millions d’enfants au Sénégal. Des organisations de la société civile interpellent les autorités pour l’interdiction de l’importation des peintures au plomb. Le Centre national antipoison du Sénégal (Cnap) et l’Ong…",
+  "categories": [
+   "Actualités",
+   "Santé"
+  ]
+ },
+ {
+  "id": "62330f1e6b13",
+  "titre": "Avortement au Sénégal : à Dakar et Sédhiou, l’étude révèle le poids des pressions sociales",
+  "lien": "https://senego.com/avortement-au-senegal-a-dakar-et-sedhiou-letude-revele-le-poids-des-pressions-sociales_2028570.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-27T07:20:48+00:00",
+  "rubrique": "Société",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Présentée le 24 novembre, une étude menée à Dakar et Sédhiou décrit les pressions familiales, la peur du jugement et le manque de soutien auxquels font face des femmes confrontées à l’avortement.",
+  "categories": [
+   "Santé",
+   "Sénégal",
+   "Société",
+   "avortement",
+   "Dakar"
+  ]
+ },
+ {
+  "id": "09fa12f7d338",
+  "titre": "L’avortement face à la persistance des pressions familiales et sociales",
+  "lien": "https://lesoleil.sn/actualites/lavortement-face-a-la-persistance-des-pressions-familiales-et-sociales/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-27T07:16:23+00:00",
+  "rubrique": "Société",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La peur d’être rejetées, jugées ou marginalisées pousse certaines femmes à envisager d’interrompre leur grossesse. Toutefois, elles font face au Sénégal à un cadre légal qui n’autorise l’avortement que quand la santé de la femme est menacée. Une étude menée à Dakar et à Sédhiou met le focus sur le…",
+  "categories": [
+   "Actualités",
+   "Santé"
+  ]
+ },
+ {
+  "id": "c7effd5de7c0",
+  "titre": "Lyon freiné, Marseille victorieux lors d'une soirée mitigée pour les clubs français en Europe",
+  "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20261127-lyon-frein%C3%A9-marseille-victorieux-lors-d-une-soir%C3%A9e-mitig%C3%A9e-pour-les-clubs-fran%C3%A7ais-en-europe",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-27T07:14:58+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Lors de la cinquième journée de Ligue Europa, Marseille s'est relancé dans la course aux barrages en enchaînant une deuxième victoire de suite contre le Levski Sofia. Lyon a été accroché par le club norvégien de Lillestrøm et reste en dehors des huit premiers, tandis que Rennes s'est incliné face à…",
+  "categories": [
+   "Sports"
+  ]
+ },
+ {
+  "id": "24fea9e28279",
+  "titre": "SEN’EAU propose une réforme progressive des tarifs de l’eau à Saint-Louis",
+  "lien": "https://senego.com/seneau-propose-une-reforme-progressive-des-tarifs-de-leau-a-saint-louis_2028568.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-27T07:14:18+00:00",
+  "rubrique": "Société",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "À Saint-Louis, SEN’EAU propose une réforme progressive de la grille tarifaire et un pacte de soutenabilité financière, tout en préservant les ménages vulnérables.",
+  "categories": [
+   "Économie",
+   "Environnement",
+   "Sénégal",
+   "Richard Kinkpé",
+   "Saint-Louis"
+  ]
+ },
+ {
+  "id": "03ca8227a779",
+  "titre": "François Villeroy de Galhau: «La désunion européenne produit la disparition européenne»",
+  "lien": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20261127-fran%C3%A7ois-villeroy-de-galhau-la-d%C3%A9sunion-europ%C3%A9enne-produit-la-disparition-europ%C3%A9enne",
+  "source": "RFI Monde",
+  "site_source": "https://www.rfi.fr/fr/monde/",
+  "date": "2026-11-27T07:13:04+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "À la tête de la Banque de France, l'un des piliers de l'économie française qu'il a dirigé pendant 11 ans, il a successivement vécu les chocs du Covid, de la guerre en Ukraine, mais aussi la montée des tensions démocratiques et géopolitiques en Europe et en Occident. Aujourd'hui président de la…",
+  "categories": [
+   "Le grand invité international"
+  ]
+ },
+ {
+  "id": "1c15538e86c1",
+  "titre": "Rebeuss : la drogue bloquée à l’entrée, coup dur pour deux dealers",
+  "lien": "https://www.seneweb.com/fr/news/Justice/rebeuss-la-drogue-bloquee-a-lentree-coup-dur-pour-deux-dealers_n_999004795.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-27T07:10:53+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Selon Libération, deux détenus, A. G. (30 ans) et M. S. (25 ans), ont été placés en garde à vue au commissariat de Rebeuss pour tentative d’introduction de drogue dans la prison."
+ },
+ {
+  "id": "e1760f28c74a",
+  "titre": "À Dakar, un atelier a fait découvrir l’art rupestre aux jeunes participants",
+  "lien": "https://senego.com/a-dakar-un-atelier-a-fait-decouvrir-lart-rupestre-aux-jeunes-participants_2028566.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-27T07:08:05+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Lors de la Biennale off de Dakar, un atelier consacré à l’art rupestre a permis à de jeunes participants de découvrir cet art ancien et les pratiques des générations passées.",
+  "categories": [
+   "Culture",
+   "Dakar",
+   "Éducation",
+   "Art rupestre",
+   "Biennale de Dakar"
+  ]
+ },
+ {
+  "id": "a824d4d7f780",
+  "titre": "Finance islamique dans l’UEMOA : 1,7 % des actifs bancaires, un potentiel encore à transformer en échelle",
+  "lien": "https://www.dakaractu.com/Finance-islamique-dans-l-UEMOA-17-des-actifs-bancaires-un-potentiel-encore-a-transformer-en-echelle_a278625.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-27T07:08:00+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La finance islamique doit changer d’échelle dans l’espace UEMOA. C’est le message commun des intervenants à l’ouverture, à Dakar, de la première édition du Forum international sur la finance islamique du Sénégal (FIFIS), organisée par la Banque islamique du Sénégal (BIS) sur le thème : « La finance…",
+  "categories": [
+   "Texto"
+  ]
  },
  {
   "id": "671cf869dd7b",
@@ -106,6 +612,22 @@
   "extrait": "À l’occasion de la Biennale off de Dakar, dans le cadre des Pinceaux de l’intégration, des artistes ont travaillé autour de l’art rupestre, choisi par le commissaire Feu Maguèye Kassé quinze jours avant sa mort. Entre mémoire des anciens et nécessité de transmettre, l’atelier a permis à de jeunes…",
   "categories": [
    "People & Sports"
+  ]
+ },
+ {
+  "id": "81832138cdb7",
+  "titre": "En direct : Trump dit souhaiter que Poutine \"mette fin à toute agression militaire\" en Europe",
+  "lien": "https://www.france24.com/fr/europe/20261127-en-direct-trump-dit-souhaiter-que-poutine-mette-fin-%C3%A0-toute-agression-militaire-en-europe",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-27T06:57:19+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Donald Trump a affirmé jeudi qu'il souhaitait que Vladimir Poutine \"mette fin à toute agression militaire\" en Europe, un certain changement de ton sur la guerre en Ukraine, une semaine après avoir qualifié le dirigeant russe d'\"ami\". Suivez les dernières informations sur la guerre en Ukraine.",
+  "categories": [
+   "Europe"
   ]
  },
  {
@@ -879,6 +1401,24 @@
   "extrait": "Échéances électorales, Sonko engage Pastef dans une vaste campagne d’adhésion Alioune Diatta Thu, 11/26/2026 - 23:54"
  },
  {
+  "id": "535c2d8c2fb3",
+  "titre": "Cité Keur Gorgui : le juge va trancher le 9 décembre sur la villa d’Ousmane Sonko",
+  "lien": "https://www.senenews.com/actualites/cite-keur-gorgui-du-nouveau-dans-laffaire-de-la-maison-de-ousmane-sonko_607764.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-26T23:53:54+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le premier juge de la 3e chambre civile du Tribunal de grande instance de Dakar a évoqué, le 25 novembre dernier, l'affaire opposant Mame Mbaye Kan Niang à Ousmane Sonko. Il s'agit précisément de la procédure en annulation de mutation frauduleuse de la villa sise à la Cité Keur Gorgui, initiée par…",
+  "categories": [
+   "Politique",
+   "Sénégal - Actualités",
+   "Ousmane Sonko"
+  ]
+ },
+ {
   "id": "2bc3bd7468a2",
   "titre": "Ukraine : Riner persiste, Macron appelle à ne pas « créer de doute »",
   "lien": "https://www.seneweb.com/fr/news/International/ukraine-riner-persiste-macron-appelle-a-ne-pas-creer-de-doute_n_999004786.html",
@@ -1026,6 +1566,24 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Bruits du Monde Alioune Diatta Thu, 11/26/2026 - 23:31"
+ },
+ {
+  "id": "a59dfabaed0c",
+  "titre": "Le parquet général active la DIC, l’affaire du cabinet Gide prend une autre tournure",
+  "lien": "https://www.senenews.com/actualites/le-parquet-general-active-la-dic-laffaire-du-cabinet-gide-prend-une-autre-tournure_607762.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-26T23:30:41+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le dossier est désormais entre les mains de la Division des investigations criminelles (DIC). L'Ordre des avocats du Sénégal avait porté plainte auprès du parquet général de la cour d'appel de Dakar contre le cabinet Gide. Dans ladite plainte, l'Ordre soutenait que des membres de Gide avaient…",
+  "categories": [
+   "Sénégal - Actualités",
+   "Société",
+   "DIC"
+  ]
  },
  {
   "id": "9e1aadf0b09d",
@@ -1298,6 +1856,42 @@
    "Société",
    "agriculture-élevage",
    "Cheikh Ba"
+  ]
+ },
+ {
+  "id": "c00a0a4c0600",
+  "titre": "Les détenus Assane Guèye et Malamine Sidibé tentent l’impensable à Rebeuss",
+  "lien": "https://www.senenews.com/actualites/les-detenus-assane-gueye-et-malamine-sidibe-tentent-limpensable-a-rebeuss_607759.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-26T23:08:06+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Assane Guèye (30 ans) et Malamine Sidibé (25 ans) sont dans de beaux draps. Extraits de prison, ils sont en garde à vue au commissariat de Rebeuss pour introduction d'une substance prohibée, à savoir de la drogue (haschich), dans un établissement pénitentiaire. Selon la correspondance du directeur…",
+  "categories": [
+   "Sénégal - Actualités",
+   "Société",
+   "rebeuss"
+  ]
+ },
+ {
+  "id": "f0058c6a124f",
+  "titre": "Condamnation : Pourquoi « Yaas hôtel » doit payer une belle fortune à Cheikh Tidiane Faye",
+  "lien": "https://www.senenews.com/actualites/condamnation-pourquoi-yaas-hotel-doit-payer-une-belle-fortune-a-cheikh-tidiane-faye_607757.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-26T23:06:25+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Selon Libération, la 3e chambre civile du tribunal de Dakar a vidé le contentieux opposant Cheikh Tidiane Faye à la société Smart hôtel Almadies dite « Yaas hôtel ». Dans sa décision en date du 25 novembre, le tribunal a déclaré la société Smart hôtel Almadies dite « Yass hôtel » responsable du…",
+  "categories": [
+   "Sénégal - Actualités",
+   "Société",
+   "Yass hôtel"
   ]
  },
  {
@@ -2301,22 +2895,6 @@
    "Sénégal - Actualités",
    "SeneNews Sport",
    "SeneNews TV"
-  ]
- },
- {
-  "id": "ad3f5b2feac2",
-  "titre": "Guinée-Bissau: report de deux ans de la présidentielle initialement prévue le 6 décembre",
-  "lien": "https://www.rfi.fr/fr/afrique/20261126-guin%C3%A9e-bissau-report-de-deux-ans-de-la-pr%C3%A9sidentielle-initialement-pr%C3%A9vue-le-6-d%C3%A9cembre",
-  "source": "RFI Afrique",
-  "site_source": "https://www.rfi.fr/fr/afrique/",
-  "date": "2026-11-26T20:48:54+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "En Guinée-Bissau, le président de transition fixe une nouvelle date pour les élections présidentielle et législatives. Un an après le coup d'État qui a interrompu le processus électoral à la veille de la publication des résultats, le général Horta N'Tam a signé, jeudi 26 novembre 2026, un décret…",
-  "categories": [
-   "Afrique"
   ]
  },
  {
@@ -75030,355 +75608,5 @@
    "Société",
    "Nogaye Dramé"
   ]
- },
- {
-  "id": "9810a8d3a663",
-  "titre": "Actualité du Sénégal : l’essentiel de ce vendredi 20 novembre 2026",
-  "lien": "https://www.senenews.com/essentiel-du-jour/actualite-senegal-20-novembre-2026_606999.html",
-  "source": "Senenews",
-  "site_source": "https://www.senenews.com",
-  "date": "2026-11-20T08:05:47.702568+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Bassirou Diomaye Faye promulgue la loi de finances rectificative Le président de la République du Sénégal, Bassirou Diomaye Faye, a officiellement promulgué la loi de finances rectificative 2026 par le décret n° 2026-2416, le 19 novembre, malgré son rejet par l’Assemblée nationale. Ce geste soulève…",
-  "categories": [
-   "L'essentiel du jour"
-  ]
- },
- {
-  "id": "a416aee8e0fc",
-  "titre": "La messe est quasiment dite pour Sadio Mané, sa proposition surprenante à Al-Nassr",
-  "lien": "https://www.senenews.com/actualites/la-messe-est-quasiment-dite-pour-sadio-mane-sa-proposition-surprenante-a-al-nassr_607001.html",
-  "source": "Senenews",
-  "site_source": "https://www.senenews.com",
-  "date": "2026-11-20T08:05:22+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "L'avenir de Sadio Mané en Arabie saoudite s'assombrit. D'après le journaliste saoudien Falah Al-Qahtani, la direction d'Al-Nassr aurait décidé de ne pas offrir de nouveau bail à l'attaquant sénégalais, pourtant prêt à d'importants sacrifices pour rester. Le joueur pourrait ainsi quitter le club à…",
-  "categories": [
-   "Football",
-   "Sénégal - Actualités",
-   "SeneNews Sport",
-   "sadio mané"
-  ]
- },
- {
-  "id": "28bccb371e1a",
-  "titre": "Lutte sénégalaise : CANAL+ verrouille six grands combats et mise sur l’exportation du spectacle africain",
-  "lien": "https://www.dakaractu.com/Lutte-senegalaise-CANAL-verrouille-six-grands-combats-et-mise-sur-l-exportation-du-spectacle-africain_a278409.html",
-  "source": "Dakaractu",
-  "site_source": "https://www.dakaractu.com",
-  "date": "2026-11-20T08:03:00+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "La lutte sénégalaise change de dimension, mais aussi de terrain de diffusion. CANAL+ vient de frapper un grand coup en signant avec la société de production BEUZ PRO un accord exclusif portant sur les droits de diffusion de six événements majeurs de la saison 2026-2027, dans plus de 40 pays…",
-  "categories": [
-   "Télévision"
-  ]
- },
- {
-  "id": "af0e6ca5f48c",
-  "titre": "Diomaye force le passage de la LFI",
-  "lien": "https://www.seneplus.com/article/diomaye-force-le-passage-de-la-lfi",
-  "source": "SenePlus",
-  "site_source": "https://www.seneplus.com",
-  "date": "2026-11-20T08:02:37+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Diomaye force le passage de la LFI Daouda Toumbou Fri, 11/20/2026 - 08:02"
- },
- {
-  "id": "4981fe312cac",
-  "titre": "Projet ACTE Afrique : douze écoles de Saint-Louis outillées sur les compétences de vie courante",
-  "lien": "http://www.ndarinfo.com/Projet-ACTE-Afrique-douze-ecoles-de-Saint-Louis-outillees-sur-les-competences-de-vie-courante_a47279.html",
-  "source": "Ndarinfo (Saint-Louis)",
-  "site_source": "https://www.ndarinfo.com",
-  "date": "2026-11-20T08:02:00+00:00",
-  "rubrique": "Société",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Action Éducation forme depuis le 17 novembre à Saint-Louis les enseignants de douze écoles partenaires du projet ACTE Afrique sur le...",
-  "categories": [
-   "+ D'ACTU"
-  ]
- },
- {
-  "id": "ddbddc4c2100",
-  "titre": "La riposte de Diomaye…il faut sauter le verrou de Sonko et Pastef",
-  "lien": "https://www.xibaaru.sn/la-riposte-de-diomaye-il-faut-sauter-le-verrou-de-sonko-et-pastef/",
-  "source": "Xibaaru",
-  "site_source": "https://www.xibaaru.sn",
-  "date": "2026-11-20T08:00:51+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "C’est un coup de tonnerre politique et institutionnel à Dakar : face au blocus imposé à l’Assemblée nationale par la majorité acquise à Ousmane Sonko et au parti Pastef, le président Bassirou…",
-  "categories": [
-   "Exclusivités"
-  ]
- },
- {
-  "id": "8c1f92e9a92d",
-  "titre": "Décret de Diomaye : Le communiqué de la Présidence se retrouve au coeur de la controverse",
-  "lien": "https://www.senenews.com/actualites/decret-de-diomaye-le-communique-de-la-presidence-se-retrouve-au-coeur-de-la-controverse_606998.html",
-  "source": "Senenews",
-  "site_source": "https://www.senenews.com",
-  "date": "2026-11-20T08:00:24+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "La mise en vigueur par décret de la loi de finances rectificative (LFR) 2026, malgré son rejet par l’Assemblée nationale, continue de susciter des réactions contrastées. Pr Meïssa Diakhaté, coordonnateur du pôle juridique de la Présidence, défend la démarche du chef de l’État au nom de la…",
-  "categories": [
-   "Politique",
-   "Sénégal - Actualités",
-   "decret"
-  ]
- },
- {
-  "id": "803f4dfedfbb",
-  "titre": "L’ENOA de Thiès donne le nom du capitaine André Senghor à sa 45e promotion",
-  "lien": "https://senego.com/lenoa-de-thies-donne-le-nom-du-capitaine-andre-senghor-a-sa-45e-promotion_2026017.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-20T07:59:11+00:00",
-  "rubrique": "Société",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "La 45e promotion de l’ENOA de Thiès porte le nom du capitaine André Senghor. La 58e promotion de l’École militaire de santé rend hommage au médecin-colonel Mady Oury Sylla.",
-  "categories": [
-   "Défense",
-   "Éducation",
-   "Sénégal",
-   "André Senghor",
-   "ENOA"
-  ]
- },
- {
-  "id": "d450dfa3a437",
-  "titre": "Lutte sénégalaise : « Sans Canal+, nous risquons de retourner au pay-per-view » (Ibrahima Faye)",
-  "lien": "https://www.dakaractu.com/Lutte-senegalaise-Sans-Canal--nous-risquons-de-retourner-au-pay-per-view-Ibrahima-Faye_a278408.html",
-  "source": "Dakaractu",
-  "site_source": "https://www.dakaractu.com",
-  "date": "2026-11-20T07:59:00+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "La lutte sénégalaise joue désormais une partie importante de son avenir sur le terrain de la visibilité internationale. Pour Ibrahima Faye, PDG de BEUZ PRO, le partenariat avec CANAL+ représente bien plus qu'un simple accord de diffusion, c'est une opportunité de faire changer d'échelle à toute une…",
-  "categories": [
-   "Texto"
-  ]
- },
- {
-  "id": "442af2e5eefc",
-  "titre": "« Ils nous ont tout pris » : le calvaire des orpailleurs togolais refoulés de Guinée",
-  "lien": "https://www.jeuneafrique.com/1863442/politique/ils-nous-ont-tout-pris-le-calvaire-des-orpailleurs-togolais-refoules-de-guinee/",
-  "source": "Jeune Afrique",
-  "site_source": "https://www.jeuneafrique.com",
-  "date": "2026-11-20T07:58:00+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Expulsés des sites d’orpaillage de Siguiri en Guinée, des centaines de Togolais ont trouvé refuge à Bamako. S’ils bénéficient de l’aide de membres de la diaspora, ils vivent toutefois dans des conditions difficiles, en attendant un éventuel rapatriement."
- },
- {
-  "id": "5a4378a71f17",
-  "titre": "À la COP31, le dépit de représentants africains face à la nouvelle mouture de l’accord final en discussions",
-  "lien": "https://www.rfi.fr/fr/environnement/20261120-%C3%A0-la-cop31-le-d%C3%A9pit-de-repr%C3%A9sentants-africains-face-%C3%A0-la-nouvelle-mouture-de-l-accord-final-en-discussions",
-  "source": "RFI Afrique",
-  "site_source": "https://www.rfi.fr/fr/afrique/",
-  "date": "2026-11-20T07:57:45+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Ce 20 novembre 2026, c’est officiellement le dernier jour de la COP climat à Antalya. Mais la nouvelle mouture de l’accord final, proposée jeudi soir par la co-présidence turco-australienne, a suscité des réactions indignées, notamment des négociateurs et observateurs africains, qui sont venus en…",
-  "categories": [
-   "Environnement"
-  ]
- },
- {
-  "id": "171c14fff88b",
-  "titre": "Drame familial à Kaolack : un homme tué à coups de couteau par sa nièce…",
-  "lien": "https://senego.com/drame-familial-a-kaolack-un-homme-tue-a-coups-de-couteau-par-sa-niece_2026005.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-20T07:55:24+00:00",
-  "rubrique": "Faits divers",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Un drame familial s’est produit au quartier Médina Mbaba, à Kaolack. Abdoulaye Diallo a été mortellement poignardé par sa nièce âgée de 18 ans, identifiée sous les initiales N.F.Lo, rapporte le journal Libération. Selon le quotidien, le drame serait survenu à la suite d’une dispute entre les deux…",
-  "categories": [
-   "Faits Divers",
-   "drame familial",
-   "Kaolack"
-  ]
- },
- {
-  "id": "20cdaff3e05a",
-  "titre": "Cérémonie officielle-Dak’Art 2026 : des invités munis de cartons d’invitation refoulés à l’entrée",
-  "lien": "https://www.dakaractu.com/Ceremonie-officielle-Dak-Art-2026-des-invites-munis-de-cartons-d-invitation-refoules-a-l-entree_a278407.html",
-  "source": "Dakaractu",
-  "site_source": "https://www.dakaractu.com",
-  "date": "2026-11-20T07:55:00+00:00",
-  "rubrique": "Culture",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "La cérémonie officielle d’ouverture de la 16e édition de la Biennale de l’Art africain contemporain de Dakar (Dak’Art), organisée ce jeudi 19 novembre 2026 sur le site de l’Ancien Palais de Justice, a été marquée par des difficultés d’accès à la salle. Plusieurs invités, pourtant munis de cartons…",
-  "categories": [
-   "Texto"
-  ]
- },
- {
-  "id": "ee4a1a9f0e82",
-  "titre": "Lutte sénégalaise : Bira Sène voit grand et veut porter les combats jusqu’aux 54 pays africains",
-  "lien": "https://www.dakaractu.com/Lutte-senegalaise-Bira-Sene-voit-grand-et-veut-porter-les-combats-jusqu-aux-54-pays-africains_a278406.html",
-  "source": "Dakaractu",
-  "site_source": "https://www.dakaractu.com",
-  "date": "2026-11-20T07:54:00+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "La Fédération sénégalaise de lutte entend faire de l’accord avec CANAL+ un véritable tremplin pour l’internationalisation de la discipline. Son président, Bira Sène, a salué l’arrivée du groupe audiovisuel et son choix d’investir dans la lutte sénégalaise, qu’il considère comme un produit sportif…",
-  "categories": [
-   "People & Sports"
-  ]
- },
- {
-  "id": "6822a98e939c",
-  "titre": "LFR 2026 : Waly Diouf Bodiang dénonce un « acte de dictature » et met en garde contre une concentration des pouvoirs…",
-  "lien": "https://senego.com/lfr-2026-waly-diouf-bodiang-denonce-un-acte-de-dictature-et-met-en-garde-contre-une-concentration-des-pouvoirs_2026008.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-20T07:53:10+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Dans un post publié sur sa page Facebook, Waly Diouf Bodiang remet en cause le recours au décret pour rendre applicable un texte rejeté par les parlementaires. « Un décret ne peut combler le rejet de l’Assemblée », affirme-t-il, avant de lancer un défi à ceux qui soutiendraient le contraire : « Si…",
-  "categories": [
-   "Actualités",
-   "Justice",
-   "Sénégal",
-   "Société",
-   "Vedette"
-  ]
- },
- {
-  "id": "d30e5c6952de",
-  "titre": "Saint-Louis : le gouverneur Al Hassan Sall salue le rôle des FDS dans la sécurisation de la région",
-  "lien": "http://www.ndarinfo.com/Saint-Louis-le-gouverneur-Al-Hassan-Sall-salue-le-role-des-FDS-dans-la-securisation-de-la-region_a47278.html",
-  "source": "Ndarinfo (Saint-Louis)",
-  "site_source": "https://www.ndarinfo.com",
-  "date": "2026-11-20T07:46:00+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le gouverneur de Saint-Louis, Al Hassan Sall, a présidé ce jeudi à la Pointe Nord de l'île la célébration régionale de la Journée de...",
-  "categories": [
-   "Société"
-  ]
- },
- {
-  "id": "cf13dda967ff",
-  "titre": "Migration irrégulière : Pape Modou Fall appelle à dépasser le seul contrôle des frontières",
-  "lien": "https://senego.com/migration-irreguliere-pape-modou-fall-appelle-a-depasser-le-seul-controle-des-frontieres_2026010.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-20T07:41:01+00:00",
-  "rubrique": "Diaspora",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Le président de l’AMSAD défend une prévention qui associe les communautés, l’accompagnement économique et la sécurité. Une enquête de 2020 éclaire ses propositions.",
-  "categories": [
-   "Actualités",
-   "Sénégal",
-   "Société",
-   "AMSAD",
-   "emploi"
-  ]
- },
- {
-  "id": "5f54539e41d3",
-  "titre": "Ndiébène Gandiol : 65 toilettes familiales et six blocs d’hygiène remis aux communautés",
-  "lien": "http://www.ndarinfo.com/Ndiebene-Gandiol-65-toilettes-familiales-et-six-blocs-d-hygiene-remis-aux-communautes_a47277.html",
-  "source": "Ndarinfo (Saint-Louis)",
-  "site_source": "https://www.ndarinfo.com",
-  "date": "2026-11-20T07:35:00+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le ministre de l'Hydraulique et de l'Assainissement, Cheikh Tidiane Dièye, a présidé ce jeudi à Ndiébène Gandiol la célébratio...",
-  "categories": [
-   "+ D'ACTU"
-  ]
- },
- {
-  "id": "d4439fa25b47",
-  "titre": "Saint-Louis : l’ANASER remet des kits de sécurité aux conducteurs de motos Jakarta",
-  "lien": "https://senego.com/saint-louis-lanaser-remet-des-kits-de-securite-aux-conducteurs-de-motos-jakarta_2026007.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-20T07:29:34+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "À Saint-Louis, l’ANASER a sensibilisé les chauffeurs et conducteurs de motos Jakarta, distribué des kits de sécurité et annoncé un projet pilote de formation à Thiès.",
-  "categories": [
-   "Actualités",
-   "Sénégal",
-   "Société",
-   "ANASER",
-   "motos Jakarta"
-  ]
- },
- {
-  "id": "a2dd80283ac4",
-  "titre": "Le Royaume-Uni et l'UE comptent s'entendre sur un rapprochement lors d'un sommet à Bruxelles",
-  "lien": "https://www.france24.com/fr/europe/20261120-royaume-uni-et-union-europenne-comptent-s-entendre-sur-rapprochement-sommet-bruxelles",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-20T07:20:13+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le Premier ministre britannique Andy Burnham et les dirigeants de l'Union européenne s'apprêtent à s'accorder vendredi, lors d'un sommet à Bruxelles, sur un rapprochement grâce à des accords sur la mobilité des jeunes et les secteurs de l'alimentaire. Dix ans après le référendum sur le Brexit, Andy…",
-  "categories": [
-   "Europe"
-  ]
- },
- {
-  "id": "ec13665e7d8f",
-  "titre": "Donald Trump limoge le directeur de la cybersécurité américaine",
-  "lien": "http://fr.africanews.com/2026/11/20/donald-trump-limoge-le-directeur-de-la-cybersecurite-americaine/",
-  "source": "Africanews",
-  "site_source": "https://fr.africanews.com",
-  "date": "2026-11-20T07:15:41+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le directeur national de la cybersécurité américaine, Sean Cairncross, a été limogé jeudi 19 novembre. Kirsten Davies, actuelle directrice des systèmes d’information du département de la Défense, assurera l’intérim."
  }
 ]
