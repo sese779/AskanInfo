@@ -1,5 +1,729 @@
 [
  {
+  "id": "81aa57625704",
+  "titre": "Afrique du Sud : taux d'homicide en baisse malgré les 60 meurtres par jour",
+  "lien": "http://fr.africanews.com/2026/11/20/afrique-du-sud-baisse-du-taux-dhomicide-mais-60-meurtres-denombres-en-moyenne-par-jour/",
+  "source": "Africanews",
+  "site_source": "https://fr.africanews.com",
+  "date": "2026-11-20T15:05:44+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "En Afrique du Sud, 5 590 personnes ont été tuées entre juillet et septembre. Ces données, publiées par le ministère de la Police vendredi, indiquent que le nombre de meurtres dans ce pays d'Afrique australe a baissé de 204 par rapport à la même période l'année dernière."
+ },
+ {
+  "id": "81cecae17ef5",
+  "titre": "Crise au sommet de l’État et blocage budgétaire : And Jëf / Authentique dénonce \"l’irresponsabilité\" du régime PASTEF-KIIRAYE face à la détresse des Sénégalais",
+  "lien": "https://www.leral.net/Crise-au-sommet-de-l-Etat-et-blocage-budgetaire-And-Jef-Authentique-denonce-l-irresponsabilite-du-regime-PASTEF-KIIRAYE_a411793.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-20T15:05:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Le Secrétariat Exécutif Nationalde And Jëf / Parti Africain pour la Démocratie et le Socialisme / Authentiqu...",
+  "categories": [
+   "Actualités"
+  ]
+ },
+ {
+  "id": "26e97191eb6e",
+  "titre": "Culture : CBAO et la Fondation Attijariwafa bank lancent « Africa Speaks » (Senego Tv)",
+  "lien": "https://senego.com/culture-cbao-et-la-fondation-attijariwafa-bank-lancent-africa-speaks-senego-tv_2026147.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T15:04:14+00:00",
+  "rubrique": "Culture",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "CBAO Groupe Attijariwafa bank et la Fondation Attijariwafa bank ont inauguré, jeudi 19 novembre 2026, à la Résidence CBAO, à Dakar, « Africa Speaks », une nouvelle plateforme culturelle panafricaine consacrée au dialogue entre les patrimoines et la création contemporaine. Placée sous le thème « Le…",
+  "categories": [
+   "Actualités",
+   "Senego TV",
+   "Société",
+   "Vidéos",
+   "Africa Speaks"
+  ]
+ },
+ {
+  "id": "2817653bd7d9",
+  "titre": "Kwame Asie, le chef itinérant qui réunit les traditions culinaires africaines",
+  "lien": "http://fr.africanews.com/2026/11/20/kwame-asie-le-chef-itinerant-qui-reunit-les-traditions-culinaires-africaines/",
+  "source": "Africanews",
+  "site_source": "https://fr.africanews.com",
+  "date": "2026-11-20T15:04:14+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L’influenceur et chef nigériano-ghanéen de 32 ans, Kwame Asie, s’est donné pour mission de documenter l’ensemble du patrimoine culinaire africain à travers un mélange de gastronomie, d’anthropologie et de géographie, pour ses 50 000 abonnés."
+ },
+ {
+  "id": "f427fdceb686",
+  "titre": "Zac Mbao : La pension de retraite du défunt père envoie deux frères en prison",
+  "lien": "https://www.seneweb.com/fr/news/Societe/zac-mbao-la-pension-de-retraite-du-defunt-pere-envoie-deux-freres-en-prison_n_999004209.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-20T15:04:11+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Une violente altercation entre deux frères germains secoue la cité Sagef 2 de Zac Mbao"
+ },
+ {
+  "id": "adf1283eed36",
+  "titre": "Le 3FPT lance « Marins de la Petite Côte » : 1 000 pêcheurs formés aux métiers de la mer et à la sécurité maritime",
+  "lien": "https://www.seneweb.com/fr/news/Societe/le-3fpt-lance-marins-de-la-petite-cote-1-000-pecheurs-formes-aux-metiers-de-la-mer-et-a-la-securite-maritime_n_999004208.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-20T15:01:21+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Doté d'une enveloppe de 377,4 millions de FCFA, le 3FPT, en partenariat avec l'Agence nationale des affaires maritimes (ANAM), lance le programme « Marins de la Petite Côte »"
+ },
+ {
+  "id": "5b7e1ddb811b",
+  "titre": "LFR 2026 : Sidy Alpha Ndiaye dénonce un « parfum de démocratie illibérale » et conteste la légalité du décret",
+  "lien": "https://www.xibaaru.sn/lfr-2026-sidy-alpha-ndiaye-denonce-un-parfum-de-democratie-illiberale-et-conteste-la-legalite-du-decret/",
+  "source": "Xibaaru",
+  "site_source": "https://www.xibaaru.sn",
+  "date": "2026-11-20T15:00:57+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Dans une tribune intitulée « Le parfum d’une démocratie illibérale », Sidy Alpha Ndiaye, conseiller spécial du président de l’Assemblée nationale et membre de PASTEF-Les Patriotes, conteste la légalité du décret n°…",
+  "categories": [
+   "Uncategorized"
+  ]
+ },
+ {
+  "id": "8b19578a9988",
+  "titre": "CONTROVERSE AUTOUR DE LA LOI DE FINANCES RECTIFICATIVE Aminata Touré défend la loi de finances rectificative et attaque PASTEF",
+  "lien": "https://www.enqueteplus.com/content/controverse-autour-de-la-loi-de-finances-rectificative-aminata-tour%C3%A9-d%C3%A9fend-la-loi-de",
+  "source": "EnQuête",
+  "site_source": "https://www.enqueteplus.com",
+  "date": "2026-11-20T15:00:36+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "CONTROVERSE AUTOUR DE LA LOI DE FINANCES RECTIFICATIVE Aminata Touré défend la loi de finances rectificative et attaque PASTEF Hier en conférence de presse, Aminata Touré a exprimé son soutien indéfectible à la décision du président Bassirou Diomaye Faye de promulguer la loi de finances…"
+ },
+ {
+  "id": "0d6e877d56c6",
+  "titre": "Les affaires marocaines de Teddy Riner, « ami personnel » du roi Mohammed VI",
+  "lien": "https://www.lemonde.fr/afrique/article/2026/11/20/les-affaires-marocaines-de-teddy-riner-ami-personnel-du-roi-mohammed-vi_6813652_3212.html",
+  "source": "Le Monde Afrique",
+  "site_source": "https://www.lemonde.fr/afrique/",
+  "date": "2026-11-20T15:00:04+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Un article de « Mediapart », publié jeudi 19 novembre, affirme qu’une société du judoka, candidat à la présidentielle, a bénéficié de commandes du souverain marocain « pour des millions d’euros ». Une enquête qui illustre les liens étroits qu’entretiennent les deux hommes."
+ },
+ {
+  "id": "950e008a9161",
+  "titre": "EN DIRECT, guerre en Ukraine | L’Elysée évoque une adhésion à l’OTAN du pays et réclame une pleine place pour les Européens dans les négociations",
+  "lien": "https://www.lemonde.fr/international/live/2026/11/20/en-direct-guerre-en-ukraine-l-elysee-evoque-une-adhesion-a-l-otan-et-reclame-une-pleine-place-pour-les-europeens-dans-les-negociations_6810982_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-20T14:58:54+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Fournir à Kiev une protection comparable à celle prévue par le traité de l’Alliance atlantique équivaudrait à une adhésion de l’Ukraine à l’OTAN, défendue par la France, a estimé vendredi la présidence française."
+ },
+ {
+  "id": "756a4d2ab4b1",
+  "titre": "Dalifort : Une adolescente de 16 ans envoyée en prison pour avoir diffusé une photo intime de sa tante",
+  "lien": "https://www.seneweb.com/fr/news/Societe/dalifort-une-adolescente-de-16-ans-envoyee-en-prison-pour-avoir-diffuse-une-photo-intime-de-sa-tante_n_999004207.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-20T14:55:33+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Une affaire de violence familiale et de diffusion d’images intimes sans consentement sera jugée le 25 novembre prochain devant le tribunal des mineurs"
+ },
+ {
+  "id": "8accd1c556a4",
+  "titre": "Ligue des nations : Les Bleus de Zidane au défi de l’Espagne",
+  "lien": "https://www.senenews.com/actualites/international/ligue-des-nations-les-bleus-de-zidane-au-defi-de-lespagne_607073.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-20T14:55:30+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L'équipe de France de Zinédine Zidane n'a pas été gâtée par le tirage au sort des quarts de finale de la Ligue des nations en héritant de l'Espagne, championne du monde en titre, vendredi à Nyon (Suisse), un immense choc à la saveur forcément particulière pour le sélectionneur et Kylian Mbappé. Les…",
+  "categories": [
+   "Football",
+   "International",
+   "Zidane"
+  ]
+ },
+ {
+  "id": "94955de3d9e8",
+  "titre": "Mondial U17 : Le onze de départ officiel des Lionceaux dévoilé, Baba Camara préféré à Assane Sarr, face à la Croatie",
+  "lien": "https://www.senenews.com/actualites/mondial-u17-le-onze-de-depart-officiel-des-lionceaux-devoile-baba-camara-prefere-a-assane-sarr-face-a-la-croatie_607071.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-20T14:55:21+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le Sénégal s’apprête à faire son entrée en lice à la Coupe du monde U17 2026. Pour cette première confrontation face à la Croatie, le sélectionneur Lamine Sané a effectué un choix remarqué dans sa composition de départ : Baba Camara est préféré à Assane Sarr. Alors que les Lionceaux ambitionnent de…",
+  "categories": [
+   "Football",
+   "Sénégal - Actualités",
+   "SeneNews Sport",
+   "Baba Camara"
+  ]
+ },
+ {
+  "id": "838c1b3fb9bc",
+  "titre": "CAN de Beach Soccer 2026, Saly reprend le flambeau et s’apprête à accueillir la fête du football de plage",
+  "lien": "https://www.seneplus.com/article/can-de-beach-soccer-2026-saly-reprend-le-flambeau-et-sapprete-accueillir-la-fete-du",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-20T14:54:57+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "CAN de Beach Soccer 2026, Saly reprend le flambeau et s’apprête à accueillir la fête du football de plage Daouda Toumbou Fri, 11/20/2026 - 14:54"
+ },
+ {
+  "id": "0e9c6fba8ba9",
+  "titre": "Ismaïla Sarr couronné de succès : sacré Meilleur Joueur et Meilleur Buteur de la Conférence League",
+  "lien": "https://www.igfm.sn/ismaila-sarr-couronne-de-succes-sacre-meilleur-joueur-et-meilleur-buteur-de-la-conference-league",
+  "source": "L'Observateur (iGFM)",
+  "site_source": "https://www.igfm.sn",
+  "date": "2026-11-20T14:53:53+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": ""
+ },
+ {
+  "id": "14091899e874",
+  "titre": "Fabio Pisacane met en garde Paul Mendy après son premier but avec le Sénégal",
+  "lien": "https://senego.com/fabio-pisacane-met-en-garde-paul-mendy-apres-son-premier-but-avec-le-senegal_2026145.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T14:53:19+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Auteur de son premier but avec le Sénégal après seulement deux entrées en jeu, Paul Mendy reçoit un message de prudence de son entraîneur à Cagliari, Fabio Pisacane.",
+  "categories": [
+   "Football",
+   "Sénégal",
+   "Sports",
+   "Cagliari",
+   "Fabio Pisacane"
+  ]
+ },
+ {
+  "id": "ac3808d14471",
+  "titre": "\"Blade Runner 2099\", \"Black Doves\", \"Alice\"... le meilleur des séries du mois de novembre",
+  "lien": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20261120-blade-runner-2099-black-doves-alice-le-meilleur-des-s%C3%A9ries-du-mois-de-novembre",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-20T14:51:43+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Pour \"À l'Affiche\", Nina Masson et Sonia Patricelli décryptent les meilleures sorties du mois. \"Blade Runner 2099\" frappe fort pour cette série nouvelle génération sur Prime Video. Keira Knightley a convaincu Nina dans la deuxième saison de \"Black Doves\" sur Netflix. \"Alice\", pour Alice Guy, la vie…",
+  "categories": [
+   "À l'Affiche !"
+  ]
+ },
+ {
+  "id": "5fb1f4535908",
+  "titre": "ONAS : La Fondation Bébé Basse prend en charge la quote-part de 20 % des ménages vulnérables du PAD",
+  "lien": "https://www.dakaractu.com/ONAS-La-Fondation-Bebe-Basse-prend-en-charge-la-quote-part-de-20-des-menages-vulnerables-du-PAD_a278430.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-20T14:51:00+00:00",
+  "rubrique": "Société",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La Fondation Bébé Basse a annoncé, ce vendredi à Dakar, la prise en charge de la contribution de 20 % qui incombe aux ménages les plus vulnérables bénéficiaires de toilettes dans le cadre du Projet d'assainissement autonome de Dakar (PAD). Son engagement a été formalisé par la remise d'un chèque…",
+  "categories": [
+   "Télévision"
+  ]
+ },
+ {
+  "id": "55e2e97c36d9",
+  "titre": "Une pluie de missiles et de drones russes s’abat sur l’Ukraine, au moins neuf morts",
+  "lien": "https://www.senenews.com/actualites/societe/une-pluie-de-missiles-et-de-drones-russes-sabat-sur-lukraine-au-moins-neuf-morts_607069.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-20T14:50:50+00:00",
+  "rubrique": "Monde",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Au moins neuf morts, des ponts touchés à Kiev et des sites énergétiques endommagés : la Russie a pilonné l' Ukraine pendant la nuit avec plusieurs vagues de drones et de missiles, dont deux d'entre eux sont tombés en Pologne voisine selon Varsovie. Le président ukrainien Volodymyr Zelensky a…",
+  "categories": [
+   "International",
+   "Société",
+   "ukraine"
+  ]
+ },
+ {
+  "id": "3b2885181e37",
+  "titre": "Intelligence artificielle : les secrets de l'entrée en bourse record d'Anthropic",
+  "lien": "https://www.france24.com/fr/%C3%A9missions/tech-24/20261120-intelligence-artificielle-les-secrets-de-l-entr%C3%A9e-en-bourse-record-d-anthropic",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-20T14:49:12+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Une intelligence artificielle qui tente de faire chanter un dirigeant, des stars d'Hollywood qui décrochent le jackpot, un laboratoire secret qui explore les mystères de l'ADN, des philosophes chargés d'enseigner la morale aux machines… l'introduction en bourse record d'Anthropic – la maison mère…",
+  "categories": [
+   "Tech 24"
+  ]
+ },
+ {
+  "id": "e6768557a21b",
+  "titre": "Questions climatiques : les médias appelés à renforcer leur traitement de l’information…",
+  "lien": "https://senego.com/questions-climatiques-les-medias-appeles-a-renforcer-leur-traitement-de-linformation_2026121.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T14:46:47+00:00",
+  "rubrique": "Société",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Teranga Lab, représenté par son directeur exécutif, Alexandre Lette, et son secrétaire général, Mouhamadou Cissokho, en partenariat avec Africa Climate Insights (ACI), a organisé une matinée d’échanges entre journalistes et acteurs de la société civile autour de la couverture médiatique des…",
+  "categories": [
+   "Économie",
+   "Information",
+   "Médias",
+   "Questions climatiques"
+  ]
+ },
+ {
+  "id": "3fec4e4815ed",
+  "titre": "Les féminicides, la partie émergée du contrôle coercitif",
+  "lien": "https://www.france24.com/fr/%C3%A9missions/actuelles/20261120-les-f%C3%A9minicides-la-partie-%C3%A9merg%C3%A9e-du-contr%C3%B4le-coercitif",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-20T14:46:33+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Les féminicides font aussi des victimes invisibles : les proches des femmes assassinées, confrontées à un deuil impossible et à des embûches judiciaires. Dans 75 % des cas, le féminicide survient sans violences physiques préalables, mais au terme d'une période de contrôle coercitif : une prison…",
+  "categories": [
+   "ActuElles"
+  ]
+ },
+ {
+  "id": "6ab15ae8844a",
+  "titre": "Après une introduction en bourse record, l'action d'Anthropic chute de 9 %",
+  "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261120-apr%C3%A8s-une-introduction-en-bourse-record-l-action-d-anthropic-chute-de-9",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-20T14:46:33+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La start-up américaine d'intelligence artificielle Anthropic chute vendredi 20 novembre à Wall Street malgré une entrée en bourse historique, soit une baisse de 9 % pour sa deuxième journée.",
+  "categories": [
+   "Éco/Tech"
+  ]
+ },
+ {
+  "id": "06c146308d92",
+  "titre": "Conflit soudanais : les frappes de drones accentuent les inquiétudes sur la protection des civils",
+  "lien": "https://senego.com/conflit-soudanais-les-frappes-de-drones-accentuent-les-inquietudes-sur-la-protection-des-civils_2026137.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T14:46:25+00:00",
+  "rubrique": "Afrique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Des ambitions militaires aux bombardements des villes, des drones aux ingérences étrangères, le conflit soudanais a plongé le pays dans une catastrophe humaine sans précédent. Derrière le discours de défense de l’État, le général Abdel Fattah al-Burhan et le commandement de l’armée doivent répondre…",
+  "categories": [
+   "Actualités",
+   "Politique",
+   "Sénégal",
+   "Société",
+   "Guerre"
+  ]
+ },
+ {
+  "id": "64739dee2a50",
+  "titre": "Trafic de drogue: L’OCRTIS interpelle treize personnes lors d’opérations d’envergure nationale",
+  "lien": "https://www.rewmi.com/trafic-de-drogue-locrtis-interpelle-treize-personnes-lors-doperations-denvergure-nationale/",
+  "source": "Rewmi",
+  "site_source": "https://www.rewmi.com",
+  "date": "2026-11-20T14:45:37+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L’Office central pour la répression du trafic illicite de stupéfiants (OCRTIS) sous le commandement du commissaire de police divisionnaire de classe exceptionnelle Alassane Niane, a mené neuf opérations sur l’ensemble du territoire national. Elle a abouti à l’interpellation de 13 individus et à la…",
+  "categories": [
+   "Actualité",
+   "GRANDE UNE"
+  ]
+ },
+ {
+  "id": "cbc6a72a04e0",
+  "titre": "Cagliari : Fabio Pisacane met en garde Paul Mendy après ses débuts remarqués chez les Lions",
+  "lien": "https://lesoleil.sn/actualites/sports/cagliari-fabio-pisacane-met-en-garde-paul-mendy-apres-ses-debuts-remarques-chez-les-lions/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-20T14:45:17+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Paul Mendy a connu une adaptation express en équipe nationale du Sénégal. Appelé pour la première fois par Patrick Vieira, l’attaquant de Cagliari a marqué face au Soudan, pour sa deuxième entrée en jeu seulement. Son entraineur Fabio Pisacane a toutefois tenu à envoyer un message clair à son…",
+  "categories": [
+   "Sports",
+   "Cagliari",
+   "Fabio Pisacane",
+   "Paul Mendy",
+   "Sénégal"
+  ]
+ },
+ {
+  "id": "85350f58b8ae",
+  "titre": "Football : Ismaïla Sarr, de la consécration européenne à la conquête du football africain",
+  "lien": "https://www.seneweb.com/fr/news/Sport/football-ismaila-sarr-de-la-consecration-europeenne-a-la-conquete-du-football-africain_n_999004205.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-20T14:44:23+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L’international sénégalais, Ismaïla Sarr, a officiellement reçu ses trophées de Meilleur buteur et de Meilleur joueur de l’UEFA Conference League 2025-2026"
+ },
+ {
+  "id": "dd16d0d33960",
+  "titre": "VDN : Un immeuble ravagé par un incendie en face du centre commercial Exclusif, une personne saute par les balcons",
+  "lien": "https://www.dakaractu.com/VDN-Un-immeuble-ravage-par-un-incendie-en-face-du-centre-commercial-Exclusif-une-personne-saute-par-les-balcons_a278428.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-20T14:44:00+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Un incendie s’est déclaré ce vendredi vers 14h dans un immeuble situé sur la Voie de Dégagement Nord (VDN), en face du centre commercial Exclusif, à Dakar. Selon les premières informations, une personne, visiblement prise au piège par les flammes, aurait sauté par les balcons de l’immeuble pour…",
+  "categories": [
+   "Actu"
+  ]
+ },
+ {
+  "id": "089d1af04c37",
+  "titre": "« 600 francs » : Thérèse Faye accuse des députés Pastef de discréditer les bourses familiales",
+  "lien": "https://senego.com/600-francs-therese-faye-accuse-des-deputes-pastef-de-discrediter-les-bourses-familiales_2026139.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T14:41:30+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Thérèse Faye affirme que des députés Pastef ont questionné en commission le montant de 600 francs par jour et l’utilité des bourses de sécurité familiale.",
+  "categories": [
+   "Assemblée nationale",
+   "Politique",
+   "Sénégal",
+   "Bourses familiales",
+   "Pastef"
+  ]
+ },
+ {
+  "id": "4bc7666d5e33",
+  "titre": "Journée mondiale des toilettes / L'ONAS mise sur le PAD pour élargir la couverture dans les zones défavorisées: 505 ménages à Rufisque et Keur Massar dans le lot",
+  "lien": "https://www.dakaractu.com/Journee-mondiale-des-toilettes-L-ONAS-mise-sur-le-PAD-pour-elargir-la-couverture-dans-les-zones-defavorisees-505-menages_a278429.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-20T14:39:00+00:00",
+  "rubrique": "Société",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L'Office national de l'assainissement du Sénégal (ONAS) a procédé, ce vendredi, à la cérémonie de remise de contributions destinées à financer la construction de toilettes au profit de ménages des départements de Rufisque et de Keur Massar. La rencontre s’est tenue en marge de la célébration de la…",
+  "categories": [
+   "Texto"
+  ]
+ },
+ {
+  "id": "175248689aa1",
+  "titre": "Gérard Depardieu et Michel Houellebecq accusés de viol en réunion et d'agressions sexuelles",
+  "lien": "https://www.france24.com/fr/france/20261120-g%C3%A9rard-depardieu-et-michel-houellebecq-accus%C3%A9s-de-viol-en-r%C3%A9union-et-d-agressions-sexuelles",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-20T14:38:36+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Gérard Depardieu est de nouveau accusé de viol – en réunion cette fois, avec la complicité supposée de l'écrivain Michel Houellebecq, selon des sources proches du dossier, confirmant vendredi des révélations de Mediapart. Les faits, dénoncés par une comédienne, remonteraient au tournage du film…",
+  "categories": [
+   "France"
+  ]
+ },
+ {
+  "id": "65406e8aeba9",
+  "titre": "Dakar : d'épais nuages de fumée noire envahissent la VDN après un terrible incendie sur un immeuble",
+  "lien": "https://www.pressafrik.com/Dakar-d-epais-nuages-de-fumee-noire-envahissent-la-VDN-apres-un-terrible-incendie-sur-un-immeuble_a314875.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-20T14:36:00+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Un important incendie s'est déclaré, dans la journée du vendredi, dans les étages supérieurs d'u... www.pressafrik.com",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "97fab4dc607b",
+  "titre": "Dakar : d'épais nuages de fumée noire envahissent la VDN après un terrible incendie dans un immeuble",
+  "lien": "https://www.pressafrik.com/Dakar-d-epais-nuages-de-fumee-noire-envahissent-la-VDN-apres-un-terrible-incendie-dans-un-immeuble_a314875.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-20T14:36:00+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Un important incendie s'est déclaré, dans la journée du vendredi, dans les étages supérieurs d'u... www.pressafrik.com",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "60245703b83b",
+  "titre": "Thiès : l'autonomisation économique des femmes dans les secteurs verts au cœur de la journée internationale de l'entrepreneuriat féminin",
+  "lien": "https://www.dakaractu.com/Thies-l-autonomisation-economique-des-femmes-dans-les-secteurs-verts-au-coeur-de-la-journee-internationale-de-l_a278427.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-20T14:35:00+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La journée internationale de l'entrepreneuriat féminin, inscrite dans la semaine mondiale de l'entrepreneuriat, a été célébrée ce jeudi 19 novembre 2026 à Thiès. À cette occasion, le Cerip Sénégal en a profité pour faire le bilan de la cohorte 1 du projet Green Linguer et le lancement officiel de…",
+  "categories": [
+   "Télévision"
+  ]
+ },
+ {
+  "id": "4057beeab9b9",
+  "titre": "France-Tchad : vers un retour de la coopération militaire ?",
+  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261120-france-tchad-vers-un-retour-de-la-coop%C3%A9ration-militaire",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-20T14:32:51+00:00",
+  "rubrique": "Afrique",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Sommes-nous en train d’assister à une reprise de la coopération militaire entre le Tchad et la France ? Deux ans après la rupture des accords de défense, l’armée française est de nouveau présente sur le sol tchadien. N’Djamena évoque un exercice conjoint, après l’atterrissage de deux Mirage 2000 et…"
+ },
+ {
+  "id": "cd8b7902af0e",
+  "titre": "Dans un monde «conflictuel», une 16e Biennale de Dakar «pour transformer la fragilité en force»",
+  "lien": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-afrique-midi/20261120-dans-un-monde-conflictuel-une-16e-biennale-de-dakar-pour-transformer-la-fragilit%C3%A9-en-force",
+  "source": "RFI Afrique",
+  "site_source": "https://www.rfi.fr/fr/afrique/",
+  "date": "2026-11-20T14:32:05+00:00",
+  "rubrique": "Culture",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Au Sénégal, la 16ᵉ Biennale de l'art africain contemporain de Dakar, la plus importante manifestation du genre sur le continent, ouvre ses portes au public ce vendredi 20 novembre. Jusqu’au 19 décembre, 75 artistes venus de 17 pays africains vont exposer lors de cette biennale et présenter le…",
+  "categories": [
+   "Invité Afrique Midi"
+  ]
+ },
+ {
+  "id": "533f623befb1",
+  "titre": "Ébinto en avant-première à Dakar, ne célébration du cinéma africain et de la transmission",
+  "lien": "https://www.seneplus.com/article/ebinto-en-avant-premiere-dakar-ne-celebration-du-cinema-africain-et-de-la-transmission",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-20T14:31:47+00:00",
+  "rubrique": "Culture",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Ébinto en avant-première à Dakar, ne célébration du cinéma africain et de la transmission Daouda Toumbou Fri, 11/20/2026 - 14:31"
+ },
+ {
+  "id": "575e3c6132bd",
+  "titre": "Génocide des Rohingyas : le Myanmar conteste l’arrêt de la CIJ",
+  "lien": "http://fr.africanews.com/2026/11/20/genocide-des-rohingyas-le-myanmar-conteste-larret-de-la-cij/",
+  "source": "Africanews",
+  "site_source": "https://fr.africanews.com",
+  "date": "2026-11-20T14:30:33+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le Myanmar rejette l’arrêt de la Cour internationale de Justice (CIJ), qui a reconnu jeudi le génocide de la minorité rohingya. Une décision que les autorités birmanes jugent inéquitable."
+ },
+ {
+  "id": "5eb183c0def8",
+  "titre": "Pastef/Mbacké : Mbaye Seck, directeur du CNFMETP de Kaffrine, rejoint le président Diomaye",
+  "lien": "https://www.seneweb.com/fr/news/Politique/pastefmbacke-mbaye-seck-directeur-du-cnfmetp-de-kaffrine-rejoint-le-president-diomaye_n_999004204.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-20T14:26:39+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Mbaye Seck a officiellement quitté le parti dirigé par Ousmane Sonko pour rejoindre Kiiraay..."
+ },
+ {
+  "id": "afef587b3f09",
+  "titre": "Mondial U17 : Baba Camara titulaire, découvrez le onze du Sénégal face à la Croatie",
+  "lien": "https://wiwsport.com/2026/11/20/mondial-u17-baba-camara-titulaire-decouvrez-le-onze-du-senegal-face-a-la-croatie/",
+  "source": "Wiwsport",
+  "site_source": "https://www.wiwsport.com",
+  "date": "2026-11-20T14:23:26+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "( wiwsport ) - Le sélectionneur des Lionceaux a dévoilé son onze de départ pour affronter la Croatie, ce vendredi, à l’occasion de l’entrée en lice du Sénégal à la Coupe du monde U17. Pour cette première rencontre, les champions d’Afrique évolueront dans un système en 4-2-3-1 avec Baba Camara dans…",
+  "categories": [
+   "Coupe du monde",
+   "Equipe nationale Football",
+   "Football",
+   "U-17"
+  ]
+ },
+ {
+  "id": "7ba8a36f235f",
+  "titre": "La Tunisie se prépare à éviter les coupures d'électricité pendant l'été 2027",
+  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261120-la-tunisie-se-pr%C3%A9pare-%C3%A0-%C3%A9viter-les-coupures-d-%C3%A9lectricit%C3%A9-pendant-l-%C3%A9t%C3%A9-2027",
+  "source": "France 24 Afrique",
+  "site_source": "https://www.france24.com/fr/afrique/",
+  "date": "2026-11-20T14:13:02+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "🇹🇳 La Tunisie anticipe déjà l’été 2027 après une saison 2026 marquée par de fortes coupures d’eau et d’électricité. La Chambre de commerce mixte a organisé une réunion pour réfléchir à comment éviter une nouvelle crise l'année prochaine."
+ },
+ {
+  "id": "4e75ae186f63",
+  "titre": "Bruxelles accueillera en juin 2027 la troisième édition du Forum des territoires",
+  "lien": "https://www.leral.net/Bruxelles-accueillera-en-juin-2027-la-troisieme-edition-du-Forum-des-territoires_a411521.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-20T14:12:00+00:00",
+  "rubrique": "Afrique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Depuis deux ans, Bruxelles s'est imposée comme un lieu de rencontre entre acteurs européens et africains du développement local...",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "f0ac8be02b82",
+  "titre": "Un accord conclu entre le Royaume-Uni et l’Union européenne, cinq ans après la mise en œuvre du Brexit",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/20/un-accord-conclu-entre-le-royaume-uni-et-l-union-europeenne-cinq-ans-apres-la-mise-en-uvre-du-brexit_6813648_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-20T14:07:53+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Au sortir d’un sommet, vendredi, le premier ministre britannique a salué un « accord historique », et la présidente de la Commission européenne a évoqué « un tournant » dans les relations avec Londres."
+ },
+ {
+  "id": "137c96c51631",
+  "titre": "En Haïti, l’offensive militaire du président salvadorien Nayib Bukele renforce la lutte contre les gangs",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/20/en-haiti-l-offensive-militaire-du-president-salvadorien-nayib-bukele-renforce-la-lutte-contre-les-gangs_6813647_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-20T14:06:23+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Depuis l’arrivée en octobre de 2 500 soldats salvadoriens à Port-au-Prince, les opérations des forces de sécurité contre les groupes criminels se multiplient. Les Haïtiens, terrorisés par des années de violence, veulent croire que « la peur commence à changer de camp »."
+ },
+ {
+  "id": "eead491a6860",
+  "titre": "LFR 2026 : Adji Mbergane Kanouté conteste l’assimilation du rejet à une absence de vote",
+  "lien": "https://senego.com/lfr-2026-adji-mbergane-kanoute-conteste-lassimilation-du-rejet-a-une-absence-de-vote_2026136.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T14:06:20+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "L’ancienne députée Adji Mbergane Kanouté estime que le rejet de la LFR 2026 ne constitue pas une absence de vote définitif et appelle à saisir le Conseil constitutionnel.",
+  "categories": [
+   "Assemblée nationale",
+   "Politique",
+   "Sénégal",
+   "Adji Mbergane Kanouté",
+   "article 68"
+  ]
+ },
+ {
+  "id": "d1195389a35e",
+  "titre": "Dr El Hadji Mansour Diop invite les militants de Pastef à applaudir la RTS",
+  "lien": "https://senego.com/dr-el-hadji-mansour-diop-invite-les-militants-de-pastef-a-applaudir-la-rts_2026134.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T14:06:14+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Après les critiques de militants de Pastef contre la couverture de la Journée des forces armées par la RTS, le Dr El Hadji Mansour Diop rappelle leur attitude passée.",
+  "categories": [
+   "Actualités",
+   "Politique",
+   "Sénégal",
+   "El Hadji Mansour Diop",
+   "Journée des Forces armées"
+  ]
+ },
+ {
   "id": "54166d081af1",
   "titre": "Mamadou Niang soutient Édouard Mendy face à Bounou : « On est champion grâce à Édouard »",
   "lien": "https://senego.com/mamadou-niang-soutient-edouard-mendy-face-a-bounou-on-est-champion-grace-a-edouard_2026132.html",
