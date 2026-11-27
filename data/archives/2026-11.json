@@ -1,5 +1,750 @@
 [
  {
+  "id": "1a2ab8784d33",
+  "titre": "Trafic de drogue : l’OCRTIS frappe dans neuf opérations et saisit plus de 42 kg de chanvre indien",
+  "lien": "https://www.leral.net/Trafic-de-drogue-l-OCRTIS-frappe-dans-neuf-operations-et-saisit-plus-de-42-kg-de-chanvre-indien_a411779.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-20T13:05:00+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "",
+  "categories": [
+   "Fait divers"
+  ]
+ },
+ {
+  "id": "ff8e20afb668",
+  "titre": "COP31 : des activistes dénoncent l'absence de progrès sur les combustibles fossiles",
+  "lien": "http://fr.africanews.com/2026/11/20/cop31-des-activistes-denoncent-labsence-de-progres-sur-les-combustibles-fossiles/",
+  "source": "Africanews",
+  "site_source": "https://fr.africanews.com",
+  "date": "2026-11-20T13:04:50+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Les précédentes COP n’ont pas réussi à s’accorder sur la manière de sortir des énergies fossiles, ce qui reste un point d’achoppement en Turquie cette année."
+ },
+ {
+  "id": "76e4c49b957a",
+  "titre": "LFR 2026 : Sidy Alpha Ndiaye, conseiller de Sonko, juge le décret présidentiel illégal",
+  "lien": "http://www.ndarinfo.com/LFR-2026-Sidy-Alpha-Ndiaye-conseiller-de-Sonko-juge-le-decret-presidentiel-illegal_a47283.html",
+  "source": "Ndarinfo (Saint-Louis)",
+  "site_source": "https://www.ndarinfo.com",
+  "date": "2026-11-20T13:04:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Dans une tribune publiée ce vendredi, Sidy Alpha Ndiaye, conseiller spécial du président de l'Assemblée nationale, juge illégal l...",
+  "categories": [
+   "Politique"
+  ]
+ },
+ {
+  "id": "f7ed95cc804e",
+  "titre": "Deux missiles russes chutent en Pologne, le Premier ministre Tusk dénonce \"une provocation\"",
+  "lien": "https://www.france24.com/fr/europe/20261120-deux-missiles-chutent-pologne-premier-ministre-donald-tusk-d%C3%A9nonce-provocation-russie",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-20T13:03:50+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le ministre polonais de la Défense a indiqué que deux missiles russes et vraisemblablement un drone à réaction sont tombés dans le sud-est de la Pologne, frontalier de l'Ukraine, sans faire de blessés. Le Premier ministre polonais Donald Tusk a dénoncé \"une provocation\" de Moscou.",
+  "categories": [
+   "Europe"
+  ]
+ },
+ {
+  "id": "0beadceca593",
+  "titre": "Accident à Bignona : un camion termine sa course dans un canal (vidéo)",
+  "lien": "https://senego.com/accident-a-bignona-un-camion-termine-sa-course-dans-un-canal-video_2026110.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T13:03:47+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Un accident de camion s’est produit à Bignona, à proximité de la mairie et d’une station-service. Le véhicule s’est renversé dans un canal, à une vingtaine de mètres de la localité, selon les témoignages rapportés sur place. L’accident serait survenu depuis la veille. Au moment du signalement, le…",
+  "categories": [
+   "Faits Divers",
+   "accident",
+   "Bignona"
+  ]
+ },
+ {
+  "id": "388a47f2c4fe",
+  "titre": "Diop 2 défie Gris Bordeaux : « Je vais l’attaquer, me bagarrer avec lui et le terrasser »",
+  "lien": "https://www.seneweb.com/fr/news/Sport/diop-2-defie-gris-bordeaux-je-vais-lattaquer-me-bagarrer-avec-lui-et-le-terrasser_n_999004197.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-20T13:03:43+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "À quelques semaines de son combat prévu le 13 décembre 2026, Diop 2 affiche une confiance débordante face à Gris Bordeaux."
+ },
+ {
+  "id": "2e7f76fbd835",
+  "titre": "Waly Diouf Bodiang accuse la RTS de parti pris dans la couverture de la relation Sonko-Diomaye",
+  "lien": "https://www.leral.net/Waly-Diouf-Bodiang-accuse-la-RTS-de-parti-pris-dans-la-couverture-de-la-relation-Sonko-Diomaye_a411773.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-20T13:03:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "La couverture médiatique de la Journée des Forces armées, marquée par la présence de Bassirou Diomaye Faye et d’Ousmane Sonko...",
+  "categories": [
+   "Politique"
+  ]
+ },
+ {
+  "id": "00ee85b05a3b",
+  "titre": "Quand le budget de la Nation ne peut être l'otage des calculs politiques",
+  "lien": "https://www.seneplus.com/article/quand-le-budget-de-la-nation-ne-peut-etre-lotage-des-calculs-politiques",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-20T13:02:03+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Quand le budget de la Nation ne peut être l'otage des calculs politiques Farid Akele Fri, 11/20/2026 - 13:02"
+ },
+ {
+  "id": "c480350911ba",
+  "titre": "Coupe du monde U17 : le Sénégal débute ce vendredi contre la Croatie",
+  "lien": "https://www.pressafrik.com/Coupe-du-monde-U17-le-Senegal-debute-ce-vendredi-contre-la-Croatie_a314870.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-20T13:02:00+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L'équipe nationale de football des moins de 17 ans du Sénégal va affronter la Croatie ce vendredi... www.pressafrik.com",
+  "categories": [
+   "Sport"
+  ]
+ },
+ {
+  "id": "9b340605f9ed",
+  "titre": "LFR 2026 : Mimi accuse Sonko et les députés de PASTEF de sacrifier les intérêts des populations",
+  "lien": "https://www.xibaaru.sn/lfr-2026-mimi-accuse-sonko-et-les-deputes-de-pastef-de-sacrifier-les-interets-des-populations/",
+  "source": "Xibaaru",
+  "site_source": "https://www.xibaaru.sn",
+  "date": "2026-11-20T13:00:41+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Lors d’un point de presse du mouvement Kiiraay, Aminata Touré dite Mimi a vivement critiqué Ousmane Sonko et les députés de PASTEF après le rejet de la loi de finances rectificative (LFR)…",
+  "categories": [
+   "Politique"
+  ]
+ },
+ {
+  "id": "cf5edbf542c9",
+  "titre": "Lutte antidrogue : L’OCRTIS frappe dans plusieurs régions, du haschich caché dans un repas destiné à un détenu",
+  "lien": "https://www.senenews.com/actualites/lutte-antidrogue-locrtis-frappe-dans-plusieurs-regions-du-haschich-cache-dans-un-repas-destine-a-un-detenu_607059.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-20T12:59:20+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L’Office central pour la répression du trafic illicite des stupéfiants (OCRTIS) intensifie la lutte contre le trafic de drogue au Sénégal. À travers neuf interventions menées dans plusieurs localités du pays, les forces de l’ordre ont procédé à d’importantes saisies de stupéfiants et à plusieurs…",
+  "categories": [
+   "Sénégal - Actualités",
+   "Société",
+   "Ocrtis"
+  ]
+ },
+ {
+  "id": "ff2050920ed1",
+  "titre": "Ligue des nations : La France retrouve l’Espagne en quarts de finale",
+  "lien": "https://www.seneweb.com/fr/news/Sport/ligue-des-nations-la-france-retrouve-lespagne-en-quarts-de-finale_n_999004196.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-20T12:57:55+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La France de Zinedine Zidane connait son adversaire des quarts de finale de la Ligue des nations, à l’issue du tirage au sort effectué ce vendredi à Nyon, en Suisse, par l’UEFA."
+ },
+ {
+  "id": "e1ff06b3936c",
+  "titre": "Accident de la circulation : 29 morts enregistrés à Saint-Louis au premier semestre 2026",
+  "lien": "https://www.pressafrik.com/Accident-de-la-circulation-29-morts-enregistres-a-Saint-Louis-au-premier-semestre-2026_a314869.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-20T12:57:00+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Dans la région de Saint-Louis, les accidents de la circulation ont causé 29 morts durant le premie... www.pressafrik.com",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "aa469abcce9d",
+  "titre": "Cité Mbakiou Faye : 30 kg de drogue et 3,6 millions F CFA saisis, 2 suspects arrêtés par la BR de Faidherbe",
+  "lien": "https://www.seneweb.com/fr/news/Faits-Divers/cite-mbakiou-faye-30-kg-de-drogue-et-36-millions-f-cfa-saisis-2-suspects-arretes-par-la-br-de-faidherbe_n_999004195.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-20T12:55:42+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La brigade de recherches de Faidherbe a interpellé, le 19 novembre 2026, deux individus dans un appartement de la cité Mbakiou Faye."
+ },
+ {
+  "id": "4ac8f669fa09",
+  "titre": "Sénégal : les JOJ Dakar 2026 n’offrent pas 5 000 emplois immédiats, attention aux fausses offres de recrutement",
+  "lien": "https://www.pressafrik.com/Senegal-les-JOJ-Dakar-2026-n-offrent-pas-5-000-emplois-immediats-attention-aux-fausses-offres-de-recrutement_a314872.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-20T12:55:00+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Des messages relayés sur WhatsApp, Facebook et Telegram annoncent 5 000 postes à pourvoi... www.pressafrik.com",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "a814cc4e9aac",
+  "titre": "Madagascar : le procès de l'empoisonnement présumé de 31 personnes s'est ouvert",
+  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261120-madagascar-le-proc%C3%A8s-de-l-empoisonnement-pr%C3%A9sum%C3%A9-de-31-personnes-s-est-ouvert",
+  "source": "France 24 Afrique",
+  "site_source": "https://www.france24.com/fr/afrique/",
+  "date": "2026-11-20T12:54:30+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "🇲🇬 À Madagascar, le procès sur la mort d’une trentaine de personnes après un anniversaire en juin 2025 s’est ouvert mardi. Un an et demi après les faits, les causes du drame restent inconnues. Le témoignage d’un médecin évoque désormais la présence de GHB et de méthanol dans les analyses."
+ },
+ {
+  "id": "42f59284c0b3",
+  "titre": "Pologne : deux missiles russes s’abattent dans le sud-est du pays, frontalier de l’Ukraine",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/20/pologne-deux-missiles-russes-s-abattent-dans-le-sud-est-du-pays-frontalier-de-l-ukraine_6813636_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-20T12:53:57+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Dénonçant une « provocation », le premier ministre, Donald Tusk, a jugé que cette violation de l’espace aérien polonais pourrait avoir un rapport avec les manœuvres militaires de la coalition des volontaires qui se déroulent dans la même région."
+ },
+ {
+  "id": "ff58f19b61a5",
+  "titre": "Saint-Louis : Vers un accès équitable aux toilettes pour les femmes et les personnes vulnérables",
+  "lien": "https://www.dakaractu.com/Saint-Louis-Vers-un-acces-equitable-aux-toilettes-pour-les-femmes-et-les-personnes-vulnerables_a278425.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-20T12:53:00+00:00",
+  "rubrique": "Société",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "À la veille de la Journée mondiale des toilettes, célébrée le 19 novembre, Saint-Louis a accueilli une rencontre consacrée à l'amélioration de l'accès aux infrastructures d'assainissement. Organisée par la Direction de l'Assainissement, en collaboration avec ses partenaires, cette journée de…",
+  "categories": [
+   "Texto"
+  ]
+ },
+ {
+  "id": "cc4806fa71ed",
+  "titre": "Trafic de drogue : L'OCRTIS interpelle 13 personnes et saisit plus de 42 kg de chanvre indien dans sept régions",
+  "lien": "https://www.dakaractu.com/Trafic-de-drogue-L-OCRTIS-interpelle-13-personnes-et-saisit-plus-de-42-kg-de-chanvre-indien-dans-sept-regions_a278424.html",
+  "source": "Dakaractu",
+  "site_source": "https://www.dakaractu.com",
+  "date": "2026-11-20T12:51:00+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L'Office central pour la répression du trafic illicite de stupéfiants (OCRTIS) a conduit une opération d'envergure sur l'ensemble du territoire national, qui s'est soldée par l'interpellation de treize personnes et la saisie de quantités importantes de drogue, selon un communiqué de la Police…",
+  "categories": [
+   "Actu"
+  ]
+ },
+ {
+  "id": "a286910f4ea6",
+  "titre": "​Kolda : les contractuels de l’hôpital régional en colère contre les retards de salaires",
+  "lien": "https://www.pressafrik.com/​Kolda-les-contractuels-de-l-hopital-regional-en-colere-contre-les-retards-de-salaires_a314868.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-20T12:51:00+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Les agents contractuels de l’Hôpital régional de Kolda ont observé un arrêt de travail ce vendred... www.pressafrik.com",
+  "categories": [
+   "Politique"
+  ]
+ },
+ {
+  "id": "f7340bfe43c3",
+  "titre": "Lithium du Mali : Plus de 440 000 t de concentré de spodumène produites dans le pays en 2025",
+  "lien": "https://www.seneweb.com/fr/news/Actualites/lithium-du-mali-plus-de-440-000-t-de-concentre-de-spodumene-produites-dans-le-pays-en-2025_n_999004194.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-20T12:49:57+00:00",
+  "rubrique": "Afrique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "C’est un potentiel minier resté longtemps inexploité. Le lithium malien est aujourd’hui une ressource qui rapporte des dividendes à l’Etat grâce à l’entrée en production des mines de Bougouni et de Goulamina."
+ },
+ {
+  "id": "fc05313fa67e",
+  "titre": "Journée des forces armées : à Kédougou, la sécurité dépasse les frontières",
+  "lien": "https://senego.com/journee-des-forces-armees-a-kedougou-la-securite-depasse-les-frontieres_2026115.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T12:45:00+00:00",
+  "rubrique": "Afrique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "À Kédougou, la Journée nationale des forces armées du 19 novembre met l’accent sur la coopération transfrontalière, la sécurité collective et les liens entre sécurité et développement.",
+  "categories": [
+   "Afrique",
+   "Défense",
+   "Sénégal",
+   "Société",
+   "Falémé"
+  ]
+ },
+ {
+  "id": "499431ad8884",
+  "titre": "LFR : Aldiouma Sow écarte toute contestation et fustige une opposition « battue sur tous les plans »",
+  "lien": "https://www.seneweb.com/fr/news/Actualites/lfr-aldiouma-sow-ecarte-toute-contestation-et-fustige-une-opposition-battue-sur-tous-les-plans_n_999004193.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-20T12:44:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le ministre conseiller Aldiouma Sow a balayé les critiques entourant la mise en œuvre par décret de la loi de finances rectificative (LFR)."
+ },
+ {
+  "id": "b36c012961ce",
+  "titre": "Il faut placer les migrantes au cœur de l’offre de santé reproductive",
+  "lien": "https://www.seneplus.com/article/adama-mbengue-juriste-consultant-en-droit-des-migrations-il-faut-placer-les-migrantes-au",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-20T12:43:06+00:00",
+  "rubrique": "Diaspora",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Il faut placer les migrantes au cœur de l’offre de santé reproductive Daouda Toumbou Fri, 11/20/2026 - 12:43"
+ },
+ {
+  "id": "3721339e89ff",
+  "titre": "Ismaïla Sarr reçoit ses distinctions de meilleur joueur et meilleur buteur de la Conference League 2025/26",
+  "lien": "https://lesoleil.sn/actualites/sports/ismaila-sarr-recoit-ses-distinctions-de-meilleur-joueur-et-meilleur-buteur-de-la-conference-league-2025-26/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-20T12:41:40+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Ismaïla Sarr a reçu ses deux trophées individuels de meilleur joueur et meilleur buteur de la saison passée de Ligue Europa Conference, couronnement d’une campagne européenne historique avec Crystal Palace. Ismaïla Sarr a reçu ses distinctions de la saison 2025/26 de l’UEFA Conference League : le…",
+  "categories": [
+   "Sports",
+   "Crystal Palace",
+   "Ismaïla Sarr",
+   "Ligue Europa Conférence",
+   "meilleur buteur"
+  ]
+ },
+ {
+  "id": "ee746181c651",
+  "titre": "Ligue 1 (6e journée) : Casa Sports-Essamaye FC, le derby de la Casamance en attraction",
+  "lien": "https://www.seneweb.com/fr/news/Sport/ligue-1-6e-journee-casa-sports-essamaye-fc-le-derby-de-la-casamance-en-attraction_n_999004192.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-20T12:40:21+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La 6e journée de Ligue 1 sera marquée par un rendez-vous très attendu à Ziguinchor."
+ },
+ {
+  "id": "8415a2f0a175",
+  "titre": "Au Danemark, âgée de 112 ans, la doyenne du pays est une ancienne nazie",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/20/au-danemark-agee-de-112-ans-la-doyenne-du-pays-est-une-ancienne-nazie_6813635_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-20T12:36:59+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Les célébrations marquant le record de longévité atteint par Kirsten Schwalbe et la publication d’une biographie de la vieille dame ont attiré l’attention sur son parcours. Une enquête a démontré qu’elle avait eu des responsabilités au sein du parti national-socialiste des travailleurs danois."
+ },
+ {
+  "id": "7fac83916318",
+  "titre": "Craig Jones (Perseus Mining) : « Le cours élevé de l’or rend les acquisitions plus complexes »",
+  "lien": "https://www.jeuneafrique.com/1858707/economie-entreprises/craig-jones-perseus-mining-le-cours-eleve-de-lor-rend-les-acquisitions-plus-complexes/",
+  "source": "Jeune Afrique",
+  "site_source": "https://www.jeuneafrique.com",
+  "date": "2026-11-20T12:34:51+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "En Tanzanie comme en Côte d’Ivoire, le producteur d’or Perseus Mining accélère son expansion pour dépasser les 500 000 onces par an. Son PDG Craig Jones dévoile sa stratégie face à l’envolée des cours et revient sur l’impact de la reprise en main du secteur minier par les États africains."
+ },
+ {
+  "id": "bf6d2fc2d2f5",
+  "titre": "Tunisie : cinq ans de prison ferme pour Sihem Bensedrine",
+  "lien": "http://fr.africanews.com/2026/11/20/tunisie-cinq-ans-de-prison-ferme-pour-sihem-bensedrine/",
+  "source": "Africanews",
+  "site_source": "https://fr.africanews.com",
+  "date": "2026-11-20T12:33:57+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L’ancienne présidente de l’Instance Vérité et Dignité (IVD), Sihem Bensedrine, a été condamnée à cinq ans de prison ferme par la chambre pénale spécialisée dans les affaires de corruption financière."
+ },
+ {
+  "id": "a5deb0c3afca",
+  "titre": "« Le statut de domestique migrante est un déterminant de la santé reproductive », selon Pascal Oudiane",
+  "lien": "https://www.seneplus.com/article/pascal-oudiane-sociologue-le-statut-de-domestique-migrante-est-un-determinant-de-la-sante",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-20T12:32:57+00:00",
+  "rubrique": "Diaspora",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "« Le statut de domestique migrante est un déterminant de la santé reproductive », selon Pascal Oudiane Daouda Toumbou Fri, 11/20/2026 - 12:32"
+ },
+ {
+  "id": "bbd8cf0a28fb",
+  "titre": "OCRTIS : neuf képas de haschich découverts dans un repas pour détenu",
+  "lien": "https://senego.com/ocrtis-neuf-kepas-de-haschich-decouverts-dans-un-repas-pour-detenu_2026112.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T12:32:54+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Au Sénégal, l’OCRTIS a mené neuf opérations antidrogue. À Ziguinchor, neuf képas de haschich ont été trouvés dans un repas destiné à un détenu ; trois personnes ont été interpellées à Dakar.",
+  "categories": [
+   "Dakar",
+   "Faits Divers",
+   "Sénégal",
+   "haschich",
+   "Ocrtis"
+  ]
+ },
+ {
+  "id": "fa694f2f4103",
+  "titre": "Andy Burnham accueilli à Bruxelles au son de God Save the King, symbole du rapprochement post-Brexit",
+  "lien": "http://fr.africanews.com/2026/11/20/andy-burnham-accueilli-a-bruxelles-au-son-de-god-save-the-king-symbole-du-rapprochement-po/",
+  "source": "Africanews",
+  "site_source": "https://fr.africanews.com",
+  "date": "2026-11-20T12:31:59+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Sous les notes de l’hymne britannique, qui a résonné en ouverture du sommet, Andy Burnham a retrouvé les dirigeants européens à Bruxelles, en Belgique, pour tenter de réchauffer enfin les relations entre le Royaume-Uni et l’UE post-Brexit."
+ },
+ {
+  "id": "250b537d2b4c",
+  "titre": "Conference League : Ismaïla Sarr rafle deux trophées individuels après une saison exceptionnelle",
+  "lien": "https://www.senenews.com/actualites/conference-league-ismaila-sarr-rafle-deux-trophees-individuels-apres-une-saison-exceptionnelle_607055.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-20T12:30:34+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Une double consécration pour Ismaïla Sarr ! L’international sénégalais a reçu ses deux distinctions individuelles de la saison 2025-2026 de l’UEFA Conference League. Auteur de performances remarquables, l’attaquant des Lions a été récompensé par les trophées de meilleur joueur et de meilleur buteur…",
+  "categories": [
+   "Football",
+   "Sénégal - Actualités",
+   "SeneNews Sport",
+   "Ismaila Sarr"
+  ]
+ },
+ {
+  "id": "00529497295b",
+  "titre": "Souleymane Bachir Diagne fait de la Teranga un outil pour penser l’hospitalité",
+  "lien": "https://www.seneplus.com/article/souleymane-bachir-diagne-fait-de-la-teranga-un-outil-pour-penser-lhospitalite",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-20T12:29:47+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Souleymane Bachir Diagne fait de la Teranga un outil pour penser l’hospitalité Farid Akele Fri, 11/20/2026 - 12:29"
+ },
+ {
+  "id": "18ee89a8b1dc",
+  "titre": "Sénégal : Dialo El Bachir Diagne rend hommage à Diagna Ndiaye et sollicite Serigne Mountakha pour réconcilier Diomaye et Sonko",
+  "lien": "https://senego.com/senegal-dialo-el-bachir-diagne-rend-hommage-a-diagna-ndiaye-et-sollicite-serigne-mountakha-pour-reconcilier-diomaye-et-sonko_2026085.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T12:24:57+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Au lendemain des premiers Jeux olympiques de la jeunesse organisés sur le continent africain, le président de la Fondation El Hadji Bassirou Diagne Grand Serigne, Dialo El Bachir Diagne, rend un vibrant hommage à Mamadou Diagna Ndiaye pour sa contribution à la réussite de l’événement. Mais au-delà…",
+  "categories": [
+   "Actualités",
+   "Buzz",
+   "Politique",
+   "Sénégal",
+   "Société"
+  ]
+ },
+ {
+  "id": "957ee18e2fb8",
+  "titre": "« Le Kremlin a encore frappé Kiev » : La France demande une réunion de l’ONU",
+  "lien": "https://www.senenews.com/actualites/politique/frappes-russes-paris-demande-une-reunion-du-conseil-de-securite-de-lonu-chef-de-la-diplomatie_607051.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-20T12:20:56+00:00",
+  "rubrique": "Monde",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La France a demandé une réunion du Conseil de sécurité de l' ONU après la salve de missiles lancées par la Russie contre l'Ukraine la nuit dernière,, a annoncé le chef de la diplomatie française Jean-Noël Barrot dans un message posté sur X vendredi. \"Le Kremlin a encore frappé Kiev. Des civils…",
+  "categories": [
+   "International",
+   "Politique",
+   "ONU"
+  ]
+ },
+ {
+  "id": "280f33ceb19e",
+  "titre": "Drame au large de Yenne : 50 disparus, 4 corps retrouvés, les recherches se poursuivent",
+  "lien": "https://www.senenews.com/actualites/drame-au-large-de-yenne-50-disparus-4-corps-retrouves-les-recherches-se-poursuivent_607050.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-20T12:19:18+00:00",
+  "rubrique": "Diaspora",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Un nouveau drame de la migration irrégulière endeuille le Sénégal. Une embarcation transportant de nombreux candidats à l’émigration a fait naufrage au large de Yenne, au sud de Dakar. Alors que plusieurs dizaines de personnes restent introuvables, les recherches se poursuivent pour retrouver…",
+  "categories": [
+   "Sénégal - Actualités",
+   "Société",
+   "yenne"
+  ]
+ },
+ {
+  "id": "dca6a378d3e1",
+  "titre": "« Les aides ménagères nous arrivent à un stade avancé de grossesse, faute d’informations »",
+  "lien": "https://www.seneplus.com/article/mme-maiga-mame-diarra-infirmiere-cheffe-du-poste-de-sante-des-hlm-les-aides-menageres-nous",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-20T12:18:11+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "« Les aides ménagères nous arrivent à un stade avancé de grossesse, faute d’informations » Daouda Toumbou Fri, 11/20/2026 - 12:18"
+ },
+ {
+  "id": "4b5b0266ccbf",
+  "titre": "Beach Soccer : les Lions affrontent le Malawi en amical ce vendredi à Diamalaye",
+  "lien": "https://senego.com/beach-soccer-les-lions-affrontent-le-malawi-en-amical-ce-vendredi-a-diamalaye_2026105.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T12:17:09+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "L’équipe nationale du Sénégal de Beach Soccer retrouve la plage ce vendredi 20 novembre 2026 pour un match amical de préparation face au Malawi. La rencontre se disputera à la plage U15 de Diamalaye, avec un coup d’envoi prévu à 17 heures. Ce rendez-vous permettra aux Lions de poursuivre leur…",
+  "categories": [
+   "Actualités",
+   "Société",
+   "Beach Soccer",
+   "Lions",
+   "Malawi"
+  ]
+ },
+ {
+  "id": "b603f38340da",
+  "titre": "Décret sur la LFR 2026 : Cheikh Issa Sall salue un choix « courageux et responsable »",
+  "lien": "https://www.seneweb.com/fr/news/Politique/decret-sur-la-lfr-2026-cheikh-issa-sall-salue-un-choix-courageux-et-responsable_n_999004191.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-20T12:14:49+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Cheikh Issa Sall apporte son soutien à la décision du président Bassirou Diomaye Faye de faire entrer en vigueur la loi de finances rectificative (LFR) 2026."
+ },
+ {
+  "id": "07c446393ecb",
+  "titre": "CAN Beach Soccer 2026 – Le Malawi, première délégation à rallier le Sénégal !",
+  "lien": "https://wiwsport.com/2026/11/20/can-beach-soccer-2026-le-malawi-premiere-delegation-a-rallier-le-senegal/",
+  "source": "Wiwsport",
+  "site_source": "https://www.wiwsport.com",
+  "date": "2026-11-20T12:13:57+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "( wiwsport ) - Le Sénégal accueille ses premiers visiteurs à quelques jours du coup d’envoi de la CAN de Beach Soccer 2026. La délégation du Malawi est arrivée jeudi 19 novembre, devenant ainsi la première équipe à fouler le sol sénégalais en vue de la compétition prévue du 28 novembre au 6…",
+  "categories": [
+   "Beach soccer"
+  ]
+ },
+ {
+  "id": "44dde5586af0",
+  "titre": "Une revanche à prendre : la France affrontera l'Espagne en quarts de finale de la Ligue des nations",
+  "lien": "https://www.france24.com/fr/sports/20261120-revanche-%C3%A0-prendre-france-affrontera-espagne-quarts-de-finale-ligue-des-nations",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-20T12:12:29+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L'équipe de France retrouvera les champions du monde en titre en quarts de finale de Ligue des nations. Le tirage au sort effectué vendredi à Nyon, en Suisse, a placé l'Espagne sur le chemin des Bleus de Zidane.",
+  "categories": [
+   "Sports"
+  ]
+ },
+ {
+  "id": "8de6ed3350aa",
+  "titre": "ECOSAT-1, la CEDEAO avance vers son premier satellite d’observation de la Terre",
+  "lien": "https://www.seneplus.com/article/ecosat-1-la-cedeao-avance-vers-son-premier-satellite-dobservation-de-la-terre",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-20T12:10:29+00:00",
+  "rubrique": "Afrique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "ECOSAT-1, la CEDEAO avance vers son premier satellite d’observation de la Terre Alioune Diatta Fri, 11/20/2026 - 12:10"
+ },
+ {
+  "id": "a84c8a75d7f1",
+  "titre": "Vatican : des enfants atteints de cancer illumineront le sapin de Noël",
+  "lien": "http://fr.africanews.com/2026/11/20/vatican-des-enfants-atteints-de-cancer-illumineront-le-sapin-de-noel/",
+  "source": "Africanews",
+  "site_source": "https://fr.africanews.com",
+  "date": "2026-11-20T12:10:21+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le sapin de Noël du Vatican sera illuminé le 7 décembre à 17h30 par des enfants hospitalisés en oncologie dans plusieurs établissements italiens."
+ },
+ {
+  "id": "045423f510ee",
+  "titre": "Migration interne et santé reproductive, quand le travail domestique freine l’accès aux services de santé",
+  "lien": "https://www.seneplus.com/article/migration-interne-et-sante-reproductive-quand-le-travail-domestique-freine-lacces-aux",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-20T12:10:04+00:00",
+  "rubrique": "Diaspora",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Migration interne et santé reproductive, quand le travail domestique freine l’accès aux services de santé Daouda Toumbou Fri, 11/20/2026 - 12:10"
+ },
+ {
+  "id": "acfdcf8f4aae",
+  "titre": "Guédiawaye : il encaisse l’argent de 52 clients sur TikTok et disparaît avec les commandes…",
+  "lien": "https://senego.com/guediawaye-il-encaisse-largent-de-52-clients-sur-tiktok-et-disparait-avec-les-commandes_2026079.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T12:09:37+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Un vendeur poursuivi pour escroquerie après avoir encaissé des paiements pour des mannequins jamais livrés. À Guédiawaye, A. Diallo a comparu pour des faits concernant 52 clients, majoritairement des femmes. Le parquet a requis cinq ans de prison ferme et une amende de cinq millions de francs CFA,…",
+  "categories": [
+   "Actualités",
+   "Buzz",
+   "Faits Divers",
+   "guédiawaye",
+   "TikTok"
+  ]
+ },
+ {
+  "id": "716abbc559f8",
+  "titre": "Babacar Gaye répond à Amadou Bâ sur le décret de la LFR 2026 et l’article 68",
+  "lien": "https://senego.com/babacar-gaye-repond-a-amadou-ba-sur-le-decret-de-la-lfr-2026-et-larticle-68_2026102.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T12:08:38+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Dans le débat sur le décret appliquant la LFR 2026, Babacar Gaye conteste l’analyse d’Amadou Bâ et défend sa lecture des articles 68 et 86 de la Constitution.",
+  "categories": [
+   "Assemblée nationale",
+   "Contribution",
+   "Politique",
+   "Sénégal",
+   "amadou Ba"
+  ]
+ },
+ {
+  "id": "c47686819d1f",
+  "titre": "À Saint-Louis, les femmes réclament de financer le climat plutôt que la COP",
+  "lien": "https://senego.com/a-saint-louis-les-femmes-reclament-de-financer-le-climat-plutot-que-la-cop_2026100.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-20T12:08:33+00:00",
+  "rubrique": "Société",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Réunies à Saint-Louis pour une Contre-COP les 17 et 18 novembre, des femmes transformatrices réclament que les financements aillent au climat plutôt qu’à la conférence.",
+  "categories": [
+   "Énergie",
+   "Environnement",
+   "Femme",
+   "Sénégal",
+   "Climat"
+  ]
+ },
+ {
   "id": "e0f0747d751b",
   "titre": "Amazonie : une partie du peuple Awa sort de l’isolement et cela inquiète les associations",
   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261120-amazonie-une-partie-du-peuple-awa-sort-de-l-isolement-et-cela-inqui%C3%A8te-les-associations",
