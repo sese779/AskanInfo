@@ -16,6 +16,165 @@
   ]
  },
  {
+  "id": "c3b974aabff5",
+  "titre": "En Ethiopie, le Tigré, déjà touché par la guerre, subit une sécheresse aggravée par El Niño : « Rien ou presque n’a poussé, nulle part dans la région »",
+  "lien": "https://www.lemonde.fr/planete/article/2026/11/27/en-ethiopie-le-tigre-deja-touche-par-la-guerre-subit-une-secheresse-aggravee-par-el-nino-rien-ou-presque-n-a-pousse-nulle-part-dans-la-region_6815804_3244.html",
+  "source": "Le Monde Afrique",
+  "site_source": "https://www.lemonde.fr/afrique/",
+  "date": "2026-11-27T05:00:39+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Affectées par ce phénomène climatique intense, les précipitations dans l’est de la région du Tigré ont représenté moins de 60 % de la moyenne saisonnière. Des agriculteurs déplorent une récolte de céréales quasi nulle."
+ },
+ {
+  "id": "98eaffd0fc5b",
+  "titre": "A Shanghaï, le boom de la seconde main bouscule le marché du luxe",
+  "lien": "https://www.lemonde.fr/economie/article/2026/11/27/a-shanghai-le-boom-de-la-seconde-main-bouscule-le-marche-du-luxe_6815800_3234.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-27T05:00:22+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Dans des magasins aussi grands que des supermarchés, les plateformes chinoises de revente attirent de jeunes clients qui, sur fond de crise de la consommation, ne veulent plus payer les prix exorbitants pratiqués par les grandes maisons."
+ },
+ {
+  "id": "e1af13fd9319",
+  "titre": "Au Brésil, Lula nomme un banquier au ministère des finances pour tenter de rassurer les marchés",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/27/au-bresil-lula-nomme-un-banquier-au-ministere-des-finances-pour-tenter-de-rassurer-les-marches_6815796_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-27T04:59:52+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Luiz Carlos Trabuco prendra ses fonctions après l’investiture, en janvier, du président de gauche, dont la victoire surprise en octobre avait été suivie d’une forte chute de la Bourse et d’une dépréciation du real."
+ },
+ {
+  "id": "060069438f56",
+  "titre": "Gabon: le paysage politique se recompose autour du parti du président Oligui Nguema",
+  "lien": "https://www.rfi.fr/fr/afrique/20261127-gabon-le-paysage-politique-se-recompose-autour-du-parti-du-pr%C3%A9sident-oligui-nguema",
+  "source": "RFI Afrique",
+  "site_source": "https://www.rfi.fr/fr/afrique/",
+  "date": "2026-11-27T04:52:50+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Au Gabon, le climat politique, atone depuis la fin des élections législatives et locales de l’année dernière, commence à s’animer. Ce vendredi 27 novembre, le Parti démocratique gabonais (PDG), l’ancien parti au pouvoir, ouvre son 13ᵉ congrès ordinaire à Libreville. Des assises qui interviennent…",
+  "categories": [
+   "Afrique"
+  ]
+ },
+ {
+  "id": "94d586931060",
+  "titre": "Découvrez les Unes des journaux sénégalais du vendredi 27 novembre 2026",
+  "lien": "https://senego.com/decouvrez-les-unes-des-journaux-senegalais-du-vendredi-27-novembre-2026_2028502.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-27T04:46:42+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Découvrez les Unes des journaux sénégalais du vendredi 27 novembre 2026",
+  "categories": [
+   "Actualités",
+   "Revue de presse",
+   "Sénégal",
+   "revue de presse sénégalaise",
+   "Unes des journaux sénégalais"
+  ]
+ },
+ {
+  "id": "18c9cbb4919f",
+  "titre": "Israël : Eisenkot s'allie au parti des Démocrates",
+  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261127-isra%C3%ABl-eisenkot-s-allie-au-parti-des-d%C3%A9mocrates",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-27T04:46:23+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le casse-tête israélien pour former un gouvernement est-il sur le point d'être résolu ? Le parti Yashar de Gadi Eisenkot, chargé de former un nouveau gouvernement en Israël, a conclu jeudi 26 novembre un accord de coalition avec son partenaire de gauche. Il prévoit de donner quatre ministères à des…"
+ },
+ {
+  "id": "bb1606249152",
+  "titre": "Israël : Gadi Eisenkot et Yaïr Golan nouent un accord de coalition en vue d'un futur gouvernement",
+  "lien": "https://www.france24.com/fr/moyen-orient/20261127-israel-gadi-eisenkot-democrates-nouent-accord-coalition-futur-gouvernement-yashar-benjamin-netanyahu-yair-golan-knesset",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-27T04:46:03+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Après un premier accord conclu avec Avigdor Liberman, Gadi Eisenkot a scellé, jeudi, un nouvel accord de coalition en vue de former un gouvernement en Israël, cette fois avec son partenaire de gauche, Yaïr Golan. Il prévoit de donner quatre ministères à des responsables issus de son parti, les…",
+  "categories": [
+   "Moyen-Orient"
+  ]
+ },
+ {
+  "id": "53175119ad04",
+  "titre": "Les Vingt-Sept remettent à décembre le bouclage d’un nouveau prêt de 45 milliards d’euros pour l’Ukraine",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/27/les-vingt-sept-remettent-a-decembre-le-bouclage-d-un-nouveau-pret-de-45-milliards-d-euros-pour-l-ukraine_6815795_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-27T04:45:10+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Les chefs d’Etat et de gouvernement européens ont tenté, jeudi, de rapprocher leurs points de vue sur le financement d’un prêt supplémentaire à Kiev pour l’année 2027. Parmi les quatre pays refusant encore de financer cet effort, seule la Bulgarie a ouvert la porte à une aide civile à l’Ukraine."
+ },
+ {
+  "id": "0ea3fce5332d",
+  "titre": "Les discussions sur le budget de l’Union européenne menacées par les échéances électorales françaises",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/27/les-discussions-sur-le-budget-de-l-union-europeenne-menacees-par-les-echeances-electorales-francaises_6815793_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-27T04:29:34+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Pendant le sommet européen jeudi 26 novembre, Emmanuel Macron a confirmé qu’il ne poursuivrait pas les discussions sur le budget européen au-delà de la fin de l’année. Il a dénoncé l’arrogance de Marine Le Pen, qui a qualifié ces négociations de « basses manœuvres politiciennes »."
+ },
+ {
+  "id": "d2a9c5e2edbf",
+  "titre": "Banderole pro-palestinienne et heurts : un match vire à l’incident diplomatique entre la Turquie et la Géorgie",
+  "lien": "https://www.france24.com/fr/sports/20261127-ligue-europa-violences-supporters-turcs-besiktas-georgie-palestine-israel-turquie-erdogan-palestine-banderole-diplomatie",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-27T04:20:57+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La rencontre entre Besiktas et Hapoel Beer-Sheva, jeudi en Géorgie, s'est soldée par une intervention policière musclée. Des supporteurs du club d'Istanbul ont déployé une banderole pro-palestinienne lors du match de Ligue Europa et des heurts ont éclaté dans les tribunes du stade de Batoumi. Les…",
+  "categories": [
+   "Sports"
+  ]
+ },
+ {
+  "id": "2a51a1e5439e",
+  "titre": "La rapporteuse spéciale des Nations unies pour les territoires palestiniens se voit refuser l’entrée au Costa Rica",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/27/la-rapporteuse-speciale-des-nations-unies-pour-les-territoires-palestiniens-se-voit-refuser-l-entree-au-costa-rica_6815792_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-27T04:16:06+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Francesca Albanese venait recevoir un titre de docteure honoris causa de l’université du Costa Rica. Mais elle a été interdite d’entrée dans le pays, car sous le coup d’une « alerte internationale pour liens avec des actes terroristes », ont affirmé les services d’immigration."
+ },
+ {
   "id": "edcac5b68ea8",
   "titre": "RDC: l'opposant Prince Epenge obtient une liberté provisoire après un mois de détention",
   "lien": "https://www.rfi.fr/fr/afrique/20261127-rdc-l-opposant-prince-epenge-obtient-une-libert%C3%A9-provisoire-apr%C3%A8s-un-mois-de-d%C3%A9tention",
@@ -78,6 +237,19 @@
   "categories": [
    "Afrique"
   ]
+ },
+ {
+  "id": "d2f18e8c37d3",
+  "titre": "Des intempéries frappent les États-Unis, pas de parade pour Thanksgiving à New York",
+  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261127-des-intemp%C3%A9ries-frappent-les-%C3%A9tats-unis-pas-de-parade-pour-thanksgiving-%C3%A0-new-york",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-27T02:58:01+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Pour la première fois en 100 ans d'histoire, le défilé de Macy's n'aura pas lieu le jour de Thanksgiving. En raison d'intempéries et pour des raisons de sécurité, il a été décalé à samedi. À New York, l'état d'urgence est déclaré, rapporte la correspondante de France 24 à New York, Émilie Musset,…"
  },
  {
   "id": "66f821a42a24",
@@ -75194,151 +75366,5 @@
   "categories": [
    "Afrique"
   ]
- },
- {
-  "id": "9397b6acbe59",
-  "titre": "EN DIRECT, guerre en Ukraine : des frappes russes sur Kiev font trois morts et endommagent deux ponts",
-  "lien": "https://www.lemonde.fr/international/live/2026/11/20/en-direct-guerre-en-ukraine-des-frappes-russes-sur-kiev-endommagent-deux-ponts_6810982_3210.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-20T05:04:47+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Ces attaques surviennent alors que les forces ukrainiennes ont visé, dans la nuit de mercredi à jeudi, le pont de Crimée reliant le territoire russe à la péninsule de Crimée, annexée en 2014 par la Russie. Vladimir Poutine avait menacé de représailles."
- },
- {
-  "id": "05773b158d86",
-  "titre": "Dakar, point d’ancrage de l’art africain contemporain",
-  "lien": "https://lesoleil.sn/actualites/arts-et-culture/dakar-point-dancrage-de-lart-africain-contemporain/",
-  "source": "Le Soleil",
-  "site_source": "https://lesoleil.sn",
-  "date": "2026-11-20T05:00:53+00:00",
-  "rubrique": "Culture",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le jeudi 19 novembre, la 16e édition de la Biennale de l’Art africain contemporain de Dakar s’est ouvert à l’Ancien Palais de Justice (sis Cap Manuel) et se poursuit jusqu’au 19 décembre. Cette année, 76 propositions artistiques de la Sélection officielle, en plus d’un Grand Témoin, d’une Carte…",
-  "categories": [
-   "Arts et culture"
-  ]
- },
- {
-  "id": "3d25f6930fd3",
-  "titre": "Au Royaume-Uni, Andy Burnham ravive le débat sur le Brexit, plus de cinq ans après sa mise en œuvre effective",
-  "lien": "https://www.lemonde.fr/international/article/2026/11/20/au-royaume-uni-andy-burnham-ravive-le-debat-sur-le-brexit-plus-de-cinq-ans-apres-sa-mise-en-uvre-effective_6813589_3210.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-20T05:00:30+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Alors que les Européens et le Royaume-Uni doivent discuter de leur relation, vendredi 20 novembre, le sujet reste complexe outre-Manche. S’il martèle vouloir resserrer les liens avec l’Union, le premier ministre britannique entretient le flou sur la nature du rapprochement qu’il envisage."
- },
- {
-  "id": "f7048b87b5ba",
-  "titre": "Biennale de Dakar : l’Afrique transforme ses fragilités en force créatrice",
-  "lien": "https://lesoleil.sn/actualites/biennale-de-dakar-lafrique-transforme-ses-fragilites-en-force-creatrice/",
-  "source": "Le Soleil",
-  "site_source": "https://lesoleil.sn",
-  "date": "2026-11-20T05:00:27+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "À l’ouverture de la 16e édition de la Biennale de l’Art africain contemporain de Dakar (Dak’Art) le jeudi 19 novembre 2026, Abdoulaye Diop, président du Comité d’orientation, a mis en avant la portée du thème de cette édition, « Antifragilité : art de la réparation et stratégies de résilience ».…",
-  "categories": [
-   "Actualités"
-  ]
- },
- {
-  "id": "f37dd5aab8da",
-  "titre": "Deux mois après l’exécution ratée de Christa Pike, la longue mise à mort d’un détenu de 70 ans au Texas",
-  "lien": "https://www.lemonde.fr/international/article/2026/11/20/deux-mois-apres-l-execution-ratee-de-christa-pike-la-longue-mise-a-mort-de-reinaldo-dennes-au-texas_6813583_3210.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-20T04:54:49+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Alors que la peine de mort fait de nouveau l’objet d’une vive attention aux Etats-Unis après l’échec de l’exécution de Christa Pike, en septembre, dans le Tennessee, celle de Reinaldo Dennes, jeudi, a duré plus d’une heure. Le condamné s’est plaint de douleurs tout au long de la procédure."
- },
- {
-  "id": "2692421314f9",
-  "titre": "«Chacun doit mettre la main à la poche»: en Tunisie, des propos de la ministre des Finances font polémique",
-  "lien": "https://www.rfi.fr/fr/afrique/20261120-chacun-doit-mettre-la-main-%C3%A0-la-poche-en-tunisie-des-propos-de-la-ministre-des-finances-font-pol%C3%A9mique",
-  "source": "RFI Afrique",
-  "site_source": "https://www.rfi.fr/fr/afrique/",
-  "date": "2026-11-20T04:53:19+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "En Tunisie, les ministres passent un à un devant le Parlement et la seconde chambre, le conseil national des districts et des régions, pour présenter les lignes directrices de leur budget respectif pour la loi de finances 2027. Une déclaration de la ministre des Finances, Michket Salama Rachdi, sur…",
-  "categories": [
-   "Afrique"
-  ]
- },
- {
-  "id": "7431217db86b",
-  "titre": "Salvador : le président Bukele profite de sa réforme constitutionnelle pour se présenter à un troisième mandat",
-  "lien": "https://www.lemonde.fr/international/article/2026/11/20/salvador-le-president-bukele-profite-de-sa-reforme-constitutionnelle-pour-se-presenter-a-un-troisieme-mandat_6813581_3210.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-20T04:45:27+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le chef de l’Etat de 45 ans a officialisé sa candidature, jeudi, après avoir fait modifier la Constitution, en 2025, pour lui permettre de se présenter de nouveau lors du scrutin de février 2027. Ses méthodes de lutte contre les gangs lui offrent une forte popularité mais suscitent également de…"
- },
- {
-  "id": "32a990d00e97",
-  "titre": "Guerre en Ukraine : à Berlin, la réunion des alliés de Kiev, miroir inversé de la rencontre de Shenzhen entre Xi, Trump et Poutine",
-  "lien": "https://www.lemonde.fr/international/article/2026/11/20/guerre-en-ukraine-a-berlin-la-reunion-des-allies-de-kiev-miroir-inverse-de-la-rencontre-de-shenzhen-entre-xi-trump-et-poutine_6813557_3210.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-20T04:30:15+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Les membres de la coalition des volontaires, réunis jeudi en Allemagne, se sont engagés à honorer l’intégralité de l’aide promise en 2026 et à maintenir ce soutien en 2027, quand le président russe a mis en scène, en Chine, l’« amitié » que lui porte le chef de la Maison Blanche."
- },
- {
-  "id": "26e80255068a",
-  "titre": "Découvrez les Unes des journaux sénégalais du vendredi 20 novembre 2026",
-  "lien": "https://senego.com/decouvrez-les-unes-des-journaux-senegalais-du-vendredi-20-novembre-2026_2025943.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-20T04:24:02+00:00",
-  "rubrique": "Actualité",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Découvrez les Unes des journaux sénégalais du vendredi 20 novembre 2026",
-  "categories": [
-   "Actualités",
-   "Revue de presse",
-   "Sénégal",
-   "revue de presse sénégalaise",
-   "Unes des journaux sénégalais"
-  ]
- },
- {
-  "id": "fc32d2b63f5e",
-  "titre": "Au Brésil, l’apparition d’une ethnie autochtone non-contactée suscite l’inquiétude pour sa survie",
-  "lien": "https://www.lemonde.fr/planete/article/2026/11/20/au-bresil-l-apparition-d-une-ethnie-autochtone-non-contactee-suscite-l-inquietude-pour-sa-survie_6813552_3244.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-20T04:15:07+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Des Awa-Guaja sont brièvement sortis de leur isolement, lundi 16 novembre, pour la première fois depuis au moins cinquante ans. Les chercheurs craignent qu’ils soient victimes de la sécheresse ou des exactions de groupes criminels."
  }
 ]
