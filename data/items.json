@@ -1,5 +1,355 @@
 [
  {
+  "id": "470da8a4e8c1",
+  "titre": "Assemblée nationale : quatre commissions d'enquête sur la dette, les fonds spéciaux et les inondations",
+  "lien": "http://www.ndarinfo.com/Assemblee-nationale-quatre-commissions-d-enquete-sur-la-dette-les-fonds-speciaux-et-les-inondations_a47354.html",
+  "source": "Ndarinfo (Saint-Louis)",
+  "site_source": "https://www.ndarinfo.com",
+  "date": "2026-11-27T23:03:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le Bureau de l'Assemblée nationale, présidé par Ousmane Sonko, a adopté ce vendredi quatre propositions de résolution créant de...",
+  "categories": [
+   "+ D'ACTU"
+  ]
+ },
+ {
+  "id": "242c6d0b0ae2",
+  "titre": "L’engagement sous toutes ses formes (Par Ibrahima Khaliloullah NDIAYE)",
+  "lien": "https://lesoleil.sn/le-decodeur/chronique/lengagement-sous-toutes-ses-formes-par-ibrahima-khaliloullah-ndiaye/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-27T22:00:37+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le verdict du Tribunal arbitral administratif (Tas), rétablissant le Sénégal dans ses droits de vainqueur de la dernière Coupe d’Afrique des nations (Can) face au Maroc, a le mérite de clarifier davantage une situation qui était pourtant déjà claire pour de nombreux observateurs. Il couronne…",
+  "categories": [
+   "Chronique"
+  ]
+ },
+ {
+  "id": "43de369e0462",
+  "titre": "Bassirou Diomaye Faye préside l’inauguration de la mine d’or de Boto",
+  "lien": "https://senego.com/bassirou-diomaye-faye-preside-linauguration-de-la-mine-dor-de-boto_2028879.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-27T21:58:06+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "À Médina Baffé, Bassirou Diomaye Faye a présidé la cérémonie d’inauguration de la mine d’or de Boto, en présence des dirigeants de Managem et de l’ambassadeur du Maroc.",
+  "categories": [
+   "Afrique",
+   "Économie",
+   "Sénégal",
+   "Bassirou diomaye Faye",
+   "Investissement marocain"
+  ]
+ },
+ {
+  "id": "02019c408f3c",
+  "titre": "Me Zen-Ruffinen estime que le jury d’appel de la CAF manquait d’expérience",
+  "lien": "https://senego.com/me-zen-ruffinen-estime-que-le-jury-dappel-de-la-caf-manquait-dexperience_2028877.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-27T21:58:02+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Après le verdict du TAS qui rend au Sénégal son titre continental, Me Michel Zen-Ruffinen critique l’expérience du jury d’appel de la CAF et revient sur la VAR.",
+  "categories": [
+   "Afrique",
+   "Football",
+   "Sports",
+   "Caf",
+   "Me Michel Zen-Ruffinen"
+  ]
+ },
+ {
+  "id": "291a3dbc8cd9",
+  "titre": "Affaire Sénégal-Maroc : Me Michel Zen-Ruffinen pointe le manque d’expérience du jury d’appel de la CAF",
+  "lien": "https://emedia.sn/affaire-senegal-maroc-me-michel-zen-ruffinen-pointe-le-manque-dexperience-du-jury-dappel-de-la-caf/",
+  "source": "Emedia",
+  "site_source": "https://emedia.sn",
+  "date": "2026-11-27T21:53:38+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La décision du Tribunal arbitral du sport (TAS) de rétablir le Sénégal dans ses droits et de lui restituer son titre de champion d’Afrique continue de susciter des réactions dans le monde du football. Interrogé par la télévision suisse RTS Sport, Me Michel Zen-Ruffinen, ancien arbitre international…",
+  "categories": [
+   "A L'INSTANT",
+   "ACTUALITÉS",
+   "SPORTS",
+   "UNE",
+   ".CAF"
+  ]
+ },
+ {
+  "id": "2d91b4d836a7",
+  "titre": "Ligue 1 – 7e journée : US Gorée-Teungueth FC et Diambars-Jaraaf, deux belles affiches pour le week-end",
+  "lien": "https://www.seneweb.com/fr/news/Sport/ligue-1-7e-journee-us-goree-teungueth-fc-et-diambars-jaraaf-deux-belles-affiches-pour-le-week-end_n_999004867.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-27T21:50:08+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La Ligue 1 sénégalaise aborde sa 7e journée avec plusieurs affiches intéressantes dont les duels entre l’US Gorée et Teungueth FC, ainsi que Diambars face au Jaraaf."
+ },
+ {
+  "id": "0d0cebc184c1",
+  "titre": "Dette publique, Banco Santander, fonds spéciaux… le Bureau de l’Assemblée nationale adopte quatre propositions d’enquête",
+  "lien": "https://senego.com/dette-publique-banco-santander-fonds-speciaux-le-bureau-de-lassemblee-nationale-adopte-quatre-propositions-denquete_2028872.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-27T21:48:09+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Le Bureau de l’Assemblée nationale a adopté, vendredi 27 novembre 2026, quatre propositions de résolution portant création de commissions d’enquête parlementaires. Ces investigations envisagées concernent notamment la gestion de la dette publique entre 2012 et 2026, les financements de projets…",
+  "categories": [
+   "Actualités",
+   "Justice",
+   "Politique",
+   "Sénégal",
+   "Assemblée nationale"
+  ]
+ },
+ {
+  "id": "5ea2521da85e",
+  "titre": "Assemblée nationale : Sonko anticipe sur une éventuelle dissolution et met en place quatre commissions d’enquête parlementaires",
+  "lien": "https://www.pressafrik.com/Assemblee-nationale-Sonko-anticipe-sur-une-eventuelle-dissolution-et-met-en-place-quatre-commissions-d-enquete_a315203.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-27T21:47:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le Bureau de l’Assemblée nationale a frappé un double coup institutionnel ce vendredi 27 novembr... www.pressafrik.com",
+  "categories": [
+   "Politique"
+  ]
+ },
+ {
+  "id": "c1547056eff7",
+  "titre": "AIBD SA : L’Intersyndicale ouvre le feu sur le DG et réclame son remplacement",
+  "lien": "https://www.seneweb.com/fr/news/Actualites/aibd-sa-lintersyndicale-ouvre-le-feu-sur-le-dg-et-reclame-son-remplacement_n_999004866.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-27T21:45:09+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Gestion opaque, recrutements controversés, plus de 200 emplois menacés, marchés publics suspects, retards de salaires et acquis sociaux bafoués…"
+ },
+ {
+  "id": "1cc3a94a4300",
+  "titre": "La grandeur n’est pas constitutionnalisée (Par Babacar Justin Ndiaye)",
+  "lien": "https://www.seneweb.com/fr/news/Contribution/la-grandeur-nest-pas-constitutionnalisee-par-babacar-justin-ndiaye_n_999004865.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-27T21:44:44+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le Président Ousmane Sonko a rappelé, jeudi soir, la démission du Général De Gaulle consécutivement au référendum perdu du mois d’avril 1969."
+ },
+ {
+  "id": "a6471747f419",
+  "titre": "Bangui : Martin Faye reçoit le titre de Docteur Honoris Causa",
+  "lien": "https://senego.com/bangui-martin-faye-recoit-le-titre-de-docteur-honoris-causa_2028866.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-27T21:36:07+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "L’ancien journaliste de la Radiodiffusion Télévision Sénégalaise (RTS), Martin Faye, a reçu, le 26 novembre 2026 à Bangui, les insignes de Docteur Honoris Causa, dans le cadre du Prix Faustin-Archange Touadéra pour les Sciences. Une distinction qu’il considère comme une reconnaissance de son…",
+  "categories": [
+   "Actualités",
+   "Sénégal",
+   "Société",
+   "Centrafrique",
+   "Docteur Honoris Causa"
+  ]
+ },
+ {
+  "id": "0696f06da3fb",
+  "titre": "«La grandeur n’est pas constitutionnalisée », Babacar Justin Ndiaye",
+  "lien": "https://www.pressafrik.com/La-grandeur-n-est-pas-constitutionnalisee--Babacar-Justin-Ndiaye_a315202.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-27T21:36:00+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Dans une analyse intitulée « La grandeur n’est pas constitutionnalisée », Babacar Justin Ndiay... www.pressafrik.com",
+  "categories": [
+   "Politique"
+  ]
+ },
+ {
+  "id": "979166138615",
+  "titre": "Transformer nos victoires en un label Sénégal",
+  "lien": "https://www.seneplus.com/article/transformer-nos-victoires-en-un-label-senegal",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-27T21:34:44+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Transformer nos victoires en un label Sénégal Daouda Toumbou Fri, 11/27/2026 - 21:34"
+ },
+ {
+  "id": "e10f55f5d843",
+  "titre": "SÉNÉGAL-POLITIQUE- La grandeur n’est pas constitutionnalisée",
+  "lien": "https://www.igfm.sn/senegal-politique-la-grandeur-n-est-pas-constitutionnalisee",
+  "source": "L'Observateur (iGFM)",
+  "site_source": "https://www.igfm.sn",
+  "date": "2026-11-27T21:27:05+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": ""
+ },
+ {
+  "id": "da4408815bdd",
+  "titre": "Est du Sénégal : Pourquoi plus de 3 500 militaires et paramilitaires sont actuellement mobilisés",
+  "lien": "https://www.senenews.com/actualites/est-du-senegal-pourquoi-plus-de-3-500-militaires-et-paramilitaires-sont-actuellement-mobilises_607864.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-27T21:27:01+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Les régions de Tambacounda et de Kédougou accueilleront, du 28 novembre au 6 décembre 2026, la manœuvre nationale « Boundou 2026 ». Cet exercice de grande envergure réunira plus de 3 500 personnels des armées, de la gendarmerie nationale, de la brigade nationale des sapeurs-pompiers et de plusieurs…",
+  "categories": [
+   "Sénégal - Actualités",
+   "militaires"
+  ]
+ },
+ {
+  "id": "8bf85b7f6d5f",
+  "titre": "BOUNDOU 2026 : Plus de 3 500 militaires et paramilitaires mobilisés pour une vaste manœuvre à l’est du Sénégal",
+  "lien": "https://www.seneweb.com/fr/news/Societe/boundou-2026-plus-de-3-500-militaires-et-paramilitaires-mobilises-pour-une-vaste-manoeuvre-a-lest-du-senegal_n_999004864.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-27T21:20:26+00:00",
+  "rubrique": "Culture",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Les régions de Tambacounda et de Kédougou seront le théâtre, du 28 novembre au 6 décembre 2026, de la manœuvre nationale « Boundou 2026 »."
+ },
+ {
+  "id": "f932842a3c4c",
+  "titre": "Décès à Dakar : le parquet attend six mois les analyses toxicologiques françaises",
+  "lien": "https://senego.com/deces-a-dakar-le-parquet-attend-six-mois-les-analyses-toxicologiques-francaises_2028865.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-27T21:16:15+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Après les décès d’Adama Salif Lamine Diallo et d’Abdou Tidiane Diop à Dakar, le parquet attend les résultats d’analyses toxicologiques menées en France.",
+  "categories": [
+   "Dakar",
+   "Faits Divers",
+   "Justice",
+   "Sénégal",
+   "analyses toxicologiques"
+  ]
+ },
+ {
+  "id": "eb6e12d7a489",
+  "titre": "​Énergie : Dakar attire l’OPEP+ et le GECF pour le sommet MSGBC 2026",
+  "lien": "https://www.pressafrik.com/​Energie-Dakar-attire-l-OPEP-et-le-GECF-pour-le-sommet-MSGBC-2026_a315201.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-27T21:16:00+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Des ministres de l’Énergie et de hauts responsable... www.pressafrik.com",
+  "categories": [
+   "Economie"
+  ]
+ },
+ {
+  "id": "8fc960537960",
+  "titre": "Coupe du monde U17 : Maroc, Algérie, Sénégal, Côte d’Ivoire et Mali fixés sur leurs adversaires en 16e de finale",
+  "lien": "https://www.afrik-foot.com/coupe-du-monde-u17-maroc-algerie-senegal-cote-divoire-et-mali-fixes-sur-leurs-adversaires-en-16e-de-finale",
+  "source": "Afrik-Foot",
+  "site_source": "https://www.afrik-foot.com",
+  "date": "2026-11-27T21:15:54+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L’Algérie, la Côte d’Ivoire, le Mali, le Maroc, le Sénégal et les autres équipes africaines encore en lice à la Coupe du monde U17 savent à quoi s’en tenir de leurs adversaires respectifs en 16es de finale. Le tableau des 16es de finale de la Coupe du monde U17 2026 est connu. Après le verdict […]",
+  "categories": [
+   "News",
+   "Maroc",
+   "Algérie",
+   "Côte d'Ivoire",
+   "Coupe du monde U17"
+  ]
+ },
+ {
+  "id": "655e07a68524",
+  "titre": "🔴Direct - LE CHOC : Balla Gaye2 vs Ada Fass / Pokola Baldé vs Diene Kaïré",
+  "lien": "https://www.pressafrik.com/🔴Direct-LE-CHOC-Balla-Gaye2-vs-Ada-Fass-Pokola-Balde-vs-Diene-Kaire_a315200.html",
+  "source": "PressAfrik",
+  "site_source": "https://www.pressafrik.com",
+  "date": "2026-11-27T21:11:00+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "www.pressafrik.com",
+  "categories": [
+   "Sport"
+  ]
+ },
+ {
+  "id": "6c8c5f049686",
+  "titre": "Décès d’Adama Salif Lamine Diallo et d’Abdou Tidiane Diop à Dakar : le parquet ouvre une enquête et attend les résultats des analyses toxicologiques",
+  "lien": "https://emedia.sn/deces-dadama-salif-lamine-diallo-et-dabdou-tidiane-diop-a-dakar-le-parquet-ouvre-une-enquete-et-attend-les-resultats-des-analyses-toxicologiques/",
+  "source": "Emedia",
+  "site_source": "https://emedia.sn",
+  "date": "2026-11-27T21:05:21+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le parquet de la République près le Tribunal de grande instance hors classe de Dakar a annoncé l’ouverture d’une enquête à la suite du décès d’Adama Salif Lamine Diallo et d’Abdou Tidiane Diop, survenu le samedi 14 novembre 2026 dans la capitale sénégalaise. Dans un communiqué rendu public ce…",
+  "categories": [
+   "A L'INSTANT",
+   "ACTUALITÉS",
+   "UNE",
+   "décès du fils de Mamadou Lamine Diallo"
+  ]
+ },
+ {
   "id": "16587a01d157",
   "titre": "La mise en vigueur de la LFR 2026 par décret : une affirmation de plus de la suprématie présidentielle ( Par Mamadou Baro, Juriste Consultant)",
   "lien": "https://www.dakaractu.com/La-mise-en-vigueur-de-la-LFR-2026-par-decret-une-affirmation-de-plus-de-la-suprematie-presidentielle-Par-Mamadou-Baro_a278654.html",
@@ -160,6 +510,19 @@
   "extrait": "L’équipe nationale de football féminin du Sénégal a manqué son entrée en matière face à la Côte d’Ivoire."
  },
  {
+  "id": "682a82cb551a",
+  "titre": "Tunisie : les conditions de détention dénoncées après plusieurs décès en prison",
+  "lien": "http://fr.africanews.com/2026/11/27/tunisie-les-conditions-de-detention-denoncees-apres-plusieurs-deces-en-prison/",
+  "source": "Africanews",
+  "site_source": "https://fr.africanews.com",
+  "date": "2026-11-27T20:50:02+00:00",
+  "rubrique": "Afrique",
+  "zone": "Afrique",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "En Tunisie, la Ligue tunisienne des droits de l’homme dénonce des conditions de détention « inhumaines » dans les prisons du pays. L’organisation affirme que 30 détenus sont morts depuis le début de l’été, marqué par des épisodes de fortes chaleurs, des pénuries d’eau et des coupures d’électricité."
+ },
+ {
   "id": "c3a31e22552c",
   "titre": "Un limogeage acté lors du dernier Conseil des ministres crée une grosse polémique à Touba",
   "lien": "https://www.senenews.com/actualites/un-limogeage-acte-lors-du-dernier-conseil-des-ministres-cree-une-grosse-polemique-a-touba_607862.html",
@@ -284,6 +647,22 @@
    "lions-du-senegal",
    "Sénégal",
    "Sports"
+  ]
+ },
+ {
+  "id": "dcb39cc78465",
+  "titre": "Double décès à Dakar : le procureur annonce des analyses toxicologiques en France, les résultats attendus dans six mois (Document)",
+  "lien": "https://www.leral.net/Double-deces-a-Dakar-le-procureur-annonce-des-analyses-toxicologiques-en-France-les-resultats-attendus-dans-six-mois_a412320.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-27T20:27:00+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Six mois d'attente pour connaître les causes exactes du décès d'Adama Salif Lamine Diallo et d'Abdou Tidiane Diop. Dans u...",
+  "categories": [
+   "Actualités"
   ]
  },
  {
@@ -75464,431 +75843,6 @@
    "Lysou Gaye",
    "Mame Awa Ndiaye",
    "pharmacies de garde"
-  ]
- },
- {
-  "id": "e10313d869c0",
-  "titre": "En visite chez Thierno Madani Tall, le Premier ministre réaffirme le soutien de l’État aux familles religieuses",
-  "lien": "https://lesoleil.sn/actualites/societe-fait-divers/en-visite-chez-thierno-madani-tall-le-premier-ministre-reaffirme-le-soutien-de-letat-aux-familles-religieuses/",
-  "source": "Le Soleil",
-  "site_source": "https://lesoleil.sn",
-  "date": "2026-11-20T22:03:42+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Accompagné d’une importante délégation composée de membres du gouvernement et d’autorités administratives, le Premier ministre, Ahmadou Alhaminou M. Lo, a effectué, hier, une visite de courtoisie au domicile de Thierno Madani Tall, à la Médina. À cette occasion, il a réaffirmé la volonté de l’État…",
-  "categories": [
-   "Société / Fait divers",
-   "Ahmadou Alhaminou Mohamed Lo",
-   "Premier ministre",
-   "Thierno Madani"
-  ]
- },
- {
-  "id": "ac6b0580f149",
-  "titre": "Macky Sall rend hommage au Pr Moussa Seydi…qui exprime sa reconnaissance",
-  "lien": "https://www.xibaaru.sn/macky-sall-rend-hommage-au-pr-moussa-seydi-qui-exprime-sa-reconnaissance/",
-  "source": "Xibaaru",
-  "site_source": "https://www.xibaaru.sn",
-  "date": "2026-11-20T22:00:12+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Le professeur Moussa Seydi a exprimé sa profonde gratitude à l’ancien président Macky Sall, après l’hommage rendu à son équipe et à lui-même lors du Global Summit sur la santé, la protection…",
-  "categories": [
-   "Uncategorized"
-  ]
- },
- {
-  "id": "80921e9d56ff",
-  "titre": "Keur Massar : la gendarmerie interpelle trois personnes après le vol de 52 tablettes et cinq iPhone",
-  "lien": "http://www.ndarinfo.com/Keur-Massar-la-gendarmerie-interpelle-trois-personnes-apres-le-vol-de-52-tablettes-et-cinq-iPhone_a47289.html",
-  "source": "Ndarinfo (Saint-Louis)",
-  "site_source": "https://www.ndarinfo.com",
-  "date": "2026-11-20T21:59:00+00:00",
-  "rubrique": "Faits divers",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "La brigade de gendarmerie de Keur Massar a interpellé trois personnes, dont l'auteur présumé du vol de 52 tablettes et cinq iPhon...",
-  "categories": [
-   "Faits divers"
-  ]
- },
- {
-  "id": "a3e61c4c1419",
-  "titre": "Sénégal et Nigéria : les dynamiques énergétiques ouest-africaines pointées par l'AIE en 2026",
-  "lien": "https://www.pressafrik.com/Senegal-et-Nigeria-les-dynamiques-energetiques-ouest-africaines-pointees-par-l-AIE-en-2026_a314900.html",
-  "source": "PressAfrik",
-  "site_source": "https://www.pressafrik.com",
-  "date": "2026-11-20T21:59:00+00:00",
-  "rubrique": "Économie",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Dans les données du World Energy Outlook 2026 de l'AIE sur le... www.pressafrik.com",
-  "categories": [
-   "Economie"
-  ]
- },
- {
-  "id": "cc034694f32b",
-  "titre": "Matam : Dr Abdou Cissé succombe à ses blessures, 40 jours après l’accident qui avait coûté la vie au Dr Ibrahima Sow",
-  "lien": "https://senego.com/matam-dr-abdou-cisse-succombe-a-ses-blessures-40-jours-apres-laccident-qui-avait-coute-la-vie-au-dr-ibrahima-sow_2026258.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-20T21:58:51+00:00",
-  "rubrique": "Faits divers",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "La région de Matam est de nouveau frappée par le deuil. Quarante jours après la mort accidentelle du directeur de l’hôpital régional, Dr Ibrahima Sow, son collègue, Dr Abdou Cissé, directeur de l’hôpital de Ourossogui, blessé dans le même accident, est décédé à l’hôpital Cheikhoul Khadim de Touba,…",
-  "categories": [
-   "Drame",
-   "Faits Divers",
-   "Nécrologie",
-   "Santé",
-   "Sénégal"
-  ]
- },
- {
-  "id": "c4566266777b",
-  "titre": "Talibés : L’État promet, Amnesty relance… et les enfants attendent toujours",
-  "lien": "https://senego.com/talibes-letat-promet-amnesty-relance-et-les-enfants-attendent-toujours_2026257.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-20T21:57:47+00:00",
-  "rubrique": "Société",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "À l’occasion de la Journée internationale des droits de l’enfant, célébrée ce 20 novembre, Seydi Gassama, directeur exécutif d’Amnesty International Sénégal, attire l’attention sur la situation préoccupante des enfants talibés. Il appelle l’État à concrétiser ses engagements en faveur de la…",
-  "categories": [
-   "Actualités",
-   "Sénégal",
-   "Société",
-   "aTalibés",
-   "Seydi Gassama"
-  ]
- },
- {
-  "id": "95c5a75911d8",
-  "titre": "Procès Zecler : les trois policiers condamnés à des peines de un à deux ans de prison ferme",
-  "lien": "https://www.france24.com/fr/france/20261120-proc%C3%A8s-zecler-les-trois-policiers-condamn%C3%A9s-%C3%A0-des-peines-de-un-%C3%A0-deux-ans-de-prison-ferme",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-20T21:54:13+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Les trois policiers ayant passé à tabac le producteur de musique noir Michel Zecler en 2020 ont été condamnés à des peines de un à deux ans de prison ferme. L'accusation avait de son côté requis, jeudi, entre quatre et six ans de prison ferme.",
-  "categories": [
-   "France"
-  ]
- },
- {
-  "id": "b81a5d3e70db",
-  "titre": "Semaine mondiale de l’entrepreneuriat 2026 : Wave et la DER-FJ priment trois projets innovants portés par de jeunes étudiantes",
-  "lien": "https://www.seneweb.com/fr/news/Video/semaine-mondiale-de-lentrepreneuriat-2026-wave-et-la-der-fj-priment-trois-projets-innovants-portes-par-de-jeunes-etudiantes_n_999004240.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-20T21:53:46+00:00",
-  "rubrique": "Société",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Wave Sénégal et la Délégation générale à l’entrepreneuriat rapide des femmes et des jeunes (DER-FJ) ont clôturé, ce vendredi 20 novembre, la Semaine mondiale de l’Entrepreneuriat 2026 par deux activit…"
- },
- {
-  "id": "26796acc6cef",
-  "titre": "Tragédie de la route à Matam: le Dr Abdou Cissé succombe à ses blessures 40 jours après son collegue",
-  "lien": "https://www.pressafrik.com/Tragedie-de-la-route-a-Matam-le-Dr-Abdou-Cisse-succombe-a-ses-blessures-40-jours-apres-son-collegue_a314899.html",
-  "source": "PressAfrik",
-  "site_source": "https://www.pressafrik.com",
-  "date": "2026-11-20T21:44:00+00:00",
-  "rubrique": "Société",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le secteur sanitaire de la région de Matam traverse une nouvelle épreuve avec le décès du Dr Abdo... www.pressafrik.com",
-  "categories": [
-   "Société"
-  ]
- },
- {
-  "id": "e181bfc33fca",
-  "titre": "Tragique accident entre Pété et Galoya : le directeur de l’hôpital de Ourossogui succombe 40 jours après le drame",
-  "lien": "https://emedia.sn/tragique-accident-entre-pete-et-galoya-le-directeur-de-lhopital-de-ourossogui-succombe-40-jours-apres-le-drame/",
-  "source": "Emedia",
-  "site_source": "https://emedia.sn",
-  "date": "2026-11-20T21:41:22+00:00",
-  "rubrique": "Faits divers",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le monde de la santé est une nouvelle fois frappé par un deuil dans la région de Matam. Le Dr Abdou Cissé, directeur du Centre hospitalier régional de Ourossogui, a rendu l’âme ce vendredi 20 novembre 2026 à l’hôpital Cheikhoul Khadim de Touba, où il était hospitalisé depuis le grave accident de la…",
-  "categories": [
-   "A L'INSTANT",
-   "ACTUALITÉS",
-   "UNE",
-   "Directeur hôpital Ourosogui",
-   "Dr Abdou Cissé"
-  ]
- },
- {
-  "id": "9c991328ec4d",
-  "titre": "Abdou Mbow : « Le règlement intérieur n’est pas un menu à la carte »",
-  "lien": "http://www.ndarinfo.com/Abdou-Mbow-Le-reglement-interieur-n-est-pas-un-menu-a-la-carte_a47288.html",
-  "source": "Ndarinfo (Saint-Louis)",
-  "site_source": "https://www.ndarinfo.com",
-  "date": "2026-11-20T21:41:00+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le député de Takku Wallu Abdou Mbow dénonce le report, cinq minutes avant son ouverture ce vendredi, de la réunion de la commissio...",
-  "categories": [
-   "Politique"
-  ]
- },
- {
-  "id": "df081a5aa78d",
-  "titre": "Guinée/Burkina Faso: tensions après la diffusion de caricatures de M. Doumbouya",
-  "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261120-guin%C3%A9e-burkina-faso-tensions-apr%C3%A8s-la-diffusion-de-caricatures-de-m-doumbouya",
-  "source": "France 24 Afrique",
-  "site_source": "https://www.france24.com/fr/afrique/",
-  "date": "2026-11-20T21:40:25+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Les tensions montent entre la Guinée et le Burkina Faso. Conakry vient de couper le signal de la RTB, la télévision publique burkinabè. En cause : un éditorial critique, avec une caricature du président Mamadi Doumbouya. Mais l'affaire va bien au-delà de la télé : elle éclate en pleine répression…",
-  "categories": [
-   "Journal de l'Afrique"
-  ]
- },
- {
-  "id": "9671b58b355e",
-  "titre": "EXCLUSIF – Sadio Mané papa pour la 2e fois : Sa famille révèle enfin le sexe du bébé",
-  "lien": "https://www.senenews.com/actualites/exclusif-sadio-mane-papa-pour-la-2e-fois-sa-famille-revele-enfin-le-sexe-du-bebe_607111.html",
-  "source": "Senenews",
-  "site_source": "https://www.senenews.com",
-  "date": "2026-11-20T21:35:43+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Heureuse nouvelle dans la famille de Sadio Mané ! L’international sénégalais et son épouse, Aïcha Tamba, ont accueilli leur deuxième enfant ce vendredi 20 novembre 2026, quelques heures seulement avant la rencontre du footballeur face à Al Ahli. Si l’annonce de cette naissance a rapidement suscité…",
-  "categories": [
-   "Football",
-   "Sénégal - Actualités",
-   "SeneNews Sport",
-   "Aicha Tamba",
-   "sadio mané"
-  ]
- },
- {
-  "id": "8cf1f9647175",
-  "titre": "Valise nucléaire de Poutine : la mise en scène calculée du Kremlin",
-  "lien": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261120-valise-nucl%C3%A9aire-de-poutine-la-mise-en-sc%C3%A8ne-calcul%C3%A9e-du-kremlin",
-  "source": "France 24 Monde",
-  "site_source": "https://www.france24.com/fr/",
-  "date": "2026-11-20T21:31:51+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Une vidéo largement relayée ces deux derniers jours montre l’aide de camp de Vladimir Poutine porter la valise nucléaire en marge de la rencontre trilatérale en Chine. Une séquence authentique mise en avant par la Russie pour menacer directement les alliés de l’Ukraine.",
-  "categories": [
-   "Info ou intox"
-  ]
- },
- {
-  "id": "e146c48f273c",
-  "titre": "Nécrologie : La Police nationale annonce le rappel à Dieu de Noël Sadio (photo)",
-  "lien": "https://www.senenews.com/actualites/necrologie-la-police-nationale-annonce-le-rappel-a-dieu-de-noel-sadio-photo_607112.html",
-  "source": "Senenews",
-  "site_source": "https://www.senenews.com",
-  "date": "2026-11-20T21:31:42+00:00",
-  "rubrique": "Faits divers",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "La Police nationale est en deuil. Elle a annoncé le décès de l'agent de police Noël Sadio, de la 44e promotion, affecté au Commissariat d'arrondissement de Rufisque-Est. Dans son message, l'institution évoque le « rappel à Dieu » d'un fonctionnaire dévoué et présente ses condoléances attristées à…",
-  "categories": [
-   "Sénégal - Actualités",
-   "Société",
-   "Noël Sadio"
-  ]
- },
- {
-  "id": "efb65987c1de",
-  "titre": "Keur Massar : trois individus arrêtés pour le vol de 52 tablettes Apple et 5 iPhone",
-  "lien": "https://senego.com/keur-massar-trois-individus-arretes-pour-le-vol-de-52-tablettes-apple-et-5-iphone_2026251.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-20T21:19:32+00:00",
-  "rubrique": "Faits divers",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "La Brigade territoriale de Keur Massar a interpellé trois individus pour vol avec effraction et recel, après le vol de 52 tablettes Apple et de 5 iPhone au centre commercial Dame Mansour. Placés en garde à vue, les suspects ont reconnu les faits. Le vol a été commis dans la nuit du 14 au 15 […]",
-  "categories": [
-   "Société",
-   "Keur Massar",
-   "Tablettes",
-   "Vol"
-  ]
- },
- {
-  "id": "147fb4ccec62",
-  "titre": "JOJ 2026 : Abass Fall revendique 12 milliards d'investissements et fustige l’État, l’ONAS et l’AGETIP",
-  "lien": "https://www.seneweb.com/fr/news/Sport/joj-2026-abass-fall-revendique-12-milliards-dinvestissements-et-fustige-letat-lonas-et-lagetip_n_999004239.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-20T21:15:11+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Face à la presse ce vendredi 20 novembre 2026 à l'hôtel de ville, le maire de Dakar, Abass Fall, a dressé un bilan offensif de la participation municipale aux Jeux olympiques de la jeunesse."
- },
- {
-  "id": "d971dd1f09da",
-  "titre": "Saint Louis :Djoudj, La Direction des Parcs nationaux lance l'élaboration du nouveau Plan de Gestion du Parc",
-  "lien": "https://www.dakaractu.com/Saint-Louis-Djoudj-La-Direction-des-Parcs-nationaux-lance-l-elaboration-du-nouveau-Plan-de-Gestion-du-Parc_a278438.html",
-  "source": "Dakaractu",
-  "site_source": "https://www.dakaractu.com",
-  "date": "2026-11-20T21:15:00+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "La Direction des Parcs Nationaux (DPN) a procédé ce mercredi 18 novembre 2026 au lancement officiel des travaux d'élaboration du nouveau Plan d'Aménagement et de Gestion (PAG) du Parc national des Oiseaux du Djoudj (PNOD). L'atelier de cadrage, couplé à l'évaluation participative du PAG 2022-2026…",
-  "categories": [
-   "Texto"
-  ]
- },
- {
-  "id": "bc03f49b2080",
-  "titre": "Drame à Kaolack- Fin de cavale pour K. Lô meurtrière de D. Diallo, interpellée à Thioffack",
-  "lien": "https://www.dakaractu.com/Drame-a-Kaolack-Fin-de-cavale-pour-K-Lo-meurtriere-de-D-Diallo-interpellee-a-Thioffack_a278437.html",
-  "source": "Dakaractu",
-  "site_source": "https://www.dakaractu.com",
-  "date": "2026-11-20T21:13:00+00:00",
-  "rubrique": "Faits divers",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Les éléments du commissariat central de Kaolack ont mis fin, ce vendredi matin, à la cavale de K. Lô qui a tué, jeudi 19 novembre, son oncle D. Diallo, à coups de couteau au quartier Médina Mbaba, dans la commune de Kaolack. Après son acte, K. Lô avait pris la fuite et s’était réfugiée chez sa…",
-  "categories": [
-   "Actu"
-  ]
- },
- {
-  "id": "8b411a5e4e73",
-  "titre": "Réseau homosexuel présumé et VIH : six nouveaux individus rejoignent la prison dans le dossier Modou Ba Gawlo",
-  "lien": "https://www.pressafrik.com/Reseau-homosexuel-presume-et-VIH-six-nouveaux-individus-rejoignent-la-prison-dans-le-dossier-Modou-Ba-Gawlo_a314898.html",
-  "source": "PressAfrik",
-  "site_source": "https://www.pressafrik.com",
-  "date": "2026-11-20T21:13:00+00:00",
-  "rubrique": "Faits divers",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le doyen des juges du tribunal de grande instance de Pikine-Guédiawaye a envoyé en prison si... www.pressafrik.com",
-  "categories": [
-   "Politique"
-  ]
- },
- {
-  "id": "e43fab329e7d",
-  "titre": "En Suisse aussi, la jeunesse descend dans la rue contre « un avenir bouché »",
-  "lien": "https://www.lemonde.fr/international/article/2026/11/20/en-suisse-aussi-la-jeunesse-descend-dans-la-rue-contre-un-avenir-bouche_6813714_3210.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-20T21:12:29+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Plusieurs dizaines de milliers de jeunes ont manifesté vendredi 20 novembre dans les grandes villes du pays alpin. Austérité budgétaire, coupes dans les services publics, pouvoir d’achat, coût du logement et crise climatique alimentaient les slogans."
- },
- {
-  "id": "6976ef294d54",
-  "titre": "Filmé en plein vol à Keur Massar : un cambrioleur arrêté, 52 tablettes Apple et cinq iPhone emportés",
-  "lien": "https://www.seneweb.com/fr/news/Societe/filme-en-plein-vol-a-keur-massar-un-cambrioleur-arrete-52-tablettes-apple-et-cinq-iphone-emportes_n_999004238.html",
-  "source": "Seneweb",
-  "site_source": "https://www.seneweb.com",
-  "date": "2026-11-20T21:11:09+00:00",
-  "rubrique": "Faits divers",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Dans la nuit du 14 au 15 novembre 2026, un commerce du centre commercial Dame Mansour, à Keur Massar, a été victime d'un vol avec effraction."
- },
- {
-  "id": "0338b86cf587",
-  "titre": "« Financement » présumé d’injures sur TikTok : Elimane Lam sort libre sous bracelet électronique",
-  "lien": "https://www.pressafrik.com/Financement-presume-d-injures-sur-TikTok-Elimane-Lam-sort-libre-sous-bracelet-electronique_a314897.html",
-  "source": "PressAfrik",
-  "site_source": "https://www.pressafrik.com",
-  "date": "2026-11-20T21:11:00+00:00",
-  "rubrique": "Faits divers",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le tribunal de Pikine-Guédiawaye a épargné la détention préventive à l’homme d’affaires Elimane La... www.pressafrik.com",
-  "categories": [
-   "Société"
-  ]
- },
- {
-  "id": "6cc2bd78fec9",
-  "titre": "Mondial U 17 de la FIFA : le Cameroun affiche sa sérénité avant de défier le Venezuela",
-  "lien": "http://fr.africanews.com/2026/11/20/mondial-u-17-de-la-fifa-le-cameroun-affiche-sa-serenite-avant-de-defier-le-venezuela/",
-  "source": "Africanews",
-  "site_source": "https://fr.africanews.com",
-  "date": "2026-11-20T21:10:54+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Les jeunes camerounais se disent prêts à défendre leur drapeau dans la compétition."
- },
- {
-  "id": "a2f4456c7a6f",
-  "titre": "Fandène- cueillette de fruits du ronier: Un jeune homme âgé d'une vingtaine d'années meurt par électrocution au village de Keur Mory Mbaye",
-  "lien": "https://www.dakaractu.com/Fandene-cueillette-de-fruits-du-ronier-Un-jeune-homme-age-d-une-vingtaine-d-annees-meurt-par-electrocution-au-village-de_a278436.html",
-  "source": "Dakaractu",
-  "site_source": "https://www.dakaractu.com",
-  "date": "2026-11-20T21:10:00+00:00",
-  "rubrique": "Faits divers",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Un énième drame s'est produit hier vers les coups de 19 heures au village de Keur Mory Mbaye, dans la commune de Fandène. L'incident est survenu lorsque la victime tentait de cueillir des fruits du rônier à l'aide d'une longue perche équipée d'un crochet. Le crochet en fer aurait touché un câble…",
-  "categories": [
-   "Actu"
-  ]
- },
- {
-  "id": "4d055c35eb0a",
-  "titre": "Crd consacré au projet Notto Diobasse Smart City: \" Nous voulons construire une ville moderne, avec des logements, des entreprises, des écoles...\"( Alioune Sarr)",
-  "lien": "https://www.dakaractu.com/Crd-consacre-au-projet-Notto-Diobasse-Smart-City-Nous-voulons-construire-une-ville-moderne-avec-des-logements-des_a278435.html",
-  "source": "Dakaractu",
-  "site_source": "https://www.dakaractu.com",
-  "date": "2026-11-20T21:07:00+00:00",
-  "rubrique": "Économie",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Un comité régional de développement consacré au projet Notto Diobasse Smart City s'est tenu ce mercredi à la gouvernance de Thiès, en présence du gouverneur Saër Ndao, du maire Alioune Sarr, des services de l’État et des partenaires techniques. À cette occasion, le maire de Notto Diobasse a…",
-  "categories": [
-   "Texto"
   ]
  }
 ]
