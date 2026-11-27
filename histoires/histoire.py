@@ -120,7 +120,10 @@ def main(modele, episode, sortie):
                 print(f"Photo absente : {nom} (fond uni à la place)")
                 nom = None
             fond = fond_photo(nom) if nom else fond_uni()
-            credit = f"Photo : {CREDITS[nom]}" if nom else None
+            credit = None
+            if nom:   # une illustration IA est signalée comme telle, une photo porte son auteur
+                c = CREDITS.get(nom, "")
+                credit = "Illustration IA · scène reconstituée" if c.startswith("IA") else f"Photo : {c}"
             parts = [None] if plan.get("sans_sous_titres") else morceaux(plan["voix"])
             total = sum(len(p or "x") for p in parts)
             couches, t = [], 0.0
