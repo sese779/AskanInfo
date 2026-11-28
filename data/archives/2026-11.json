@@ -1,5 +1,176 @@
 [
  {
+  "id": "4b2c283e9370",
+  "titre": "La Matinale Senego : Patrick Vieira rencontre la France, Diomaye défend la LFR",
+  "lien": "https://senego.com/la-matinale-senego-patrick-vieira-rencontre-la-france-diomaye-defend-la-lfr_2026332.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-21T06:03:25+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Bonjour et bienvenue dans la matinale de Senego du samedi 21 novembre 2026. Au menu de cette nuit : Patrick Vieira échange avec l’ambassade de France, la mise en vigueur de la LFR 2026 continue d’alimenter les débats, et Alioune Tine appelle les institutions au dialogue. Sadio Mané, le Mondial U17…",
+  "categories": [
+   "Actualités",
+   "La Matinale",
+   "Sénégal",
+   "Vedette",
+   "LFR 2026"
+  ]
+ },
+ {
+  "id": "a32fb0c5676d",
+  "titre": "«Le supplément du samedi» du 21 novembre 2026",
+  "lien": "https://www.rfi.fr/fr/podcasts/grand-reportage/20261121-le-suppl%C3%A9ment-du-samedi-du-21-novembre-2026",
+  "source": "RFI Monde",
+  "site_source": "https://www.rfi.fr/fr/monde/",
+  "date": "2026-11-21T06:00:32+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Faut-il partir avant qu'il ne soit trop tard ? C'est la question que se posent les civils démunis dans chacun des reportages que vous allez écouter aujourd'hui. Au Burundi, sur les rives du lac Tanganyika, la menace est écologique. Les crues monstres provoquées par le réchauffement du climat…",
+  "categories": [
+   "Grand reportage"
+  ]
+ },
+ {
+  "id": "22552ee354db",
+  "titre": "«Resurrection Hill», à New York, le flic, le fric et le ciment",
+  "lien": "https://www.rfi.fr/fr/podcasts/l-art-de-raconter-le-monde/20261121-resurrection-hill-%C3%A0-new-york-le-flic-le-fric-et-le-ciment",
+  "source": "RFI Monde",
+  "site_source": "https://www.rfi.fr/fr/monde/",
+  "date": "2026-11-21T06:00:31+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le grand final de la trilogie new-yorkaise de François Boucq et Jerome Charyn met en scène la violence autour de la spéculation immobilière à New York.",
+  "categories": [
+   "L'art de raconter le monde"
+  ]
+ },
+ {
+  "id": "57c7bd7ffe5e",
+  "titre": "Voyage dans les cuisines des Arméniens et de la diaspora à travers le monde",
+  "lien": "https://www.rfi.fr/fr/podcasts/le-go%C3%BBt-du-monde/20261121-voyage-dans-les-cuisines-des-arm%C3%A9niens-et-de-la-diaspora-%C3%A0-travers-le-monde",
+  "source": "RFI Monde",
+  "site_source": "https://www.rfi.fr/fr/monde/",
+  "date": "2026-11-21T06:00:29+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Diaspora : le mot vient du grec ancien, il signifie « dispersion » ou « semer au loin » en l'occurrence des peuples que les tourments de l'histoire ont forcé à quitter leur terre natale pour se construire une vie ailleurs. Où que se trouve cet ailleurs, tous portent en eux les traditions, la…",
+  "categories": [
+   "Le goût du monde"
+  ]
+ },
+ {
+  "id": "9cdc34c0acfb",
+  "titre": "Les Suds racontent leurs indépendances",
+  "lien": "https://www.rfi.fr/fr/podcasts/carrefour-du-maghreb/20261121-les-suds-racontent-leurs-ind%C3%A9pendances",
+  "source": "RFI Monde",
+  "site_source": "https://www.rfi.fr/fr/monde/",
+  "date": "2026-11-21T06:00:25+00:00",
+  "rubrique": "Culture",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Avec le philosophe sénégalais Souleymane Bachir Diagne et l'autrice tunisienne Amira Ghenim, rencontrés à l'occasion du festival Kotouf de Djerba, en octobre 2026.",
+  "categories": [
+   "Carrefour du Maghreb"
+  ]
+ },
+ {
+  "id": "2ca8c27f9e0a",
+  "titre": "Téléphonie mobile par satellite : le chemin tortueux des opérateurs européens vers une constellation souveraine",
+  "lien": "https://www.lemonde.fr/economie/article/2026/11/21/telephonie-mobile-par-satellite-le-chemin-tortueux-des-operateurs-europeens-vers-une-constellation-souveraine_6813948_3234.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-21T06:00:05+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Face à Starlink, Orange, Deutsche Telekom, Telefonica et Vodafone veulent créer un service mobile par satellite européen et souverain. Mais les délais, le coût et le manque de solutions disponibles compliquent leur projet."
+ },
+ {
+  "id": "a20560d8d8a5",
+  "titre": "EN DIRECT, guerre en Ukraine : deux morts et 47 blessés dans des frappes russes sur Kryvy Rih, ville natale de Volodymyr Zelensky",
+  "lien": "https://www.lemonde.fr/international/live/2026/11/21/en-direct-guerre-en-ukraine-deux-morts-et-47-blesses-dans-des-frappes-russes-sur-kryvy-rih-ville-natale-de-volodymyr-zelensky_6810982_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-21T05:38:14+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Un enfant de 7 ans et une infirmière âgée de 20 ans ont été tués lors de cette série d’attaques dans le sud-est de l’Ukraine. « Une soirée et une nuit tragiques », déplore Oleksandr Vilkoul, chef du conseil de défense de Kryvy Rih."
+ },
+ {
+  "id": "62b557d2f9eb",
+  "titre": "Tribunal de Commerce Hors Classe de Dakar – Audience de répartition : CBAO Groupe Attijariwafa Bank SA parmi les 43 dossiers",
+  "lien": "https://www.leral.net/Tribunal-de-Commerce-Hors-Classe-de-Dakar-Audience-de-repartition-CBAO-Groupe-Attijariwafa-Bank-SA-parmi-les-43-dossiers_a411828.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-21T05:33:00+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "43 affaires sont inscrites au rôle de l'audience (audience de répartition) du lundi 23 novembre 2026 devant le Tribunal d...",
+  "categories": [
+   "Au Tribunal ..."
+  ]
+ },
+ {
+  "id": "f47f20ac2eda",
+  "titre": "Tribunal de Commerce Hors Classe de Dakar – Référés : La SOCIETE EXPRESSO SENEGAL SA parmi les 190 dossiers",
+  "lien": "https://www.leral.net/Tribunal-de-Commerce-Hors-Classe-de-Dakar-Referes-La-SOCIETE-EXPRESSO-SENEGAL-SA-parmi-les-190-dossiers_a411825.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-21T05:32:00+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "190 affaires sont inscrites au rôle de l'audience (référés) du lundi 23 novembre 2026 devant le Tribunal de Commerce Hors Class...",
+  "categories": [
+   "Au Tribunal ..."
+  ]
+ },
+ {
+  "id": "4c07e1bd7e89",
+  "titre": "Ministère de la Justice du Sénégal : Migration en Afrique de l’Ouest : Dakar plaide pour une réponse concertée",
+  "lien": "https://www.leral.net/Ministere-de-la-Justice-du-Senegal-Migration-en-Afrique-de-l-Ouest-Dakar-plaide-pour-une-reponse-concertee_a411824.html",
+  "source": "Leral",
+  "site_source": "https://www.leral.net",
+  "date": "2026-11-21T05:31:00+00:00",
+  "rubrique": "Diaspora",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Document publié par Ministère de la Justice du Sénégal, daté du vendredi 20 novembre 2026.",
+  "categories": [
+   "Société"
+  ]
+ },
+ {
+  "id": "2565b06a4fd5",
+  "titre": "En Corée du Sud, la paranoïa autour de la triche à l’IA déclenche une chasse aux fraudeurs d’examens",
+  "lien": "https://www.lemonde.fr/campus/article/2026/11/21/en-coree-du-sud-la-paranoia-autour-de-la-triche-a-l-ia-declenche-une-chasse-aux-fraudeurs-d-examens_6813944_4401467.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-21T05:30:03+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Alors que la pression s’accentue sur les élèves passant le fameux « Suneung », de nouvelles méthodes de triche à l’IA, plus efficaces et dures à détecter, mettent le gouvernement sud-coréen en alerte. Les fouilles et les demandes d’aveux publics se multiplient, parfois jusqu’au drame."
+ },
+ {
   "id": "03e7b41a0ef1",
   "titre": "En Italie, de nouvelles manifestations massives, signe d’une grogne sociale qui ne faiblit pas",
   "lien": "https://www.lemonde.fr/international/article/2026/11/21/en-italie-de-nouvelles-manifestations-massives-signe-d-une-grogne-sociale-qui-ne-faiblit-pas_6813926_3210.html",

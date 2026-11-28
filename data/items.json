@@ -1,5 +1,157 @@
 [
  {
+  "id": "7813e416be86",
+  "titre": "La Matinale Senego : Barthélemy Dias réunit Macky Sall et Idrissa Seck",
+  "lien": "https://senego.com/la-matinale-senego-barthelemy-dias-reunit-macky-sall-et-idrissa-seck_2028952.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-28T06:03:25+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Bonjour et bienvenue dans la matinale de Senego du samedi 28 novembre 2026. Au menu de cette édition : l’annonce d’une coalition de l’opposition par Barthélemy Dias, quatre enquêtes parlementaires adoptées par le Bureau de l’Assemblée nationale et une proposition d’Abdourahmane Sarr pour provoquer…",
+  "categories": [
+   "Actualités",
+   "La Matinale",
+   "Sénégal",
+   "Vedette",
+   "Assemblée nationale"
+  ]
+ },
+ {
+  "id": "4dc6d2fab9ac",
+  "titre": "Meilleur pâtissier : Benoît Castel a fait des gâteaux et de la gourmandise son métier",
+  "lien": "https://www.rfi.fr/fr/podcasts/le-go%C3%BBt-du-monde/20261128-meilleur-p%C3%A2tissier-beno%C3%AEt-castel-a-fait-des-g%C3%A2teaux-et-de-la-gourmandise-son-m%C3%A9tier",
+  "source": "RFI Monde",
+  "site_source": "https://www.rfi.fr/fr/monde/",
+  "date": "2026-11-28T06:00:53+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Bercé par les galettes au beurre salé de sa grand-mère cuites au feu de bois dans une très grande crêpière, un binnic au petit déjeuner du côté de Redon en Bretagne. « On se brûlait les mains tellement c'était chaud, mais c'était tellement bon » ! C'est en allant au restaurant un dimanche avec ses…",
+  "categories": [
+   "Le goût du monde"
+  ]
+ },
+ {
+  "id": "87481e486ec6",
+  "titre": "«Au bord du monde» de Bernard Werber, et si la vérité ne tournait plus rond?",
+  "lien": "https://www.rfi.fr/fr/podcasts/l-art-de-raconter-le-monde/20261128-au-bord-du-monde-de-bernard-werber-et-si-la-v%C3%A9rit%C3%A9-ne-tournait-plus-rond",
+  "source": "RFI Monde",
+  "site_source": "https://www.rfi.fr/fr/monde/",
+  "date": "2026-11-28T06:00:50+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Drôle, instructif et inquiétant à la fois, le nouveau roman addictif de l’auteur des Fourmis interroge notre rapport au réel et à la science, face aux nouvelles technologies, aux réseaux sociaux et aux théories du complot.",
+  "categories": [
+   "L'art de raconter le monde"
+  ]
+ },
+ {
+  "id": "e845dad49fc2",
+  "titre": "«Le supplément du samedi» du 28 novembre 2026",
+  "lien": "https://www.rfi.fr/fr/podcasts/grand-reportage/20261128-le-suppl%C3%A9ment-du-samedi-du-28-novembre-2026",
+  "source": "RFI Monde",
+  "site_source": "https://www.rfi.fr/fr/monde/",
+  "date": "2026-11-28T06:00:48+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Direction le Tchad dans la région du Mandoul, province du sud, où la jeunesse se mobilise pour changer les mentalités, il y a urgence car le Tchad détient un taux de grossesses précoces parmi les plus élevés au monde. Pour informer les mineurs, les éduquer à une sexualité protégée, de jeunes…",
+  "categories": [
+   "Grand reportage"
+  ]
+ },
+ {
+  "id": "cc6953670550",
+  "titre": "Les devenirs en jeu des juifs maghrébins - destins entrelacés (1/2)",
+  "lien": "https://www.rfi.fr/fr/podcasts/carrefour-du-maghreb/20261128-les-devenirs-en-jeu-des-juifs-maghr%C3%A9bins-destins-entrelac%C3%A9s-1-2",
+  "source": "RFI Monde",
+  "site_source": "https://www.rfi.fr/fr/monde/",
+  "date": "2026-11-28T06:00:46+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Dans une émission enregistrée en public lors des 29è Rendez-vous de l'Histoire de Blois, nous recevons Karima Dirèche. Historienne, spécialiste du Maghreb contemporain, Karima Dirèche est directrice de recherche au CNRS rattachée au laboratoire TELEMMe à la Maison Méditerranéenne des Sciences de…",
+  "categories": [
+   "Carrefour du Maghreb"
+  ]
+ },
+ {
+  "id": "91689471be5b",
+  "titre": "Marquée par la guerre au Proche-Orient, l’écrivaine Elisa Shua Dusapin raconte comment elle a renoncé au roman pour « Sauf la frontière »",
+  "lien": "https://www.lemonde.fr/livres/article/2026/11/28/marquee-par-la-guerre-au-proche-orient-l-ecrivaine-elisa-shua-dusapin-raconte-comment-elle-a-renonce-au-roman-pour-sauf-la-frontiere_6816077_3260.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-28T06:00:24+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Au Liban, en octobre 2023, l’écrivaine s’est retrouvée en zone de guerre. Elle a ensuite passé environ deux ans entre la Jordanie, la Palestine et Israël, pour comprendre et pour réinventer son écriture."
+ },
+ {
+  "id": "ca07f66d2ca1",
+  "titre": "L'armée américaine affirme que ses systèmes informatiques sont sécurisés, après une possible cyberattaque",
+  "lien": "https://www.france24.com/fr/am%C3%A9riques/20261128-l-arm%C3%A9e-am%C3%A9ricaine-affirme-que-ses-syst%C3%A8mes-informatiques-sont-s%C3%A9curis%C3%A9s-apr%C3%A8s-une-possible-cyberattaque",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-28T05:59:41+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L’agence Reuters, puis NBC News citant un responsable anonyme, ont avancé vendredi que le cloud de l’armée de l’air avait été piraté, exposant possiblement \"des informations militaires sensibles\". L'armée américaine a réagi, promettant que ses ses systèmes informatiques étaient \"sûrs et sécurisés\".",
+  "categories": [
+   "Amériques"
+  ]
+ },
+ {
+  "id": "46916c0e628a",
+  "titre": "Le Pentagone assure que ses systèmes informatiques sont « sûrs et sécurisés », après une possible cyberattaque annoncée par des médias",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/28/le-pentagone-assure-que-ses-systemes-informatiques-sont-surs-et-securises-apres-une-possible-cyberattaque-annoncee-par-des-medias_6816072_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-28T05:30:17+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L’agence Reuters, puis NBC News citant un responsable anonyme, ont avancé que le cloud de l’armée de l’air avait été piraté, exposant possiblement « des informations militaires sensibles »."
+ },
+ {
+  "id": "3d7f16b7e6ad",
+  "titre": "En Syrie, les arbitres de foot jouent les juges de paix",
+  "lien": "https://www.lemonde.fr/m-le-mag/article/2026/11/28/en-syrie-les-arbitres-de-foot-jouent-les-juges-de-paix_6816071_4500055.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-28T05:30:05+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Depuis la chute de Bachar Al-Assad, la reconstruction du pays se mène jusque dans les stades. Issus des différentes communautés, les arbitres du ballon rond parcourent une Syrie fracturée par plus de dix ans de guerre pour promouvoir le respect des règles communes et l’unité nationale."
+ },
+ {
+  "id": "43fd404b2c4e",
+  "titre": "EN DIRECT, guerre en Ukraine : des centaines de drones ukrainiens lancés vers Moscou",
+  "lien": "https://www.lemonde.fr/international/live/2026/11/28/en-direct-guerre-en-ukraine-des-centaines-de-drones-ukrainiens-lances-vers-moscou_6814183_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-28T05:13:57+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le maire de Moscou affirme que « la plupart » des 462 aéronefs, lancés dans la nuit de vendredi à samedi, « ont été neutralisés » à l’approche lointaine, sans plus de précisions et sans indiquer s’il y avait des victimes ou des dégâts."
+ },
+ {
   "id": "da3d5d8f2a68",
   "titre": "Au Canada, le premier ministre, Mark Carney, promet la fin du sans-abrisme d’ici à dix ans",
   "lien": "https://www.lemonde.fr/international/article/2026/11/28/au-canada-le-premier-ministre-mark-carney-promet-la-fin-du-sans-abrisme-d-ici-a-dix-ans_6816067_3210.html",
@@ -76164,176 +76316,5 @@
    "Société",
    "Agriculture"
   ]
- },
- {
-  "id": "4b2c283e9370",
-  "titre": "La Matinale Senego : Patrick Vieira rencontre la France, Diomaye défend la LFR",
-  "lien": "https://senego.com/la-matinale-senego-patrick-vieira-rencontre-la-france-diomaye-defend-la-lfr_2026332.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-21T06:03:25+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Bonjour et bienvenue dans la matinale de Senego du samedi 21 novembre 2026. Au menu de cette nuit : Patrick Vieira échange avec l’ambassade de France, la mise en vigueur de la LFR 2026 continue d’alimenter les débats, et Alioune Tine appelle les institutions au dialogue. Sadio Mané, le Mondial U17…",
-  "categories": [
-   "Actualités",
-   "La Matinale",
-   "Sénégal",
-   "Vedette",
-   "LFR 2026"
-  ]
- },
- {
-  "id": "a32fb0c5676d",
-  "titre": "«Le supplément du samedi» du 21 novembre 2026",
-  "lien": "https://www.rfi.fr/fr/podcasts/grand-reportage/20261121-le-suppl%C3%A9ment-du-samedi-du-21-novembre-2026",
-  "source": "RFI Monde",
-  "site_source": "https://www.rfi.fr/fr/monde/",
-  "date": "2026-11-21T06:00:32+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Faut-il partir avant qu'il ne soit trop tard ? C'est la question que se posent les civils démunis dans chacun des reportages que vous allez écouter aujourd'hui. Au Burundi, sur les rives du lac Tanganyika, la menace est écologique. Les crues monstres provoquées par le réchauffement du climat…",
-  "categories": [
-   "Grand reportage"
-  ]
- },
- {
-  "id": "22552ee354db",
-  "titre": "«Resurrection Hill», à New York, le flic, le fric et le ciment",
-  "lien": "https://www.rfi.fr/fr/podcasts/l-art-de-raconter-le-monde/20261121-resurrection-hill-%C3%A0-new-york-le-flic-le-fric-et-le-ciment",
-  "source": "RFI Monde",
-  "site_source": "https://www.rfi.fr/fr/monde/",
-  "date": "2026-11-21T06:00:31+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le grand final de la trilogie new-yorkaise de François Boucq et Jerome Charyn met en scène la violence autour de la spéculation immobilière à New York.",
-  "categories": [
-   "L'art de raconter le monde"
-  ]
- },
- {
-  "id": "57c7bd7ffe5e",
-  "titre": "Voyage dans les cuisines des Arméniens et de la diaspora à travers le monde",
-  "lien": "https://www.rfi.fr/fr/podcasts/le-go%C3%BBt-du-monde/20261121-voyage-dans-les-cuisines-des-arm%C3%A9niens-et-de-la-diaspora-%C3%A0-travers-le-monde",
-  "source": "RFI Monde",
-  "site_source": "https://www.rfi.fr/fr/monde/",
-  "date": "2026-11-21T06:00:29+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Diaspora : le mot vient du grec ancien, il signifie « dispersion » ou « semer au loin » en l'occurrence des peuples que les tourments de l'histoire ont forcé à quitter leur terre natale pour se construire une vie ailleurs. Où que se trouve cet ailleurs, tous portent en eux les traditions, la…",
-  "categories": [
-   "Le goût du monde"
-  ]
- },
- {
-  "id": "9cdc34c0acfb",
-  "titre": "Les Suds racontent leurs indépendances",
-  "lien": "https://www.rfi.fr/fr/podcasts/carrefour-du-maghreb/20261121-les-suds-racontent-leurs-ind%C3%A9pendances",
-  "source": "RFI Monde",
-  "site_source": "https://www.rfi.fr/fr/monde/",
-  "date": "2026-11-21T06:00:25+00:00",
-  "rubrique": "Culture",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Avec le philosophe sénégalais Souleymane Bachir Diagne et l'autrice tunisienne Amira Ghenim, rencontrés à l'occasion du festival Kotouf de Djerba, en octobre 2026.",
-  "categories": [
-   "Carrefour du Maghreb"
-  ]
- },
- {
-  "id": "2ca8c27f9e0a",
-  "titre": "Téléphonie mobile par satellite : le chemin tortueux des opérateurs européens vers une constellation souveraine",
-  "lien": "https://www.lemonde.fr/economie/article/2026/11/21/telephonie-mobile-par-satellite-le-chemin-tortueux-des-operateurs-europeens-vers-une-constellation-souveraine_6813948_3234.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-21T06:00:05+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Face à Starlink, Orange, Deutsche Telekom, Telefonica et Vodafone veulent créer un service mobile par satellite européen et souverain. Mais les délais, le coût et le manque de solutions disponibles compliquent leur projet."
- },
- {
-  "id": "a20560d8d8a5",
-  "titre": "EN DIRECT, guerre en Ukraine : deux morts et 47 blessés dans des frappes russes sur Kryvy Rih, ville natale de Volodymyr Zelensky",
-  "lien": "https://www.lemonde.fr/international/live/2026/11/21/en-direct-guerre-en-ukraine-deux-morts-et-47-blesses-dans-des-frappes-russes-sur-kryvy-rih-ville-natale-de-volodymyr-zelensky_6810982_3210.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-21T05:38:14+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Un enfant de 7 ans et une infirmière âgée de 20 ans ont été tués lors de cette série d’attaques dans le sud-est de l’Ukraine. « Une soirée et une nuit tragiques », déplore Oleksandr Vilkoul, chef du conseil de défense de Kryvy Rih."
- },
- {
-  "id": "62b557d2f9eb",
-  "titre": "Tribunal de Commerce Hors Classe de Dakar – Audience de répartition : CBAO Groupe Attijariwafa Bank SA parmi les 43 dossiers",
-  "lien": "https://www.leral.net/Tribunal-de-Commerce-Hors-Classe-de-Dakar-Audience-de-repartition-CBAO-Groupe-Attijariwafa-Bank-SA-parmi-les-43-dossiers_a411828.html",
-  "source": "Leral",
-  "site_source": "https://www.leral.net",
-  "date": "2026-11-21T05:33:00+00:00",
-  "rubrique": "Économie",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "43 affaires sont inscrites au rôle de l'audience (audience de répartition) du lundi 23 novembre 2026 devant le Tribunal d...",
-  "categories": [
-   "Au Tribunal ..."
-  ]
- },
- {
-  "id": "f47f20ac2eda",
-  "titre": "Tribunal de Commerce Hors Classe de Dakar – Référés : La SOCIETE EXPRESSO SENEGAL SA parmi les 190 dossiers",
-  "lien": "https://www.leral.net/Tribunal-de-Commerce-Hors-Classe-de-Dakar-Referes-La-SOCIETE-EXPRESSO-SENEGAL-SA-parmi-les-190-dossiers_a411825.html",
-  "source": "Leral",
-  "site_source": "https://www.leral.net",
-  "date": "2026-11-21T05:32:00+00:00",
-  "rubrique": "Économie",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "190 affaires sont inscrites au rôle de l'audience (référés) du lundi 23 novembre 2026 devant le Tribunal de Commerce Hors Class...",
-  "categories": [
-   "Au Tribunal ..."
-  ]
- },
- {
-  "id": "4c07e1bd7e89",
-  "titre": "Ministère de la Justice du Sénégal : Migration en Afrique de l’Ouest : Dakar plaide pour une réponse concertée",
-  "lien": "https://www.leral.net/Ministere-de-la-Justice-du-Senegal-Migration-en-Afrique-de-l-Ouest-Dakar-plaide-pour-une-reponse-concertee_a411824.html",
-  "source": "Leral",
-  "site_source": "https://www.leral.net",
-  "date": "2026-11-21T05:31:00+00:00",
-  "rubrique": "Diaspora",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Document publié par Ministère de la Justice du Sénégal, daté du vendredi 20 novembre 2026.",
-  "categories": [
-   "Société"
-  ]
- },
- {
-  "id": "2565b06a4fd5",
-  "titre": "En Corée du Sud, la paranoïa autour de la triche à l’IA déclenche une chasse aux fraudeurs d’examens",
-  "lien": "https://www.lemonde.fr/campus/article/2026/11/21/en-coree-du-sud-la-paranoia-autour-de-la-triche-a-l-ia-declenche-une-chasse-aux-fraudeurs-d-examens_6813944_4401467.html",
-  "source": "Le Monde International",
-  "site_source": "https://www.lemonde.fr/international/",
-  "date": "2026-11-21T05:30:03+00:00",
-  "rubrique": "Monde",
-  "zone": "Monde",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Alors que la pression s’accentue sur les élèves passant le fameux « Suneung », de nouvelles méthodes de triche à l’IA, plus efficaces et dures à détecter, mettent le gouvernement sud-coréen en alerte. Les fouilles et les demandes d’aveux publics se multiplient, parfois jusqu’au drame."
  }
 ]
