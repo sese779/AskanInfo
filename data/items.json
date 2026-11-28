@@ -1,5 +1,78 @@
 [
  {
+  "id": "8ad02ebd58ec",
+  "titre": "« Personne ne fait majoritairement envie » : l’incertitude plane sur la présidentielle française",
+  "lien": "https://www.senenews.com/actualites/politique/a-cinq-mois-de-la-presidentielle-francaise-une-course-loin-detre-jouee_607921.html",
+  "source": "Senenews",
+  "site_source": "https://www.senenews.com",
+  "date": "2026-11-28T13:01:29+00:00",
+  "rubrique": "Monde",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La dirigeante d'extrême droite Marine Le Pen est donnée favorite dans la course à la présidence française , mais le paysage politique fragmenté et l'indécision des électeurs rendent l'issue du scrutin bien moins certaine que ne le laissent entendre les sondages, selon des experts. \"Il existe un…",
+  "categories": [
+   "International",
+   "Politique",
+   "française"
+  ]
+ },
+ {
+  "id": "53d991f380b1",
+  "titre": "CAN Beach Soccer-Sénégal : Huit étoiles au compteur et un neuvième à aller chercher",
+  "lien": "https://lesoleil.sn/actualites/sports/can-beach-soccer-senegal-huit-etoiles-au-compteur-et-un-neuvieme-a-aller-chercher/",
+  "source": "Le Soleil",
+  "site_source": "https://lesoleil.sn",
+  "date": "2026-11-28T13:00:34+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Recordman de la compétition avec huit trophées, le Sénégal entend prolonger son règne continental. À Saly, les Lions peuvent décrocher un neuvième titre et poursuivre leur série de victoires. Leurs sacres remontent aux éditions 2008, 2011, 2013, 2016, 2018, 2021, 2022 et 2024. Le dernier a été…",
+  "categories": [
+   "Sports"
+  ]
+ },
+ {
+  "id": "8f17adc05eae",
+  "titre": "Binance, géant mondial des cryptomonnaies, prépare sa sortie de l’Europe, faute de visa des régulateurs",
+  "lien": "https://www.lemonde.fr/economie/article/2026/11/28/binance-geant-mondial-des-cryptomonnaies-prepare-sa-sortie-de-l-europe-faute-de-visa-des-regulateurs_6816107_3234.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-28T13:00:12+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "La plateforme d’échange de cryptoactifs n’a pas obtenu l’agrément devenu indispensable pour opérer dans l’Union européenne. Avant de fermer ses serveurs le 31 décembre, elle facture désormais des commissions à ses clients européens, ainsi incités à clôturer leurs comptes."
+ },
+ {
+  "id": "3d39e310c80d",
+  "titre": "Ariane Chemin récompensée du Grand Prix de la presse internationale 2026",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/28/ariane-chemin-recompensee-du-grand-prix-de-la-presse-internationale-2026_6816105_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-28T13:00:07+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L’Association de la presse étrangère (APE) salue « le parcours et la contribution remarquable au traitement et à la diffusion de l’information internationale au sein des médias français » de la journaliste, grand reporter au « Monde »."
+ },
+ {
+  "id": "29ad1355a84f",
+  "titre": "Corniche : un policier félicité par un témoin pour son geste exemplaire",
+  "lien": "https://www.seneweb.com/fr/news/Societe/corniche-un-policier-felicite-par-un-temoin-pour-son-geste-exemplaire_n_999004922.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-28T12:59:48+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Un policier en service sur la Corniche, à Dakar, est au centre d'un témoignage largement relayé sur les réseaux sociaux"
+ },
+ {
   "id": "8912a4f485dd",
   "titre": "Abdou Nguère reconnaît avoir fait écouter l’audio de Coura Macky et conteste la publication de la vidéo… il présente ses excuses",
   "lien": "https://www.dakaractu.com/Abdou-Nguere-reconnait-avoir-fait-ecouter-l-audio-de-Coura-Macky-et-conteste-la-publication-de-la-video-il-presente-ses_a278678.html",
@@ -166,6 +239,19 @@
    "diomaye faye",
    "Tambacounda"
   ]
+ },
+ {
+  "id": "2555187652ec",
+  "titre": "Loi de finances rectificative 2026",
+  "lien": "https://www.enqueteplus.com/content/loi-de-finances-rectificative-2026",
+  "source": "EnQuête",
+  "site_source": "https://www.enqueteplus.com",
+  "date": "2026-11-28T12:45:40+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Loi de finances rectificative 2026 L’Alliance des Verts dit prendre acte « en signe de soutien fort » du décret n° 2026-2416 pris par le président Bassirou Diomaye Diakhar Faye. Dr Mamadou Abibou Diagne a expliqué cette position par l’attachement de sa formation au respect des institutions…"
  },
  {
   "id": "766bdc98305d",
@@ -75538,71 +75624,6 @@
   "extrait": "Le FC Barcelone tentera de décrocher sa 12e victoire de la saison en Liga lorsqu’il reprendra sa campagne à domicile face à Villarreal ce dimanche 22 novembre à 14h00 au Spotify Camp Nou. Si les géants catalans ont réalisé le doublé face au Sous-Marin jaune lors du dernier exercice, les quatre…",
   "categories": [
    "Pronostics"
-  ]
- },
- {
-  "id": "12cf3f94f662",
-  "titre": "L'Union Européenne et le continent africain fêtent leurs 25 années de relations commerciales",
-  "lien": "https://www.rfi.fr/fr/afrique/20261121-l-union-europ%C3%A9enne-et-le-continent-africain-f%C3%AAtent-leurs-25-ann%C3%A9es-de-relations-commerciales",
-  "source": "RFI Afrique",
-  "site_source": "https://www.rfi.fr/fr/afrique/",
-  "date": "2026-11-21T13:03:37+00:00",
-  "rubrique": "Afrique",
-  "zone": "Afrique",
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Il y a 25 ans, l'Union européenne (UE) lançait son initiative « Tout sauf les armes », un régime commercial qui supprimait les droits de douane et les quotas pour l'ensemble des importations, à l’exception des armes et des munitions, en provenance des pays les moins avancés. Ainsi sur le continent,…",
-  "categories": [
-   "Afrique"
-  ]
- },
- {
-  "id": "5623b4078592",
-  "titre": "Emprunts obligataires : Le Sénégal lève 55 milliards FCFA, mais à des taux plus coûteux que la Côte d’Ivoire",
-  "lien": "https://senego.com/emprunts-obligataires-le-senegal-leve-55-milliards-fcfa-mais-a-des-taux-plus-couteux-que-la-cote-divoire_2026458.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-21T13:02:55+00:00",
-  "rubrique": "Économie",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Le Sénégal continue de mobiliser des ressources sur le marché régional à des taux supérieurs à ceux obtenus par certains pays de l’UMOA, notamment la Côte d’Ivoire. Le 20 novembre 2026, le Trésor sénégalais a levé 55 milliards de FCFA, avec des rendements de 7,24 % sur trois ans et de 8,33 % sur…",
-  "categories": [
-   "Économie",
-   "Finance"
-  ]
- },
- {
-  "id": "992375c67f70",
-  "titre": "France: une association devant la justice pour tenter de suspendre les ventes d'armes à Israël",
-  "lien": "https://www.pressafrik.com/France-une-association-devant-la-justice-pour-tenter-de-suspendre-les-ventes-d-armes-a-Israel_a314914.html",
-  "source": "PressAfrik",
-  "site_source": "https://www.pressafrik.com",
-  "date": "2026-11-21T13:02:00+00:00",
-  "rubrique": "Monde",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "L'association Action sécurité éthique républicaines (ASER) était devant la cour administrativ... www.pressafrik.com",
-  "categories": [
-   "Monde"
-  ]
- },
- {
-  "id": "b40aa3c2fff0",
-  "titre": "Émigration irrégulière : 134 candidats au départ interceptés en Gambie, dont 90 Sénégalais",
-  "lien": "https://www.xibaaru.sn/emigration-irreguliere-134-candidats-au-depart-interceptes-en-gambie-dont-90-senegalais/",
-  "source": "Xibaaru",
-  "site_source": "https://www.xibaaru.sn",
-  "date": "2026-11-21T13:00:39+00:00",
-  "rubrique": "Diaspora",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Une nouvelle opération contre l’émigration irrégulière a permis l’interception de 134 candidats au départ, vendredi 20 novembre 2026, dans plusieurs localités de la Gambie. Conduite par le Département gambien de l’immigration (GID),…",
-  "categories": [
-   "Société"
   ]
  }
 ]
