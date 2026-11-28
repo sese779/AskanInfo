@@ -11,6 +11,7 @@ plans:
   - grand: "Pendant des décennies, la version officielle a parlé de mutinerie."
     haut: "Thiaroye · partie 3 sur 3"
     voix: "Pendant des décennies, la version officielle a parlé de mutinerie. Voici comment la mémoire de Thiaroye a résisté."
+    photo: thiaroye-fresque
     sans_sous_titres: true
   - voix: "Dès les années 1940, le poète Léopold Sédar Senghor écrit un poème pour les tirailleurs de Thiaroye."
     photo: tirailleurs-portrait
@@ -18,9 +19,11 @@ plans:
     voix: "En 1988, le cinéaste Sembène Ousmane raconte le drame dans son film Camp de Thiaroye. Le film reçoit le prix spécial du jury à la Mostra de Venise."
   - date: "2014"
     voix: "En 2014, à Thiaroye, le président français François Hollande parle d'au moins soixante-dix morts, deux fois plus que le bilan officiel retenu depuis 1945."
-  - date: "28 nov. 2024"
+  - haut: "28 novembre 2024"
+    photo: faye-2024
     voix: "Le 28 novembre 2024, dans une lettre au président Bassirou Diomaye Faye, Emmanuel Macron qualifie pour la première fois les faits de massacre."
-  - date: "1er déc. 2024"
+  - haut: "Une fresque à Dakar"
+    photo: thiaroye-fresque
     voix: "Trois jours plus tard, le Sénégal commémore les quatre-vingts ans de Thiaroye, en présence de plusieurs chefs d'État africains."
   - date: "Octobre 2025"
     voix: "En octobre 2025, un comité d'historiens remet au président sénégalais un rapport officiel. Il conclut que le massacre a été prémédité, puis camouflé."
