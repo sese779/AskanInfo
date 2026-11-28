@@ -1,5 +1,77 @@
 [
  {
+  "id": "f0846cc0c4a5",
+  "titre": "JAXAAY : comment la recherche d'une fugueuse débouche sur le démantèlement d'une mafia du sexe, 4 prostituées arrêtées",
+  "lien": "https://www.seneweb.com/fr/news/Societe/jaxaay-comment-la-recherche-dune-fugueuse-debouche-sur-le-demantelement-dune-mafia-du-sexe-4-prostituees-arretees_n_999004252.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-21T01:44:28+00:00",
+  "rubrique": "Faits divers",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Venue signaler la fugue de sa fille, une mère a mis les policiers de Jaxaay sur la piste d'une maison de prostitution clandestine."
+ },
+ {
+  "id": "64a3ceeb6580",
+  "titre": "Incendies de Los Angeles : un suspect reconnu coupable, après un deuxième procès",
+  "lien": "https://www.lemonde.fr/planete/article/2026/11/21/incendies-de-los-angeles-un-suspect-reconnu-coupable-apres-un-deuxieme-proces_6813844_3244.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-21T01:35:32+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Jonathan Rinderknecht était accusé d’être à l’origine d’un feu que les pompiers pensaient initialement avoir éteint mais qui a finalement repris, le 7 janvier 2025, et a ravagé le quartier huppé de Pacific Palisades."
+ },
+ {
+  "id": "207799d3737e",
+  "titre": "Pérou : séisme de magnitude 6,7 dans le centre du pays",
+  "lien": "https://www.seneweb.com/fr/news/International/perou-seisme-de-magnitude-67-dans-le-centre-du-pays_n_999004251.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-21T01:26:07+00:00",
+  "rubrique": "Monde",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Aucun bilan de victimes ou de dégâts n’est disponible dans l’immédiat, a annoncé l’Institut géophysique péruvien (IGP).Un séisme de magnitude 6,7 a frappé vendredi soir le centre du Pérou, sans faire…"
+ },
+ {
+  "id": "671ab885aba6",
+  "titre": "Ligue 1 : Wally Daan reçoit le leader invaincu Gorée pour la 6e journée",
+  "lien": "https://senego.com/ligue-1-wally-daan-recoit-le-leader-invaincu-goree-pour-la-6e-journee_2026288.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-21T01:17:29+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "La 6e journée de Ligue 1 débute samedi avec Wally Daan-US Gorée et Dakar SC-Génération Foot. Dimanche, Essamaye et Casa Sports joueront le premier derby ziguinchorois de l’élite.",
+  "categories": [
+   "Football",
+   "Sénégal",
+   "Sports",
+   "Dakar SC",
+   "derby ziguinchorois"
+  ]
+ },
+ {
+  "id": "50fcb36b9f0d",
+  "titre": "Le phare capverdien dans la pénombre ouest-africaine",
+  "lien": "https://www.seneplus.com/article/le-phare-capverdien-dans-la-penombre-ouest-africaine",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-21T01:11:24+00:00",
+  "rubrique": "Afrique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Le phare capverdien dans la pénombre ouest-africaine Alioune Diatta Sat, 11/21/2026 - 01:11"
+ },
+ {
   "id": "94f06f526e66",
   "titre": "Gamadji Saré : les besoins des écoles et le secours aux indigents au menu du conseil municipal",
   "lien": "https://www.seneweb.com/fr/news/Societe/gamadji-sare-les-besoins-des-ecoles-et-le-secours-aux-indigents-au-menu-du-conseil-municipal_n_999004250.html",
