@@ -16,14 +16,17 @@ plans:
   - voix: "Dès les années 1940, le poète Léopold Sédar Senghor écrit un poème pour les tirailleurs de Thiaroye."
     photo: tirailleurs-portrait
   - date: "1988"
+    photo: film-camp-thiaroye
     voix: "En 1988, le cinéaste Sembène Ousmane raconte le drame dans son film Camp de Thiaroye. Le film reçoit le prix spécial du jury à la Mostra de Venise."
   - date: "2014"
+    haut: "Cimetière de Thiaroye"
+    photo: thiaroye-cimetiere-2014
     voix: "En 2014, à Thiaroye, le président français François Hollande parle d'au moins soixante-dix morts, deux fois plus que le bilan officiel retenu depuis 1945."
   - haut: "28 novembre 2024"
-    photo: faye-2024
+    photo: faye-macron
     voix: "Le 28 novembre 2024, dans une lettre au président Bassirou Diomaye Faye, Emmanuel Macron qualifie pour la première fois les faits de massacre."
-  - haut: "Une fresque à Dakar"
-    photo: thiaroye-fresque
+  - haut: "Hommage aux tirailleurs"
+    photo: thiaroye-hommage
     voix: "Trois jours plus tard, le Sénégal commémore les quatre-vingts ans de Thiaroye, en présence de plusieurs chefs d'État africains."
   - date: "Octobre 2025"
     voix: "En octobre 2025, un comité d'historiens remet au président sénégalais un rapport officiel. Il conclut que le massacre a été prémédité, puis camouflé."

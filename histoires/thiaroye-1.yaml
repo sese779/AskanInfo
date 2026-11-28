@@ -15,6 +15,7 @@ plans:
   - voix: "On les appelle les tirailleurs sénégalais. Ils viennent de toute l'Afrique occidentale française, et ils se battent pour la France pendant la Seconde Guerre mondiale."
     photo: tirailleurs-portrait
   - date: "1940"
+    photo: tirailleurs-camp
     voix: "En 1940, l'Allemagne envahit la France. Des milliers de tirailleurs sont faits prisonniers, et enfermés dans des camps en France occupée."
   - haut: "Tirailleurs en Provence, août 1944"
     voix: "En 1944, la France est libérée. Ces anciens prisonniers doivent rentrer en Afrique. Mais l'argent qu'on leur doit n'a pas été entièrement versé : soldes de captivité, primes, économies."
