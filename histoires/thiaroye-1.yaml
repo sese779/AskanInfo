@@ -1,0 +1,32 @@
+titre: "Thiaroye (1/3) : le retour des tirailleurs"
+serie: "Thiaroye 1944"
+partie: 1
+sources:
+  - "Wikipédia, « Massacre de Thiaroye »"
+  - "Armelle Mabon, « Le massacre de Thiaroye. 1er décembre 1944, histoire d'un mensonge d'État » (2024), via Politis et Dakaractu"
+  - "Le Courrier de l'Atlas, « Une histoire méconnue »"
+  - "AllAfrica, « Thiaroye 44 : chronologie d'un massacre prémédité »"
+  - "Ligue des droits de l'homme, « Il y a soixante-dix ans, le massacre de Thiaroye »"
+plans:
+  - grand: "1er décembre 1944. À Thiaroye, l'armée française tire sur des tirailleurs africains."
+    haut: "Thiaroye · partie 1 sur 3"
+    voix: "Premier décembre 1944. Au camp de Thiaroye, près de Dakar, l'armée française ouvre le feu sur des tirailleurs africains. Voici comment on en est arrivé là."
+    sans_sous_titres: true
+  - voix: "On les appelle les tirailleurs sénégalais. Ils viennent de toute l'Afrique occidentale française, et ils se battent pour la France pendant la Seconde Guerre mondiale."
+    photo: tirailleurs-portrait
+  - date: "1940"
+    voix: "En 1940, l'Allemagne envahit la France. Des milliers de tirailleurs sont faits prisonniers, et enfermés dans des camps en France occupée."
+  - haut: "Tirailleurs en Provence, août 1944"
+    voix: "En 1944, la France est libérée. Ces anciens prisonniers doivent rentrer en Afrique. Mais l'argent qu'on leur doit n'a pas été entièrement versé : soldes de captivité, primes, économies."
+    photo: tirailleurs-1944
+  - date: "Novembre 1944"
+    voix: "Début novembre, plus d'un millier d'entre eux embarquent à Morlaix, en Bretagne, sur un navire britannique, le Circassia."
+  - date: "21 nov. 1944"
+    voix: "Le 21 novembre, ils arrivent à Dakar. On les conduit au camp militaire de Thiaroye, à une quinzaine de kilomètres de la ville."
+  - voix: "Au camp, ils réclament ce qui leur est dû. Les officiers répondent que le reste sera payé plus tard, une fois chacun rentré chez lui. Les tirailleurs refusent de partir sans être payés."
+    photo: tirailleurs-portrait
+  - date: "28 nov. 1944"
+    voix: "Le 28 novembre, un général vient au camp. Selon son propre rapport, sa voiture est bloquée par les tirailleurs. Il les déclare en rébellion."
+  - grand: "Trois jours plus tard, à l'aube, le camp est encerclé."
+    voix: "Trois jours plus tard, à l'aube, le camp est encerclé. La suite dans la deuxième partie. Abonnez-vous pour ne pas la manquer."
+    sans_sous_titres: true

@@ -1,0 +1,31 @@
+titre: "Thiaroye (2/3) : le matin du 1er décembre 1944"
+serie: "Thiaroye 1944"
+partie: 2
+sources:
+  - "Wikipédia, « Massacre de Thiaroye »"
+  - "AFP, via Al Jazeera, Le360 et DH : « le massacre a été prémédité et camouflé » (rapport officiel sénégalais, octobre 2025)"
+  - "Afrik.com, « Retour sur le massacre de Thiaroye en 1944 »"
+  - "Le Courrier de l'Atlas, « Une histoire méconnue »"
+  - "Martin Mourre, « Thiaroye 1944. Histoire et mémoire d'un massacre colonial » (2017)"
+plans:
+  - grand: "1er décembre 1944, au camp de Thiaroye."
+    haut: "Thiaroye · partie 2 sur 3"
+    voix: "Premier décembre 1944, au camp de Thiaroye. Voici la deuxième partie de cette histoire."
+    sans_sous_titres: true
+  - date: "Au petit matin"
+    voix: "Au petit matin, des troupes, des automitrailleuses et un char encerclent le camp. Les tirailleurs sont rassemblés."
+  - voix: "Puis la troupe ouvre le feu sur ces hommes, pour la plupart désarmés. Selon l'historien Martin Mourre, il s'agit d'une exécution de soldats sans armes."
+    photo: ia-thiaroye-camp
+  - date: "35 ? 70 ?"
+    voix: "Les autorités parlent d'une mutinerie, et annoncent trente-cinq morts. Un autre rapport officiel, de la même époque, en compte soixante-dix."
+  - date: "300 à 400"
+    voix: "Pour de nombreux historiens, le bilan réel se compte en centaines. En octobre 2025, un rapport officiel sénégalais l'estime entre trois cents et quatre cents morts."
+  - voix: "Le nombre exact reste inconnu. Le lieu où les corps ont été enterrés n'a jamais été clairement établi, et des archives manquent toujours."
+    photo: ia-thiaroye-cimetiere
+  - date: "Mars 1945"
+    voix: "En mars 1945, trente-quatre survivants sont jugés par un tribunal militaire. Ils sont condamnés à des peines allant jusqu'à dix ans de prison."
+  - date: "1946 · 1947"
+    voix: "Ils sont amnistiés en 1946 et en 1947. Mais une amnistie n'est pas un acquittement : aux yeux de la loi, ils restent coupables."
+  - grand: "Comment s'est-on souvenu de Thiaroye ?"
+    voix: "Comment s'est-on souvenu de Thiaroye ? Réponse dans la troisième et dernière partie. Abonnez-vous pour ne pas la manquer."
+    sans_sous_titres: true

@@ -27,3 +27,14 @@ Les consignes sont en anglais (les générateurs les comprennent mieux). Ajouter
 | `ia-radio-1962` | 2 · annonce de l'arrestation | A family in a 1960s Dakar living room seen from behind, gathered around an old radio set, evening light |
 | `ia-kedougou-detention` | 3 · Kédougou | Isolated low walled building in eastern Senegal, red laterite earth, green hills, 1960s, no people |
 | `ia-lettres` | 3 · « Il écrit beaucoup » | Old desk with a typewriter, handwritten pages and books, reading glasses, warm lamp light, no people |
+
+## Série Thiaroye 1944 : images à générer
+
+Aucune personne identifiable sur les plans qui parlent de la fusillade ou des morts :
+on ne montre ni victime ni tireur.
+
+| Nom du fichier | Partie / plan | Consigne |
+|---|---|---|
+| `ia-thiaroye-camp` | 2 · la fusillade | Empty military camp near Dakar in 1944 at dawn, low barracks, barbed wire, sandy ground, grey morning haze, no people |
+| `ia-thiaroye-cimetiere` | 2 et 3 · morts et sépultures | Simple military cemetery in Senegal, rows of plain white graves without names, sandy soil, a few trees, soft evening light, no people |
+| `ia-circassia` | 1 · le navire | 1940s troop ship at sea seen from afar, grey Atlantic, overcast sky, no visible faces |
