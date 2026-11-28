@@ -1,5 +1,55 @@
 [
  {
+  "id": "6ade379c74b0",
+  "titre": "Seydi Gassama accuse Diomaye et Sonko d’avoir trahi le « don de soi » et évoque 76 morts",
+  "lien": "https://senego.com/seydi-gassama-accuse-diomaye-et-sonko-davoir-trahi-le-don-de-soi-et-evoque-76-morts_2028977.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-28T08:53:10+00:00",
+  "rubrique": "Politique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "Seydi Gassama reproche à Bassirou Diomaye Faye et Ousmane Sonko d’avoir trahi leur slogan du « don de soi pour la patrie » et évoque 76 décès.",
+  "categories": [
+   "Politique",
+   "Sénégal",
+   "Société",
+   "76 décès",
+   "Bassirou diomaye Faye"
+  ]
+ },
+ {
+  "id": "58f6039817d5",
+  "titre": "Trafic de médicaments : les Douanes frappent fort au large de Djifer, 146 millions FCFA",
+  "lien": "https://senego.com/trafic-de-medicaments-les-douanes-frappent-fort-au-large-de-djifer-146-millions-fcfa_2028970.html",
+  "source": "Senego",
+  "site_source": "https://senego.com",
+  "date": "2026-11-28T08:52:29+00:00",
+  "rubrique": "Économie",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": true,
+  "extrait": "La Brigade maritime des Douanes de Joal a réalisé une importante saisie de médicaments illicites au large de Djifer, lors d’une opération de surveillance maritime menée en début de semaine. Selon la Direction générale des Douanes, 1 700 kilogrammes de médicaments, d’une contrevaleur estimée à 146…",
+  "categories": [
+   "Société",
+   "Vedette"
+  ]
+ },
+ {
+  "id": "359fd557ed62",
+  "titre": "Les Piques de l'As de ce samedi 28 novembre 2026",
+  "lien": "https://www.seneplus.com/article/les-piques-de-las-de-ce-samedi-28-novembre-2026",
+  "source": "SenePlus",
+  "site_source": "https://www.seneplus.com",
+  "date": "2026-11-28T08:51:33+00:00",
+  "rubrique": "Actualité",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Les Piques de l'As de ce samedi 28 novembre 2026 Daouda Toumbou Sat, 11/28/2026 - 08:51"
+ },
+ {
   "id": "d67c54bd17ce",
   "titre": "FOOT - ALLEMAGNE : Le Bayern Munich est en train d’imploser",
   "lien": "https://www.enqueteplus.com/content/foot-allemagne-le-bayern-munich-est-en-train-d%E2%80%99imploser",
@@ -76127,40 +76177,5 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Des commerçants venus d'Afrique ou d'Asie du Sud y achètent des appareils par dizaines, parfois cassés, pour les revendre chez eux"
- },
- {
-  "id": "0dba9e1eb29e",
-  "titre": "40 jours après le drame ayant coûté la vie au Directeur de l’hôpital de Matam : son collègue de Ourossogui succombe à ses blessures",
-  "lien": "https://actusen.sn/40-jours-apres-le-drame-ayant-coute-la-vie-au-directeur-de-lhopital-de-matam-son-collegue-de-ourossogui-succombe-a-ses-blessures/",
-  "source": "Actusen",
-  "site_source": "https://actusen.sn",
-  "date": "2026-11-21T08:53:29+00:00",
-  "rubrique": "Faits divers",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Le secteur sanitaire de la région de Matam est de nouveau endeuillé. Le Dr Abdou Cissé, directeur de l’hôpital de Ourossogui, est décédé à l’hôpital Cheikhoul Khadim de Touba, 40 jours après l’accident de la route qui avait coûté la vie au Dr Ibrahima Sow, directeur de l’hôpital régional de Matam.…",
-  "categories": [
-   "News",
-   "UNE"
-  ]
- },
- {
-  "id": "d61528b50953",
-  "titre": "Pikine en Fonds Vert (Par Maguette NDONG)",
-  "lien": "https://lesoleil.sn/le-decodeur/chronique/pikine-en-fonds-vert-par-maguette-ndong/",
-  "source": "Le Soleil",
-  "site_source": "https://lesoleil.sn",
-  "date": "2026-11-21T08:53:13+00:00",
-  "rubrique": "Politique",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": false,
-  "extrait": "Il fait partie des maires qu’on entend le moins. Mais Abdoulaye Timbo, l’édile de la Ville de Pikine, est en train de multiplier les initiatives au profit des populations. L’homme a hérité d’une commune sans grands moyens financiers et confrontée à de nombreuses vulnérabilités, notamment le manque…",
-  "categories": [
-   "Chronique",
-   "écologie",
-   "Pikine"
-  ]
  }
 ]
