@@ -1,5 +1,44 @@
 [
  {
+  "id": "a907401d6abc",
+  "titre": "Gaza : l’armée israélienne tue deux employés de Médecins sans frontières, qu’elle qualifie de « terroristes »",
+  "lien": "https://www.lemonde.fr/international/article/2026/11/28/gaza-l-armee-israelienne-tue-deux-employes-de-medecins-sans-frontieres-qu-elle-qualifie-de-terroristes_6816022_3210.html",
+  "source": "Le Monde International",
+  "site_source": "https://www.lemonde.fr/international/",
+  "date": "2026-11-28T02:30:39+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "L’ONG s’est dite « bouleversée et révoltée par le meurtre » des deux gardiens travaillant dans une de ses cliniques frappée par les forces armées israéliennes, qui les accusent de leur côté d’être des membres du Hamas."
+ },
+ {
+  "id": "4d26e04556f8",
+  "titre": "Top 10 des pays africains ayant la dette la plus faible envers le FMI en novembre 2026",
+  "lien": "https://www.seneweb.com/fr/news/Afrique/top-10-des-pays-africains-ayant-la-dette-la-plus-faible-envers-le-fmi-en-novembre-2026_n_999004886.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-28T02:28:39+00:00",
+  "rubrique": "Afrique",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Pour les gouvernements africains, devoir moins d’argent au Fonds monétaire international (FMI) peut signifier avoir plus de place pour décider de la façon dont les fonds publics sont dépensés, plutôt…"
+ },
+ {
+  "id": "5be5b3b14b57",
+  "titre": "Mondial des personnes de petite taille : le Maroc en demi-finales",
+  "lien": "https://www.seneweb.com/fr/news/Sport/mondial-des-personnes-de-petite-taille-le-maroc-en-demi-finales_n_999004885.html",
+  "source": "Seneweb",
+  "site_source": "https://www.seneweb.com",
+  "date": "2026-11-28T02:16:45+00:00",
+  "rubrique": "Sport",
+  "zone": null,
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Les Marocains ont dominé le Mexique 3-0 à Témara et poursuivent leur parcours sans défaite à domicile.Le Maroc poursuit sa route vers la finale."
+ },
+ {
   "id": "5ac1d7da4ae1",
   "titre": "Révélations fracassantes dans l'affaire Modou Gawlo et Cie à Keur Massar, cinq arrestations dont un militaire",
   "lien": "https://www.igfm.sn/revelations-fracassantes-dans-l-affaire-modou-gawlo-et-cie-a-keur-massar-cinq-arrestations-dont-un-militaire",
@@ -337,6 +376,19 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Le commissariat d'arrondissement du Plateau a été informé, ce vendredi 27 novembre 2026, de la découverte du corps sans vie d'un agent de sécurité."
+ },
+ {
+  "id": "d4bd10f3e576",
+  "titre": "Présidentielle 2027: la dynamique David Lisnard à la loupe",
+  "lien": "https://www.france24.com/fr/vid%C3%A9o/20261127-pr%C3%A9sidentielle-2027-la-dynamique-david-lisnard-%C3%A0-la-loupe",
+  "source": "France 24 Monde",
+  "site_source": "https://www.france24.com/fr/",
+  "date": "2026-11-27T23:42:44+00:00",
+  "rubrique": "Monde",
+  "zone": "Monde",
+  "diaspora": false,
+  "secondaire": false,
+  "extrait": "Gros plan sur le phénomène David Lisnard qui réalise cette semaine une percée dans les sondages et se hisse directement à la troisième place des intentions de vote. Pour Damien Lecomte, docteur en Sciences politiques, le candidat de Nouvelle Energie bénéficie d'un \"effet de nouveauté\" et n'est pas…"
  },
  {
   "id": "a2a06fda3d21",
@@ -76263,25 +76315,5 @@
   "diaspora": false,
   "secondaire": false,
   "extrait": "Le chanteur évoque les rassemblements devant chez lui et son souhait de protéger l’intimité de ses enfants.Davido a expliqué pourquoi il a choisi d’installer ses enfants et sa famille à Atlanta, aux États-Unis."
- },
- {
-  "id": "3babdda91cbd",
-  "titre": "Sadio Mané a manqué Al-Ahli après la naissance de son deuxième enfant",
-  "lien": "https://senego.com/sadio-mane-a-manque-al-ahli-apres-la-naissance-de-son-deuxieme-enfant_2026290.html",
-  "source": "Senego",
-  "site_source": "https://senego.com",
-  "date": "2026-11-21T02:36:10+00:00",
-  "rubrique": "Sport",
-  "zone": null,
-  "diaspora": false,
-  "secondaire": true,
-  "extrait": "Sadio Mané a manqué le Clasico entre Al-Nassr et Al-Ahli pour une raison familiale : l’international sénégalais est devenu père pour la deuxième fois.",
-  "categories": [
-   "Football",
-   "Sports",
-   "Al Ahli",
-   "al nassr",
-   "Sadio Mané"
-  ]
  }
 ]
