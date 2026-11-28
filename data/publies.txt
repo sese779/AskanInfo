@@ -223,3 +223,8 @@ content/syntheses/2026-11-27-moussa-sarr-violences-femmes-reponse-penale.md
 content/syntheses/2026-11-27-plomb-peintures-deux-millions-enfants.md
 content/video/2026-11-27-wolof.md
 content/video/2026-11-27.md
+content/syntheses/2026-11-28-assemblee-quatre-commissions-enquete.md
+content/syntheses/2026-11-28-barthelemy-dias-coalition-opposition.md
+content/syntheses/2026-11-28-macky-sall-retrait-onu-veto.md
+content/syntheses/2026-11-28-manoeuvre-boundou-2026.md
+content/syntheses/2026-11-28-maroc-gouvernement-prend-acte-tas.md
